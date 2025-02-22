@@ -1,0 +1,53 @@
+Towards a Dietary Prevention of Hereditary Breast Cancer
+Author(s): Joanne Kotsopoulos and Steven A. Narod
+Source: Cancer Causes & Control, Vol. 16, No. 2 (Mar. 2005), pp. 125–138
+Published by: Springer
+Stable URL: https://www.jstor.org/stable/20069450
+Overview
+
+This brief report explores the potential for dietary modification to reduce the risk of hereditary breast cancer in women who carry deleterious mutations in the BRCA1 or BRCA2 genes. Although these mutations confer a high lifetime risk of breast cancer, variability in risk (penetrance) among carriers suggests that environmental and lifestyle factors—including diet—may modify cancer risk. The authors review evidence implicating estrogen-induced growth stimulation in BRCA-associated carcinogenesis and propose that dietary interventions might reduce DNA damage or enhance DNA repair, thereby lowering breast cancer risk.
+Key Points
+
+    Hereditary Breast Cancer Risk:
+    Inherited mutations in BRCA1 and BRCA2 confer a high risk of breast cancer (with lifetime risks estimated between 38% and 87%). However, not all mutation carriers develop cancer, suggesting that additional modifying factors play a role.
+
+    Estrogen’s Role and DNA Repair:
+    Estrogen-induced cell proliferation and DNA damage are central to breast carcinogenesis. BRCA gene products are involved in DNA damage repair pathways. Variability in cancer risk among carriers may, in part, be due to differences in estrogen exposure and DNA repair capacity.
+
+    Dietary Intervention as Chemoprevention:
+    The report proposes that specific dietary components, especially those with antioxidant properties, may offer a protective effect. Nutrients and phytochemicals such as diindolylmethane (DIM), indole-3-carbinol (I3C), lycopene, selenium, and green tea polyphenols are highlighted as candidate agents that could:
+        Decrease oxidative DNA damage (possibly linked to estrogen exposure).
+        Enhance DNA repair capacity.
+        Favorably modulate estrogen metabolism.
+
+    Rationale for Dietary Prevention:
+    Because prospective trials with breast cancer as an endpoint are challenging in this high-risk population, the identification and validation of intermediate biomarkers (such as levels of DNA adducts or specific estrogen metabolites) are essential. These biomarkers could then be used to evaluate the effectiveness of dietary interventions.
+
+Discussion
+
+The authors discuss how genetic factors (such as mutation type, mutation position, and other modifying genes) and non-genetic factors (including hormonal exposures) jointly influence cancer risk in BRCA mutation carriers. They note that current preventive options like prophylactic surgery are highly effective but invasive and not widely accepted by all high-risk women. As an attractive alternative, dietary modification may offer a non-invasive means of reducing risk. The report reviews the mechanisms by which candidate dietary agents might exert their effects, including:
+
+    Modulation of Estrogen Metabolism:
+    For example, cruciferous vegetables provide I3C and DIM, which can shift estrogen metabolism towards the production of less potent metabolites (such as 2-hydroxyestrone) and away from more potent ones (like 16α-hydroxyestrone).
+
+    Antioxidant Effects:
+    Lycopene and selenium are discussed for their roles in reducing oxidative stress and DNA damage. In particular, lycopene—found abundantly in tomato products—may have additional anti-androgenic and antiproliferative properties.
+
+    Enhancement of DNA Repair:
+    Some dietary compounds may help upregulate the expression of genes involved in DNA repair, thereby mitigating the effects of inherited defects in BRCA1 or BRCA2 function.
+
+Conclusions
+
+Kotsopoulos and Narod conclude that while the evidence is preliminary, dietary intervention holds promise as a complementary strategy for the prevention of hereditary breast cancer. They call for further research to:
+
+    Identify and validate reliable biomarkers of DNA damage and repair.
+    Conduct well-designed studies that can distinguish between carriers and non-carriers.
+    Evaluate the effectiveness of specific dietary regimens or supplements in reducing breast cancer risk among BRCA mutation carriers.
+
+Dietary prevention, if proven effective, could provide high-risk women with a non-invasive, cost-effective means to lower their risk, complementing existing strategies like prophylactic surgery and enhanced surveillance.
+Selected References
+
+Linked references for this article are available on JSTOR:
+https://www.jstor.org/stable/20069450?seq=1&cid=pdfreference#references_tab_contents
+
+(A detailed reference list is provided in the original article.)

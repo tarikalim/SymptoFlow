@@ -1,0 +1,72 @@
+Racial Inequities in the Timing of Breast Cancer Detection, Diagnosis, and Initiation of Treatment
+Author(s): Joann G. Elmore, Connie Y. Nakano, Hannah M. Linden, Lisa M. Reisch, John Z. Ayanian, and Eric B. Larson
+Source: Medical Care, Vol. 43, No. 2 (Feb. 2005), pp. 141–148
+Published by: Lippincott Williams & Wilkins
+Stable URL: https://www.jstor.org/stable/3768264
+Accessed: 22-02-2025 15:22 UTC
+Overview
+
+Recent studies suggest that differences in the quality and timeliness of care may substantially contribute to racial disparities in breast cancer detection and outcomes. Although screening mammography use has increased in both black and white women, breast cancer mortality has not declined as steeply among black women. This study investigates whether racial differences exist in (1) the method of breast cancer detection, (2) the timing of diagnosis and initiation of treatment, and (3) the association of these differences with clinical outcomes.
+Background
+
+Despite overall improvements in breast cancer screening and treatment, black women in the United States continue to experience later-stage diagnoses, shorter survival times, and higher mortality rates compared with white women. Several potential explanations exist—including biologic differences, socioeconomic status, comorbidity, and cultural or systemic barriers—but disparities in the timeliness of clinical evaluation may also play a critical role.
+Methods
+
+    Study Design & Population:
+    A retrospective cohort study was conducted on 400 female patients diagnosed with breast cancer between 1985 and 1993 at Yale-New Haven Hospital. Each black patient was matched with three white patients by year of diagnosis.
+
+    Data Collection:
+    Data were abstracted from medical records, the Connecticut State Tumor Registry, and the U.S. Census (for median household income based on block group). Information collected included:
+        Method of Detection: Defined as patient-noted (symptom-driven), screening mammogram, screening clinical breast examination, or unknown.
+        Timing Measures:
+            Time from first abnormality (patient-noted or screening) to pathologic diagnosis.
+            Time from pathologic diagnosis to initiation of treatment.
+        Additional Variables: Demographic characteristics (age, race), insurance status, comorbidity (assessed via chart review), and clinical outcomes (cancer stage, recurrence, and death).
+
+    Analysis:
+    Statistical comparisons were made using chi-square tests for categorical variables and logistic regression to estimate odds ratios (ORs) with 95% confidence intervals (CIs), adjusting for income, insurance, and age.
+
+Results
+
+    Method of Detection:
+        Black women were significantly more likely than white women to have their cancer detected after noticing a breast abnormality (61% vs. 33%) and less likely to be diagnosed after a screening mammogram (18% vs. 31%) or screening clinical breast examination (8% vs. 21%).
+        Logistic regression analysis showed that black women were approximately three times more likely than white women to have a patient-noted detection (unadjusted OR 3.15, 95% CI 1.73–5.72); adjustment for income, age, and insurance reduced the OR slightly (to 2.20, 95% CI 1.07–4.52) but the disparity remained statistically significant.
+
+    Timing of Diagnosis:
+        For women with patient-detected abnormalities, the median time from the first noted abnormality to a final pathologic diagnosis was significantly longer for black women (74 days) compared with white women (59 days, P = 0.0001).
+        A larger proportion of black women had an incomplete diagnostic evaluation within 30 days (84% vs. 60%, P < 0.01).
+
+    Timing of Treatment Initiation:
+        Although the median time from diagnosis to the start of treatment was similar between black and white women (23 vs. 18 days, respectively), 33% of black women had not initiated treatment within 30 days compared with 21% of white women (P = 0.056).
+
+    Clinical Outcomes:
+        Women whose cancer was detected via patient-noted abnormalities had a higher likelihood of subsequent breast cancer recurrence and/or death compared with those diagnosed through screening mammography (56% vs. 24%, P < 0.05).
+        Delays in diagnostic evaluation were associated with more advanced stage at diagnosis.
+
+Conclusions
+
+Racial inequities were evident at multiple stages of the breast cancer clinical care pathway. Black women experienced:
+
+    A higher likelihood of having their cancer detected only after noticing symptoms.
+    Longer delays in completing diagnostic evaluations.
+    A greater likelihood of delayed treatment initiation.
+
+These delays are associated with more advanced stage at diagnosis and poorer clinical outcomes, underscoring the need for targeted strategies to ensure timely, equitable medical care.
+Implications
+
+    For Clinicians and Policymakers:
+    The findings highlight the importance of addressing barriers to prompt diagnostic evaluation and treatment among black women. Equalizing access to high-quality preventive care and reducing delays in clinical follow-up could substantially reduce racial disparities in breast cancer outcomes.
+
+    For Future Research:
+    Further studies are needed to explore additional factors—such as cultural, systemic, and socioeconomic barriers—that contribute to delays in care. Comprehensive interventions that address these multifaceted issues are essential for improving equity in cancer care.
+
+Acknowledgments
+
+The study was supported by multiple foundations, including the Robert Wood Johnson Foundation Generalist Physician Faculty Award and the AVON Gift Foundation. The authors acknowledge the assistance of the Yale-New Haven Hospital staff and the Connecticut State Tumor Registry in data collection and verification.
+Selected References
+
+    Shavers VL, Brown ML. Racial and ethnic disparities in the receipt of cancer treatment. J Natl Cancer Inst. 2002;94:334–357.
+    Brawley OW. Some perspective on black-white cancer statistics. CA Cancer J Clin. 2002;52:322–325.
+    Weir HK, Thun MJ, Hankey BF, et al. Annual report to the nation on the status of cancer, 1975–2000. J Natl Cancer Inst. 2003;95:1276–1299.
+    Chu KC, Lamar CA, Freeman HP. Racial disparities in breast carcinoma survival rates. Cancer. 2003;97:2853–2860.
+    (Additional references are included in the full article.)

@@ -1,0 +1,54 @@
+Title: A Crisis of Erasure: Transgender and Gender‐Nonconforming Populations Navigating Breast Cancer Health Information
+Authors: Curtis S. Tenney, Karl J. Surkan, Lynette Hammond Gerido, and Dawn Betts‐Green
+Source: The International Journal of Information, Diversity, & Inclusion, Fall 2021, Vol. 5, No. 4 (Special Issue: Queering Information: LGBTQ+ Memory, Interpretation, Dissemination), pp. 132–149
+Stable URL: https://www.jstor.org/stable/10.2307/48641982
+Overview
+
+In this article, the authors examine how breast cancer health information is constructed within mainstream health and library contexts—focusing on the invisibility and erasure of transgender and gender‐nonconforming (TGNC) populations. They argue that because breast cancer is culturally and institutionally framed as a “female” disease (often linked to concepts like pregnancy and other gendered markers), health information tends to neglect the needs of TGNC individuals. This “crisis of erasure” has real consequences: it creates informational boundaries, limits access, and reduces the quality of care for transgender and gender‐nonconforming people who may be at risk for, or are living with, breast cancer.
+Methodology
+
+The study is based on a comprehensive literature search and thematic analysis. Key steps included:
+
+    Literature Search:
+    The authors searched multiple databases (such as Library Literature & Information Science Full Text, LISTA, PubMed, and Web of Science) using search terms related to “trans,” “LGBTQ+,” and “breast cancer.” They also examined relevant publications from library and health information professional organizations.
+
+    Thematic Analysis:
+    Three researchers met to review and code the selected literature using an open coding process. This iterative, inductive process—assisted by NVivo software—enabled the team to develop a codebook and eventually group the findings into higher-level (axial) themes.
+
+Key Themes
+
+The analysis revealed three overarching themes that act as barriers for TGNC individuals in accessing quality breast cancer health information:
+
+    Access:
+        TGNC patients and their caregivers often face challenges in accessing health information and support services.
+        Barriers include difficulties in finding relevant, accurate information; limited appointment time with providers; and structural constraints within healthcare settings.
+        Studies cited indicate that TGNC individuals report unmet information needs, particularly around medical issues specific to trans health.
+
+    Erasure:
+        Breast cancer information is largely constructed around normative ideas of femininity, which marginalizes transgender and gender‐nonconforming people.
+        This “erasure” means that TGNC patients may find that available materials do not reflect their experiences or offer them appropriate options.
+        Personal narratives, such as those recounted by queer patients, highlight how institutional practices (for example, standard surgical protocols) fail to accommodate non‐normative gender identities.
+
+    Quality:
+        Quality concerns arise when healthcare providers and librarians lack cultural competency regarding transgender health.
+        TGNC patients often report having to educate their providers, and discriminatory or insensitive practices can lead to poorer health outcomes.
+        The literature shows that the conflation of sexual orientation with gender identity in health information contributes to lower quality of care and increased barriers for TGNC individuals.
+
+Recommendations
+
+Based on these themes, the authors propose several actionable strategies for library and information professionals, as well as healthcare institutions:
+
+    Inclusive LIS Education:
+    Revise and expand professional training curricula to include dedicated content on transgender and gender‐nonconforming health issues. This includes addressing the distinct needs that go beyond a simple conflation of sexual orientation and gender identity.
+
+    Robust TGNC Resources and Services:
+    Develop, curate, and disseminate health information resources that specifically address the needs of TGNC individuals. Collaboration with academic and health libraries can aid in creating safe, inclusive spaces for accessing quality health information.
+
+    Advocacy:
+    Advocate for policy changes and institutional reforms that support equitable access to health services. This includes both challenging discriminatory practices in healthcare and promoting funding and support for TGNC health information initiatives.
+
+Conclusion
+
+The article concludes that the dominant framing of breast cancer as an exclusively female disease creates an “information boundary” that erases transgender and gender‐nonconforming experiences. This erasure not only limits access to accurate and relevant health information but also has tangible effects on health outcomes and the quality of care. The authors call for more inclusive practices in both library and health information fields, emphasizing the need for improved education, resource development, and advocacy to address these inequities. Ultimately, bridging this gap is essential for creating a more equitable and responsive healthcare information environment for all communities.
+
+This summary captures the purpose, methodology, key themes, findings, and recommendations of the article.

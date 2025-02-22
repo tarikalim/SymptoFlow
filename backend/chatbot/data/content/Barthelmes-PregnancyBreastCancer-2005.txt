@@ -1,0 +1,78 @@
+Pregnancy and Breast Cancer
+Author(s): Ludger Barthelmes, Louise A. Davidson, Christopher Gaffney, and Christopher A. Gateley
+Source: BMJ: British Medical Journal, 11 June 2005, Vol. 330, No. 7504, pp. 1375–1378
+Published by: BMJ
+Stable URL: http://www.jstor.com/stable/25459907
+Clinical Review
+Pregnancy and Breast Cancer
+
+Breast cancer is rare in young women, with an increase in incidence in the fourth and fifth decades. A trend is to defer childbearing to later in life. The issues of pregnancy and breast cancer are important because some women discover their breast cancer while pregnant and others may not have completed their family at the time of treatment. In this review, we discuss the case of a woman whose breast cancer was diagnosed during pregnancy, including the choices she faced at the time of diagnosis and after treatment.
+Sources and Selection Criteria
+
+For breast cancer in pregnant patients, we included all studies published after 1980 that were personally known to us. For evaluating the effects of chemotherapy and radiotherapy given during pregnancy, we searched Medline combining the headings “breast neoplasm,” “radiotherapy,” and the relevant chemotherapy agents. To assess whether delayed administration of chemotherapy impairs outcome, we searched Medline with the term “delay adj chemotherapy” combined with the heading “breast neoplasm.”
+Case Report
+
+A 33-year-old woman with a four-year-old child presented with a painless lump in her right breast. On examination, a discrete lump was felt in the upper half of the breast. She was referred to a rapid access breast clinic where a 1.5 cm lump and an area of increased nodularity were confirmed. Ultrasound-guided core biopsies were carried out as ultrasonography and mammography suggested a carcinoma. While awaiting the biopsy results, the patient discovered she was pregnant. The biopsies confirmed a high-grade invasive ductal carcinoma. After a detailed discussion, the patient decided to terminate her pregnancy. Two weeks after termination, she underwent a wide local excision of the breast cancer with axillary node clearance. Histology confirmed a 15 mm, grade 2, invasive ductal carcinoma.
+Pregnancy and the Prognosis of Breast Cancer
+
+Pregnancy-related increases in hormone levels may stimulate the growth of breast cancer, potentially impairing outcomes when the disease is detected during pregnancy. Between 1990 and 2005, 23 studies reported on breast cancer and pregnancy. These studies can be classified into three groups:
+
+    Pregnancy before breast cancer
+    Pregnancy-related breast cancer
+    Subsequent pregnancy
+
+Population studies have examined the interval between the last birth and the diagnosis of breast cancer. Some studies have noted that the shorter the interval between birth and diagnosis, the poorer the outcomes. Although this evidence indirectly suggests that pregnancy may promote the growth of breast cancer, it does not apply to patients whose disease is detected at the start of pregnancy.
+Termination of Pregnancy
+
+The patient’s options were to terminate the pregnancy and undergo conventional treatment or to continue with the pregnancy and adjust treatment. Indications for termination are both medical and social. In our patient’s case, there was concern for the deleterious effect on the disease by continuing the pregnancy, as well as the potential harm to the fetus from treatment (surgery, radiotherapy, chemotherapy, or hormonal management). Social considerations included the possibility of the child surviving the mother in the event of recurrence.
+
+Ultrasonography and mammography demonstrated a hypoechoic lesion with irregular margins and acoustic shadowing, findings consistent with malignancy. The patient’s core biopsy revealed a high-grade invasive ductal carcinoma, and following termination, she underwent definitive surgical treatment.
+Pregnancy Associated Breast Cancer
+
+Pregnancy-associated breast cancer is defined as breast cancer diagnosed during pregnancy, lactation, or up to one year postpartum. Most studies indicate that such women present with more advanced and aggressive disease. Although two studies showed worse survival when patients were matched stage by stage, the overall evidence on prognosis remains mixed.
+
+For women who opt for termination after a diagnosis early in pregnancy, studies (although limited by small numbers and non-matched controls) generally show no difference in survival between those who did and did not terminate their pregnancy. However, a couple of studies noted poorer outcomes in the termination group, possibly due to more advanced disease at diagnosis.
+Treatment Considerations
+
+Radiotherapy:
+Radiotherapy during pregnancy poses a dilemma because of its teratogenic potential. During the first trimester, the fetus is relatively protected as it is outside the primary radiation field, although it is still exposed to scattered radiation. At later stages of pregnancy, although the fetus is closer to the chest wall, organogenesis is complete, and the effects of radiation are thought to be diminished. Anecdotal reports have noted fetal malformations, but normal pregnancy outcomes have also been observed in women receiving radiotherapy.
+
+Chemotherapy:
+The patient’s core biopsy confirmed a high-grade ductal carcinoma, and postoperative adjuvant chemotherapy was anticipated. Chemotherapy has shown benefits in premenopausal women with high-grade breast cancer, even in the absence of lymph node metastasis. However, chemotherapy can cross the placenta if given before week 15 of gestation, potentially leading to permanent organ malformations. Most studies on subsequent pregnancy after breast cancer treatment report better outcomes, though these studies may be influenced by a “healthy mother effect.”
+
+Delay in Chemotherapy:
+A concern is whether delaying chemotherapy until the second trimester impairs outcome. One study detected no difference in disease-free survival in women receiving chemotherapy within 10 weeks of surgery compared with those treated later. The daily increased risk of developing axillary metastasis in untreated pregnant women is low, suggesting that the concern of delaying chemotherapy may not be as significant as previously thought.
+
+Timing of Pregnancy:
+There is divided opinion on the best timing for pregnancy after breast cancer treatment. One study analyzing the effect of timing found no difference in outcomes, though about half of the patients became pregnant within two years of treatment. Some argue that most recurrences occur early after treatment, while others note a constant recurrence rate, implying that pregnancy should not necessarily be deferred.
+Implications of Treatment on Future Pregnancy
+
+For patients undergoing tamoxifen treatment, it is advised to use non-hormonal contraception as tamoxifen is licensed for ovulation induction. The British National Formulary recommends stopping tamoxifen for two months before attempting pregnancy. Our patient, after an informed discussion, chose to avoid pregnancy and continues on tamoxifen.
+
+Additional educational resources include:
+
+    US National Cancer Institute: Information on breast cancer and pregnancy (nci.nih.gov).
+    Royal College of Obstetrics and Gynaecology: Evidence-based guidelines on the management of breast cancer and pregnancy.
+    UK Charity Breastcancer.org: Lively animated website covering breast cancer and pregnancy.
+    UK Breast Cancer Charity, Breast Cancer Care: Information for patients on breast cancer and pregnancy, including related topics such as discussing the diagnosis with children and child care during treatment.
+
+Acknowledgements and Additional Information
+
+We thank the patient for contributing her case, A M Wake for the ultrasonogram and mammogram images, and I W Thompson and A M Rashid for the pathology slide.
+Contributors:
+
+    LB conceived the article.
+    LAD liaised with the patient.
+    All authors contributed ideas to the manuscript.
+    CAG is guarantor for the paper.
+
+Funding: None.
+Competing Interests:
+
+    LB is opposed to abortion and supports women in making an informed decision.
+    CAG and CC have been supported by AstraZeneca, the manufacturer of tamoxifen, to attend courses and conferences.
+
+One Hundred Years Ago
+
+Compulsory Greek
+An excerpt from BMJ 1905 highlights the longstanding debate over whether Greek should remain a compulsory subject for arts degrees. Reformers have argued that making Greek optional could benefit universities and students, particularly those in science and medicine. Despite these arguments, the language continues to be valued for its cultural and literary importance.

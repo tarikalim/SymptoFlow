@@ -1,0 +1,38 @@
+Hypothesis: Iodine, Selenium and the Development of Breast Cancer
+Author(s): Stephen A. Cann, Johannes P. van Netten, and Christiaan van Netten
+Source: Cancer Causes & Control, Vol. 11, No. 2 (Feb. 2000), pp. 121–127
+Published by: Springer Nature
+Stable URL: https://www.jstor.org/stable/3553956
+Accessed: 22-02-2025 15:17 UTC
+Abstract
+
+Background:
+This paper examines evidence linking iodine and selenium to the development of breast cancer. Seaweed—a dietary staple in Japan—is a rich source of both iodine and selenium. The authors hypothesize that this dietary preference may be associated with the low incidence of both benign and malignant breast disease observed in Japanese women. In animal and human studies, iodine administration has been shown to cause regression of iodine-deficient goiter and benign pathological breast tissue. Beyond its role in thyroid hormone synthesis, iodine is incorporated into anti-proliferative iodolipids that may regulate cell proliferation in extrathyroidal tissues. Selenium, which acts synergistically with iodine, is essential for the proper functioning of all three mono-deiodinase enzymes involved in thyroid hormone regulation; hence, selenium status may affect both thyroid hormone homeostasis and the availability of iodine.
+
+Conclusion:
+Although there is suggestive evidence for a preventive role of iodine and selenium in breast cancer, rigorous retrospective and prospective studies are needed to confirm this hypothesis.
+Introduction
+
+Medical science has made considerable advances in the management and understanding of breast cancer. However, mortality rates have not declined as expected, suggesting that certain aspects of the disease’s etiology may have been overlooked. In 1956, Loeser proposed that cancer formation begins when carcinogenic influences continuously impact thyroid-deficient tissues. Since that time, various authors have questioned whether iodine intake could influence the development of malignant disease, particularly breast cancer.
+
+Japan’s high dietary iodine intake—primarily through seaweed consumption—stands in contrast to the moderate iodine intakes in countries like the UK and USA. Typical iodine intake in Japan is very high (with an average urinary iodine concentration around 3400 μg/L), which may be a key factor in the low incidence of both benign and malignant breast conditions in Japanese women. In addition, although selenium intakes in the USA and Japan are similar and much higher than in the UK, the combined roles of these trace elements have not been fully elucidated in the context of breast cancer.
+Iodine, Selenium, and Breast Tissue
+
+    Iodine’s Role:
+    Iodine is not only essential for thyroid hormone production but also participates in the formation of anti-proliferative compounds (iodolipids) within the thyroid. These iodolipids may also influence the proliferative control of breast tissue. In animal studies, iodine supplementation has been shown to suppress chemically induced mammary tumors and reverse pathological changes associated with benign breast disease. Conversely, iodine deficiency appears to increase breast tissue sensitivity to estrogen, possibly contributing to cancer development.
+
+    Selenium’s Role:
+    Selenium functions synergistically with iodine. All three mono-deiodinase enzymes—responsible for converting thyroid hormones—are selenium-dependent. Adequate selenium levels are crucial for maintaining thyroid hormone homeostasis and ensuring optimal iodine utilization. In regions with low selenium intake, the protective role of iodine may be compromised, potentially affecting both thyroid function and breast tissue health.
+
+Epidemiological Considerations
+
+The authors discuss differences in iodine and selenium intakes across various regions. For example, Japan’s exceptionally high iodine intake, largely attributable to seaweed consumption, may contribute to its low breast cancer incidence despite other risk factors. In contrast, populations in countries with moderate iodine intake tend to have higher incidences of benign breast disease and breast cancer. Preliminary epidemiological evidence—including correlational studies and regional comparisons—supports a link between dietary iodine (and selenium) and breast cancer risk, although more rigorous studies are necessary.
+Future Prospects
+
+The paper calls for further epidemiological research, including both case–control and prospective cohort studies, to more definitively assess the relationship between iodine and selenium status and breast cancer risk. Improved methods for assessing long-term iodine status (such as whole blood measurements) and careful control for potential confounders are needed. Ultimately, understanding the interplay between iodine, selenium, and thyroid hormone homeostasis may open new avenues for both the prevention and treatment of breast cancer.
+References
+
+Linked references for this article are available on JSTOR:
+https://www.jstor.org/stable/3553956?seq=1&cid=pdf-reference#references_tab_contents
+
+(A detailed reference list is provided in the original article.)

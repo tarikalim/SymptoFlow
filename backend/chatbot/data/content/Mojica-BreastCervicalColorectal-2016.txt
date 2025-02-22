@@ -1,0 +1,116 @@
+Breast, Cervical, and Colorectal Cancer Education and Navigation: Results of a Community Health Worker Intervention
+Author(s): Cynthia M. Mojica, Daisy Y. Morales‑Campos, Christina M. Carmona, Yongjian Ouyang, and Yuanyuan Liang
+Source: Health Promotion Practice, Vol. 17, No. 3 (May 2016), pp. 353–363
+Published by: Sage Publications, Inc.
+Stable URL: https://www.jstor.org/stable/10.2307/26734026
+Overview
+
+    Context & Rationale:
+        Breast, cervical, and colorectal cancers account for 24% of all U.S. cancers.
+        U.S. Latinas are disproportionately diagnosed at advanced stages compared with non-Hispanic White women.
+        In Texas, advanced-stage diagnoses are particularly high (40% for breast, 36% for cervical, and 54% for colorectal cancer).
+        Early detection through screening significantly improves survival, yet screening rates among Latinas remain below national goals.
+    Purpose:
+        To evaluate a theory-based, community health worker (CHW) intervention designed to educate and navigate low‑income, rarely or never‑screened Latina women toward receiving appropriate cancer screening tests.
+
+Intervention Design
+
+    Theoretical Framework:
+        The intervention was based on the Health Belief Model (HBM), which posits that behavior change depends on:
+            Perceived Susceptibility: How vulnerable one feels to the disease.
+            Perceived Severity: Beliefs about the seriousness of the disease.
+            Perceived Benefits: Belief in the effectiveness of taking action (e.g., screening) to reduce risk.
+            Perceived Barriers: Obstacles that may hinder screening (e.g., cost, transportation, language).
+            Cues to Action: Triggers (reminder calls, community events) that prompt behavior change.
+            Self-Efficacy: Confidence in one’s ability to take action.
+
+    Community Health Workers (CHWs):
+        Bilingual, bicultural CHWs delivered the intervention.
+        They were trained intensively over a 2‑week period (with booster sessions and ongoing monthly meetings) on:
+            Study protocols (survey administration, data collection)
+            Cancer risk factors and screening guidelines for breast, cervical, and colorectal cancers.
+            Navigation support strategies to help participants overcome barriers.
+
+    Educational Sessions:
+        Conducted in small classroom settings at sites provided by community organizations.
+        Utilized bilingual flip charts with visual (front) and narrative (back) components to explain:
+            Anatomy and risk factors for each cancer.
+            Recommended screening tests and guidelines (e.g., mammograms starting at age 50, annual Pap tests, stool blood tests for colorectal screening).
+        Sessions lasted about 90 minutes and were delivered in either Spanish or English.
+        Participants were encouraged to ask questions and share personal experiences.
+
+    Navigation Support:
+        CHWs assisted with:
+            Providing lists of local clinics offering low‑ or no‑cost screening.
+            Scheduling or rescheduling appointments.
+            Making reminder and follow‑up calls.
+            Informing participants about mobile screening units and upcoming community health events.
+        This support helped to bridge gaps between community members and the healthcare system.
+
+    Data Collection Tools & Procedures:
+        Recruitment and surveys were facilitated using iPads with wireless Internet for on‑site data entry.
+        For large groups, hard copies were used with later data entry.
+        Surveys included sociodemographic items (age, income, education, language, insurance status) and a Knowledge, Attitudes, and Beliefs (KAB) survey related to cancer screening guidelines and early detection.
+        Follow‑up KAB surveys were administered immediately after educational sessions.
+
+Study Methods
+
+    Study Design:
+        A single‑arm, nonrandomized, pre‑post design was used.
+    Participants:
+        A total of 691 eligible Latina women were enrolled from January 2011 to July 2012.
+        Eligibility criteria were based on age and screening history:
+            Women aged 40–74 who had never had a mammogram or not had one in the past 2 years.
+            Women aged 18–65 with no Pap test or not in the past 3 years.
+            Women aged 50–75 who had never had a stool blood test or not in the past 2 years.
+    Recruitment:
+        Participants were recruited by CHWs from multiple community settings (churches, community centers, parent–teacher associations, health fairs, etc.) in the west and south sides of San Antonio, Texas.
+        Recruitment efforts were supported by promotional materials (posters, flyers) distributed in high‑traffic areas.
+    Evaluation & Analysis:
+        Pre‑ and post‑intervention changes in cancer screening knowledge and beliefs were measured using McNemar’s test.
+        Logistic regression was used to assess the association between educational session attendance and self‑reported receipt of cancer screening tests, adjusting for sociodemographic factors.
+
+Results
+
+    Participation:
+        Out of 1,612 women approached, 691 were enrolled.
+        Among these, 535 (77%) attended at least one educational session.
+
+    Demographic Profile:
+        Mean age was 46 years.
+        Approximately 53% of participants were U.S.‑born, and many were from lower socioeconomic backgrounds.
+        A significant proportion were uninsured and primarily Spanish‑speaking.
+
+    Knowledge Gains:
+        Significant improvements were observed from pre‑ to post‑test in:
+            Breast Cancer: Knowledge of the appropriate starting age for mammograms improved (from 4.3% to 9.9% correct among eligible women).
+            Cervical Cancer: A higher percentage correctly answered that Pap tests should be annual (72% to 80% correct).
+            Colorectal Cancer: Knowledge of the starting age and frequency for stool blood tests improved dramatically (e.g., correct knowledge increased from 19% to 70% for starting at age 50+ and from 42% to 75% for annual testing).
+
+    Attitudinal Shifts:
+        Post-intervention, a greater proportion of women agreed that regular cancer checks lead to early detection and cure, and more disagreed with fatalistic beliefs about cancer.
+
+    Screening Behavior:
+        Overall, 25% of eligible participants reported receiving at least one screening test (mammogram, Pap test, or stool blood test) after the intervention.
+        Logistic regression analysis showed that, after adjusting for sociodemographic variables, women who attended at least one educational session were significantly more likely to report receipt of a screening test (OR = 1.70; 95% CI: 1.03, 2.82).
+
+    Process Outcomes:
+        Among those not initially reached by telephone, many still attended sessions.
+        Some participants were placed on waiting lists for screening services, highlighting system-level barriers such as funding constraints at local clinics.
+
+Conclusions
+
+    Effectiveness of CHW Interventions:
+        The CHW-led education-plus‑navigation model was effective in improving cancer screening knowledge and positively influencing screening behaviors among low‑income Latinas.
+        The intervention successfully addressed multiple barriers, including language, cultural, and system‑level challenges.
+    Implications for Public Health Practice:
+        The study underscores the potential of community-based interventions to enhance cancer prevention efforts in underserved populations.
+        The results support the integration of CHWs in preventive health programs and highlight the importance of culturally tailored educational strategies.
+    Policy & Future Directions:
+        The findings are particularly relevant in light of recent health reforms (e.g., provisions under the Affordable Care Act) that support the use of non‑licensed providers like CHWs.
+        Future research should consider controlled designs and explore long-term impacts on cancer incidence and mortality.
+
+Key References
+
+Linked references for this article are available on JSTOR:
+https://www.jstor.org/stable/26734026?seq=1&cid=pdfreference#references_tab_contents

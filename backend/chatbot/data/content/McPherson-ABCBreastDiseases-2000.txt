@@ -1,0 +1,42 @@
+ABC of Breast Diseases: Breast Cancer – Epidemiology, Risk Factors, and Genetics
+Author(s): K. McPherson, C. M. Steel, and J. M. Dixon
+Source: BMJ: British Medical Journal, Sep. 9, 2000, Vol. 321, No. 7261, pp. 624–628
+Published by: BMJ
+Stable URL: https://www.jstor.org/stable/25225567
+Overview
+
+This clinical review outlines the epidemiology, risk factors, and genetic determinants of breast cancer. With breast cancer representing the most common malignancy among women globally, the article examines incidence and mortality patterns, the influence of geography and age, and a spectrum of risk factors—including hormonal, reproductive, familial, and lifestyle components—as well as the genetic basis underlying susceptibility.
+Key Points
+
+    Epidemiology:
+        Breast cancer is the commonest malignancy in women, accounting for approximately 18% of all female cancers worldwide.
+        In the United Kingdom, incidence is high with nearly 2 per 1,000 women aged 50 being newly diagnosed each year, and the disease is a leading cause of death in women aged 40–50.
+
+    Geographical Variation:
+        Incidence and mortality rates vary up to fivefold between countries.
+        Migration studies (e.g., Japanese women moving to Hawaii) indicate that environmental factors play a significant role in modifying breast cancer risk across generations.
+
+    Risk Factors:
+        Age: The risk of breast cancer increases with age, doubling approximately every 10 years until menopause.
+        Reproductive Factors: Early menarche, late menopause, nulliparity, and late age at first full-term pregnancy all contribute to increased risk.
+        Family History and Genetics: A strong family history, particularly with early onset (before age 50) or multiple affected first-degree relatives, dramatically elevates risk. Mutations in high-penetrance genes (e.g., BRCA1, BRCA2) account for a substantial portion of hereditary breast cancer.
+        Previous Benign Breast Disease: Conditions such as atypical hyperplasia can increase risk several-fold.
+        Lifestyle Factors: Obesity (in postmenopausal women), high dietary fat intake, and alcohol consumption have also been implicated.
+
+    Genetic Contributions:
+        Approximately 10% of breast cancers in Western countries are due to inherited mutations.
+        BRCA1 and BRCA2 are the primary high-risk genes, although other less penetrant genetic factors likely contribute to the overall genetic risk profile.
+
+    Prevention and Screening:
+        Early detection through screening (e.g., mammography) is crucial and can reduce mortality, though it has little impact on incidence.
+        Understanding the interplay between genetic predisposition and environmental/hormonal factors is key to developing effective prevention strategies.
+
+Conclusions
+
+The review underscores that breast cancer is a multifactorial disease with significant contributions from genetic, hormonal, reproductive, and lifestyle factors. While genetic predisposition (e.g., BRCA mutations) plays a major role in a subset of patients, environmental and behavioral factors also substantially modify risk. A deeper understanding of these elements is essential for improving both prevention and early detection strategies.
+Selected References
+
+Linked references for this article are available on JSTOR:
+https://www.jstor.org/stable/25225567?seq=1&cid=pdfreference#references_tab_contents
+
+(A detailed reference list is provided in the original article.)

@@ -1,0 +1,40 @@
+Breast Size, Breast Reduction, and Cancer Risk
+Author: Silvia Franceschi
+Source: Cancer Causes & Control, Vol. 8, No. 2 (Mar. 1997), pp. 125–126
+Published by: Springer Nature
+Stable URL: https://www.jstor.org/stable/3552753
+Accessed: 22-02-2025 15:18 UTC
+Overview
+
+This editorial examines the relationships between breast size, breast reduction surgery, and breast cancer risk. It discusses how large breast size—which is a common indication for reduction surgery—may result from increased cell proliferation early in life, potentially leading to an elevated number of proliferating ductal stem cells in adulthood. Since cell division is central to cancer development, these early-life events might contribute to a higher risk of breast cancer.
+Key Points
+
+    Breast Size and Carcinogenesis:
+    Large mammary glands may be a consequence of enhanced cell proliferation during early life. Elevated estrogen exposure in utero and high energy intake in childhood and adolescence are believed to promote this proliferation. Population studies have noted that Asian women, who typically have smaller breasts, also tend to have lower breast cancer incidence compared with Western women. However, among Asian-American women, mammary gland size may increase rapidly after migration to the United States.
+
+    Bra Cup Size as a Proxy:
+    Case–control studies using bra cup size as an indirect measure of breast volume have not consistently supported a strong association with breast cancer risk after adjusting for body mass index. Two large investigations—an international study with 2,325 cases and an Italian study with 2,557 cases and 7,008 controls—failed to show a clear risk trend.
+
+    Impact of Breast Reduction Surgery:
+    The study by Boice et al., highlighted in this issue, provides important insights. By linking the Danish Hospital Discharge Registry with the Cancer Registry, researchers identified 7,720 women who underwent breast reduction surgery between 1977 and 1992. After a mean follow-up of 7.5 years, only 29 cases of breast cancer were observed versus 53.9 expected, indicating a standardized incidence ratio of 0.5 (95% CI: 0.4–0.8). Notably, this apparent risk reduction was not observed among women under 40 years of age or in those 10 or more years post-surgery.
+
+    Methodological Considerations:
+    The calculation of the expected number of breast cancers in studies of women with partially removed breast tissue can be challenging. Additionally, subtle alterations in the microenvironment—such as changes in the terminal duct-lobular units following removal of adipose and stromal tissue—may influence cancer risk. Laboratory tests have suggested that breast fat might serve as a reservoir for fat-soluble carcinogens.
+
+    Preventive Strategy:
+    Breast reduction surgery is conceptualized as a dual approach: it not only removes excess, potentially cancer-prone tissue but may also facilitate the early detection and removal of preneoplastic lesions. Although it does not eliminate the need for continued breast cancer screening, it can reduce both the risk and the anxiety associated with the disease, particularly in older women.
+
+Discussion
+
+Franceschi’s editorial emphasizes that while our understanding of breast carcinogenesis remains incomplete, the evidence suggests a complex interplay between breast size, hormonal influences, and cancer risk. The protective effect observed in women undergoing reduction surgery—especially noted in the 10–19 year period post-surgery—supports the notion that removing part of a cancer-prone organ can reduce risk. However, the measure of breast size via bra cup size is imperfect, as adipose tissue can constitute a large part of the breast, and surveillance bias may influence outcomes.
+
+The editorial also contrasts breast reduction with more drastic preventive measures, such as bilateral prophylactic mastectomy, noting that while the latter can be recommended for women with high genetic risk (e.g., BRCA1/BRCA2 mutations), breast reduction offers a less extreme option with additional benefits related to improved surveillance.
+Conclusion
+
+Breast reduction surgery may lower breast cancer risk by combining the removal of preneoplastic lesions with a reduction in overall breast tissue that is susceptible to malignant transformation. Although methodological challenges remain, the findings reviewed provide reassurance to women with large breasts considering reduction surgery, indicating that such procedures can contribute to cancer prevention without entirely obviating the need for regular screening.
+Selected References
+
+Linked references for this article are available on JSTOR:
+https://www.jstor.org/stable/3552753?seq=1&cid=pdfreference#references_tab_contents
+
+(A detailed reference list is provided in the original article.)

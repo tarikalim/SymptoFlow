@@ -1,0 +1,89 @@
+World Health Organization – Annex: Anti-cancer Medicines for Breast Cancer and WHO Model List of Essential Medicines 2021
+Report Title: Global Breast Cancer Initiative Implementation Framework
+Subtitle: Assessing, strengthening and scaling up services for the early detection and management of breast cancer
+Author(s): World Health Organization
+Published by: World Health Organization (2023)
+Stable URL: https://www.jstor.org/stable/resrep56751.15
+Detailed Summary
+Overview and Context
+
+    Purpose:
+        This WHO annex is part of the Global Breast Cancer Initiative Implementation Framework. It provides guidance on the selection and use of anti-cancer medicines for breast cancer treatment and details the medicines included on the WHO Model List of Essential Medicines 2021.
+    Breast Cancer Subtypes:
+        Breast cancer treatment is increasingly tailored according to tumor-marker expression. Four distinct subtypes are recognized:
+            Luminal A
+            Luminal B
+            Triple-negative
+            HER2-positive
+        The choice of anti-cancer regimens is determined by the specific breast cancer subtype.
+
+Principles of Anti-cancer Medicine Selection
+
+    Hormone-Receptor Positive (ER+) Breast Cancer (Luminal A/B):
+        Primary treatment: Endocrine (hormone) therapy.
+            Premenopausal: Tamoxifen is the standard; it may be augmented with a luteinizing hormone-releasing hormone analogue to suppress ovarian hormone production.
+            Postmenopausal: Anastrozole (an aromatase inhibitor) with or without tamoxifen is recommended.
+        Advanced-Stage/High-Risk Cases: In addition to endocrine therapy, chemotherapy may be used.
+
+    Triple-Negative Breast Cancer (Hormone-Receptor and HER2 Negative):
+        Primary treatment: Chemotherapy is the mainstay of treatment.
+        Endocrine therapy is not recommended for these tumors.
+
+    HER2-Positive Breast Cancer:
+        Treatment approach:
+            Chemotherapy forms the backbone of treatment.
+            For hormone receptor–positive HER2+ cancers, endocrine therapy is also recommended.
+            Trastuzumab-based targeted therapy regimens are preferred when feasible; however, cost constraints may limit access in some settings.
+
+    Additional Considerations:
+        Supportive care (e.g., antiemetics, growth factors, bone-modifying agents) is essential to manage side effects and maintain patient quality of life.
+        In some cases, anti-depressants may be necessary to manage hormone-therapy-related side effects and depressive symptoms.
+
+Standard Chemotherapy Regimens (Table A1)
+
+    The annex presents a list of standard chemotherapy regimens for breast cancer using medicines included in the WHO Essential Medicines List. Examples include:
+        TC: Combination of docetaxel and cyclophosphamide (administered every 3 weeks for 4 cycles).
+        AC-T: Doxorubicin and cyclophosphamide (AC) every 3 weeks for 4 cycles, followed by paclitaxel (T) given either weekly or every 3 weeks for 12 cycles.
+        CMF: Cyclophosphamide, methotrexate, and 5-fluorouracil administered every 4 weeks for 6 cycles.
+        FAC/FEC: Regimens incorporating 5-fluorouracil, doxorubicin (or epirubicin), and cyclophosphamide every 3 weeks for 6 cycles.
+        Trastuzumab-Containing Regimens (TH, ACT-H, TC-H): These include trastuzumab combined with chemotherapy agents (e.g., paclitaxel, doxorubicin, cyclophosphamide) with treatment durations often extending to 12 months for the targeted agent.
+
+Anti-cancer and Supportive Medicines (Table A2)
+
+    Antineoplastic Agents:
+        Chemotherapy Drugs: Doxorubicin, cyclophosphamide, carboplatin, epirubicin, 5-fluorouracil, methotrexate, paclitaxel, docetaxel, capecitabine, vinorelbine, and gemcitabine.
+        Targeted Therapy: Trastuzumab is specified for HER2+ breast cancer.
+
+    Endocrine Therapy:
+        Tamoxifen and anastrozole are listed as primary endocrine agents. Leuprorelin is mentioned for ovarian suppression.
+
+    Supportive Medications:
+        Immunostimulants: Filgrastim (to address chemotherapy-induced neutropenia).
+        Bone Health Agents: Zoledronic acid (for managing osteoporosis linked to aromatase inhibitor use).
+        Antiemetics: Ondansetron and aprepitant to manage chemotherapy-induced nausea and vomiting.
+        Corticosteroids: Dexamethasone is used as part of supportive care regimens.
+
+    Pharmaceutical Classification:
+        Medicines are referenced by their Anatomical Therapeutic Chemical (ATC) codes, with the Defined Daily Dose (DDD) system serving as the gold standard for international drug utilization and research.
+
+Quality Assurance and References
+
+    The annex notes that quality assurance and guidelines for pharmaceutical products are maintained on the WHO website, ensuring that medicines meet international standards.
+    References are provided to several international guidelines and resources, including the NCCN Guidelines, ESMO Clinical Practice Guidelines, and the WHO Model List of Essential Medicines (22nd List, 2021).
+    The ATC/DDD index is cited as the reference framework for drug classification and dosing.
+
+Implications for Practice
+
+    Standardization: The use of well-established, evidence-based chemotherapy regimens and supportive care measures is critical for reducing breast cancer mortality.
+    Accessibility: The WHO Model List of Essential Medicines ensures that the most important anti-cancer and supportive medications are available globally, even in low-resource settings.
+    Adaptability: The guidelines acknowledge that treatment may be modified based on individual patient factors such as toxicity profile, comorbidities, and cost considerations—especially the high cost of targeted therapies like trastuzumab.
+
+Conclusion
+
+    This WHO annex provides a comprehensive framework for the selection of anti-cancer medicines and supportive therapies in breast cancer treatment.
+    It outlines the standard regimens and individual drugs considered essential for the management of various breast cancer subtypes.
+    Emphasis is placed on integrating evidence-based chemotherapy, endocrine therapy, and targeted treatments with appropriate supportive care, ensuring that treatment protocols are both effective and feasible within the context of the WHO Model List of Essential Medicines.
+    The document serves as a guide for national and regional health authorities in scaling up breast cancer services, improving early detection, and reducing breast cancer mortality worldwide.
+
+For further details and to access the full annex and related tables, please visit:
+https://www.jstor.org/stable/resrep56751.15

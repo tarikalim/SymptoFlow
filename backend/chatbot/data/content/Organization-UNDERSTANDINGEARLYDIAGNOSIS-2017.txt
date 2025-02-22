@@ -1,0 +1,94 @@
+World Health Organization – Guide to Cancer Early Diagnosis: Understanding Early Diagnosis
+Report Part Title: UNDERSTANDING EARLY DIAGNOSIS
+Report Title: GUIDE TO CANCER EARLY DIAGNOSIS
+Author(s): World Health Organization
+Published by: World Health Organization (2017)
+Stable URL: https://www.jstor.org/stable/resrep27872.7
+Detailed Summary
+Overview and Definitions
+
+    Early Diagnosis vs. Screening:
+        Early Diagnosis:
+            Defined as the early identification of cancer in patients who already present with symptoms or signs suggestive of cancer.
+            The focus is on detecting cancer at the earliest possible stage in symptomatic individuals, which can improve survival and quality of life when linked promptly to diagnosis and treatment.
+        Screening:
+            Seeks to identify unrecognized (pre-clinical) cancer or precursor lesions in an apparently healthy target population.
+            It involves administering tests or examinations (e.g., mammography, HPV assay, VIA) to a large group, most of whom will not have the disease.
+            Screening is a systematic process that includes invitation, testing, follow-up of abnormal results, and ensuring timely diagnostic confirmation and treatment.
+
+Key Differences Between Early Diagnosis and Screening (Table 1)
+
+    Volume of Participants:
+        Early Diagnosis: Limited to individuals with symptoms; relatively low volume.
+        Screening Programme: Involves the entire target population, often with participation rates 50–100 times higher.
+    Type of Test:
+        Early Diagnosis: Uses diagnostic tests applied only to symptomatic individuals.
+        Screening Programme: Employs a screening test for the entire population, with diagnostic follow-up for those who test positive.
+    Health System Requirements:
+        Early Diagnosis: Requires facilities and human resources for prompt clinical evaluation, pathology, radiology, staging, and treatment access.
+        Screening Programme: In addition to the above, requires mechanisms for population outreach, invitation, recall, and systematic follow-up for abnormal findings.
+    Training and Human Resources:
+        Early Diagnosis: Focus on clinical providers skilled in recognizing and diagnosing cancer symptoms.
+        Screening Programme: Requires additional resources, including trained staff to administer tests, interpret results, and manage the call–recall systems.
+    Public Awareness:
+        Early Diagnosis: Relies on individuals’ awareness of symptoms to seek care promptly.
+        Screening Programme: Involves widespread public education and outreach to encourage participation, even among those without symptoms.
+    Follow-up Care:
+        Early Diagnosis: Centers on ensuring symptomatic individuals receive timely referral and treatment.
+        Screening Programme: Involves complex follow-up processes for a large number of individuals who screen positive, including diagnostic confirmation and counseling.
+    Potential Benefits and Harms:
+        Early Diagnosis: Generally low risk as testing is confined to symptomatic patients; potential benefit is detecting cancer at a curable stage.
+        Screening Programme: Potential benefits include a reduction in disease incidence (by detecting and treating precancerous lesions) and earlier stage at diagnosis; however, there is also potential for harm (e.g., overdiagnosis, psychological distress, complications from further testing) if the screening test is applied broadly.
+
+Process and Components
+
+    Early Diagnosis Process:
+        Step 1: Increase public awareness of cancer symptoms and ensure easy access to care for those with signs of cancer.
+        Step 2: Ensure rapid clinical evaluation, accurate diagnosis, and staging once symptoms are reported.
+        Step 3: Provide timely access to treatment, including supportive care and pain relief.
+    Screening as a Process:
+        It is not merely a single test but encompasses a full cycle: inviting the target population, administering the test, follow-up on abnormal results, and ensuring appropriate diagnostic confirmation and treatment.
+        Requires planning, coordination, and monitoring to be effective.
+
+Assessing Capacity for Early Diagnosis
+
+    Situation Analysis:
+        Prior to scaling up early diagnosis or screening programmes, health systems must assess current service effectiveness, coverage, delays, and financial barriers.
+        Data should be disaggregated by sex, geography, ethnicity, and socioeconomic status to identify inequities.
+    Resource Implications:
+        In settings with limited capacity for early diagnosis (e.g. insufficient diagnostic tests, delays in treatment, poor coordination), launching a broad screening programme may not be effective.
+        Prioritizing the strengthening of early diagnosis services can maximize efficiency and improve equity in cancer care.
+
+Impact of Early Diagnosis
+
+    Outcomes and Mortality:
+        There is strong evidence that early diagnosis—when linked to prompt, effective treatment—leads to earlier stage at presentation and reduced cancer mortality.
+        Historical data (e.g., from the United Kingdom and United States) show that improvements in early diagnosis contributed significantly to declines in breast cancer mortality, even before the advent of widespread screening.
+    Reduction in Delays:
+        Shorter delays in diagnosis and treatment are associated with significant survival benefits, sometimes comparable to those achieved by chemotherapy.
+
+Policy and Programmatic Recommendations
+
+    Integration with Cancer Control:
+        Early diagnosis should be an integral component of comprehensive cancer control programmes.
+        Health systems need to ensure that adequate capacity for early diagnosis and treatment is in place before introducing population-wide screening.
+    Focus on Equity:
+        Assessments should aim to identify gaps in service and target resources to populations at higher risk of late diagnosis.
+        This is particularly important in low-resource settings where health system constraints may limit the effectiveness of screening.
+    Monitoring and Evaluation:
+        Continuous evaluation of cancer stage at diagnosis and trends over time can help measure the impact of early diagnosis initiatives.
+        Implementing robust call–recall systems and follow-up care is essential for reducing loss to follow-up in screening programmes.
+
+Conclusion
+
+    Strategic Importance:
+        Strengthening early diagnosis systems is critical to improve cancer outcomes, especially in resource-limited settings.
+        While screening programmes have the potential to reduce incidence and mortality, their success depends on the underlying capacity of the health system to diagnose and treat cancer promptly.
+    Holistic Approach:
+        The guide emphasizes that both early diagnosis and screening require similar foundational elements—such as trained personnel, robust infrastructure, and effective public engagement—and should be tailored to local contexts.
+    Next Steps:
+        Countries should perform comprehensive situation analyses to determine current capacity, identify barriers, and guide the implementation or expansion of early diagnosis and screening services.
+        Enhancing early diagnosis services is a prerequisite for effective screening, ensuring that individuals with cancer receive timely and equitable access to high-quality care.
+
+For further details and to review the complete guide, please visit:
+https://www.jstor.org/stable/resrep27872.7

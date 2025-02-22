@@ -1,0 +1,81 @@
+Family History of Breast Cancer, Mammographic Features of Breast Tissue, and Breast Cancer Risk
+Author: Jacques Brisson
+Source: Epidemiology, November 1991, Vol. 2, No. 6, pp. 440–444
+Published by: Lippincott Williams & Wilkins
+Stable URL: https://www.jstor.org/stable/20065723
+
+JSTOR is a not‐for‐profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. For more information about JSTOR, please contact support@jstor.org. Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use.
+
+Lippincott Williams & Wilkins is collaborating with JSTOR to digitize, preserve, and extend access to Epidemiology.
+
+This content was downloaded from 159.146.126.170 on Sat, 22 Feb 2025 15:17:58 UTC.
+All use is subject to https://about.jstor.org/terms.
+Overview
+
+In this article, Jacques Brisson reexamines the relationships among family history of breast cancer in first‐degree relatives, mammographic features of breast tissue, and breast cancer risk. Data were merged from three case–control studies, including 1,047 cases with newly diagnosed breast cancer and 2,329 controls. The analysis explored whether family history and mammographic features are independently or jointly associated with breast cancer risk.
+
+Keywords: breast neoplasms, mammography, case–control studies, family history.
+Subjects and Methods
+
+    Study Population:
+        Cases: Patients with newly diagnosed breast cancer (see Table 1 for study characteristics).
+        Controls: Women who had a mammogram as part of screening or routine examination.
+
+    Family History Assessment:
+    Data on family history of breast cancer among first‐degree relatives were obtained by interview.
+
+    Mammographic Assessment:
+    Mammograms were reviewed to assess Wolfe’s mammographic parenchymal pattern and the percentage of the breast showing parenchymal densities.
+
+    Data Merging:
+    Of the 1,060 cases and 2,352 controls from previous publications, 13 cases and 23 controls were excluded because of missing or incomplete family history information. The final analysis included 1,047 cases and 2,329 controls.
+
+    Statistical Analysis:
+    Logistic regression was used to evaluate the relation between family history and mammographic features, both individually and jointly, with breast cancer risk. Adjustments were made for age and body weight (the latter using a two‐variable method to account for missing weight data). The joint effect was analyzed following methods described by Rothman, where “interaction” is defined as departure from additivity. Factors are considered to have independent effects when their associations with risk are additive.
+
+Results
+Family History and Mammographic Features
+
+    Association Between Family History and Mammographic Patterns:
+    Among controls, family history showed only a weak relation to mammographic features (see Table 2). In other words, the proportion of women with a family history of breast cancer among first‐degree relatives did not vary substantially by mammographic parenchymal pattern once adjustments for age and weight were made.
+
+    Association with Breast Cancer Risk:
+    Both family history and mammographic features were individually related to increased breast cancer risk. Women with a family history had a 43% increase in risk compared with those without such a history (see Table 3). Additionally, different mammographic parenchymal patterns were associated with varying levels of risk:
+        The P2 and DY patterns were linked to a higher risk compared with the N1 and PI patterns.
+        Breast cancer risk also increased with the percentage of breast parenchymal densities.
+
+Joint Effects
+
+    Additivity of Effects:
+    The joint effects of family history and mammographic features on breast cancer risk appeared to be additive. Table 4 illustrates that relative risks (RRs) observed in groups defined by combinations of family history (yes/no) and mammographic features were close to the expected values under additivity. In contrast, expected RRs under a multiplicative interaction model tended to be higher than the observed values.
+
+    Figure 1 Summary:
+    A graphical representation (Figure 1) shows that at each level of mammographic density, the RR was higher among women with a family history compared to those without. In addition, RRs increased steadily with higher percentages of parenchymal densities regardless of family history.
+
+    Adjustment for Body Weight:
+    Adjustment for body weight reduced the strength of the observed relation between family history and mammographic features. However, it increased the strength of the association between mammographic features and breast cancer risk. Overall, the increase in risk associated with mammographic patterns and densities is likely to be underestimated due to residual confounding.
+
+Discussion
+
+The findings indicate that:
+
+    There is little or no strong association between family history of breast cancer and the mammographic parenchymal pattern.
+    Both factors are independently associated with breast cancer risk.
+    The joint effect of family history and mammographic features is approximately additive, suggesting that the etiologic roles of these factors in breast cancer development are largely independent.
+
+These results contrast with some previous reports that suggested a greater-than-additive (multiplicative) interaction. The differences may be partly due to variations in study methodology or adjustments for confounding factors such as age and body weight.
+Acknowledgments
+
+The author thanks Sonia Tennina for her valuable assistance in data analysis.
+Selected References
+
+    Kelsey JL, Berkowitz G. Breast cancer epidemiology. Cancer Research 1988;48:5615–5623.
+    Saftlas A, Szklo M. Mammographic parenchymal patterns and breast cancer risk. Epidemiol Rev 1987;9:146–174.
+    Saftlas AF, Wolfe JN, Hoover RN, et al. Mammographic parenchymal patterns as indicators of breast cancer risk. Am J Epidemiol 1989;129:518–526.
+    Brisson J, Merletti F, Sadowsky NL, et al. Mammographic features and breast cancer risk in the Breast Cancer Detection Demonstration Project. J Natl Cancer Inst 1988;80:1534–1540.
+    Brisson J, Morrison AS, Kopans DB, et al. Height and weight, mammographic features, and breast cancer risk. Am J Epidemiol 1989;130:14–24.
+    Wolfe JN. Risk for breast cancer development determined from mammographic parenchymal pattern. Cancer 1976;37:2486–2492.
+    Breslow NE, Day NE. Statistical Methods in Cancer Research. The Analysis of Case–Control Studies. Lyon: International Agency for Research on Cancer, 1980.
+    Rothman KJ. Modern Epidemiology. Boston: Little, Brown and Co., 1986.
+    Wilkinson E, Clopton C, Gordonson J, et al. Mammographic parenchymal pattern and the risk of breast cancer. J Natl Cancer Inst 1977;59:1397–1400.
+    (Additional references as listed in the original article.)

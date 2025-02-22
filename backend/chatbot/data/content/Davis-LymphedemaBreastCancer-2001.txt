@@ -1,0 +1,68 @@
+Lymphedema After Breast Cancer Treatment
+Author(s): Bonnie S. Davis, DNS, RN, CS
+Source: The American Journal of Nursing, Apr. 2001, Vol. 101, No. 4, pp. 24AAAA+24BBBB+24CCCC+24DDDD
+Published by: Lippincott Williams & Wilkins
+Stable URL: https://www.jstor.org/stable/3522655
+Overview
+
+Earlier detection and treatment have improved breast cancer survival rates. However, as more women live longer after treatment, lymphedema has emerged as an unexpected, yet significant, challenge. Screening for lymphedema is an essential part of nursing practice, and healthcare providers must employ measures to prevent and minimize its development.
+Pathophysiology
+
+Lymphedema following breast cancer treatment is secondary or acquired. It results from damage to or removal of lymph nodes during procedures such as axillary node dissection or from radiation therapy. This disruption impairs lymphatic drainage, leading to accumulation of protein-rich lymph in the interstitial spaces. The lymphatic system—which includes lymph, lymph nodes, and vessels—is responsible for removing proteins, waste products, and pathogens from tissues. When lymph flow is compromised, fluid accumulates and predisposes patients to infections. Additionally, with each subsequent infection, the condition may worsen due to further damage to the lymphatic channels.
+Clinical Manifestations
+
+Lymphedema is typically categorized by its time of onset (acute or chronic) and the severity of symptoms (mild, moderate, or severe):
+
+    Acute Lymphedema:
+    Often occurs within days of surgery and is characterized by pitting edema that may lessen at night and resolve within weeks. Patients may notice swelling, tightness, or a feeling of heaviness in the affected limb.
+
+    Chronic Lymphedema:
+    If acute lymphedema is untreated or undertreated, it can progress to chronic forms. In chronic cases, the affected limb may become fibrotic and brawny with less pitting. Severe lymphedema may lead to pain, loss of skin elasticity, numbness, decreased mobility, and increased susceptibility to cellulitis. Often, once established, lymphedema is a lifelong condition.
+
+Risk Factors and Prevention
+
+Several factors contribute to the risk of developing lymphedema:
+
+    Surgical Factors:
+    Axillary node dissection (removal of a few or all nodes) and radiation therapy increase risk.
+    Lifestyle Factors:
+    Injury, infections, and even air travel have been implicated. For instance, high altitude or prolonged cabin pressure during flights may trigger or worsen lymphedema.
+    Preventive Measures:
+    Early identification and patient education are vital. Patients at risk should be advised to avoid activities or items that could constrict the affected limb (such as tight clothing, heavy shoulder bags, or restrictive jewelry) and to take precautions (e.g., protective measures during air travel or sports).
+
+Management
+
+Management of lymphedema is multifaceted, including:
+
+    Manual Lymph Drainage (MLD):
+    A specialized massage technique designed to stimulate lymphatic flow and reduce fluid accumulation.
+    Compression Therapy:
+    The use of compression sleeves, garments, or bandages (such as the Jobst or Reid sleeve) helps to maintain reduced swelling. Adjustments are necessary as the limb size changes.
+    Exercise and Self-Care:
+    Gentle, rhythmic exercises—often combined with compression—can help promote lymph drainage. Patients are advised to perform activities such as using hand pumps or arm bicycles and to elevate the limb when possible.
+    Skin Care and Infection Prevention:
+    Proper skin hygiene and prompt treatment of any signs of infection (e.g., redness, pain, fever) are critical to prevent complications.
+    Advanced Treatments:
+    In some cases, complete decongestive physiotherapy (CDP) is employed, involving an in-depth assessment, dietary modifications, and supervised exercise regimens.
+
+It is important to note that the management of lymphedema is not standardized, and while effective, many therapies are time-consuming and expensive. Research continues into less invasive techniques, such as sentinel node biopsy, which may reduce the risk of lymphedema by preserving more lymphatic function.
+Implications for Nurses
+
+Nurses play a crucial role in the early detection, management, and prevention of lymphedema. Key responsibilities include:
+
+    Assessment:
+    Regular measurement of arm circumference (with differences of 1–1.5 cm used as a diagnostic indicator) and risk assessment during hospital admission.
+    Patient Education:
+    Informing patients about their risk, prevention strategies, and self-care techniques is vital. Nurses should provide individualized guidelines that are both practical and easy to follow.
+    Advocacy and Research:
+    Nurses are also instrumental in developing institutional policies, advocating for standardized care protocols, and participating in research to improve treatment outcomes and expand access to certified lymphedema therapists.
+
+Selected References
+
+    Brennan MJ, et al. Focused review: postmastectomy lymphedema. Arch Phys Med Rehabil 1996;77(3 Suppl):S74–80.
+    Casley-Smith JR. Lymphedema initiated by aircraft flights. Aviat Space Environ Med 1996;67(1):52–56.
+    Casley-Smith JR, et al. Treatment for lymphedema of the arm—the Casley-Smith method: a noninvasive approach. Cancer 1998;83(12 Suppl American):2843–60.
+    Flett MM, et al. Sentinel node localization in patients with breast cancer. Br J Surg 1998;85(7):991–993.
+    Granda C. Nursing management of patients with lymphedema associated with breast cancer therapy. Cancer Nurs 1994;17(3):229–235.
+
+(Additional references are provided in the full article.)

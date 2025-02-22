@@ -1,0 +1,82 @@
+HER2 Evaluation and Its Impact on Breast Cancer Treatment Decisions
+Author(s): K.A.B. Goddard, S. Weinmann, K. Richert-Boe, C. Chen, J. Bulkley, and C. Wax
+Source: Public Health Genomics, Vol. 15, No. 1 (2012), pp. 1–10
+Published by: S. Karger AG
+Stable URL: https://www.jstor.org/stable/10.2307/26686591
+Overview
+
+This study examines the real-world uptake and use of HER2 testing among breast cancer patients and its impact on treatment decisions—specifically the use of trastuzumab. HER2, a gene influencing cell growth and division, is amplified in 18–20% of breast cancers. Amplification is associated with aggressive tumor behavior and poorer outcomes. As trastuzumab specifically benefits patients with HER2-positive tumors, accurate and systematic HER2 evaluation is critical for guiding therapy.
+Abstract
+
+Background:
+Abnormal amplification of the Human Epidermal growth factor Receptor 2 (HER2) gene occurs in approximately 18–20% of breast cancers and is linked to rapid tumor proliferation and poorer survival outcomes. Trastuzumab, an effective but expensive and potentially cardiotoxic drug, targets HER2-positive cancers. This study investigates how HER2 testing is being implemented in a large managed care setting and how test results guide treatment decisions.
+
+Methods:
+Electronic data were analyzed for 3,634 patients with invasive breast cancer diagnosed from 1998 to 2007 within Kaiser Permanente Northwest (KPNW), an integrated healthcare delivery system. Data on patient and tumor characteristics, HER2 testing status (via immunohistochemistry [IHC] and fluorescence in situ hybridization [FISH]), test results, and trastuzumab treatment were collected. The study also reviewed the appropriateness of testing and the correlation between HER2 status and the subsequent use of trastuzumab.
+
+Results:
+
+    HER2 testing uptake increased dramatically among patients with invasive breast cancer from 12% in 1998 to over 94% by 2000, with sustained high evaluation rates (>94%) thereafter.
+    A small proportion (approximately 15%) of patients with noninvasive breast cancer received HER2 testing, consistent with clinical guidelines.
+    Trastuzumab use increased five-fold after 2004 when guidelines expanded its indication to include adjuvant treatment for early-stage breast cancer.
+    Among patients treated with trastuzumab, 95% had a positive HER2 result. After 2004, 55% of women with invasive breast cancer and HER2 overexpression received trastuzumab, with usage rates ranging from 44% in localized disease to 80% in distant metastatic disease.
+
+Conclusions:
+The findings indicate appropriate and effective implementation of HER2 testing in this managed care setting. Test results are used reliably to guide trastuzumab treatment decisions, ensuring that nearly all patients receiving the drug are appropriate candidates. This study underscores the value of integrating comprehensive electronic medical records to facilitate the use of advanced genomic tests in clinical practice.
+Methods
+
+    Study Population:
+    The study included women with a primary diagnosis of breast cancer between January 1, 1998, and December 31, 2007, treated within Kaiser Permanente Northwest (KPNW). Patients with missing tumor stage data or those who opted out of genetic research were excluded.
+
+    Data Collection:
+    Data were abstracted from KPNW’s centralized tumor registry, electronic medical records, and pharmacy databases. Variables collected included patient demographics, tumor characteristics (e.g., stage, nodal status), HER2 testing status and results (IHC and FISH), and trastuzumab treatment records.
+
+    HER2 Testing Protocol:
+    Initially (1998–2000), KPNW used IHC as the primary test for HER2 evaluation, with FISH reserved for clarifying equivocal or positive IHC results. After October 2007, FISH testing became the primary test. Test results were categorized as negative, equivocal, or positive based on established criteria.
+
+    Analysis:
+    Descriptive statistics were generated using R software (version 2.6.2). Data were further validated through manual chart reviews in targeted subsets to assess the accuracy of HER2 test reporting and to confirm treatment decisions regarding trastuzumab.
+
+Results
+
+    Uptake of HER2 Testing:
+    The proportion of invasive breast cancer patients evaluated for HER2 increased from 12% in 1998 to over 94% by 2000, remaining high in subsequent years. Only a very small percentage (approximately 2.5–3%) of invasive cases were not tested after accounting for registry errors.
+
+    Testing Methods:
+    The majority (96%) of HER2 evaluations were performed using IHC. FISH testing was introduced later and, after 2004, was used either as a confirmatory test or as the primary testing method following a protocol change.
+
+    Trastuzumab Treatment Patterns:
+    Overall, 14% of patients evaluated for HER2 were found to be positive. Among those, 81% of patients receiving trastuzumab had a positive HER2 test result. After 2004, trastuzumab use increased significantly, with 55% of HER2-positive patients receiving the treatment. Treatment rates varied with disease stage, from 44% in localized disease to 80% in metastatic cases.
+
+    Test Concordance:
+    Chart reviews indicated high concordance between IHC and FISH test results, although some discrepancies were noted—particularly in cases with equivocal IHC findings.
+
+Conclusions
+
+The study demonstrates that in an integrated healthcare system like KPNW:
+
+    HER2 testing is performed systematically on appropriate breast cancer patients.
+    Test results are effectively used to guide trastuzumab treatment decisions.
+    The majority of patients receiving trastuzumab are HER2-positive, with minimal inappropriate treatment.
+
+These findings highlight the potential of well-integrated electronic medical records to enhance the translation of genomic testing into routine clinical practice.
+Implications
+
+    Clinical Practice:
+    Accurate HER2 evaluation is crucial for optimizing treatment decisions and ensuring that costly therapies like trastuzumab are used appropriately.
+
+    Health Systems:
+    Integrated healthcare systems with robust electronic records can facilitate the effective implementation of advanced diagnostic tests and improve communication between pathologists and oncologists.
+
+    Future Research:
+    Further studies in diverse settings are needed to assess the generalizability of these findings and to explore long-term patient outcomes related to HER2-targeted therapies.
+
+Acknowledgments
+
+The authors thank Dr. Mona Ishag (Department of Pathology) and Dr. Mark Hornbrook (Center for Health Research) for their valuable feedback during manuscript preparation. This research was partially supported by a grant from the National Cancer Institute (U19 CA 79689) and was conducted as part of the HMO Cancer Research Network.
+Selected References
+
+Linked references for this article are available on JSTOR:
+https://www.jstor.org/stable/10.2307/26686591?seq=1&cid=pdfreference#references_tab_contents
+
+(A detailed reference list is provided in the original article.)

@@ -1,0 +1,100 @@
+Disparities across the Breast Cancer Continuum
+Author(s): Judy Ann Bigby and Michelle D. Holmes
+Source: Cancer Causes & Control, February 2005, Vol. 16, No. 1, pp. 35–44
+Published by: Springer
+Stable URL: https://www.jstor.org/stable/20069438
+
+JSTOR is a not‐for‐profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. For more information about JSTOR, please contact support@jstor.org. Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use.
+
+Springer is collaborating with JSTOR to digitize, preserve, and extend access to Cancer Causes & Control.
+
+This content was downloaded from 159.146.126.170 on Sat, 22 Feb 2025 15:16:59 UTC.
+All use is subject to https://about.jstor.org/terms.
+Disparities across the Breast Cancer Continuum
+
+Judy Ann Bigby¹²⁴ & Michelle D. Holmes¹³⁴*
+¹ Brigham and Women's Hospital, Department of Medicine, Boston, MA, USA
+² Harvard Medical School's Center of Excellence in Women's Health
+³ Channing Laboratory
+⁴ Harvard Medical School, USA
+
+Received 02 June 2004; revised version accepted 08 July 2004
+
+Key words: breast cancer, health disparities, socioeconomic status, minorities.
+Abstract
+
+Objective:
+We performed a structured review of the literature to identify areas of greater and lesser knowledge regarding disparities across the breast cancer continuum—from risk and prevention to treatment and mortality.
+
+Methods:
+We searched OvidMedline and PubMed to identify published studies from January 1990 to March 2004 that address disparities in breast cancer. Abstracts of the identified articles were read, and articles were reviewed if they were in English, limited to American populations, limited to women, and described quantitative outcomes. The articles were designated as addressing one or more disparities across one or more domains of the breast cancer continuum.
+
+Results:
+Substantial research exists on racial disparities in breast cancer screening, diagnosis, treatment, and survival. Disparities in screening and treatment are also evident across other domains, including age, insurance status, and socioeconomic position. Several gaps were identified, including the interaction of various factors.
+
+Conclusion:
+The structured review suggests that research in other domains of social inequality and along different levels of the cancer continuum may uncover further disparities. A multidisciplinary and multi‐pronged approach is needed to translate existing research into interventions to reduce or eliminate these disparities.
+Introduction
+
+Breast cancer is the most common cancer and the second leading cause of cancer death among U.S. women [1]. For several decades, researchers have documented disparities across several domains in breast cancer risk, incidence, screening, diagnosis, treatment, survival, and mortality. Although there is tremendous public support for increasing efforts to cure breast cancer, such efforts are unlikely to address disparities in risk, treatment, and mortality unless there is a better understanding of the factors that lead to disparities, the populations most affected, and the reasons behind these differences.
+
+We performed a structured review of the literature on disparities across the breast cancer continuum—from risk and prevention to treatment and mortality. A representative sample of the references was taken from the “cancer disparities grid” described in the introductory paper to this series [2] and developed for a workshop held on January 23, 2004, organized by the Cancer Disparities Program in Development of the Dana-Farber Harvard Cancer Center [3]. This grid demonstrates the various domains for disparities across the cancer continuum and can help focus policy, research, and health care interventions. By reviewing the evidence (or lack thereof) for disparities across the continuum, researchers, policymakers, and others can target future research efforts toward filling knowledge gaps and designing strategies to address these disparities.
+Methods
+
+We searched OvidMedline and PubMed to identify published studies from January 1990 to March 2004 that address disparities in breast cancer. A committee from the Dana-Farber/Harvard Cancer Center’s Cancer Disparities Program in development agreed upon the domains of cancer disparities and the cancer continuum [2]. The search strategy included breast cancer and disparities, along with specific terms from each domain. Examples of these search terms include:
+
+    Race, ethnicity, and racism: race, ethnicity, blacks, African-Americans, Latino/Hispanic, Asian, Pacific Islander, American-Indian, Native American, Alaska Native, culture, minorities, discrimination.
+    Socioeconomic position (SEP): socioeconomic status, poverty, education.
+    Sexual orientation: lesbian, homosexual, bisexual.
+    Age: elderly, aged, geriatric.
+    Language: language skill, English proficiency.
+    Literacy: education, reading.
+    Disability: disabled, handicapped.
+    Immigrant status: foreign born, acculturation.
+    Insurance status: insurance, uninsured, Medicaid, Medicare.
+    Geography: urban, rural.
+    Housing status.
+
+In addition, we searched using terms related to the cancer continuum (for example, “mammogram” and “breast cancer”) and terms related to potentially modifiable risk factors (such as menarche, age at first birth, parity, physical activity, breast feeding, obesity, ethanol, and hormone replacement therapy) as reviewed by Willett et al. [4]. Abstracts were reviewed if the articles were in English, focused on American populations and women, and described quantitative outcomes. Articles that were methodologically sound and related to disparities were selected, and major conclusions were summarized. References of selected papers and review articles were also examined to identify additional reports.
+Results
+
+A vast literature exists on disparities across the breast cancer continuum (see Table 1 of the original article). However, our review revealed important gaps in knowledge. Most of the existing research focuses on racial disparities between black and white women, though limited data exist on disparities involving other racial or ethnic minority groups. In addition, significant data on disparities related to educational attainment, marital status, and other factors have been reported. Limited or no data exist regarding disparities in breast cancer related to sexual orientation, language, literacy, and housing.
+
+Most available data pertain to screening, diagnosis, treatment, and survival. There are relatively few studies examining prevention, etiology, and access to clinical trials.
+
+Race, Ethnicity, and Racism:
+Numerous studies document disparities across the cancer continuum for women from racial and ethnic minority groups. Many studies control for other factors and demonstrate race or ethnicity as an independent risk factor. Racism indirectly affects health through its influence on social structures (e.g., education, employment, and housing) and acts as a significant stressor with psychological, social, and physiological consequences that can affect breast cancer risk, treatment, and survival. Some studies have begun to explore the association between perceived racism and breast cancer treatment outcomes [5–7].
+
+Prevention:
+Differences in the prevalence of breast cancer risk factors by race or ethnicity suggest that preventing disparities may be possible by modifying these factors. For instance, reproductive factors such as earlier age at menarche, age at first full-term pregnancy, parity, and breast feeding differ between black and white women, possibly explaining higher breast cancer rates among younger black women [8]. Other factors such as physical activity, diet, and obesity have also been linked to disparities in risk.
+
+Screening:
+Lower rates of mammography screening among black women have been documented, which contributes to later stage diagnoses. While some studies have shown similar screening rates after controlling for clinical factors, others have noted within-group disparities, with minority women less likely to follow up abnormal screening results [14–18].
+
+Treatment:
+Appropriate treatment depends on clinical factors such as menopausal status, tumor size, stage, lymph node involvement, and hormone receptor status. Research indicates that black women and other minority groups are less likely to receive breast-conserving surgery (BCS), appropriate radiation therapy, and optimal chemotherapy dosage compared to white women [29–32].
+
+Survival and Mortality:
+Studies consistently show that black and American-Indian women have poorer breast cancer survival compared with Hispanic and white women [20, 33–36]. The five-year survival rate is approximately 86% for white women versus 71% for black women. Socioeconomic factors such as insurance status, educational attainment, and neighborhood characteristics are also associated with disparities in both treatment and survival outcomes [37–39].
+
+Other Domains:
+There are limited data on disparities related to sexual orientation, language, literacy, disability, immigrant status, and housing. For example, lesbian and bisexual women may have a higher prevalence of risk factors, yet little is known about how these intersect with breast cancer outcomes [55–57]. Similarly, disparities in access to clinical trials, geographic variations, and the impact of insurance status have been documented, though additional research is needed to clarify these associations [58–60].
+Discussion
+
+This structured review confirms that substantial research exists on breast cancer disparities, particularly regarding screening, treatment, and survival. The “cancer disparities grid” serves as a useful visual aid to quickly assess areas of greater or lesser knowledge. However, the grid does not reflect the nature of the research (e.g., descriptive, causal, or intervention studies) within each cell. Although racial and ethnic disparities have received significant attention, notable gaps remain in understanding disparities across other domains of social inequality.
+
+The evidence suggests that multiple factors interact to contribute to increased risk and poorer outcomes in vulnerable populations. A multidisciplinary and multi-pronged approach is needed to translate these research findings into effective interventions. These interventions will likely require changes in social policy and health care access, improved understanding of cancer etiology and risk factors, and enhanced treatment strategies to address the documented disparities.
+References
+
+    American Cancer Society (2003) Cancer Facts and Figures 2003. Accessed at www.cancer.org on March 1, 2004.
+    Krieger N. Defining and investigating social disparities in cancer: critical issues. Cancer Causes Control (submitted).
+    Krieger N, Emmons KE, Burns White K. Cancer disparities: developing a multidisciplinary research agenda. Preface. Cancer Causes Control (submitted).
+    Willett WC, Rockhill B, Hankinson SE, Hunter DJ, Colditz G (2004) Epidemiology and nongenetic causes of breast cancer. In: Harris Jr. LME, Osborne CK, eds. Diseases of the Breast. Philadelphia: Lippincott Williams and Wilkins, pp. 223–276.
+    Clark R, Anderson NB, Clark VR, Williams DR (1999) Racism as a Stressor for African Americans: a biopsychosocial model. Am J Public Health 92: 1144–1150.
+    Moore RJ (2001) African American women and breast cancer: Notes from a study of narrative. Cancer Nurs 24: 35–42.
+    Mandelblatt JS, Edge SB, Meropol NJ, et al. (2003) Predictors of long-term outcomes in older breast cancer survivors: perceptions versus patterns of care. J Clin Oncol 21: 855–863.
+    Bernstein L, Teal CR, Joslyn S, Wilson J (2003) Ethnicity-related variation in breast cancer risk factors. Cancer Epidemiol Biomarkers Prev 12: 222–229.
+    Forshee RA, Storey ML, Ritenbaugh C (2003) Breast cancer risk and lifestyle difference among premenopausal and postmenopausal African American women and white women. Cancer Causes Control 12: 280–288.
+    Mayberry RM, Stoddard-Wright C (1992) Breast cancer risk factors among black and white women. Am J Epidemiol 136: 1445–1456.
+    …
+    (Additional references continue as listed in the original article.)

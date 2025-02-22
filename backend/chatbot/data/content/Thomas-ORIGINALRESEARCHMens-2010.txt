@@ -1,0 +1,63 @@
+Title: Is Survival among Women Diagnosed with Breast Cancer Influenced by Family History of Breast Cancer?
+Authors: Martha L. Slattery, T. Dennis Berry, and Richard A. Kerber
+Source: Epidemiology, November 1993, Vol. 4, No. 6, pp. 543–548
+Publisher: Lippincott Williams & Wilkins
+Stable URL: https://www.jstor.org/stable/3702810
+Overview
+
+This study investigates whether the survival of women diagnosed with breast cancer is influenced by their family history of the disease. Using data from the Utah Population Database—which links genealogy, cancer registry, and vital statistics data—the authors examined various definitions of family history to determine if having female relatives (especially a mother or a high number of female relatives with breast cancer) affects survival outcomes.
+Background & Rationale
+
+    Breast Cancer and Family History:
+    Prior research has noted that women with a family history of breast cancer may exhibit different survival patterns compared to those without such a history. However, it is unclear whether these differences are due to genetic factors (e.g., inherited mutations in BRCA1 or BRCA2), differences in tumor biology, or other related factors.
+
+    Data Source:
+    The Utah Population Database offers a unique resource because it contains extensive genealogical information spanning up to seven generations. This allows for a comprehensive assessment of family history beyond simply first-degree relatives.
+
+Methods
+
+    Study Population:
+    The analysis included 4,083 women diagnosed with a first primary breast cancer, with survival data obtained from the Utah Cancer Registry (which has been in operation since 1972) and vital statistics. Women with unknown stage of disease were excluded from some analyses.
+
+    Family History Definitions:
+    The study explored various measures of family history:
+        Having a first-degree relative (mother, daughter, or sister) with breast cancer.
+        Specifically, having a mother with breast cancer.
+        A kin-weighted measure considering the total number of female relatives with breast cancer, adjusted by kinship coefficients.
+
+    Statistical Analyses:
+    Survival analysis was conducted using Kaplan–Meier estimates and Cox proportional hazards models. These models were adjusted for potential confounders such as age at diagnosis, year of diagnosis, and stage of disease. The researchers also stratified analyses by age at diagnosis (e.g., <50 vs. ≥50 years) to investigate possible differences in survival patterns.
+
+Key Findings
+
+    Overall Survival:
+    The study found that women with a family history of breast cancer (using the comprehensive kin-weighted measure) tended to have shorter median survival compared with those without a family history. In particular, having a mother diagnosed with breast cancer was associated with poorer survival.
+
+    Stratified by Age:
+    The effect of family history was most pronounced in women diagnosed at or before age 50. For these women, the hazard rate ratios (HRRs) indicated a statistically significant increased risk of death. In contrast, among women diagnosed after age 50, the impact of family history on survival was less clear or even suggested a slight protective effect when the indicator was based solely on having a sister with breast cancer.
+
+    Other Family History Measures:
+    Not all measures of family history were equally predictive. The analysis showed that while having a mother with breast cancer and having a large number (over 30) of female relatives with breast cancer were associated with an increased risk of mortality, other indicators (such as having any first-degree relative) were not consistently linked to survival outcomes.
+
+    Adjustment for Disease Stage:
+    The associations persisted even after adjusting for stage at diagnosis, suggesting that the observed differences in survival were not merely due to differences in how advanced the cancer was at the time of diagnosis.
+
+Discussion
+
+    Interpretation of Findings:
+    The findings suggest that family history—particularly maternal history and extensive female familial involvement in breast cancer—is linked to poorer survival outcomes. The authors discuss the possibility that these associations may reflect a more aggressive disease biology in certain familial cases or other unmeasured factors (e.g., genetic predispositions).
+
+    Limitations:
+    The study acknowledges several limitations:
+        Incomplete family history data due to migration out of state or limitations in the genealogical records.
+        Possible misclassification in the recording of family history.
+        The analysis was based on a population (Mormon families in Utah) that may not be representative of all U.S. populations.
+
+    Implications:
+    The research underscores the importance of considering detailed family history when evaluating prognosis in breast cancer patients. It also highlights the potential need for tailored treatment and surveillance strategies for women with a strong family history of breast cancer.
+
+Conclusion
+
+The study concludes that certain aspects of family history—especially having a mother with breast cancer or an extensive number of affected female relatives—are associated with poorer survival among women diagnosed with breast cancer. These findings persist even after adjusting for known prognostic factors such as stage at diagnosis. The authors suggest that genetic factors or other familial characteristics may influence survival and that further research is needed to explore these associations in more diverse populations.
+
+This detailed summary captures the study's rationale, methodology, key findings, limitations, and implications regarding the influence of family history on breast cancer survival.

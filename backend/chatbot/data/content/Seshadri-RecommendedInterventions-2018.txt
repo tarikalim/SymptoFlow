@@ -1,0 +1,94 @@
+Copenhagen Consensus Center Report: Recommended Interventions
+A Benefit-Cost Analysis of Screening and Treatment for Non-Communicable Diseases: the case for Rajasthan
+Authors: Shreelata Rao Seshadri and Vijayalakshmi Hebbare
+Published by: Copenhagen Consensus Center (2018)
+Stable URL: https://www.jstor.org/stable/resrep23687.10
+Detailed Summary
+1. Context and Rationale
+
+    State Profile:
+    Rajasthan presents a mixed picture regarding NCD risk factors. While only about 14% of women and 13% of men are overweight/obese (roughly one–third lower than the all-India average), other risk indicators such as elevated blood sugar and hypertension are also lower than national averages.
+    Screening Gaps:
+    Despite relatively lower biological risk factors, screening for cancers remains very low—less than 20% of women have undergone a cervical examination and fewer than 5% a breast examination.
+    Health System Challenges:
+    As Rajasthan is classified as one of the Empowered Action Group states, its challenges in health system capacity, quality of care, and access demand urgent and focused interventions despite the lower prevalence of certain risk factors.
+
+2. Foundational Assumptions for Interventions
+
+The report bases its recommendations on several key assumptions aligned with World Health Assembly targets and the national program for the control of NCDs (NPCDCS):
+
+    Delivery Platform:
+    All interventions will be implemented through the existing primary healthcare network but centered at Primary Health Centers (PHCs) rather than at Subcenters. Community health workers (CHWs), including ANMs/ASHAs, will be central to outreach and mobilization.
+    Target Age Group:
+    Uniformly targeting individuals aged 30–69 years simplifies communication and implementation.
+    Community Engagement:
+    Local resources (e.g., Self-Help Groups, cooperative societies, panchayats) will be leveraged for awareness-raising and mobilizing target groups.
+
+3. Overview of Selected Interventions and Cost Estimates
+
+The report presents detailed benefit–cost analyses for several interventions with associated cost components, including direct medical costs, private costs, and opportunity costs. The key interventions include:
+
+A. Cardiovascular Disease (CVD) Screening and Treatment Using a Polypill
+
+    Intervention Design:
+    A secondary prevention strategy that involves screening to identify individuals at high risk (using common risk factors such as tobacco use, blood pressure, weight, age, and sex) followed by treatment with a “polypill” (a fixed-dose combination of medications such as aspirin, ACE inhibitors, beta blockers, and statins).
+    Assumptions:
+        70% screening coverage with 60% treatment adherence.
+        The strategy is based on evidence from trials (e.g., UMPIRE Trial) and cost-effective models.
+    Expected Impact:
+    – A projected reduction of approximately 20% in high-risk CVD deaths in the 30–69 age group over a 13-year period.
+    Cost Estimates:
+    – Detailed in Table 4, with costs expressed in INR; these include screening, treatment, and supportive care expenses.
+
+B. Diabetes Screening and Treatment with Metformin
+
+    Intervention Design:
+    Routine screening for elevated blood sugar among the target population, followed by treatment with Metformin (850 mg twice daily) for those identified with diabetes or prediabetes.
+    Assumptions:
+        50% screening coverage annually.
+        An estimated 65% treatment adherence.
+        About 25–31% of those treated will show a positive response within one year.
+    Expected Impact:
+    – Based on national data and cost-effectiveness studies, this intervention is projected to avert around 40% of diabetes-related deaths among the targeted age group over the specified period.
+    Cost Estimates:
+    – Presented in Table 5, with average treatment costs estimated separately for males and females, including opportunity costs from wage data.
+
+C. Cervical and Breast Cancer Screening and Treatment
+
+    Cervical Cancer:
+        Intervention:
+        A screen-and-treat approach using simple technologies (Visual Inspection with Acetic Acid and Lugol’s Iodine – VIA/VILI) that can be performed at the primary care level.
+        Assumptions:
+            Approximately 30% of eligible women will attend screening annually in the initial three years.
+            An estimated 8% of women screened are likely to require cryosurgery for cervical lesions.
+        Expected Impact:
+        – Cost models (Table 6) indicate that, with a single-visit screen-and-treat strategy, a significant number of cervical cancer deaths could be averted.
+        Cost Components:
+        – Costs include both screening and treatment (cryosurgery) costs adjusted to 2018 prices.
+
+    Breast Cancer:
+        Intervention:
+        Clinical Breast Examination (CBE) is recommended as a low-cost alternative to mammography in resource-poor settings.
+        Assumptions:
+            50% of eligible women are screened annually.
+            70% of women return for biennial rescreening.
+        Expected Impact:
+        – The intervention is projected to avert approximately 16% of breast cancer deaths.
+        Cost Estimates:
+        – Detailed in Table 7, with the average cost per person screened estimated based on local cost data, including transportation and diagnostic test fees.
+
+4. Overall Impact and Policy Recommendations
+
+    Benefit-Cost Outcomes:
+    The analysis indicates that these interventions are highly cost-effective in Rajasthan, where the absolute numbers of premature deaths due to NCDs are high.
+    Scalability:
+    Because interventions are integrated within the existing primary healthcare infrastructure and leverage community health workers, they are scalable even in resource-limited settings.
+    Strategic Priorities:
+    Prioritizing secondary prevention (treating those already at high risk) and implementing targeted screening programs can substantially reduce mortality from cardiovascular disease, diabetes, cervical cancer, and breast cancer.
+    Broader Implications:
+    The report underscores the need for comprehensive policy planning that includes capacity assessments, coordinated resource allocation, and continuous monitoring and evaluation to ensure equitable and effective early detection and treatment of NCDs.
+
+Conclusion:
+The benefit-cost analysis for Rajasthan demonstrates that, even in a state with risk factor levels lower than the national average, well-designed and efficiently delivered interventions can yield significant public health benefits. The report recommends scaling up integrated interventions—using a polypill for cardiovascular prevention, Metformin for diabetes management, and cost-effective cancer screening (via VIA/VILI for cervical cancer and CBE for breast cancer)—to reduce premature mortality and improve quality of life among the 30–69-year-old population. The detailed cost estimates and assumptions provide policymakers with a robust framework for decision-making and resource allocation.
+
+This summary encapsulates the key components, assumptions, cost estimations, and intervention strategies as outlined in the Copenhagen Consensus Center report on Rajasthan.

@@ -1,0 +1,75 @@
+Methods of Generating State Revenue for Breast Cancer Prevention and Early Detection: An Analysis of Pink Dollars
+Author(s): Amy A. Eyler, Elizabeth A. Dodson, Stephanie Chalifour, and Ross C. Brownson
+Source: Public Health Reports (1974-), September/October 2011, Vol. 126, No. 5, pp. 733–740
+Published by: Sage Publications, Inc.
+Stable URL: https://www.jstor.org/stable/41639425
+Abstract
+
+Objective:
+This study assesses three state-level revenue-generating initiatives—income tax check-offs, specialty license plates, and lottery tickets—as methods to raise funds for breast cancer prevention, early detection, research, and education programs.
+
+Methods:
+An inventory of state legislation permitting these initiatives was conducted. Data on program details (e.g., year of initiation, beneficiary organizations, revenue amounts, and additional fees) were collected from state legislative websites and follow-up phone calls with appropriate state offices or recipient agencies. Logistic regression analyses were performed to compare the presence of these revenue mechanisms with state breast cancer mortality rates, adjusting for factors such as state population and competing programs.
+
+Results:
+
+    Income Tax Check-Offs:
+    Eighteen states had programs allowing taxpayers to voluntarily contribute to breast cancer initiatives via income tax forms. The median annual revenue from these check-offs was approximately $115,000.
+
+    Specialty License Plates:
+    Twenty-six states offered breast cancer specialty license plates. These plates, sold for an extra fee (ranging from $20 to $75, with a mean of $37), generated over $4.1 million in total revenue. The availability of such plates was more common in states with medium to high breast cancer mortality rates.
+
+    Specialty Lottery Tickets:
+    Only Illinois provided a state breast cancer lottery ticket, which raised around $4 million between 2005 and 2009.
+
+States with medium or high breast cancer mortality were about 2.5 times more likely to offer specialty license plates than states with lower mortality rates; no statistically significant differences were observed for income tax check-off programs across mortality tertiles.
+
+Conclusion:
+Revenue-generating initiatives for breast cancer prevention and early detection can be effective strategies for states to raise funds. However, the revenue amounts vary based on population differences, the range of available donation mechanisms, and economic conditions. Moreover, state breast cancer mortality rates may influence the adoption of these initiatives. The study highlights both the potential and the variability of "pink dollars" as a funding source for breast cancer programs.
+Introduction
+
+Breast cancer remains the most common cancer among U.S. women. To mitigate its impact, both federal and state governments have enacted policies to reduce financial barriers to prevention and early detection. Since the passage of the National Breast and Cervical Cancer Screening Act in 1990—and subsequent legislation—the concept of using targeted revenue-generating mechanisms (termed “pink dollars”) has emerged. These initiatives allow states to raise funds through voluntary contributions on income tax forms, the sale of specialty license plates, and even lottery tickets, with proceeds earmarked for breast cancer research, education, and early detection programs.
+Methods
+
+    Data Collection:
+    An inventory was compiled of state legislation that permits revenue generation through income tax check-offs, specialty license plates, and lottery tickets. Information was obtained using a Web-based legislative information provider (Netscan) and through follow-up phone calls to state offices.
+
+    Variables Examined:
+    Details included the year of program initiation, beneficiary organizations, additional fees imposed (for example, the extra cost charged on license plates), and the revenue generated from these initiatives. Breast cancer mortality rates were extrapolated from the U.S. Cancer Statistics (1999–2005) and adjusted to the 2000 U.S. standard population, with states categorized into tertiles of high, medium, and low mortality.
+
+    Analysis:
+    Logistic regression models were used to compare the availability of these revenue-generating methods with state breast cancer mortality rates. The models reported odds ratios (ORs) with 95% confidence intervals (CIs).
+
+Results
+
+    Income Tax Check-Offs:
+        Eighteen states offered a voluntary check-off option on personal income tax forms.
+        The median annual revenue from these check-offs was approximately $115,000, although amounts varied widely by state.
+
+    Specialty License Plates:
+        Twenty-six states had breast cancer specialty license plates.
+        Additional fees for these plates ranged from $20 to $75 (mean = $37), generating more than $4.1 million in total revenue.
+        States with higher breast cancer mortality rates were 2.5 times more likely to offer specialty license plates than those with lower rates.
+
+    Specialty Lottery Tickets:
+        Only Illinois had a breast cancer-specific lottery ticket, which raised about $4 million between 2005 and 2009.
+
+    Additional Observations:
+        The revenue from these initiatives is influenced by state population size and the competitive landscape (e.g., the number of other plates or check-offs offered).
+        Economic conditions also play a role, as donations may decline during downturns.
+
+Discussion
+
+The study demonstrates that state revenue-generating initiatives can effectively fund breast cancer prevention and early detection programs. However, variability in revenue amounts suggests that these methods are not uniformly successful across states. Factors such as state population, the presence of other donation mechanisms, and economic conditions can influence the total funds raised. Furthermore, states with higher breast cancer mortality rates tend to adopt more aggressive revenue strategies, such as specialty license plates, perhaps reflecting a greater public demand for enhanced prevention and research programs in areas with higher disease burden.
+Conclusions
+
+Revenue-generating mechanisms—specifically income tax check-offs, specialty license plates, and specialty lottery tickets—offer states innovative means to raise funds for breast cancer-related initiatives. Although the amounts raised vary considerably, these programs represent a valuable strategy to support breast cancer prevention, early detection, and research. Future research should explore the factors influencing revenue variability and assess long-term impacts on breast cancer outcomes.
+Acknowledgments
+
+The authors acknowledge the contributions of state legislative offices and recipient agencies for providing program details and revenue data. This study was part of a larger project examining state-level strategies for funding breast cancer programs.
+Selected References
+
+Linked references for this article are available on JSTOR:
+https://www.jstor.org/stable/41639425?seq=1&cid=pdfreference#references_tab_contents
+
+(A detailed reference list is provided in the original article.)

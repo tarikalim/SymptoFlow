@@ -1,0 +1,79 @@
+Body fat distribution and breast cancer risk: findings from the Nigerian breast cancer study
+Author(s): Temidayo O. Ogundiran, Dezheng Huo, Adeniyi Adenipekun, Oladapo Campbell, Rasaaq Oyesegun, Effiong Akang, Clement Adebamowo, and Olufunmilayo I. Olopade
+Source: Cancer Causes & Control, Vol. 23, No. 4 (April 2012), pp. 565–574
+Published by: Springer Nature
+Stable URL: https://www.jstor.org/stable/41472457
+Detailed Overview
+Background and Rationale
+
+    Global and Local Context:
+        Breast cancer incidence is rising in developing countries such as Nigeria.
+        Although overall obesity is an established risk factor for breast cancer, the role of fat distribution—particularly central (abdominal) obesity—remains less clear.
+        African populations may have different patterns of fat deposition compared with Western populations, with some evidence suggesting lower visceral fat for a given BMI.
+
+    Study Objective:
+        To investigate the relationship between body fat distribution—measured by waist circumference, hip circumference, and waist/hip ratio (WHR)—and the risk of invasive breast cancer in Nigerian women.
+        To determine whether central adiposity independently affects breast cancer risk, after adjusting for overall obesity (BMI) and other confounders.
+
+Methods
+
+    Study Design:
+        A case-control study conducted between 1998 and 2009.
+        Cases: 1,233 women with invasive breast cancer diagnosed at the University College Hospital, Ibadan, Nigeria.
+        Controls: 1,101 community women from a demographically similar area.
+
+    Data Collection:
+        Structured questionnaires administered by trained research nurses captured demographic, reproductive, and lifestyle information (e.g., age, ethnicity, education, family history, reproductive history, hormone use, alcohol consumption).
+        Anthropometric measurements (weight, height, waist and hip circumferences) were obtained following the WHO MONICA guidelines.
+        BMI was calculated as weight (kg) divided by height squared (m²).
+
+    Statistical Analysis:
+        Logistic regression models were used to compute odds ratios (ORs) and 95% confidence intervals (CIs) for the association between anthropometric measures and breast cancer risk.
+        Models were adjusted for multiple potential confounders (age, ethnicity, education, reproductive factors, family history, benign breast disease, hormonal contraceptive use, alcohol consumption, and height).
+        Additional adjustments were made for BMI and hip circumference when assessing waist circumference and WHR.
+        Multiple imputation methods were used to address missing data, and interactions (e.g., between WHR and BMI) were examined.
+
+Results
+
+    Waist Circumference:
+        Women in the highest quartile (90–138 cm) had a significantly higher breast cancer risk compared with those in the lowest quartile (45–73 cm).
+        In the overall analysis, the adjusted OR for the highest versus lowest quartile was 2.39 (95% CI: 1.59–3.60; p-trend <0.001).
+        Similar trends were seen in both premenopausal and postmenopausal subgroups, although the magnitude varied slightly.
+
+    Hip Circumference:
+        An inverse association was observed: higher hip circumference was linked to a reduced breast cancer risk.
+        The adjusted OR for women with hip circumference >108 cm compared to those with 54–92 cm was 0.36 (95% CI: 0.24–0.55; p-trend <0.001).
+
+    Waist/Hip Ratio (WHR):
+        A strong positive association was noted: women in the highest quartile of WHR (>0.87) had an adjusted OR of 2.15 (95% CI: 1.61–2.85; p-trend <0.001) compared with women in the lowest quartile (<0.77).
+        This association was consistent in both premenopausal and postmenopausal women.
+
+    Interaction with BMI:
+        There was a significant interaction between WHR and BMI (p-interaction = 0.016).
+        Among women with a BMI <25 kg/m² (normal weight), the risk associated with a high WHR was stronger (adjusted OR ≈ 2.81) compared with overweight/obese women (BMI ≥25 kg/m²), where the adjusted OR was approximately 1.70.
+
+Conclusions
+
+    Central Adiposity as a Risk Factor:
+        Central obesity—captured by waist circumference and WHR—is significantly associated with an increased risk of breast cancer in Nigerian women, independent of overall obesity.
+        The effect of a high WHR is particularly pronounced in women with a normal BMI, indicating that even among women who are not overweight overall, the pattern of fat distribution (i.e., greater abdominal fat) may elevate risk.
+
+    Protective Role of Hip Circumference:
+        In contrast, greater hip circumference appears to be inversely related to breast cancer risk, suggesting that lower body fat or subcutaneous fat may have a protective effect.
+
+    Implications for Public Health and Future Research:
+        These findings underscore the importance of assessing fat distribution, not just overall obesity, when evaluating breast cancer risk—especially in populations with differing body composition profiles.
+        The study contributes valuable data from an indigenous African population, highlighting potential avenues for targeted prevention strategies and risk assessment tools.
+        Future studies are needed to further elucidate the biological mechanisms behind these associations and to explore the role of central adiposity in breast cancer across diverse populations.
+
+Limitations
+
+    Study Design:
+        As a case-control study, it is subject to potential recall and measurement biases.
+    Measurement Limitations:
+        Waist and hip circumferences are indirect measures of visceral fat; more precise methods (e.g., imaging) might further clarify the association.
+    Generalizability:
+        Findings are specific to the Nigerian population studied and may differ in other ethnic or geographical contexts.
+
+For further details and to access linked references, please visit:
+https://www.jstor.org/stable/41472457

@@ -1,0 +1,55 @@
+https://www.jci.org/articles/view/33295/pdf
+---
+
+**Title: The Process of Metastasisation for Breast Cancer**  
+*Authors: J. Engel et al.*  
+*Published: 2003, European Journal of Cancer*  
+
+**Abstract**  
+The study analyzed clinical data from the Munich Cancer Registry spanning 1978 to 1996 with a median follow-up of 9.4 years. It investigates how metastasis (the spread of cancer), local recurrence, and survival relate to primary tumor characteristics in breast cancer. A central finding is that metastases may begin well before the primary tumor is diagnosed, and the growth of metastases appears to be relatively uniform once initiated. The abstract emphasizes that local recurrence not only indicates the presence of metastasis but may also contribute to further metastatic spread. The authors propose a model that underlines the importance of early detection and optimal local therapy, while also questioning the routine use of extensive axillary surgery and lymph node irradiation.
+
+**Introduction**  
+The introduction outlines the clinical challenge posed by metastasis despite improved local treatments (like radiotherapy after mastectomy). It raises several key questions:
+- Are local recurrence and metastasis independent, or can local recurrence lead to secondary metastasis?
+- When exactly does the metastatic process begin?
+The text mentions historical paradigms (Halsted’s vs. Fisher’s) and introduces the study’s goal: to explore how tumor size (pT category) correlates with the frequency and timing of metastasis, and how local recurrence factors into this process.
+
+**Patients and Methods**  
+This section details the data source (Munich Cancer Registry) and the methodology:
+- Data were collected from nearly population‑based records covering a 20‑year period.
+- The study focuses on invasive breast cancer patients (excluding sarcomas and multiple primary cancers).
+- Tumor size (pT category) was used as a key stratification factor since it best reflects tumor growth.
+- Outcomes measured included distant metastasis (MET), local recurrence (LR), and lymph node recurrence (LNR).
+- Statistical methods (Kaplan–Meier survival analysis, chi-square tests, etc.) were employed to analyze the relationship between tumor characteristics and survival.
+
+**Results**  
+Key findings include:
+- A total of 12,423 patients were analyzed. Metastasis (M1) frequency increased significantly with tumor size—from 1.1% in the smallest tumors (pT1) to 21.1% in the largest (pT4).
+- A linear relationship exists between tumor diameter and the number of positive lymph nodes.
+- Overall survival following the diagnosis of metastasis was relatively homogeneous across different tumor sizes, suggesting that once metastasis is initiated, its growth follows a similar pattern regardless of the primary tumor size.
+- Local recurrence is highlighted as an important indicator of metastasis, with its presence correlating with reduced survival.
+
+**Discussion**  
+The discussion interprets the results and integrates them into a broader clinical context:
+- Tumor size is critical in understanding breast cancer progression; larger tumors are more likely to have initiated metastasis.
+- The study proposes that the metastatic process may start several years before the primary tumor is clinically detected. For instance, the estimated time from metastasis initiation to diagnosis is around 5.8 years.
+- The uniformity of metastatic growth, regardless of tumor size, suggests that early detection of the primary tumor is crucial.
+- Local recurrence is discussed as both an indicator of an existing metastatic process and as a potential trigger for secondary metastasis. Therefore, optimal local control (through surgery and radiotherapy) is emphasized.
+
+**Concluding Remarks**  
+The authors conclude that:
+- Breast cancer is likely systemic at the time of diagnosis for many patients.
+- Early detection and aggressive local therapy can have significant benefits in reducing mortality.
+- The findings challenge the necessity of extensive lymph node dissection and irradiation, suggesting that these procedures might be reduced without compromising outcomes.
+- The proposed metastasis model may be applicable to other solid tumors and has implications for future research and clinical practice.
+
+**Implications for Clinical Practice and Research**  
+The study emphasizes:
+- The importance of early detection and the potential benefits of breast-conserving therapy when local control is achieved.
+- That systemic therapies have limitations once metastasis has been initiated.
+- The need to re-evaluate the role of axillary dissection and lymph node irradiation.
+- How a better understanding of the timing and process of metastasis could guide the development of more effective treatment strategies and screening protocols.
+
+---
+
+T

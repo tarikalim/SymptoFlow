@@ -1,0 +1,35 @@
+The CDK4/6 inhibitor revolution — a game-changing era for breast cancer treatment
+
+Authors:
+Laura Morrison; Sibylle Loibl; Nicholas C. Turner
+
+Citation:
+Nature Reviews Clinical Oncology | Volume 21 | February 2024 | Pages 89–105
+DOI: https://doi.org/10.1038/s41571-023-00840-4
+
+Article Type: Review article (Check for updates)
+
+Abstract Summary:
+Cyclin-dependent kinase (CDK) 4/6 inhibitors, when combined with endocrine therapy, have become the standard-of-care for patients with advanced hormone receptor-positive, HER2 non-amplified (HR+HER2–) breast cancer and are also being used in the adjuvant setting for high-risk early stage disease. Despite their remarkable impact on progression-free survival, challenges remain regarding acquired resistance, patient selection, optimal treatment timing, and sequencing. This review outlines the biological rationale for targeting CDK4/6, summarizes the most recent clinical evidence—including comparisons among the approved inhibitors—and discusses future research directions to overcome resistance and refine treatment strategies.
+
+Key Sections:
+
+    CDK4/6 and the cell cycle
+    CDK4/6 in breast cancer
+    Role of CDK4/6 inhibitors in antitumour immunity
+    Comparing clinically approved CDK4/6 inhibitors
+    CDK4/6 inhibitors in patients with HR+ breast cancer and in other subtypes
+    Biomarker analysis and mechanisms of acquired resistance
+    Treatment strategies after CDK4/6 inhibition
+    Future directions and conclusions
+
+Affiliations:
+
+    Breast Cancer Now Research Centre, The Institute of Cancer Research, London, UK
+    Breast Unit, The Royal Marsden Hospital, London, UK
+    German Breast Group, Goethe University, Frankfurt, Germany
+
+Contact:
+For correspondence, please email: nick.turner@icr.ac.uk
+
+For further details and updates, visit the article online at: https://doi.org/10.1038/s41571-023-00840-4

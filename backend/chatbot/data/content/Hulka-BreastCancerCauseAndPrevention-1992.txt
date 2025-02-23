@@ -1,0 +1,79 @@
+https://www.sciencedirect.com/science/article/pii/S0140673695927131
+---
+
+### Overview and Importance
+- **Prevalence and Impact:**  
+  Breast cancer is one of the most common cancers in women worldwide and is the second most common cancer overall. In developed countries it is the most common among women, and by the year 2000 it was estimated to cause about 500,000 deaths annually.
+
+- **Prevention Challenges:**  
+  While many risk factors for breast cancer have been identified, preventing the disease is difficult because many of these factors (such as age and endogenous hormone levels) are intrinsic and not easily modified.
+
+---
+
+### Risk Factors for Breast Cancer
+
+1. **Genetic and Familial Factors:**
+   - **Family History:**  
+     Having a first‐degree relative with breast cancer increases risk by two to three times. Early onset in a family member (diagnosis before age 40–45) further elevates the risk.
+   - **High-Penetrance Genes (e.g., BRCA1/BRCA2):**  
+     Mutations in these genes account for a minority (about 10–15%) of all breast cancer cases but confer a high lifetime risk (up to 85% for BRCA1 carriers).
+
+2. **Hormonal Influences:**
+   - **Endogenous Hormones:**  
+     - Early menarche (before age 13) and late menopause (after age 55) increase lifetime exposure to estrogen.
+     - Nulliparity (having no children) or a first full-term pregnancy at a later age also increase risk.
+   - **Exogenous Hormones:**  
+     - Use of oral contraceptives is associated with a slight increase in risk for younger women.
+     - Hormone replacement therapy (especially estrogen alone) in postmenopausal women can elevate the risk by 40–50%.
+
+3. **Lifestyle Factors:**
+   - **Obesity:**  
+     In postmenopausal women, increased body fat raises breast cancer risk because adipose tissue converts androgens into estrogen.
+   - **Alcohol Consumption:**  
+     Drinking moderate amounts (e.g., 15 grams or more per day) may increase risk by about 50%.
+   - **Physical Activity:**  
+     Regular exercise appears to have a protective effect, although the optimal type and amount are still under study.
+   - **Diet:**  
+     Some studies have investigated the role of dietary fat, vitamin A, carotenoids, and other micronutrients—with mixed results. There’s ongoing debate about the exact impact of dietary factors.
+
+4. **Environmental Exposures:**
+   - **Ionizing Radiation:**  
+     High-dose chest irradiation (as in treatment for tuberculosis or therapeutic radiotherapy) increases risk.
+   - **Other Exposures:**  
+     Investigations into nonionizing radiation, pesticides, and electromagnetic fields have produced inconsistent results.
+
+5. **Sociodemographic and Cultural Factors:**
+   - Breast cancer incidence tends to be higher in women from developed countries, among those from higher socioeconomic groups, and even varies by ethnicity and country of birth. Migration studies suggest that environmental factors also play a role.
+
+---
+
+### Prevention Strategies
+
+- **Primary Prevention:**
+  - **Genetic Counseling and Testing:**  
+    High-risk individuals (for example, those with a strong family history or known BRCA mutations) can benefit from increased surveillance, preventive measures, or even prophylactic surgeries.
+  - **Hormonal Interventions:**  
+    Managing the use of exogenous hormones (oral contraceptives and hormone replacement therapy) can help, particularly in balancing benefits and risks.
+  - **Lifestyle Modifications:**  
+    - **Weight Management:**  
+      Encouraging weight loss or preventing weight gain in postmenopausal women.
+    - **Reducing Alcohol Intake:**  
+      Limiting alcohol can potentially lower risk.
+    - **Increased Physical Activity:**  
+      Regular exercise not only benefits overall health but may reduce risk.
+  - **Dietary Approaches:**  
+    Although studies are mixed, recommendations to increase fruit and vegetable intake and possibly ensure adequate levels of vitamins (such as vitamin A) and carotenoids are being explored.
+  - **Chemoprevention:**  
+    Agents such as tamoxifen have been studied for their ability to reduce the incidence of breast cancer, particularly in high-risk populations.
+
+- **Secondary Prevention:**
+  - **Screening and Early Detection:**  
+    Mammography and other imaging modalities play a crucial role in detecting breast cancer early. Early diagnosis remains one of the most effective ways to improve outcomes.
+
+---
+
+### Final Thoughts
+The article emphasizes that although many risk factors have been identified—from genetic predispositions to lifestyle and environmental exposures—the prevention of breast cancer is challenging because many risk factors are intrinsic. Multifaceted approaches that combine behavioral modifications, hormonal management, chemoprevention, and early screening are needed to effectively lower breast cancer incidence and mortality.
+
+---
+

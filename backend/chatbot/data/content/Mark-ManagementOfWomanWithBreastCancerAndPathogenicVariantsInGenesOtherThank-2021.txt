@@ -1,0 +1,34 @@
+Mark-ManagementOfWomanWithBreastCancerAndPathogenicVariantsInGenesOtherThank-2021
+
+---
+
+### Summary of the Presentation
+
+**Case Overview:**  
+A 47‐year‐old premenopausal woman presented with a 1.2 cm palpable breast mass. Her family history was notable for a paternal aunt with postmenopausal estrogen receptor–positive breast cancer and a paternal grandmother with ovarian cancer. A core needle biopsy confirmed a moderately differentiated infiltrating ductal carcinoma. Immunohistochemistry showed that her tumor was strongly positive for estrogen receptors (99%), moderately positive for progesterone receptors (55%), and negative for HER2 (11%). Genetic testing revealed a pathogenic variant in the ATM gene (c.538C>T, leading to a premature stop codon).
+
+**Key Diagnostic and Management Challenges:**  
+- **Expanded Genetic Testing:**  
+  Since 2013, advances in sequencing have allowed clinicians to test multiple genes at once. This has led to the discovery that, in addition to the well-known high‐risk genes (BRCA1, BRCA2, TP53, etc.), a significant number of women carry mutations in other genes—such as ATM, CHEK2, and PALB2—that confer a moderate increase in breast cancer risk (typically a 2- to 5-fold increase).
+  
+- **Risk Estimation:**  
+  The moderate penetrance genes do not always show a clear pattern in family history, making it difficult to assess risk using traditional pedigree analysis. The risk levels for these genes are lower than those for high‐risk mutations but still important for guiding management decisions.
+
+- **Management of Affected Women:**  
+  Women with breast cancer who carry moderate-risk variants should generally be managed similarly to those without such mutations. For example, in this case, the patient was offered breast-conserving surgery (wide local excision) with sentinel lymph node biopsy rather than more radical surgery.
+  
+- **Risk of Second Cancers and Surveillance:**  
+  Some moderate-risk genes may also be associated with increased risks of other cancers (such as ovarian or pancreatic cancer). However, the overall risk is usually not high enough to warrant more aggressive preventive surgeries (like contralateral mastectomy) solely on the basis of the gene variant. Instead, enhanced screening measures (such as MRI) and discussions about risk-reducing options may be appropriate.
+
+- **Implications for Family Members:**  
+  Recommendations for unaffected relatives often include genetic counseling and testing. For those found to carry these moderate-risk variants, enhanced surveillance (for example, starting MRI screening at age 40) is usually advised, although risk-reducing surgery is generally not recommended unless other risk factors (such as a strong family history) are present.
+
+**Case Outcome:**  
+In the case presented, after discussion of options, the patient chose to undergo breast-conserving surgery with sentinel node biopsy. Her final pathology stage was pT1cN0M0. A 21-gene recurrence score of 16 was obtained, and she elected to receive adjuvant antiestrogen treatment along with radiotherapy.
+
+**Clinical Take-Home Message:**  
+The presentation emphasizes that the management of breast cancer in women with pathogenic variants in moderate penetrance genes (like ATM, CHEK2, or PALB2) should be tailored based on the individual’s overall risk profile. Although these mutations increase breast cancer risk, they generally do not alter standard treatment decisions for the cancer itself. Instead, they highlight the importance of personalized counseling, appropriate surveillance for other potential cancers, and risk management strategies for both affected women and their relatives.
+
+---
+
+This summary is intended to provide a clear understanding of the clinical context, diagnostic challenges, and management strategies discussed in the Oncology Grand Rounds presentation by Dr. Mark Robson.

@@ -1,0 +1,19 @@
+
+### Plain-Language Summary
+
+**Background:**  
+Women who have been diagnosed with breast cancer often face the challenge of managing additional chronic conditions, such as type 2 diabetes (T2D). Previous research has shown that T2D can worsen the prognosis of breast cancer. The diabetes risk reduction diet (DRRD) is a specific dietary pattern known to lower the risk of developing T2D. This study explored whether following the DRRD after a breast cancer diagnosis is linked with improved survival.
+
+**Study Details:**  
+- **Participants:** The study included 8,482 women diagnosed with stage I–III breast cancer from two large cohort studies (the Nurses’ Health Study and Nurses’ Health Study II).
+- **Diet Assessment:** Participants provided detailed dietary information using validated food frequency questionnaires. The researchers calculated a DRRD score based on nine dietary components. Higher scores indicated better adherence to a diet that may reduce the risk of T2D (for example, diets higher in cereal fiber, coffee, nuts, whole fruits, and a favorable fat ratio, and lower in high glycemic index foods, trans fats, sugar-sweetened beverages, and red meat).
+- **Follow-Up:** The women were followed for a median of 14 years after their breast cancer diagnosis.
+
+**Key Findings:**  
+- **Lower Mortality with Higher DRRD Scores:** Women with the highest DRRD scores after diagnosis had about a 20% lower risk of dying from breast cancer and a 34% lower risk of dying from any cause compared to those with the lowest scores.
+- **Improvement Matters:** Women who improved their DRRD score from before to after diagnosis experienced a significant reduction in both breast cancer-specific and overall mortality.
+- **Robust Results:** These associations remained strong even after adjusting for factors such as age, changes in body weight, physical activity, smoking, treatment received, and socioeconomic status.
+
+**Conclusion:**  
+The findings suggest that adopting a diet aimed at reducing diabetes risk after a breast cancer diagnosis may improve survival outcomes. In other words, for breast cancer survivors, making healthy dietary changes—especially those that help prevent type 2 diabetes—could be an important part of long-term care.
+

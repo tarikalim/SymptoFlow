@@ -1,0 +1,87 @@
+https://research.ebsco.com/c/657sr5/search/details/ndkc3uvylf?limiters=FT1%3AY%2CRV%3AY&q=breast+cancer
+---
+
+### 1. Introduction and Background
+
+Breast cancer remains the most common cancer among women worldwide and is the leading cause of cancer-related death. Globally, in 2020, approximately 2.3 million new cases and 685,000 deaths were reported, underscoring its critical public health impact. The paper emphasizes that the incidence and fatality rates vary between countries. For instance, according to the Saudi Cancer Registry, a significant proportion of cancer cases in Saudi Arabia involves women—with breast cancer representing about 17.7% of all cancers in the kingdom and 31.8% among Saudi females. In the Makkah region, breast cancer constitutes around 32% of all cancer cases, with an age-standardized rate of 36.9 cases per 100,000 and a median diagnosis age of 51 years.
+
+The study also outlines the complexity of breast cancer, which is influenced by genetic variations, environmental risk factors, and lifestyle choices. It notes that factors such as age at diagnosis, age at menarche and menopause, family history, and even socioeconomic variables can contribute to its heterogeneous clinical presentation. Given this diversity, epidemiological research in specific populations—like women in Jeddah—is vital for tailoring prevention strategies and improving early detection efforts.
+
+---
+
+### 2. Materials and Methods
+
+#### Study Design and Data Collection
+
+This retrospective single-center study analyzed data from 196 breast cancer patients diagnosed between 2015 and 2021 at King Abdulaziz University Hospital in Jeddah. The inclusion criterion was a confirmed diagnosis of breast cancer. The study collected comprehensive data, which included:
+
+- **Demographic Variables:** Age, nationality, and marital status.
+- **Health Conditions:** Presence of diabetes, hypertension, heart disease, lung disease, and body mass index (BMI).
+- **Tumor Characteristics:** Tumor size (classified as T1 to T4), location (left, right, or bilateral), grade, histopathological classification (e.g., invasive ductal carcinoma), number of lymph nodes involved, and immunohistochemical (IHC) markers (HER2, progesterone receptor [PR], and estrogen receptor [ER]).
+
+#### Statistical Analysis
+
+To assess the associations between these variables and breast cancer characteristics, the study employed several statistical tests:
+- **Chi-Squared Goodness-of-Fit Test:** Used for evaluating the distribution of demographic variables.
+- **Fisher’s Exact Test and Squared Test for Association:** Applied to assess relationships between categorical variables.
+- **Measures of Association:** Cramer’s V and Kendall’s tau were used to express the strength of any identified associations.
+
+These methods provided a robust framework to explore both the distribution of patient characteristics and the relationships between clinical factors and tumor properties.
+
+---
+
+### 3. Results
+
+#### Demographic Findings
+
+- **Age Distribution:** The majority of patients (78.1%) were between 40 and 69 years old, which was significantly higher than expected, highlighting that middle-aged women are predominantly affected.
+- **Marital Status:** A very high proportion of patients (87.8%) were married.
+- **Nationality:** About 62.2% of the cases involved Saudi nationals, indicating a predominance of local patients in this center.
+
+#### Health Conditions
+
+- **Body Mass Index (BMI):** A striking finding was that 83.0% of the women were classified as overweight or obese—a statistically significant deviation compared to the lean group. In contrast, the prevalence of other conditions such as diabetes (27%), hypertension (19.4%), heart disease (1%), and lung disease (1.5%) did not show similarly strong associations.
+  
+These results suggest that higher BMI may be an important risk factor in this population.
+
+#### Tumor Characteristics
+
+- **Tumor Size and Stage:** Nearly 87% of the tumors were classified as T1 or T2, indicating that most tumors were relatively small at diagnosis.
+- **Tumor Location:** The distribution was nearly equal between the left (51.0%) and right (47.4%) breasts, with a very small percentage being bilateral (1.5%).
+- **Tumor Grade and Histopathology:** A significant majority (61.0%) of the tumors were of grade V. Invasive ductal carcinoma (IDC) was the most common histopathological type, accounting for 81% of cases.
+- **Lymph Node Involvement:** Approximately 75.8% of the patients had 1 to 3 lymph nodes involved, suggesting that early nodal involvement is common.
+- **Receptor Status:** Regarding IHC markers, about 70% of the tumors were HER2 negative, 58% were PR positive, and nearly 93% were classified as non-triple negative. This receptor profile is important as it can guide treatment decisions and prognosis.
+
+---
+
+### 4. Discussion
+
+The findings of this study are consistent with other regional research, reinforcing that the majority of breast cancer cases in Saudi Arabia occur in women aged between 40 and 69. The high prevalence of overweight and obesity among the patients indicates that BMI is likely an influential factor in the development and progression of breast cancer in this population. Obesity has been previously linked to an increased risk of breast cancer and poorer prognosis, possibly due to hormonal imbalances and the effect of adipose tissue on estrogen levels.
+
+The study also provides valuable insights into tumor biology in this group:
+- **Tumor Stage and Grade:** The predominance of T1-T2 tumors suggests that many patients are diagnosed at an early stage, which is promising for treatment outcomes. However, the high percentage of grade V tumors indicates that, despite early detection, tumor aggressiveness might still be a concern.
+- **Receptor Status:** The finding that most tumors are HER2 negative and PR positive has significant clinical implications. It suggests that hormonal therapies might be effective for a large proportion of patients. Moreover, the low percentage of triple-negative breast cancer cases (only about 7%) in this cohort contrasts with global figures (typically 10–15%), which may influence local treatment strategies.
+
+The discussion also contrasts these findings with other regional and international studies. For instance, while studies in the Makkah region and Northern Emirates have found similar associations between obesity and breast cancer incidence, this study reinforces that awareness campaigns and targeted screening should focus on women in the 40–69 age group. Additionally, the lack of significant associations between breast cancer and other conditions like diabetes or hypertension in this study may reflect differences in the patient population or the influence of other unmeasured factors.
+
+---
+
+### 5. Conclusions
+
+In summary, the study concludes that:
+- **Age:** The majority of breast cancer patients in Jeddah are between 40 and 69 years old.
+- **BMI:** There is a significant association between high BMI (overweight/obese) and the incidence of breast cancer. This suggests that weight management could be an important strategy in reducing breast cancer risk.
+- **Tumor Characteristics:** Most tumors are detected at an early size (T1-T2) and are primarily invasive ductal carcinomas. The receptor status (with the majority being HER2 negative and PR positive) provides a basis for treatment planning.
+- **Public Health Implications:** The findings underscore the need for enhanced public awareness about the link between obesity and breast cancer. Screening programs and preventive strategies should target the most affected age groups to improve early detection and treatment outcomes.
+
+The study’s retrospective design and the single-center setting are noted as limitations; however, the consistency of its findings with those of other regional studies highlights its relevance. Further research in larger and more diverse populations is recommended to validate these results and to explore additional factors that may influence breast cancer incidence and outcomes in Saudi Arabia.
+
+---
+
+### 6. References and Future Directions
+
+The paper cites multiple international and regional studies that underscore the multifactorial nature of breast cancer, including genetic, environmental, and lifestyle influences. Future investigations might focus on longitudinal data to better understand the impact of BMI and metabolic health on prognosis and on tailoring prevention programs specific to the demographics of the region.
+
+---
+
+This comprehensive summary captures the essence of the study, detailing its background, methodology, key findings, and the implications for clinical practice and public health. The work by Banjar provides critical insights into the clinicopathological profile of breast cancer in Jeddah and highlights the potential role of obesity in its development, paving the way for targeted interventions and improved patient management. 

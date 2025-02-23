@@ -1,0 +1,48 @@
+https://www.jstor.org/stable/45050272?seq=1
+---
+
+**Epidemiology and Incidence**
+
+- **Global Burden:** Breast cancer is the most common cancer among women worldwide and a leading cause of cancer‐related deaths. In developed countries, it accounts for a significant proportion of new cancer cases, while incidence in less developed regions is lower but rising.
+- **Age Patterns:** Incidence increases steadily with age—rapidly during the premenopausal years (roughly 40–55 years) and then at a slower rate after menopause. Despite rising incidence, overall mortality has stabilized or even declined in some populations, likely due to improved early detection and treatment.
+- **Geographical Variation:** Industrialized regions (e.g., North America, Northern Europe) report higher rates (often 60–100 cases per 100,000 women) compared to parts of Asia and Africa (<40 per 100,000). Migration studies indicate that women moving from low-risk to high-risk areas eventually assume the host country’s incidence profile over generations, underscoring the importance of environmental factors.
+
+---
+
+**Risk Factors**
+
+- **Hormonal Factors (Endogenous):**
+  - **Menstrual History:** Early menarche and late menopause prolong the lifetime exposure to estrogen, which is associated with increased breast cancer risk.
+  - **Reproductive History:** A first full‐term pregnancy at an older age and nulliparity are linked with higher risk, while early full‐term pregnancy and prolonged lactation appear to be protective.
+- **Hormonal Factors (Exogenous):**
+  - **Oral Contraceptives & Hormone Replacement Therapy:** Some studies suggest that long-term use, especially when begun at a young age, may slightly elevate risk, although the absolute risk increase is small and must be balanced against benefits such as reduced ovarian cancer risk.
+- **Genetic Factors:** 
+  - **Family History and Mutations:** Having one or more first‐degree relatives with breast cancer increases risk two to threefold. High‐penetrance gene mutations (e.g., BRCA1 and BRCA2) dramatically elevate lifetime risk, though these account for only about 5–10% of all breast cancer cases.
+- **Lifestyle Factors:**
+  - **Obesity:** Particularly in postmenopausal women, excess adipose tissue increases estrogen production.
+  - **Diet and Alcohol:** High dietary fat and moderate-to-heavy alcohol consumption have been linked to increased risk, while physical activity may reduce risk.
+- **Other Factors:** Environmental exposures (e.g., ionizing radiation), benign breast disease, and sociodemographic variables also play roles.
+
+---
+
+**Prevention and Early Detection**
+
+- **Screening:** 
+  - **Mammography** remains the gold standard for early detection in many settings. In women with dense breasts or those at high genetic risk, supplemental imaging (ultrasound, MRI) may be used.
+  - **Self-Examination and Clinical Examination:** Although the benefit of routine breast self-examination remains debated, education and awareness can promote earlier recognition of changes.
+- **Risk Reduction Strategies:**
+  - **Lifestyle Modifications:** Encouraging weight control, reducing alcohol intake, and increasing physical activity can lower risk.
+  - **Pharmacologic Prevention:** Agents such as tamoxifen and aromatase inhibitors have been used in high-risk populations to reduce incidence.
+  - **Surgical Interventions:** For women with a strong family history or known BRCA mutations, prophylactic surgeries (e.g., bilateral mastectomy and/or oophorectomy) may be considered.
+- **Public Awareness:** Ongoing education is essential to improve knowledge about breast cancer signs, risk factors, and the importance of regular screening, particularly in regions where resources are limited.
+
+---
+
+**Summary**
+
+Breast cancer is a multifactorial disease with its epidemiology shaped by genetic, hormonal, and lifestyle factors. The interplay between early-life hormonal exposures, reproductive history, and environmental influences helps explain international and age-related variations in incidence. Prevention strategies focus on early detection via screening, public education to raise awareness, lifestyle modification, and—when appropriate—risk-reducing pharmacologic and surgical interventions.
+
+This integrated understanding informs both clinical practice and public health strategies aimed at reducing breast cancer incidence and mortality worldwide.
+
+---
+

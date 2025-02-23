@@ -1,0 +1,51 @@
+Pembrolizumab versus Investigator-Choice Chemotherapy for Metastatic Triple-Negative Breast Cancer (KEYNOTE-119): A Randomised, Open-Label, Phase 3 Trial
+
+Authors:
+Eric P. Winer; Oleg Lipatov; Seock-Ah Im; Anthony Goncalves; Eva Muñoz-Couselo; Keun Seok Lee; Peter Schmid; Kenji Tamura; Laura Testa; Isabell Witzel; Shoichiro Ohtani; Nicholas Turner; Stefania Zambelli; Nadia Harbeck; Fabrice Andre; Rebecca Dent; Xuan Zhou; Vassiliki Karantza; Jaime Mejia; Javier Cortes; on behalf of the KEYNOTE-119 investigators*
+
+Citation:
+Lancet Oncology 2021; 22:499–511
+Published Online: March 4, 2021
+DOI: https://doi.org/10.1016/S1470-2045(20)30754-3
+Abstract Summary
+
+Background:
+Pembrolizumab has previously demonstrated durable antitumour activity with a manageable safety profile in metastatic triple-negative breast cancer (mTNBC) in the phase 1b KEYNOTE-012 and phase 2 KEYNOTE-086 trials. KEYNOTE-119 was designed to compare pembrolizumab monotherapy against investigator-choice single-agent chemotherapy as a second-line or third-line treatment in patients with mTNBC.
+
+Methods:
+
+    Design: Randomised, open-label, phase 3 trial conducted at 150 centres in 31 countries.
+    Participants: Adults (≥18 years) with centrally confirmed metastatic triple-negative breast cancer, ECOG 0–1, who had received one or two prior systemic treatments for metastatic disease, had progression on their most recent therapy, and had prior anthracycline or taxane exposure.
+    Stratification: Randomisation (1:1) was stratified by PD-L1 tumour status (combined positive score [CPS] ≥1 vs CPS <1) and history of previous neoadjuvant/adjuvant treatment versus de novo metastatic disease.
+    Interventions:
+        Pembrolizumab Group: Intravenous pembrolizumab 200 mg every 3 weeks for up to 35 cycles.
+        Chemotherapy Group: Investigator-choice single-drug chemotherapy (capecitabine, eribulin, gemcitabine, or vinorelbine) with an enrolment cap per option.
+    Endpoints:
+        Primary Endpoint: Overall survival (OS) analyzed in three groups: patients with PD-L1 CPS ≥10, PD-L1 CPS ≥1, and the overall population.
+        Secondary Endpoints: Progression-free survival (PFS), objective response rate (ORR), disease control rate (DCR), duration of response, and safety.
+
+Results:
+
+    Enrollment: Out of 1098 participants assessed, 622 were randomised (312 to pembrolizumab and 310 to chemotherapy).
+    Follow-up: Median follow-up was approximately 31.4 months.
+    Overall Survival:
+        PD-L1 CPS ≥10 Population:
+            Median OS: 12.7 months (pembrolizumab) vs 11.6 months (chemotherapy)
+            Hazard Ratio (HR): 0.78 (95% CI 0.57–1.06; log-rank p=0.057)
+        PD-L1 CPS ≥1 Population:
+            Median OS: 10.7 months (pembrolizumab) vs 10.2 months (chemotherapy)
+            HR: 0.86 (95% CI 0.69–1.06; log-rank p=0.073)
+        Overall Population:
+            Median OS: 9.9 months (pembrolizumab) vs 10.8 months (chemotherapy)
+            HR: 0.97 (95% CI 0.82–1.15)
+    Safety:
+        Pembrolizumab was associated with fewer high-grade hematological adverse events (e.g., lower incidences of grade 3–4 neutropenia and leukopenia) compared with chemotherapy.
+        Rates of serious adverse events were similar between the groups.
+
+Interpretation:
+Pembrolizumab monotherapy did not significantly improve overall survival compared with investigator-choice chemotherapy in the overall or PD-L1 CPS ≥1 and ≥10 populations. However, exploratory analyses suggested that patients with high PD-L1 expression (CPS ≥20) might derive greater benefit, highlighting the potential for PD-L1 enrichment to guide future treatment strategies. These findings may inform further research on pembrolizumab monotherapy in selected subpopulations and support the rationale for combinatorial treatment approaches in metastatic triple-negative breast cancer.
+
+Funding:
+Funded by Merck Sharp & Dohme.
+
+For full details and supplementary materials, please refer to the online article at https://doi.org/10.1016/S1470-2045(20)30754-3.

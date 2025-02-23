@@ -1,0 +1,70 @@
+Aromatase Inhibitors and Plasma Lipid Changes in Postmenopausal Women with Breast Cancer: A Systematic Review and Meta-Analysis
+Authors: Bálint Bérczi; Nelli Farkas; Péter Hegyi; Barbara Tóth; Dezső Csupor; Balázs Németh; Anita Lukács; László Márk Czumbel; Beáta Kerémi; István Kiss; Andrea Szabó; Gábor Varga; Gábor Gerber; and Zoltán Gyöngyi
+Full Article Link: https://doi.org/10.3390/jcm13061818
+Additional Information:
+• Journal: Journal of Clinical Medicine, 2024, Volume 13, Article 1818
+• Academic Editor: Vanessa Bianconi
+• Received: 21 February 2024
+• Revised: 10 March 2024
+• Accepted: 19 March 2024
+• Published: 21 March 2024
+• Correspondence: zoltan.gyongyi@aok.pte.hu; Tel.: +36-72-501-500 (ext. 38107)
+
+Summary
+This systematic review and meta-analysis evaluates the impact of aromatase inhibitors (AIs) on plasma lipid profiles in postmenopausal women with breast cancer. A total of 15 studies involving 1708 patients were included. The analysis compares changes in serum total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), high-density lipoprotein cholesterol (HDL-C), and triglycerides (TG) at baseline and at 3- and 12-month treatment intervals among patients receiving various AIs (anastrozole [ANA], exemestane [EXE], letrozole [LET]) and, where available, tamoxifen (TMX). Subgroup analyses reveal that 3- and 12-month administrations of LET and EXE lead to undesirable changes in lipid profiles, whereas ANA and TMX show a more favorable impact. Although statistically significant differences are detected, the changes may not be severe enough to induce dyslipidemia in patients without pre-existing cardiovascular comorbidities, as defined by current AHA/ACC guidelines.
+
+Introduction
+Breast cancer remains a major global health challenge, with approximately 60–70% of cases being estrogen receptor-positive (ER+). Postmenopausal women are typically diagnosed during a period when declining estrogen levels affect lipid metabolism. Endocrine therapy for ER+ breast cancer often includes the use of aromatase inhibitors (AIs), which reduce estrogen levels by inhibiting the conversion of androgens to estrogen. However, further estrogen reduction may adversely affect lipid profiles and, consequently, cardiovascular health. This review and meta-analysis aims to systematically assess the effects of third-generation AIs (including both steroidal [EXE] and non-steroidal [ANA, LET] inhibitors) on plasma lipids in postmenopausal women with breast cancer.
+
+Methods
+A comprehensive literature search was conducted across multiple databases (Web of Science, MEDLINE via PubMed, Embase, and the Cochrane Library) on 15 June 2023 using MeSH terms and keywords related to “aromatase inhibitor,” “lipid,” and “breast cancer.” No time restrictions were applied. Records were exported and managed using EndNote software, with duplicates removed both automatically and manually. Eligibility criteria were defined using the PICOS framework:
+• Patients: Postmenopausal women with existing breast cancer or at elevated risk of breast cancer
+• Interventions: Administration of AIs (ANA, LET, EXE)
+• Comparisons: Pre- versus post-treatment lipid levels (and, in some cases, comparison with TMX)
+• Outcomes: Changes in serum TC, LDL-C, HDL-C, and TG
+• Study Design: Prospective studies published in English
+
+Risk of bias was assessed according to the Cochrane Handbook and the PRISMA guidelines, with interrater reliability (Cohen’s κ) calculated. Data extraction included study characteristics, patient demographics, treatment details, and lipid measurements at baseline and subsequent time points. Meta-analyses were performed using a random-effects model (DerSimonian and Laird) to calculate differences in means with 95% confidence intervals (CIs). Heterogeneity was evaluated using Cochrane’s Q and I² statistics.
+
+Results
+Fifteen eligible studies with a total of 1708 patients were included. Studies evaluated the impact of AIs (ANA, EXE, LET) and, in some cases, TMX on fasting serum lipid parameters at 3 and 12 months. Forest plots were generated for each lipid parameter (TC, LDL-C, HDL-C, and TG) and for each time interval. Key findings include:
+• At 3 months, LET administration was associated with a significant increase in serum TC (pooled mean difference of 5.16 mg/dL, 95% CI: 3.47–6.85, p < 0.001) while EXE led to a significant decrease (−6.69 mg/dL, 95% CI: −9.90 to −3.47, p < 0.001). ANA showed a non-significant change (1.95 mg/dL, 95% CI: −3.31 to 7.22, p = 0.46). In the TMX subgroup, TC decreased significantly (−23.17 mg/dL, 95% CI: −39.57 to −6.76, p = 0.006).
+• At 12 months, pooled changes varied by AI type, with EXE and LET showing modest differences in TC levels and TMX again showing a decrease.
+• Similar analyses were performed for LDL-C, HDL-C, and TG. For example, LET increased LDL-C significantly at 3 months (4.43 mg/dL, 95% CI: 2.08–6.79, p < 0.001) while TMX produced a marked decrease (−31.00 mg/dL, 95% CI: −46.90 to −15.09, p < 0.001).
+• Heterogeneity was assessed for each analysis, with I² values ranging from 0% (indicating low heterogeneity) to moderate or considerable values in some subgroups.
+• Subgroup analyses based on treatment duration and specific AI type indicated that the lipid alterations with LET and EXE tend to shift the lipid profile in an undesirable direction, although the overall risk category (as defined by the 2018 AHA/ACC Guideline) often remained unchanged.
+
+Detailed results, including forest plots, funnel plots, and subgroup analyses, are presented in Tables 1–3 and Supplementary Figures S1–S20.
+
+Discussion
+This systematic review and meta-analysis is the first to directly compare the effects of third-generation AIs—steroidal EXE and non-steroidal ANA and LET—on plasma lipid profiles in postmenopausal women with breast cancer. The results indicate that while ANA and TMX tend to improve or maintain favorable lipid profiles, LET and EXE may induce changes (increases in TC and LDL-C or decreases in TG) that are considered undesirable according to current guidelines. Nevertheless, these alterations do not appear to cause severe dyslipidemia in patients without pre-existing cardiovascular risk factors. The clinical significance of these findings is underscored by the need for careful monitoring of lipid profiles in patients receiving AIs, especially those with an unfavorable baseline lipid status or additional cardiovascular risk factors.
+
+Limitations of the meta-analysis include heterogeneity among studies, occasional missing data, and variability in laboratory methodologies. Despite these limitations, robust analytical methods were applied to ensure reliable results.
+
+Conclusions
+In conclusion, this meta-analysis of 15 studies involving 1708 postmenopausal women with breast cancer demonstrates that the impact of aromatase inhibitors on serum lipid profiles is heterogeneous and varies by agent and treatment duration. While LET and EXE tend to alter the lipid profile in a manner that may be undesirable, ANA and TMX show more favorable changes. These findings suggest that in patients without significant pre-existing dyslipidemia, the lipid-altering effects of AIs may be limited; however, patients with cardiovascular risk factors should be monitored closely. Future research should further explore the long-term cardiovascular outcomes of AI therapy and optimize management strategies for lipid alterations.
+
+Author Contributions:
+Conceptualization, B.B. and Z.G.; data curation, B.B., N.F. and Z.G.; formal analysis, B.B. and Z.G.; investigation, B.B., N.F., P.H., D.C., B.N., A.L., L.M.C., B.K., I.K., A.S., G.V., and Z.G.; methodology, B.B., N.F., P.H. and Z.G.; resources, Z.G.; validation, B.B., G.G. and Z.G.; writing—original draft, B.B., N.F. and Z.G.; writing—review and editing, B.T., D.C., B.N., A.L., L.M.C., B.K., I.K., A.S., G.V., G.G. and Z.G. All authors have read and agreed to the published version of the manuscript.
+
+Funding:
+This study was funded by “GINOP-2.3.2-15-2016-00048—STAY ALIVE”, co-financed by the European Union (European Regional Development Fund) within the framework of Programme Széchenyi 2020, and by the Human Resources Development Operational Programme Grant (EFOP 3.6.2-16-2017-00006—LIVE LONGER), also co-financed by the European Union within the framework of Programme Széchenyi 2020.
+
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: The data presented in this study are available upon request from the corresponding authors.
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+References (Selected Excerpts):
+
+    Bray, F.; Ferlay, J.; Soerjomataram, I.; Siegel, R.L.; Torre, L.A.; Jemal, A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J. Clin. 2018, 68, 394–424.
+    American Cancer Society. Breast Cancer Facts & Figures 2022–2024; American Cancer Society, Inc.: Atlanta, GA, USA, 2022; Available online: https://www.cancer.org/research/cancer-facts-statistics/breast-cancer-facts-figures.html
+    Cancer Research UK. Breast Cancer (C50): Average Number of New Cases per Year and Age-Specific Incidence Rates per 100,000 Females, UK, 2016–2018; Available online: https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/breast-cancer/incidence-invasive
+    … [Additional references available in the full text]
+
+Supplementary Materials:
+Supporting information, including detailed search queries (Tables S1–S4), risk of bias assessments (Table S5), and additional forest and funnel plots (Figures S1–S20), can be downloaded from:
+https://www.mdpi.com/article/10.3390/jcm13061818/s1
+
+Disclaimer/Publisher’s Note:
+The statements, opinions, and data contained in this article are solely those of the authors and do not represent those of MDPI or the editors. MDPI and the editors disclaim responsibility for any injury to people or property resulting from the ideas or methods described herein.

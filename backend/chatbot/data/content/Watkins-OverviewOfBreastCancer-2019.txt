@@ -1,0 +1,48 @@
+https://journals.lww.com/jaapa/fulltext/2019/10000/Overview_of_breast_cancer.3.aspx
+---
+
+**Overview of Breast Cancer**
+
+**Abstract**  
+Each year, more than 250,000 women in the United States are diagnosed with invasive breast cancer. Although the overall mortality for breast cancer patients has declined, it is still the second most common cause of cancer death in women. This article provides an overview of nonmetastatic breast cancer in women, including general features, diagnostic considerations, and treatments for the most common breast cancer subtypes.
+
+**Introduction**  
+Breast cancer incidence is increasing across almost all ethnicities in the United States. Estrogen-positive breast cancer incidence is also rising across all ethnicities. This cancer is the leading nondermatologic malignancy and the second most common cause of cancer death among women in the United States. Although the overall death rate from breast cancer has continued to decrease since 1989, the death rate among non-Hispanic Black women remains disproportionately high.
+
+**Pathophysiology and Risk Factors**  
+The pathophysiology of breast cancer is multifaceted and not completely understood, but certain risk factors are known. Advancing age and female sex are the most common risk factors. Genetic mutations, specifically BRCA 1 and 2, account for about 10% of breast cancers. Other known risk factors include a history of ductal carcinoma in situ (DCIS), high body mass index (BMI), late first birth, early menarche, family history of breast or ovarian cancer, late menopause, and postmenopausal hormone therapy use. Among women who use postmenopausal hormone therapy, those with normal BMI and dense breasts are at greatest risk. Women with a history of chest radiation also face increased risk.
+
+**Breast Cancer Subtypes**  
+Breast cancer is classified by its anatomical origin, either lobular or ductal, and its hormone receptivity and HER-2 expression.
+
+- **Hormone Receptivity**: Refers to the presence or absence of estrogen and progesterone receptor expression. Hormone receptor-positive breast cancer, particularly when nonmetastatic, is amenable to hormone-blocking therapy.
+- **HER-2 Positive**: These malignancies are generally responsive to HER-2 directed monoclonal antibodies.
+- **Triple-Negative Breast Cancer (TNBC)**: Refers to malignancies that do not express hormone receptors or HER-2. About 12% of breast cancer cases are triple-negative, which is more common among non-Hispanic Black women. These tend to be diagnosed earlier and at a later stage (III or IV), and are associated with more aggressive disease.
+- **Other Subtypes**: The four main subtypes are Luminal A, Luminal B, HER-2 positive, and Triple-negative (basal). 
+
+**Types of Breast Cancer**  
+- **Ductal Carcinoma in Situ (DCIS)**: A non-invasive malignancy localized inside the mammary ducts. 
+- **Lobular Carcinoma in Situ (LCIS)**: Less common than DCIS but tends to occur bilaterally.
+- **Invasive Ductal Carcinoma (IDC)**: The most common type of breast cancer, with about 70% of cases being hormone receptor positive and HER-2 negative.
+- **Invasive Lobular Carcinoma (ILC)**: More common among postmenopausal women and almost always estrogen and progesterone receptor positive.
+- **Medullary Breast Cancer**: More common in younger women with a BRCA 1 mutation.
+- **Inflammatory Breast Cancer**: Rare but aggressive with a worse prognosis.
+- **Mammary Paget Disease**: Affects the nipple and areola.
+- **Other Rare Types**: Tubular, papillary, mucinous breast cancers, and phylloides tumors.
+
+**Clinical Assessment and Differential Diagnosis**  
+A palpable breast mass is evident in about 30% of women with breast cancer. Visible signs include dimpling, peau d’orange (orange-peel appearance), erythema, edema, and nipple retraction. Skin changes such as peau d’orange and blistering are strongly associated with inflammatory breast cancer and Paget disease. The differential diagnosis for a palpable mass includes benign conditions such as fibroadenoma, breast cyst, intraductal papilloma, and fibrocystic changes. Once a mass is palpated, the next steps include diagnostic mammography and ultrasound.
+
+**Diagnosis**  
+Mammography and ultrasonography are the initial imaging modalities. MRI is used in specific cases, such as dense breasts, previous breast cancer history, or those being evaluated for contralateral disease. Common imaging findings in invasive breast cancer include irregular masses, spiculation, pleomorphic microcalcifications, and axillary lymphadenopathy. Breast cancer is diagnosed through biopsy, which can be performed using ultrasound-guided core needle biopsy, excisional biopsy, or stereotactic biopsy.
+
+**Management and Treatment**  
+The treatment of breast cancer depends on various factors, including tumor size, hormone receptor status, histological markers, and patient age. Surgical options include lumpectomy, mastectomy, or bilateral mastectomy. Sentinel lymph node biopsy is preferred over axillary lymph node dissection in the absence of clinical or radiographic evidence of axillary involvement. Chemotherapy options depend on hormone receptor status, HER-2 status, and other factors. Medications like tamoxifen and aromatase inhibitors are used for hormone receptor-positive breast cancer.
+
+**Breast Cancer Screening**  
+The US Preventive Services Task Force (USPSTF) recommends screening mammography for women ages 50 to 74. Women between 40 and 49 should decide on screening based on individual risk factors. The American College of Obstetricians and Gynecologists (ACOG) supports individualized decision-making for screening.
+
+**Conclusion**  
+Breast cancer is a complex, heterogeneous disease that requires a multidisciplinary approach for diagnosis and treatment. Clinicians in nononcology settings will often encounter patients in the early stages of diagnosis or treatment. Understanding the current state of the evidence is essential for providing effective care for these patients.
+
+---

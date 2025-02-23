@@ -1,0 +1,690 @@
+
+
+Abstract
+Objectives: Although cognitive adaptation theory suggests that personal control acts as a stress
+buﬀer when facing adversity, maladaptive outcomes might occur when control is disconﬁrmed.
+The moderating eﬀect of disappointing news on the adaptiveness of personal control over cure
+in women with breast cancer was examined and contrasted with the eﬀect on the adaptiveness
+of general control over life. Additionally, the underlying beliefs and correlates of control over
+cure were explored.
+Methods: Women with newly diagnosed breast cancer were assessed after surgery
+. For a sub-sample data before surgery and after the end of treatment were
+available as well. Data were collected through questionnaires and face-to-face interviews. The
+prescription of chemotherapy after surgery was used as an indicator of disappointing news.
+Results: A chemotherapy prescription neither enhances nor limits the adaptiveness of
+disease-speciﬁc or general control perceptions. Women reported that maintaining a positive
+attitude, accepting treatment and adopting a healthy life style gave them a sense of control over
+cure. Women with a strong sense of control over cure more often had invasive cancer, were
+younger and were best characterized by high optimism and strong sense of control over life.
+Conclusions: The ﬁndings add to our understanding of exaggerated control perceptions in
+cancer patients treated with curative intent and do not give reason to assume that such
+perceptions should be altered because of potentially maladaptive eﬀects. On the contrary, a
+strong sense of control over the cure of breast cancer seems to reﬂect the capacity to adapt.
+
+
+Introduction
+
+Adaptiveness of control over cure
+
+The chances of surviving cancer depend for a large
+part on the characteristics of the tumor and the
+eﬀectiveness of treatment. Consequently, there is
+generally not much patients can do to personally
+aﬀect cure. Seemingly contradictory, media accounts of cancer experiences often use language
+with connotations to warfare or sports, such
+as ‘ﬁghting’ or ‘defeating’ cancer. Moreover, in
+various studies, cancer patients have reported
+having a considerable degree of personal control
+over disease progression, cure and recurrence.
+Whether such exaggerated control beliefs are
+adaptive at all times, is still subject to debate
+. In the current study, we aim to examine the
+adaptiveness and meaning of a sense of control
+over the cure of breast cancer. The ﬁndings will add
+to our theoretical understanding of exaggerated
+control perceptions, as well as to our knowledge on
+how to handle these perceptions in clinical practice.
+
+Taylor’s cognitive adaptation theory posits that people
+generally hold overly positive views about themselves,
+which enhance their well being under normal as well
+as stressful circumstances. Engaging in mildly
+positive self-relevant distortions enables people to
+maintain an optimistic outlook, self-esteem and a
+sense of mastery when facing a threatening event. The
+generation of a sense of personal control over
+objectively uncontrollable events is an example of
+such a distortion. Taylor argued that self-generated
+control perceptions prevent helplessness and promote constructive thought and action. Supporting
+cognitive adaptation theory, several studies have
+demonstrated that patients with a strong sense of
+control over their disease were better adjusted than
+patients with weak control perceptions. Moreover, disease-speciﬁc control perceptions seem to be
+particularly adaptive when threat is high or when the
+disease is severe.
+
+
+However, several researchers have also demonstrated maladaptive outcomes of disease-speciﬁc
+control beliefs when these are not, or no longer,
+conﬁrmed. For example, Christensen et al. reported that renal patients with a strong sense
+of control over health reported more depressive
+symptoms after a failed renal transplant than
+patients with a low sense of control. Similarly,
+Helgeson showed that disease-speciﬁc control
+was maladaptive in cardiac patients, who experienced a new coronary event, whereas it was
+adaptive in patients who did not.
+Whether or not a belief in control is maladaptive
+when confronted with a deterioration or a setback
+might depend on the speciﬁcity of the belief. JanoﬀBulman theorized that only very speciﬁc, lower
+order beliefs are vulnerable to disconﬁrmation,
+whereas more general beliefs do not necessarily
+have to be realistic to be adaptive, as they can draw
+from many diﬀerent sources and are not easily
+disconﬁrmed. In support of this assumption,
+Helgeson and Fritz reported that a general
+sense of control was adaptive in cardiac patients
+who experienced a setback, whereas disease-speciﬁc
+control was not. Additionally, Tomich and Helgeson
+ showed that general positive beliefs after a ﬁrst
+breast cancer diagnosis promoted well being after a
+recurrence, whereas a belief in illness-speciﬁc control
+did not.
+Besides the study of Tomich and Helgeson,
+no study has addressed the moderating eﬀect of a
+deterioration or setback on the adaptiveness of
+disease-speciﬁc personal control in women with
+breast cancer. Two hypotheses can be formulated
+regarding the direction of this eﬀect. First, based
+on cognitive adaptation theory, personal control
+might be a stress-buﬀering belief, i.e. personal
+control might gain in importance after a setback.
+Second, based on the assumption that the disconﬁrmation of control leads to maladaptive outcomes, personal control might turn out to be
+disadvantageous when confronted with a setback.
+A strong belief in personal control might prevent
+women from mentally preparing for a disappointment and might provoke feelings of inadequacy
+and responsibility. Based on Janoﬀ-Bulman’s
+speciﬁcity hypothesis, this might hold true only for
+the very speciﬁc belief in control over the cure of
+cancer and not for more ﬂexible general beliefs in
+control. The current longitudinal study aims to
+gain more insight in the adaptiveness of speciﬁc
+personal control over cure as opposed to the
+adaptiveness of generic personal control over life
+in women with breast cancer who are confronted
+with a setback after surgery.
+
+
+
+understand their meaning, it is important to
+understand how women believe they can personally
+exert control over cancer. Most studies that
+examined cancer-speciﬁc control perceptions included written self-report measures with one or
+more items about perceived personal control over
+central illness aspects, such as the course, cure or
+recurrence of disease. Many of these studies show
+that patients perceive control over the disease, but
+often it remains unclear how patients believe they
+can exert control. Studies that did
+examine perceived control strategies showed that
+a sense of control can be based on very diﬀerent
+beliefs, e.g. a belief in the eﬀectiveness of a healthy
+life style, a positive attitude, prayer or compliance
+with treatment. The adaptiveness of
+control beliefs might depend on such underlying
+beliefs. If patients believe in the inﬂuence of a
+positive attitude on tumor growth, they might feel
+responsible and incompetent when faced with a
+setback. On the other hand, if patients perceive
+control through compliance with treatment, they
+might feel that they did everything they could. For
+illustrative purposes, the beliefs underlying a sense
+of control in our sample of newly diagnosed breast
+cancer patients will be discussed.
+
+Correlates of control over cure
+To more fully understand the adaptiveness and
+meaning of perceived control over the cure of
+breast cancer, knowledge about the correlates of
+such perceptions is needed as well. According to
+cognitive adaptation theory, the generation of a
+sense of control over the disease reﬂects an adaptive
+response to stress. Based on this theory, it can be
+expected that a sense of control over cancer is
+associated with other adaptive personal resources,
+such as optimism, a strong sense of control over life
+in general, and low neuroticism. Besides an
+indication of an adaptive response, a high sense
+of control might also be motivated by a strong need
+for personal control after a cancer diagnosis.
+Cancer is characterized by high levels of uncertainty and ambiguity and, additionally, it poses a
+substantial threat to life itself as well as to highly
+valued goals in life. Findings from both
+laboratory and ﬁeld studies suggest that under
+such circumstances, when stress levels are high and
+when important outcomes are at stake, people are
+often inclined to overestimate their possibilities for
+control. With this line of reasoning, the
+strongest control perceptions would be expected in
+patients facing the most threat. Findings of
+Malcarne et al. [4] supported this notion, i.e.
+patients with cancer in an advanced stage reported
+the highest degree of control. Furthermore,
+a strong dispositional need for control might
+inspire exaggerated control perceptions after a
+cancer diagnosis as well. 
+demonstrated that only subjects with a high desire
+for control displayed a belief in personal control
+over chance outcomes. In sum, insight into the
+proﬁle of patients with a strong sense of control
+over cancer might allow for a more meaningful
+conclusion about the adaptiveness and meaning of
+such beliefs.
+
+Study aims
+First of all, this study aims to test the eﬀect of
+a setback after surgery on the adaptiveness of
+control over cure. Based on theory, it was
+hypothesized that disappointing news after surgery
+either enhances the adaptiveness of personal control over cure, as the situation poses more threat,
+or reduces the adaptiveness of personal control
+over cure, as the belief in personal inﬂuence is
+disconﬁrmed. Moreover, to test Janoﬀ-Bulman’s
+speciﬁcity hypothesis, we contrasted the
+moderating eﬀect of disappointing news on the
+adaptiveness of speciﬁc control over cure with its
+eﬀect on the adaptiveness of generic control over
+life. These hypotheses were tested longitudinally,
+by examining the relation between personal control
+pre-surgery (T0) and changes in both general and
+cancer-speciﬁc psychological outcome measures
+right after surgery  and 2 months after the
+end of treatment. Second, to interpret the
+ﬁndings, patients’ beliefs about the exertion of
+personal control were explored. These underlying
+beliefs were based on qualitative reports and serve
+an illustrative purpose only. Third, the correlates of
+cancer-speciﬁc control were examined by relating
+control over cure to various patient characteristics.
+Based on theory, it was hypothesized that a
+strong sense of control over cure is related to
+protective traits reﬂecting the capacity to adapt to
+adversity (optimism, general control over life and
+low neuroticism) or to  characteristics that
+reﬂect the need for control (cancer stage, prescription of chemotherapy and desirability of control).
+In addition, we explored the relations with several
+demographics (educational level, religiosity and
+age).
+
+Methods
+Procedure
+Six hospitals in the northern part of the Netherlands
+were involved in the recruitment of respondents. The study protocol was approved by the
+Medical Ethical Committees. Women who were
+referred to the hospital because of a suspicion of
+breast cancer were invited to participate. Women
+were eligible if they were 75 years old or
+younger, did not have a serious psychiatric
+disorder or a somatic disorder that implied hospital
+admission, comprehended Dutch followed
+the usual diagnostic protocol and did not have a
+history of cancer. The present paper reports on the
+data of women who were diagnosed with a
+malignant breast tumor. All women were treated
+with curative intent. The timing of assessments was
+linked to meaningful events, i.e. diagnosis, surgery,
+adjuvant treatment and end of treatment. To
+avoid heterogeneity in the order of these events, 10
+patients treated with neo-adjuvant chemotherapy
+were excluded from the study. This paper reports
+on three assessments: before surgery, shortly
+after surgery and 2 months after the end of
+complete treatment.
+
+Sample
+A total of 3093 women were invited to the study
+prior to diagnosis, of whom 1226 gave informed
+consent (40%), of whom 1094 were eligible. Of these
+1094 women, 912 women were contacted within 6
+weeks after diagnosis and conﬁrmed their initial
+consent. Of these 912 women, 242 women were
+diagnosed with breast cancer. To examine the
+adaptiveness of personal control in the face of
+setback, we limited our primary analyses to women
+who completed all three assessments at the appropriate times. 1 To examine the correlates of
+personal control over cure and the perceived ways to
+exert control, we used data from all women who
+completed the personal control over cure scale at T1
+(n 5 228, of whom 224 were interviewed at home).
+The sub-sample of 133 women was compared
+with the regional population of women with breast
+cancer not older than 75 and treated with surgery
+, to examine sample representativeness. The mean age in the sub-sample
+(M 5 57, SD 5 9, n 5 133) is similar to the mean age
+of all newly diagnosed breast cancer patients in the
+region (M 5 57, SD 5 11, n 5 1506). The distribution of TNM stages (9% in situ, 40% stage I, 42%
+stage II, 9% stage III) resembles the distribution in
+the regional sample as well (11% in situ, 39% stage
+I, 36% stage II, 12% stage III, 1% stage IV). In the
+sub-sample, 73% was treated with radiotherapy
+and 40% was treated with chemotherapy, compared with 69% and 39%, respectively, regionally.
+The larger sample  was largely similar to
+the regional population as well.
+As assessments were linked to events and
+depended on prescribed treatment, time since
+diagnosis at each assessment diﬀered between
+subjects. In the sub-sample  the median
+number of days since diagnosis was 11 days at T0,
+52 days at T1 and 180 days at T2.
+
+
+chemotherapy was necessary. Chemotherapy is
+prescribed when prognostic characteristics are
+relatively unfavorable (i.e. when the tumor is
+larger, more aggressive or has spread to the lymph
+nodes). In contrast to abstract information about
+tumor size, tumor grade or node involvement, the
+message that chemotherapy is necessary has concrete meaning for patients. For this reason, we
+believe that the necessity of chemotherapy is the
+most suitable indicator of bad news about disease
+severity from the patient’s perspective.
+
+Dispositional desirability of control over events in
+life was assessed with the 20-item Desirability of
+Control scale [28,39]. Alpha was 0.79 (T1; n 5 227).
+Neuroticism was assessed with the ﬁve 12-item
+subscales of the NEO-Five Factor Inventory
+. Alpha was 0.87, (T1; n 5 227). Optimism
+was assessed with the 6-item Life Orientation TestRevised. Alpha was 0.74 (T1; n 5 224). All
+three instruments used a 5-point scale.
+
+Instruments
+
+Analysis
+
+Personal control
+
+Age was included as a confounder, as age was
+negatively related to both the prescription of
+chemotherapy and personal control, whereas positively to some of the psychological outcomes. First,
+the cross-sectional Pearson correlations between
+personal control over cure and life at baseline (T0)
+and the outcome measures at all occasions were
+examined for the full sample and for women who
+were and who were not treated with chemotherapy,
+controlling for age. To test the moderating eﬀect of
+news after surgery on the adaptiveness of control
+beliefs (aim 1), we performed hierarchical regression analyses for the four outcome measures at T1
+and T2 separately, once including control over cure
+at T0 and once with control over life at T0. As we
+were interested in changes in the outcomes after the
+communication of news after surgery, and wanted
+to take into account pre-existing diﬀerences, the
+baseline level of the outcome was entered in the
+ﬁrst step. Age was entered in the second step, news
+after surgery and personal control in the third and
+fourth step, and the interaction between personal
+control and news in the ﬁfth step. To avoid
+multicollinearity, personal control was centered
+around the mean [43]. The regression coeﬃcients of
+the two ﬁnal steps will be presented. As in total 16
+regression analyses were performed, the possibility
+of ﬁnding eﬀects by chance was taken into account
+when interpreting the results.
+To examine women’s ideas about ways to exert
+control over cure (aim 2), the answers to the
+open-ended question that were recorded by the
+interviewer were coded into categories by two
+independent raters. The categories were based
+on the analysis of an arbitrary selection of
+20 interviews. When assigned codes diﬀered between
+the two raters, the answer was discussed until
+agreement was reached. Women often named more
+than one category. To characterize women with a
+strong sense of control over cure, results are
+presented separately for patients within the highest
+30% and the lowest 70% of scores on the 6-item
+control over cure scale at T1. Diﬀerences were
+examined by means of w2 tests.
+Finally, we examined the Pearson correlations
+between personal control over cure after surgery
+
+The 6-item personal control scale of the Revised
+Illness Perception Questionnaire [30,31] was revised to reﬂect personal control over cure (‘my
+illness’ was replaced by ‘the cure of my breast
+cancer’). An example item is: ‘The cure of my
+breast cancer depends on me’. Alphas were 0.76
+(T0; n 5 131) and 0.79 (T1; n 5 228). Personal
+control over life was assessed with the 7-item
+Mastery List [32] reﬂecting perceived personal
+control over events and situations in life. An
+example item is: ‘What happens to me in the future
+mostly depends on me’. Alphas were 0.82 (T0;
+n 5 132) and 0.86 (T1; n 5 227). Both instruments
+used a 5-point Likert scale.
+Generic psychological outcomes
+
+Depressive symptoms were assessed with the
+Center for Epidemiologic Studies Depression scale
+[33,34]. Respondents rated how often they experienced each of 20 symptoms during the past week
+on a 4-point scale. Alphas ranged from 0.86 to 0.92
+(T0–T2; n 5 126–129). Anxiety was assessed with
+the 6-item short version of the state scale of the
+Spielberg State and Trait Anxiety Inventory
+[35,36]. Respondents were asked to rate the degree
+to which they were currently experiencing each
+anxiety symptom on a 4-point scale. Alphas ranged
+from 0.86 to 0.88 (T0–T2; n 5 130–132).
+Cancer-specific psychological outcomes
+
+Worries over cure were assessed with three items
+based on the Cancer Worries Scale [37]. The
+original items ask about worries over one’s chance
+of having cancer and the inﬂuence of these
+thoughts on mood and daily activities on a 4-point
+scale. Instead, our revised items ask about worries
+over the cure of breast cancer. Alphas ranged from
+0.78 to 0.83 (T0–T2; n 5 132–133). Threat appraisal was assessed with ten items based on an item set
+of Vinokur [38], asking about worries over the
+impact of breast cancer on important life domains
+(e.g. daily activities, romantic life and relationship
+with friends) on a 4-point scale. Alphas ranged
+from 0.88 to 0.89 (T0–T2; n 5 122–131).
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+Possible correlates of control over cure
+
+(T1) and age, dispositional desirability of control,
+personal control over life, neuroticism and optimism. The relationships between personal control
+over cure and educational level, religiosity, cancer
+stage and the prescription of chemotherapy were
+examined by the analyses of variance. We subsequently performed a multivariate regression analysis with all signiﬁcant correlates as predictors, to
+examine which characteristics were uniquely
+related to personal control over cure (aim 3).
+
+Results
+Adaptiveness of control over cure
+In the total sample (Table 1), the negative relation
+between a sense of control over cure at baseline
+(T0) and the generic and cancer-speciﬁc outcomes
+(T0–T2) was weak, but in most instances signiﬁcant. These cross-sectional correlations were generally more negative in women who were
+prescribed chemotherapy (n 5 52; 39%) than in
+women who were not (n 5 81; 61%). Noteworthy,
+this diﬀerence was already present at T0, before the
+communication of the necessity of chemotherapy.
+In addition, a strong sense of control over life at
+baseline (T0) was negatively related the outcomes
+at all occasions. These correlations were generally
+of medium size and did not seem to be dependent
+on chemotherapy prescription.
+The results of the longitudinal regression analyses are summarized in Table 2 (generic outcome
+measures) and Table 3 (cancer-speciﬁc outcome
+measures). Chemotherapy prescription after surgery predicted more threat appraisal and more
+anxiety right after surgery (T1) and more worries
+after the end of treatment (T2). Personal control
+
+529
+
+over cure did not have a main eﬀect on any of the
+outcomes. The eﬀect of personal control over cure
+on worries at T2 did, however, depend on the news
+patients received, i.e. control over cure was
+negatively related to worries in women who were
+prescribed chemotherapy (b 5 0.20, p 5 0.10) and
+positively in women who were not (b 5 0.11,
+p 5 0.25). These simple slopes (main eﬀects) within
+each group were however non-signiﬁcant. The
+eﬀect of personal control over cure on all other
+outcomes was independent of chemotherapy prescription. Personal control over life in general (T0)
+predicted less anxiety and less threat appraisal at T2.
+The eﬀect of personal control over life on
+all outcomes was independent of chemotherapy
+prescription.
+
+Underlying beliefs of control over cure
+Table 4 summarizes the response categories for the
+open-ended question about ways to exert control
+over cure after surgery (T1). One in three women
+believed that a positive attitude (e.g. optimism,
+humor and hopeful thoughts) had an eﬀect on the
+cure of breast cancer. This belief was reported more
+frequently by women with the strongest sense of
+control. A third of the women indicated they could
+aﬀect cure by adherence (e.g. agreeing with treatment and attending clinic visits). A belief in the
+eﬀectiveness of adopting a healthy life style (e.g.
+healthy diet, physical activity, fresh air and
+avoiding stress) was more common among women
+who reported a strong sense of control over cure.
+One-third reported to have no or very little control
+over the cure of breast cancer; logically this was
+most common among women with a lower sense of
+control. Yet, 37% of these women at the same time
+
+
+
+
+
+
+Correlates of control over cure
+There was a signiﬁcant relation between personal
+control over cure (T1; n 5 228) and disease stage
+(Table 5). Contrast tests showed that women with
+cancer in stage 0 (in situ) reported a lower level of
+Psycho-Oncology
+0.23
+
+control over cure than women with cancer in
+higher stages (1–3). The level of personal control
+over cure in women with cancer in stage 3 was
+highest, but did not diﬀer signiﬁcantly from that in
+women with cancer in stage 1 or 2. Educational
+level, religiosity and the prescription of chemotherapy were unrelated to personal control over cure.
+Table 6 summarizes that there was a strong positive
+correlation (Cohen’s dX0.8; rX0.37) between
+personal control over cure and both personal
+control over life and optimism. Furthermore,
+women with a high sense of control over cure had
+lower scores on neuroticism (moderate, Cohen’s
+dX0.5, rX0.24), were younger and had a slightly
+higher general desire for control (weak; Cohen’s
+dX0.2, rX0.10).
+The characteristics signiﬁcantly related to personal control over cure were entered simultaneously
+in a multiple regression analysis. Three dummy
+variables representing cancer stage were included,
+with stage 3 as the reference category. The
+complete set of characteristics explained 28% of
+the variance in personal control over cure. Personal
+control over life (b 5 0.35, po0.001), optimism
+(b 5 0.25, po0.01), age (b 5 0.12, p 5 0.04) and
+cancer stage 0 (b 5 0.18, p 5 0.02) were independently related to personal control over cure.
+
+Discussion
+Although cognitive adaptation theory suggests that
+personal control acts as a stress buﬀer when faced
+with a setback, other researchers argued that
+maladaptive outcomes occur when an exaggerated
+sense of control is disconﬁrmed. Combining
+both possibilities, Janoﬀ-Bulman suggested that
+general beliefs about the self are adaptive at all
+times, whereas speciﬁc beliefs are vulnerable to
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+
+disconﬁrmation. In the current study, we found no
+evidence that disappointing news after surgery
+either enhanced or reduced the adaptiveness of a
+speciﬁc sense of control over the cure of breast
+cancer or that of a general sense of control over life
+(aim 1). Control over cure was often based on the
+belief that a positive attitude promotes cure, which
+is consistent with the trend in media portrayals
+(aim 2). Other perceived ways to personally
+inﬂuence cure were adherence to doctor’s prescriptions
+and adopting a healthy life style. Furthermore, a
+belief in personal control over cure appeared to be,
+most of all, a reﬂection of the capacity to adapt
+(aim 3). Women with a strong sense of control over
+cure were best characterized by high optimism and
+a strong sense of control over life, both key
+resources in the cognitive adaptation framework.
+Moreover, a strong sense of control over cure was
+reported more often in women with invasive cancer
+than in women with cancer in situ, which might
+point to the role of a strong need for control.
+Both general as well as cancer-speciﬁc personal
+control perceptions were negatively related to the
+outcomes, although these cross-sectional relations
+were stronger for control over life than for control
+over cure. Moreover, control over cure seems to be
+more strongly related to the outcomes in women
+Psycho-Oncology 
+Personal control over the cure of breast cancer
+
+who were prescribed chemotherapy than in women
+who were not. The ﬁnding that this group
+diﬀerence was already present before news was
+delivered (T0), suggests that women already knew
+good or bad news was about. However, women
+who would receive a chemotherapy prescription
+did not diﬀer from women who would not on any
+of the psychological outcomes at baseline (T0).
+Furthermore, they did respond to the actual news
+with an increase in anxiety and threat appraisal (T1).
+For this reason, it is hard to explain that diﬀerences in the strength of the relationship already
+exist at T0. Nevertheless, the cross-sectional
+correlations suggest a more adaptive eﬀect of
+control over cure in women who (would) receive
+bad news.
+Although control perceptions were cross-sectionally related to the outcomes, only personal control
+over life could longitudinally predict changes after
+the delivery of good or bad news, i.e. women with a
+strong sense of control over life reported less
+anxiety and less worries 2 months after the end of
+treatment, controlling for baseline. However, the
+main ﬁnding of this study was that, except for a
+weak interaction eﬀect on worries over cure at T2,
+all longitudinal relationships between control and
+the outcomes were independent of news after
+surgery. Nevertheless, in line with the crosssectional ﬁndings, the longitudinal ﬁndings do
+suggest a trend toward a more adaptive eﬀect of
+personal control in women who were prescribed
+chemotherapy than in women who were not. This
+non-signiﬁcant trend supports the cognitive adaptation theory and seems to be more in line with
+studies showing that the adaptiveness of a general
+sense of control [44] and of realistic disease-speciﬁc
+control perceptions increases with disease severity
+[13–15] than with studies showing that the adaptiveness of unrealistic disease-speciﬁc control perceptions decreases after a setback [8,17].
+There could be several explanations for our lack
+of evidence for a longitudinal moderating eﬀect of
+a chemotherapy prescription. First of all, possibly
+not all patients interpreted the necessity of
+chemotherapy as bad news. Doctors sometimes
+present chemotherapy in a positive manner (i.e. as
+a preventive measure). Moreover, although the
+necessity of chemotherapy is an indicator of
+relatively severe disease, chemotherapy also provides a way to inﬂuence cure. Perhaps the only true
+bad news is an eventual recurrence of cancer or the
+news that there are no more treatment options
+available. However, in the early phase of the illness
+trajectory, the communication of pathology results
+and the treatment plan is the only instance of
+feedback about prognosis. As a chemotherapy
+prescription at this point in time did increase
+anxiety and threat appraisal, it seems to be a
+suitable indicator of bad news in this phase.
+Nevertheless, future studies should examine how
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+I. Henselmans et al.
+
+patients interpret a chemotherapy prescription and
+how such perceptions aﬀect adjustment.
+Second, assuming that the prescription of
+chemotherapy can be considered bad news, the
+eﬀect of this bad news on the adaptiveness of
+personal control can be twofold, as is reﬂected in
+our two opposing hypotheses. Possibly, the direction of the moderating eﬀect of bad news diﬀered
+across individuals, which might have caused the
+null ﬁnding at the group level. The direction of the
+eﬀect might have depended on the beliefs underlying control over cure, which were shown to diﬀer
+across patients in the current study. Our qualitative
+data on underlying beliefs, based on open-ended
+and unstructured interview questions, did however
+not allow for the analysis of three-way interactions.
+Finally, perhaps bad news aﬀects the adaptiveness of a sense of control only when control is
+expressed in active eﬀorts to inﬂuence cure [45].
+The period between diagnosis and surgery is too
+short to assume that women actively attempted to
+inﬂuence cure by for example alternative treatment
+or diet. Future research might focus on the
+adaptiveness of active eﬀorts to control cure.
+Based on results from the face-to-face interview,
+we can conclude that one in three women believed
+that a positive attitude promotes the cure of breast
+cancer. Noteworthy, our ﬁndings show that women
+who belief in control over cure also have the most
+optimistic attitude. Our ﬁndings are in line with
+results of earlier studies [6,21]. For example, in
+study of Stewart et al. [22] among breast cancer
+survivors, 60% reported that a positive attitude
+would prevent breast cancer from recurring.
+Apparently, many women believe cancer remission
+can be achieved by adopting a heroic stance toward
+cancer, i.e. be keeping up hopes, positive thoughts
+and a ﬁghting spirit. The beliefs underlying such a
+heroic stance can be twofold [3]. The strong
+formulation implies that mental states have a direct
+impact on tumor growth, whereas the weak
+formulation implies that mental states have an
+indirect inﬂuence, through for example greater
+persistence with treatment. More in-depth research
+into the beliefs underlying a heroic stance might
+be interesting, as such knowledge would tell us more
+about the illusory character of such control beliefs.
+Women with a strong sense of control over the
+cure of breast cancer had various protective
+characteristics. They were optimistic, had a strong
+sense of control over life and had lower scores on
+neuroticism. Furthermore, women with invasive
+cancer reported higher levels of control over cure
+than women with breast cancer in situ. This might
+suggest that a strong need for control, created by
+disease characteristics, enhances exaggerated control perceptions. However, personal control over
+cure was only weakly related to the dispositional
+need for control. Future research might focus on
+the relationship between perceived personal control
+Psycho-Oncology 
+
+and the need for personal control based on
+situational characteristics as well as on disposition.
+The current study has several limitations. First
+of all, many women were not able to complete the
+assessment before surgery (T0) and, consequently,
+we had to drop them from the primary analyses.
+These women reported more depressive symptoms
+at T1 than women with complete data, which
+indicates the possibility of some bias. However,
+there were no diﬀerences with respect to other
+psychological outcomes at the various points in
+time. Furthermore, the selected sub-sample of 133
+women was shown to be rather representative of
+the regional population of breast cancer patients.
+Nevertheless, the ﬁnal sample was small, which
+limited the power to detect small moderating eﬀects
+of chemotherapy prescription. Second, based
+on the current study, we can only draw conclusions
+regarding the adaptiveness of personal control
+over the cure of breast cancer in the early, curative
+stage of the illness. Our study does not allow for
+conclusions about the adaptiveness of such control
+perceptions in case of cancer in a terminal stage.
+In sum, the results of our study do not give
+reason to assume that strong cancer-speciﬁc control perceptions in newly diagnosed patients treated
+with curative intent should be altered because of
+potentially maladaptive eﬀects. In contrast,
+patients with the strongest control perceptions
+might be those best able to adjust to a cancer
+diagnosis and subsequent setbacks. These insights
+might help clinical workers in deciding how to
+respond to patients who report a strong sense of
+personal control over the cure of the disease.
+

@@ -1,0 +1,60 @@
+De-glycosylated Membrane PD-L1 in Tumor Tissues as a Biomarker for Responsiveness to Atezolizumab (Tecentriq) in Advanced Breast Cancer Patients
+
+Citation:
+American Journal of Cancer Research 2022;12(1):123–137
+www.ajcr.us
+ISSN: 2156-6976
+doi: [Link if available]
+
+Authors:
+Fu Ou-Yang, Chung-Liang Li, Chia-Chi Chen, Yi-Chun Shen, Sin-Hua Moi, Chi-Wen Luo, Wei-Ya Xia, Ying-Nai Wang, Heng-Huan Lee, Lu-Hai Wang, Shao-Chun Wang, Mei-Ren Pan, Ming-Feng Hou, Mien-Chie Hung
+(Note: Several authors contributed equally.)
+Abstract Summary
+
+Background:
+
+    Atezolizumab (Tecentriq) is approved for use in advanced triple‑negative breast cancer (TNBC) in combination with nab‑paclitaxel, based on the IMpassion130 trial that used PD‑L1 expression in immune cells as a biomarker.
+    However, the subsequent IMpassion131 study did not confirm the benefit, leading to withdrawal of the indication.
+    Emerging evidence suggests that heavy N‑glycosylation of PD‑L1 may lead to false‑negative immunohistochemical (IHC) results, thereby underestimating true PD‑L1 levels.
+    This study investigates whether de‑glycosylating PD‑L1 in tumor tissues improves its detection and better predicts responsiveness to atezolizumab.
+
+Methods:
+
+    Patient Cohort: Tumor samples from nine advanced breast cancer patients (including TNBC cases) were analyzed.
+    IHC Protocol:
+        Standard IHC staining using the anti‑PD‑L1 clone 28‑8 was performed on formalin‑fixed, paraffin‑embedded tissue sections.
+        A de‑glycosylation step using PNGase F was applied to remove N‑linked glycosylation from PD‑L1.
+    Scoring Systems:
+        Four scoring systems were utilized:
+            Tumor Proportion Score (TPS): Percentage of PD‑L1‑positive tumor cells.
+            H‑score-M: Quantification of membranous PD‑L1 staining.
+            H‑score-M+C: Combined membranous and cytoplasmic PD‑L1 staining.
+            Immune Cell (IC) Score: Percentage of tumor area occupied by PD‑L1‑positive immune cells.
+    Data Analysis:
+        Comparisons were made between natural (non‑de‑glycosylated) and de‑glycosylated PD‑L1 staining.
+        Receiver operating characteristic (ROC) curve analyses were performed to derive optimal cut-off points for predicting treatment response.
+        Correlations with clinical outcomes, including progression‑free survival (PFS) and treatment response (CR, PR, SD vs. PD), were evaluated.
+
+Results:
+
+    Enhanced PD‑L1 Detection:
+        De‑glycosylation markedly enhanced PD‑L1 detection on the tumor cell membrane.
+        In most cases, PD‑L1 levels (as measured by TPS and H‑score-M) were significantly increased after de‑glycosylation.
+    Correlation with Clinical Response:
+        Patients who responded to atezolizumab (complete response, partial response, or stable disease) had significantly higher de‑glycosylated PD‑L1 levels compared with non‑responders.
+        ROC analyses demonstrated that the optimal cut‑off points for de‑glycosylated PD‑L1 (both TPS and H‑score‑M) predicted treatment response with higher accuracy, sensitivity, and specificity than median cut‑offs.
+        In contrast, the conventional criteria (based on natural PD‑L1 staining in immune cells, as used in the IMpassion trials) did not correlate well with clinical outcomes.
+    Survival Correlation:
+        Lower de‑glycosylated TPS levels were associated with poorer progression‑free survival, underscoring the potential of this modified scoring method in predicting benefit from atezolizumab.
+
+Conclusions:
+
+    The study demonstrates that de‑glycosylation enhances the detection of membrane PD‑L1 in tumor tissues.
+    De‑glycosylated PD‑L1 levels (measured by TPS and H‑score‑M) correlate significantly with response to atezolizumab in advanced breast cancer patients.
+    These findings suggest that de‑glycosylated PD‑L1 may serve as a more reliable biomarker for selecting patients likely to benefit from anti‑PD‑L1 therapy compared to conventional IHC methods.
+    Further validation in larger, multi‑institutional cohorts is warranted to optimize patient stratification for atezolizumab treatment.
+
+Keywords:
+Immune checkpoint, PD‑L1, glycosylation, de‑glycosylation, atezolizumab, Tecentriq, triple‑negative breast cancer
+
+For full methodological details, data, and supplementary materials, please refer to the original article at www.ajcr.us.

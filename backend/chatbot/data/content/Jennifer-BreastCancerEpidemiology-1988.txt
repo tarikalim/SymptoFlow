@@ -1,0 +1,40 @@
+https://aacrjournals.org/cancerres/article/48/20/5615/493133/Breast-Cancer-Epidemiology
+---
+
+**Overview & Established Risk Factors**
+
+- **Age and Demographics:**  
+  Breast cancer incidence increases steadily with age in Western populations. However, the rate of increase is steeper up to about age 50 (premenopausal years) and then slows after menopause. In addition, women in higher socioeconomic classes, those who are never married, and those living in urban or Northern U.S. areas tend to have higher incidence rates. There are also marked international differences: women in North America and Northern Europe have the highest risks, whereas lower rates are observed in African and Asian countries.
+
+- **Reproductive Factors:**  
+  - *Age at Menarche and Menopause:* An earlier menarche and later menopause extend the lifetime exposure to endogenous estrogens, thereby increasing risk.
+  - *Age at First Full-Term Pregnancy:* Women who have their first full-term pregnancy later in life have a higher risk compared to those who give birth at a younger age.
+  - *Parity and Ovarian Function:* Higher parity (more full-term pregnancies) tends to lower risk, especially if pregnancies occur early. Additionally, premenopausal oophorectomy (surgical removal of ovaries) at a young age substantially reduces risk.
+
+- **Family History and Genetic Factors:**  
+  A positive family history—especially involving premenopausal or bilateral breast cancer in a first-degree relative—is a well-established risk factor. Although genetic predisposition (e.g., mutations in high-penetrance genes) is important in some families, known risk factors together account for only about 25% of breast cancer cases.
+
+- **Benign Breast Disease:**  
+  Women with certain benign breast conditions—particularly those with proliferative disease or atypical hyperplasia—are at increased risk for later developing breast cancer.
+
+- **Exogenous Hormones & Radiation Exposure:**  
+  - *Radiation:* High doses of ionizing radiation (such as from therapeutic exposures) are known to increase risk, with risk being greater when exposure occurs at younger ages.
+  - *Hormonal Exposures:* Although controversial, some evidence (from studies on diethylstilbestrol [DES] exposure during pregnancy) suggests that exposure to high doses of estrogenic compounds during critical periods may elevate risk.
+
+---
+
+**Areas of Ongoing Research**
+
+The article also highlights that many of the factors identified confer only a modest increase in risk. As a result, considerable research effort is devoted to:
+- **Refining Measurements:** Improving how exposures (like alcohol intake, diet, or physical activity) are measured.
+- **Critical Periods:** Determining whether exposures during certain “critical periods” (for example, early in breast development) have lasting effects on risk.
+- **Unexplained Risk:** Since known factors account for only a fraction of breast cancer incidence, researchers are investigating additional or yet‐unidentified environmental and genetic factors.
+
+---
+
+**Conclusion**
+
+While established epidemiological risk factors include age, reproductive history, family history, benign breast disease, and certain exogenous exposures (like radiation), much of the overall risk remains unexplained. The authors emphasize the need for further research—especially long-term, well-controlled studies—to better understand the influence of exposures during critical developmental periods, the roles of lifestyle factors (such as alcohol and physical activity), and the interaction of genetic and environmental influences in the etiology of breast cancer.
+
+---
+

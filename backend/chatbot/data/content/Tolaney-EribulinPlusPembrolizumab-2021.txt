@@ -1,0 +1,53 @@
+Eribulin Plus Pembrolizumab in Patients with Metastatic Triple‑Negative Breast Cancer (ENHANCE‑1): A Phase Ib/II Study
+
+Authors:
+Sara M. Tolaney, Kevin Kalinsky, Virginia G. Kaklamani, David R. D’Adamo, Gursel Aktan, Michaela L. Tsai, Ruth M. O’Regan, Peter A. Kaufman, Sharon T. Wilks, Eleni Andreopoulou, Debra A. Patt, Yuan Yuan, Grace Wang, Claudio Savulsky, Dongyuan Xing, Ella Kleynerman, Vassiliki Karantza, and Sami Diab
+
+Citation:
+Clinical Cancer Research 2021;27:3061–3068
+doi: 10.1158/1078-0432.CCR-20-4726
+Published online March 16, 2021
+Abstract Summary
+
+Background:
+Metastatic triple‑negative breast cancer (mTNBC) is an aggressive disease with limited effective treatment options, especially beyond first‑line therapy. Eribulin, a microtubule inhibitor with demonstrated activity in mTNBC, and pembrolizumab, a PD‑1 inhibitor with efficacy in immunogenic tumors, have both shown promise as single agents. This study evaluated the combination of eribulin plus pembrolizumab in patients with mTNBC, stratified by treatment line and PD‑L1 expression status.
+
+Methods:
+
+    Design: Open‑label, single‑arm phase Ib/II study conducted at 18 US sites.
+    Patients: Eligible patients were ≥18 years old with mTNBC (as per ASCO/CAP criteria), measurable disease per RECIST 1.1, ECOG performance status ≤1, and ≤2 prior systemic therapies in the metastatic setting. Tumor PD‑L1 expression was assessed using an investigational PD‑L1 IHC assay (CPS ≥1 defined as positive).
+    Treatment:
+        All patients received intravenous eribulin 1.4 mg/m² on days 1 and 8 and pembrolizumab 200 mg IV on day 1 of each 21‑day cycle.
+    Stratification:
+        Stratum 1: Patients with no prior systemic therapy for metastatic disease (1L).
+        Stratum 2: Patients with 1–2 prior systemic treatments (later‑line).
+    Endpoints:
+        Primary: Safety, tolerability, and objective response rate (ORR) as assessed by independent review.
+        Secondary: Progression‑free survival (PFS), overall survival (OS), duration of response (DOR), and clinical benefit rate (CBR).
+
+Results:
+
+    Patient Population: A total of 167 patients were enrolled (phase Ib, n=7; phase II, n=160); 40% were in Stratum 1 and 60% in Stratum 2. PD‑L1 expression was positive in 44% of evaluable tumors, negative in 45%, with 11% unknown.
+    Safety:
+        Common treatment‑emergent adverse events (TEAEs) included fatigue (66%), nausea (58%), peripheral sensory neuropathy (41%), alopecia (40%), and constipation (37%).
+        Grade 3/4 TEAEs were infrequent, with neutropenia being the only one occurring in >10% of patients (26%).
+        The combination’s safety profile was consistent with historical data for each agent, and no new safety signals were identified.
+    Efficacy:
+        Overall ORR: 23.4% (95% CI: 17.2–30.5), with complete responses (CR) in 4.8% and partial responses (PR) in 18.6% of patients.
+        By Stratum:
+            Stratum 1 (first‑line): ORR was 25.8% (95% CI: 15.8–38.0).
+            Stratum 2 (later‑line): ORR was 21.8% (95% CI: 14.2–31.1).
+        PD‑L1 Status:
+            In Stratum 1, patients with PD‑L1–positive tumors had a numerically higher ORR (34.5% vs 16.1% for PD‑L1–negative).
+            In Stratum 2, ORRs were 24.4% for PD‑L1–positive versus 18.2% for PD‑L1–negative tumors.
+        Survival:
+            The overall median PFS was 4.1 months (95% CI: 3.5–4.2), and the overall median OS was 16.1 months (95% CI: 13.3–18.5).
+            Subgroup analyses indicated that PD‑L1–positive tumors, especially in the first‑line setting, were associated with more robust efficacy outcomes.
+
+Conclusions:
+Eribulin plus pembrolizumab was generally well tolerated and demonstrated promising antitumor activity in patients with mTNBC across both first‑line and later‑line settings. While patients with PD‑L1–positive tumors appeared to derive greater benefit, notable activity was also observed in PD‑L1–negative cases. These results support further clinical development of this combination as a potential treatment option for mTNBC.
+
+Funding:
+This study was funded by Eisai Inc. and Merck Sharp & Dohme Corp.
+
+For additional details and supplementary data, please refer to the full article available at Clinical Cancer Research Online.

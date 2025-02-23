@@ -1,0 +1,241 @@
+
+
+Future prospects for the prevention and cure of breast cancer
+
+
+Breast cancer has been the subject of more clinical
+trials than any other malignancy and this great collaborative eort has resulted in major bene®ts to many
+women with the disease. In the past two decades the
+standard treatment for the majority of those with early
+breast cancer has changed from mastectomy to breast
+conservation therapy. Those at risk of relapse can be
+identi®ed and many bene®t from eective systemic
+therapy. The disease is being diagnosed at a biologically
+earlier stage as a result of screening which can achieve
+up to a 40% reduction in mortality. Finally, as a byproduct of the trials of adjuvant endocrine therapy,
+prevention trials have been conducted and some appear
+to show a significant efect.
+All of this is encouraging but should not blind us to
+the fact that there are still too many women dying of
+breast cancer, some as a result of late diagnosis, some
+because of the inherent aggressiveness of their disease
+and others because they have been inadequately treated.
+Future improvements will arise partly from the widespread adoption of the most eective known treatments
+as a result of randomised clinical trials. Additionally, it
+is to be hoped, new therapies will emerge from the
+enormous amount of basic research which thus far has
+had a disproportionately small impact on treatment of
+the disease.
+2. Prevention
+To prevent breast cancer we need to know about both
+the initiating and promoting stages which lead to clinical or pre-clinical manifestation. Initiation is poorly
+understood but probably results from at least two
+
+
+separate and successful carcinogenic assaults. The
+majority of the epidemiological studies and, as a result,
+the prevention trials have focused on promotion, that is
+the eect of steroid hormones and their antagonists.
+Most of the case±control or cohort studies have regarded the diagnosis of breast cancer as the end-point
+without taking into account the type of tumour which
+developed, either in terms of grade or oestrogen receptor (ER) status. Although it is possible that ER-negative
+tumours will have passed through a phase of oestrogenic promotion, this is unlikely so it is possible that
+almost all the epidemiological studies have not been
+interpreted appropriately in terms of the aetiology of
+those cancers which are most likely to kill women.
+Conversely, most studies that have examined lifetime
+oestrogen exposure either in terms of serum oestradiol
+or the surrogate of high bone mineral density, have
+shown that hyperoestrogenised individuals are at
+increased risk of breast cancer . This is further
+borne out by the small but signifcant efects of oral
+contraceptive exposure in young women and hormone replacement therapy (HRT) in those who are peri
+or post-menopausal.
+The impact of HRT on the prognosis of breast cancer
+aords an important clue about oestrogens and their
+eect on tumour development. Almost all studies have
+shown a better survival for women diagnosed with
+breast cancer while taking HRT compared with those of
+the same age who have not taken HRT. It is a truism to
+state that the promotional eect of oestrogens is to stimulate the growth of hormone sensitive breast cancers
+that have a less aggressive biological behaviour. Use of
+the selective oestrogen receptor modulator raloxifene as
+a potential preventive agent has led to a significant
+reduction in breast cancers in the treated compared with
+the control group. This appears to be very encouraging but analysis of the tumours in the two groups
+showed a signifcant effect on reducing the numbers of
+ER-positive cancers but no dierence in ER-negative
+tumours. Hence present endocrine-based prevention
+
+
+
+strategies may not have any impact on the incidence of
+the most aggressive ER-cancers.
+From the moment that a breast cancer is detectable,
+that is at the pre-invasive stage, the type of tumour is
+pre-determined. Patients who have high grade ductal
+carcinoma in situ (DCIS) are most likely to go on to
+develop poorly differentiated invasive tumours. Individuals with low grade DCIS have a reduced likelihood of
+progression to invasive disease, which when it occurs is
+likely to be well differentiated. Furthermore phenotypic
+drift of tumours is a rare event: loss of chromosome 16q
+occurs in only 16% of grade III tumours compared with
+65% of grade I cancers. To prevent women developing grade III breast cancers will require dierent intervention strategies from our present attempts to alter the
+hormonal milieu and inhibit, for an unknown duration,
+the manifestation of endocrine-dependent low grade
+cancers.
+We are able to identify the majority of the germ-cell
+mutations responsible for breast cancer. These comprise
+less than 10% of the entire cases but in population
+terms constitute a large number of women at risk. There
+are indications that these individuals with mutations of
+BRCA1 have a p53-independent failure to repair DNA
+damage. It appears that individuals who carry
+mutations of BRCA1 and BRCA2 are more likely to
+develop ER-negative in situ breast cancer. This may
+explain in part the lack of ecacy of tamoxifen as a
+preventive agent in the Royal Marsden Pilot Study
+which largely comprised women with a strong family
+history of breast cancer.
+An alternative approach has to concentrate on the
+anti-oxidant properties of carotenoids since consumption of vegetables rich in these appears to be associated
+with a decrease in risk among premenopausal women. In a trial of the synthetic retinoid fenretinide in
+women with early breast cancer there was no overall
+eect on the prevention of a second malignancy.
+However, there were fewer contralateral cancers in premenopausal women given fenretinide but more in the
+postmenopausal group. At present there appears to be a
+disparity between encouraging animal model results and
+those in Homo sapiens.
+In terms of initiating events, we know very little. Followup of survivors of the Hiroshima and Nagasaki bombs
+has indicated that radiation can play such a role, particularly in those <10 years of age at exposure [12].
+Moreover, ionising radiation may be carcinogenic at
+relatively low dosages in the developing breast. Lowdose scalp irradiation for treatment of ringworm in
+10 384 Israeli children led to an excess of breast cancers
+(relative risk, RR: 2.9) after a follow-up of >30 years. Breast irradiation was used as treatment for
+women with acute post-partum mastitis and was associated with a 4-fold increase in risk after 25 years of
+follow-up. All these data underline the need to
+
+protect the developing breast from ionising radiation.
+An increased sensitivity of lymphocytes from breast
+cancer patients to G2 phase irradiation suggests that
+there may be an identi®able subset of high-risk cases
+with an impaired ability to repair radiation-induced
+DNA damage.
+The major risk factor is increasing age and one of the
+multiple changes associated with this physiological process is methylation of Cytosine phospho Guanine
+(CpG) islands. Normally CpG islands are unmethylated
+and need to remain so for gene transcription to occur:
+methylation leads to silencing of the gene in which they
+are located. In breast cancer cells poor expression of the
+retinoic acid receptor b (RARb), a possible tumour suppressor gene, together with p16 and the ER gene has
+been shown to result from methylation and this process
+may be reversible with the DNA methylation inhibitor
+5-aza-21-deoxy cytidine. Hence inhibition of DNA
+methylation may provide a novel method of possibly
+treating and preventing breast cancer.
+That alcohol is implicated is becoming dicult to
+ignore. For every 10 g/day of alcohol intake there is
+a 9% increase in risk of breast cancer. There is still
+considerable doubt as to whether this is an initiating
+step as a result of increased intake of alcohol soluble
+carcinogens or as an indirect endocrine eect. Alcohol
+has been shown to produce elevation of blood and
+urinary oestrogens. Irrespective of the reason, it is likely
+that a reduction in alcohol consumption could lead to a
+modest reduction in risk.
+At present smoking is regarded as neutral in terms of
+breast cancer risk. This is slightly surprising in that
+smoking leads to a reduction in urinary oestrogens in
+premenopausal women, elevation of androgens in
+the postmenopausal, and an earlier menopause
+which is normally found to be protective. Smokers are less likely to develop endometrial cancer
+and are at increased risk of osteoporosis. This antioestrogenic action of smoking might lead to a reduction
+in hormone-dependent breast cancers whilst of course
+greatly increasing the risk of heart disease and lung
+cancer. That the absolute numbers of breast cancers
+appear to be the same in smokers and non-smokers may
+be hiding a dierent distribution of tumour types. This
+may emerge when the epidemiological studies are re-run
+on a basis of dierent tumour types. Development of
+more aggressive cancers in some smokers is suggested
+by the results of Calle and colleagues who reported that
+smokers of >40 cigarettes per day had a significantly
+elevated (1.7) relative risk of dying of breast cancer
+compared with non-smokers. It is likely that if an
+association were demonstrated between poorly differentiated breast cancers and smoking that this might
+have more of an effect on the smoking habits of young
+women than any of the dire warnings about lung cancer
+or cardiovascular disease.
+
+
+
+3. Treatment
+Several aspects of local treatment for early breast
+cancer are under scrutiny since there has been a general
+trend for the surgery to deal with smaller tumours to be
+less extensive. These are being diagnosed as a result of
+enhanced awareness and population screening.
+Nevertheless, it must be remembered that small is not
+necessarily beautiful Ð up to one third of tumours
+measuring up to 1 cm in diameter may have metastasised to the axillary nodes. Failure to determine the
+axillary nodal status will result in understaging and
+undertreatment for some women.
+The randomised trials which showed the equivalence
+of breast conserving therapy and mastectomy included
+radiotherapy as a component and when this was omitted a high breast relapse rate (40%) occurred. To
+date, all trials that have compared radiation with no
+radiation have shown an increased relapse rate in nonirradiated cases. Nevertheless, there are indications
+that some post-menopausal women with ER-positive
+tumours can be safely treated by a combination of
+wide excision and axillary clearance without radiotherapy. After 39 months median follow-up, breast
+relapse occurred in 16% of those aged 455 but only
+3% of women aged >55 years. The approach of
+replacing radiotherapy with tamoxifen may be particularly useful for the management of the increasing
+numbers of older women with ER-positive breast
+cancers.
+Even after the most skilful surgery, there is a resultant
+scar from tumour excision and if this could be avoided,
+cosmesis would be greatly improved. Use of laser ®bres
+to destroy the cancer is still experimental but holds great
+promise for scar-free tumour extirpation. After years of
+argument about surgical treatment of the axilla, surgeons eventually appreciated that the most major prognostic determinant was the status of the axillary nodes
+but having learnt this lesson were then faced with the
+apparent high sensitivity of sentinel node biopsy.
+At present attention is being concentrated on teaching
+or learning the technique and determining whether
+radio-isotopic or dye localisation achieves a more
+representative node yield. On the assumption that the
+technique does become widely mastered, and this is
+debatable, there remain questions to be answered. How
+low a sensitivity will be acceptable 
+Even in the best hands there will be false-negative sentinel nodes, sometimes because the process of metastasis
+has blocked the aerent lymphatics. It is possible that
+this could be circumvented by using a double isotope
+technique with the second isotope administered intravenously (i.v.) tagged to a mammary epithelial marker
+such as MUC-1. Alternatively the concept of a single sentinel node may need to be reconsidered: in rugby
+terms we may need to ®nd not just the hooker but the
+
+1087
+
+entire front row. Selective sampling may hold the key to
+avoidance of false-negative studies.
+The often uncritical acceptance of a new surgical
+operation, sentinel node sampling, can be contrasted
+with the widespread lack of interest in timing of surgery
+in premenopausal women [34]. Sentinel node biopsy will
+not save one life, indeed some may be lost by understaging. Re-scheduling surgery to the luteal phase costs
+nothing and carries no cachet of surgical technical
+achievement but if applied in Europe could potentially
+save 5000 lives annually. Meta-analyses have con®rmed
+the signi®cance of the reduction of mortality amongst
+women undergoing luteal phase surgery. The
+benefit of luteal phase surgery has also been demonstrated by direct hormone measurements in that women
+with serum progesterone >4 ng/ml had a signi®cantly
+better survival than those with a serum progesterone
+44 ng/ml. This has implications much more wideranging than mere timing of surgery: it indicates that
+peri-operative events may have a major impact on subsequent survival and gives a rationale for the concept of
+peri-operative endocrine therapy. Although cure of
+breast cancer may result in part from the use of appropriate postoperative adjuvant cytotoxic chemotherapy
+and endocrine treatment, there is still a major potential
+place for peri-operative endocrine manipulations to
+reduce the mortality from early breast cancer.

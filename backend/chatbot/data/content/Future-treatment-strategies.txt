@@ -1,0 +1,273 @@
+
+
+From improved survival to potential cure in patients
+with metastatic breast cancer
+
+Future treatment strategies for metastatic breast cancer
+curable or incurable
+
+Abstract Current Japanese and American guidelines for
+the surveillance of patients diagnosed with early stage
+breast cancer recommend regular follow-up including
+mammography, history, and physical examination; however, additional routine laboratory and imaging studies are
+not recommended because there is no evidence of
+improved clinical outcomes associated with the early
+detection of distant metastasis. Metastatic breast cancer
+(MBC) remains a largely incurable disease. The goals of
+treatment for MBC are to maintain quality of life and
+prolong survival. However, despite the emergence of new
+concepts including oligometastases, cancer stem cells, and
+the development of individualized therapies, clinical
+management and treatment guidelines remain largely
+unchanged. The future prospects for personalized management strategies for patients with MBC are described in
+this review.
+
+Introduction
+Despite improvements in the early detection of breast
+cancer and the development of more effective adjuvant
+therapies, about 30% of patients with early disease will
+relapse with distant metastases [1]. Metastatic breast cancer
+(MBC) is a heterogeneous disease presenting a variety
+of different clinical scenarios, ranging from a solitary
+
+
+metastatic lesion to diffuse and multiple organ involvement. Although the survival of patients with MBC is
+gradually improving, many physicians believe that the
+disease remains largely incurable. The goals of treatment
+for MBC are to prolong survival while maintaining a good
+quality of life. However, in a minority of cases it is possible
+to obtain long-term survival ([5 years) using standard
+treatments.
+Advances in our understanding of molecular biology are
+providing new insights into the metastatic behavior of
+breast cancer. The development of therapies specifically
+tailored to target each of the molecular subtypes of breast
+cancer offers new hope for improved survival for patients
+with metastatic disease. Models of metastatic spread have
+been developed to describe the complex interaction of
+‘seed and soil’ factors involving tumor intravasation, circulation, extravasation, proliferation, angiogenesis [3], and
+the microenvironment of the target tissue. Furthermore,
+the cancer stem cell hypothesis has been proposed as a
+possible explanation for treatment resistance and to highlight potential new targets for breast cancer therapies [5].
+In this review the goals of treatment for MBC and the
+hypothesis of tailoring treatment strategies according to
+molecular subtype are discussed.
+
+The biology of progression from ductal carcinoma
+in situ to distant metastases
+Breast cancer cells develop following a genetic change of
+normal mammary epithelial cells. Progressive division of
+cancer cells, from one to two, two to four, four to eight and
+so on, and dissemination into the mammary duct culminates in the emergence of an independent malignant tumor.
+If cancer cells are confined to the mammary ducts, the
+
+breast cancer is defined as non-invasive ductal carcinoma
+(DCIS). DCIS does not have metastatic potential because
+the tumor cells are unable to penetrate the blood and
+lymphatic vessels beyond the mammary ducts. However,
+additional genetic changes occurring in DCIS cancer cells
+may confer the ability to penetrate the basement membrane
+of the mammary duct. Consequently, cancer cells with such
+potential will move into the connective tissues surrounding
+the mammary duct. It is possible that cancer cells readily
+penetrate the blood and lymphatic vessels thus facilitating
+dissemination to distant organs (Fig. 1).
+Many authors have described the detection of cancer
+cells in the blood and bone marrow of patients with early
+cancer [6–13]. The approximate incidence of tumor cells is
+20% in blood and 30% in marrow (Tables 1, 2). It has been
+clearly demonstrated that the outcome of patients with
+bone marrow involvement is worse than that achieved by
+patients without detectable cancer cells in the bone marrow
+
+
+However, it is conceivable that clinical metastases have
+not occurred for all patients with detectable cancer cells in
+the bone marrow based on the observation of a notable
+discrepancy between the rates of bone marrow involvement
+and clinical metastases. Some cancer cells in the bone
+marrow may be eliminated by natural immunity, or by the
+cytotoxic action of adjuvant therapy including chemotherapy and/or endocrine therapy, whereas others may be
+quiescent. Furthermore, some cancer cells have the
+potential of cancer stem cells, which are not sensitive to
+adjuvant chemotherapy and may, therefore, survive for a
+long time.
+
+The clinical behavior of metastases according
+to molecular subtype
+It is important to consider the different clinical strategies
+for the treatment of MBC according to molecular subtype
+. There are four breast cancer subtypes defined by
+hormone receptor (HR) and human epidermal growth factor receptor-2 (HER2) status: luminal A (HR positive and
+HER2 negative); luminal B (HR positive and HER2 positive); HER2 (HR negative and HER2 positive); basal-like
+(HR negative and HER2 negative). Estrogen receptor (ER)
+and HER2 are predictive factors for endocrine therapy and
+anti-HER2 therapy, respectively.
+The four molecular subtypes exhibit different clinical
+behaviors, such as timing and sites of recurrence. Previous
+studies have demonstrated significant differences in the
+timing of distant recurrence according to HR and HER2
+status [14, 15]. ER-negative tumors are associated with
+early relapse, whereas ER-positive tumors are associated
+with a persistent risk of late relapse beyond 5 years from
+diagnosis [14, 16]. Among 1,700 patients with primary
+breast cancer treated at our institution, the first metastatic
+event occurred at more than 5 years after surgery in 7.1%
+of cases with ER-negative breast cancer compared with
+
+23.6% of cases with ER-positive disease (Fig. 2). Furthermore, we have also observed cases with a disease-free
+interval (DFI) of more than 10 years prior to the development of distant metastases. Almost all of those cases
+with prolonged DFI presented with luminal A-type breast
+cancer (ER positive and HER2 negative). Such observations raise the important question: where do the quiescent
+cancer cells reside for more than 10 years?
+
+Two hypotheses about the movement of cancer cells
+from the primary breast to the metastatic site
+Direct movement of cancer cells from primary
+to metastatic sites (Fig. 3)
+
+ER estrogen receptor, HER2 human epidermal growth factor receptor 2
+
+
+
+with early breast cancer. The prognosis of patients
+with CTCs is inferior to that of patients without detectable
+circulating cancer cells. The evidence also demonstrates that circulating cancer cells are associated with
+blood endothelial cells at distant organ sites, such as bone,
+liver, and lung. Furthermore, cancer cells have been shown
+to penetrate the connective tissue and subsequently proliferate at the target organs. Clinical metastases are
+detectable at distant sites by radiological examination when
+the metastatic tumor diameter is more than 5 mm. It is
+hypothesized that such cancer cells moved directly from
+the primary to the metastatic site. These cancer cells may
+have a highly malignant potential and be resistant to
+adjuvant therapy, including chemotherapy and targeted
+therapy after surgery.
+Indirect movement of cancer cells from primary
+to metastatic sites 
+Some primary cancer cells penetrate the blood vessel and
+circulate to the bone marrow. Bone marrow provides a
+favorable environment to protect cancer cells from external
+threats, such as viruses and bacteria, and to supply sufficient nutrition to sustain proliferation. The bone marrow is
+a common homing organ for MBC cells, independent of the
+pattern of clinically overt metastasis. It is possible that
+cancer cells have an ability to remain dormant for prolonged periods in the bone marrow. Such dormant cells
+may have the potential of cancer stem cells and, following
+stimulation by factors within the bone marrow, may exit
+their dormant state and circulate to distant organs. Subsequently, clinical metastases may be detected by radiological examination following dissemination of cancer cells
+from the bone marrow to distant organs.
+
+Clinical experience and guidelines
+for the treatment of MBC
+Many investigators consider that MBC is incurable based
+on historical data and current treatment guidelines. The
+evidence-based, Japanese clinical guidelines for breast
+cancer state that almost all patients with metastatic disease,
+excluding those cases with local recurrence, are not cured
+by systemic and local treatments. However, recently
+we have observed long-term clinical complete remission
+(CR) in patients with MBC treated with targeted therapy
+regimens as first-line treatment. Nevertheless, many
+patients obtaining clinical CR subsequently experience
+disease progression and new metastases develop at other
+sites. Despite achieving an initial response, most patients
+develop progressive disease within 12–24 months. The
+median survival of patients with endocrine non-responsive
+or resistant MBC is 18–24 months, and fewer than 5% of
+patients survive for 5 years. Rahman and colleagues 
+showed that the outcome of patients obtaining clinical CR
+with first-line therapy was better than for patients without
+clinical CR. Therefore, clinical CR should be the goal of
+first-line treatment for patients with MBC. It is notable that
+the rate of clinical CR is much higher in patients with HER2
+type than other molecular subtypes and this difference may
+be due to the effective combination of chemotherapy and
+targeted therapy. We have observed long-term clinical
+CR in some patients treated with initial combination therapy comprising chemotherapy and trastuzumab followed by
+maintenance trastuzumab monotherapy. Furthermore, we recently made the rare observation of long-term
+clinical CR in a patient with triple-negative breast cancer, a
+subtype which usually exhibits rapid progression
+
+ (Case 1: 57 years old) Total mastectomy and axillary
+dissection were performed for cancer of the left breast in 2004.
+Pathological findings, invasive ductal carcinoma; N, 11/20 positive
+nodes; ER, negative; PgR, negative; HER2, IHC 3?; Adjuvant
+chemotherapy, cyclophosphamide–epirubicin–fluorouracil (CEF) followed by 50 -deoxy-5-fluorouridine (50 -DFUR; 600 mg/day). Left
+supraclavicular lymph node metastasis was detected 7 months after
+
+
+surgery. The patient was initially treated at the Aichi Cancer
+Center with combination therapy comprising weekly paclitaxel plus
+trastuzumab. Paclitaxel was stopped when the patient achieved
+clinical CR after 3 months of treatment. Single-agent trastuzumab
+was continued as maintenance therapy for more than 5 years. There is
+no visual evidence of metastases assessed by positron emission
+tomography (PET) 
+
+recognized globally. This population comprising approximately 1–10% of newly diagnosed patients with stage IV
+disease is potentially curable. In patients with
+responsive disease, endocrine therapy and chemotherapy
+are more effective in patients with a smaller disease burden
+than in those with a greater tumor burden. A small but
+important subset of patients with MBC, for example, those
+with a solitary metastatic lesion, can achieve CR and longterm survival. A more aggressive and multidisciplinary
+approach should be considered for those selected patients.
+
+Surveillance guidelines for patients after surgery
+Fig. 6 (Case 2: 36 years old) Partial mastectomy and axillary
+dissection were performed for cancer of the left breast in October
+2005. ER, negative; PgR, negative; HER2, negative. No adjuvant
+therapy was administered. After 3 months, recurrence was detected in
+the ipsilateral breast. The local recurrence was dissected and radiation
+(50 Gy) was administered to allow conservation of the breast.
+Multiple lung metastases and effusion affecting the right chest were
+detected 1 year after initial treatment. The patient, with triplenegative MBC, was initially treated at the Aichi Cancer Center with
+combination therapy comprising capecitabine and cyclophosphamide.
+Cyclophosphamide was stopped when the patient achieved clinical
+CR at 6 months. Capecitabine maintenance therapy was then
+continued for more than 4 years. There is no visual evidence of
+metastatic sites by chest X-ray
+
+Guidelines for the treatment of MBC, such as those
+published by the European School of Oncology (ESO)
+[21], have not significantly changed in recent years despite
+new data and emerging biological concepts.
+The definition of oligometastasis, which is characterized
+by solitary or few detectable metastatic lesions that are
+usually limited to a single organ, has been widely
+
+
+The current American Society of Clinical Oncology surveillance guidelines for patients diagnosed with early stage
+breast cancer recommend regular follow-up with mammography, history, and physical examination. Additional
+routine laboratory or imaging studies are not recommended
+because there is no evidence of improved clinical outcomes
+associated with the early detection of distant metastasis. However, these guidelines are based on data from
+clinical trials performed 30 years ago and other studies that
+are too old to reflect modern practice. Progress in
+radiological examination techniques allows the very early
+detection of distant metastases and many recently developed targeted therapies can achieve high response rates in
+patients diagnosed with metastatic disease. Furthermore, it
+is now recognized that breast cancer subtypes are associated with distinct patterns of metastatic spread and notable
+differences in survival after relapse. Therefore, more
+intensive postsurgical surveillance may be warranted to
+improve early detection of distant metastases particularly
+for patients with the high-risk molecular subtypes of early
+
+
+
+breast cancer. In addition, the clinical benefit of early
+detection of metastatic lesions should be investigated in a
+prospective clinical trial.
+
+Conclusion
+In light of advances in molecular subtyping and targeted
+therapy, we should consider individualized treatment strategies and more intensive surveillance for MBC. By adopting
+strategies similar to those used in the management of early
+breast cancer it may be realistic to achieve a cure in selected
+patients with oligometastasis. Evidence appears to support
+the hypothesis that the attainment of clinical CR with firstline treatment is the most important goal for patients with
+MBC.
+In the future, new strategies for MBC need to include
+more effective targeted treatments to eradicate cancer stem
+cells and non-stem cancer cells at tumor sites or harbored
+within the bone marrow environment.

@@ -1,0 +1,46 @@
+https://www.sciencedirect.com/science/article/pii/S1574789110000268
+---
+
+**Breast Cancer Awareness & Epidemiology**
+
+- **Prevalence & Impact:**  
+  Breast cancer is the most common cancer among women worldwide and a leading cause of cancer‐related death. In developed countries, improved screening and treatment have led to a decline in mortality despite rising incidence, whereas in many developing nations the disease is often diagnosed at later stages.
+
+- **Risk Factors:**  
+  Both endogenous (e.g., early menarche, late menopause, nulliparity or late first full‐term pregnancy, genetic mutations such as BRCA1/2) and exogenous factors (e.g., oral contraceptive use, hormone replacement therapy, diet, alcohol, obesity) contribute to breast cancer risk. Family history increases risk substantially, but overall, only a fraction of cases are due to inherited high‐penetrance genes.
+
+- **International Variation & Migrant Studies:**  
+  Incidence rates vary considerably by geography—with higher rates in North America and Northern Europe compared to Asia and Africa. Migrant studies show that when women move from low‐risk to high‐risk regions, their incidence rates gradually shift upward over one or more generations, implicating environmental, lifestyle, and reproductive factors.
+
+---
+
+**Histological and Molecular Diversity**
+
+- **Histological Special Types:**  
+  While the vast majority of invasive breast cancers are classified as “no special type” (also known as invasive ductal carcinoma of no special type), up to 25% of cases are “special types” (e.g. tubular, mucinous, medullary, lobular, metaplastic, and adenoid cystic carcinomas). These special types not only display unique architectural and cytological features but also differ in clinical behavior and prognosis. For example, tubular and mucinous carcinomas tend to have a better prognosis, whereas metaplastic and some forms of basal-like cancers are more aggressive.
+
+- **Molecular Taxonomy:**  
+  Gene expression profiling studies have subdivided breast cancer into several intrinsic subtypes: luminal A, luminal B, HER2-enriched, basal-like, and normal breast-like. These molecular subtypes correlate with hormone receptor status, proliferation rates, histological grade, and clinical outcomes. For instance:
+  
+  - **Luminal A tumors** (usually ER-positive with low proliferation) generally have the best prognosis.
+  - **Luminal B tumors** (ER-positive but with higher proliferation) tend to have a worse outcome than luminal A.
+  - **HER2-enriched tumors** often require targeted therapies against HER2.
+  - **Basal-like tumors** (often triple-negative) are typically more aggressive and are associated with BRCA1 dysfunction.
+
+- **Correlation Between Histology and Genomics:**  
+  Studies indicate that many special histological types are not only morphologically distinct but also show relatively homogeneous genomic profiles compared to the more heterogeneous invasive ductal carcinomas of no special type. For example, secretory carcinomas are strongly linked to a characteristic fusion gene (ETV6-NTRK3), and lobular carcinomas are typically associated with loss of E-cadherin (CDH1). Such genotype–phenotype correlations are beginning to reveal both the origins of different tumor types and potential therapeutic targets.
+
+---
+
+**Implications for Prevention and Treatment**
+
+- **Prevention:**  
+  Many risk factors (such as reproductive history, obesity, alcohol use, and possibly diet) are potentially modifiable. Additionally, pharmacological prevention (e.g., tamoxifen in high-risk populations) is being used and further studied.
+
+- **Treatment Advances:**  
+  A deeper understanding of the molecular and histological diversity of breast cancer has already influenced treatment decisions. Targeted therapies (such as anti-HER2 agents) and strategies tailored to specific molecular subtypes are now part of clinical practice. There is ongoing research to exploit unique genetic alterations (for example, FGFR1 amplification in certain ER-positive lobular cancers) for novel therapeutic interventions.
+
+---
+
+In summary, current knowledge emphasizes that breast cancer is not a single disease but a collection of distinct entities with varied epidemiological, histopathological, and molecular features. This complexity underlines the importance of tailored prevention, early detection, and individualized treatment approaches.
+

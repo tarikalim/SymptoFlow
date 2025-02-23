@@ -1,0 +1,890 @@
+Is Breast Cancer a Curable Disease?
+A Study of 14,731 Women With Breast Cancer From the
+Cancer Registry of Norway
+LARS ERIK RUTQVIST, MD,'
+
+ARNE WALLGREN, MD,t AND
+
+BO NILSSON, BSCS
+
+The question whether breast cancer is curable remains controversial. Late recurrences and death from
+the disease are not infrequent. Long term follow-up of a large patient population is necessary to study
+this issue. The authors report a study of 14,731 cases of breast cancer reported to the Cancer Registry
+of Norway with follow-up times ranging from 5 to 18 years. A model in which the logarithms of the
+survival times were assumed to be normally distributed, the lognormal model, fitted the data well for
+individual stages, age groups, and periods of treatment. The cured fraction, i.e., consisting of those only
+subject to normal morrality risks, was estimated from the model to 35 1% standard error. In Stages
+1. 2, 3, and 4 it was 54 3%, 27 f I%, 19 -t 270, and 2 ? 1%, respectively. It is concluded, however,
+that the estimated cure rate in Stages 3 and 4 should be regarded with caution in view of the methodological
+problems involved in the analysis and the small number of patients with long follow-up. The estimated
+cured fraction in both the individual stages and in the entire material was significantly higher in patients
+younger than 55 years of age than in older patients. The median survival of noncured patients was
+estimated to be 3.6 years for the entire material. In Stage 1, 2, 3, and 4 it was 7.6 years, 3.4 years, 2.1
+years, and 0.7 years, respectively. The lognormal model seems to be a good approximation of breast
+cancer survival. The model is consistent both with late excess mortality and with the presence of a cured
+fraction. It is noteworthy that an excess mortality was observed during the whole follow-up period.
+Extrapolations from the model should therefore be cautiously judged until supported by observed data.
+Cancer 53:1793-1800, 1984.
+
+*
+
+*
+
+I
+
+FTHE REMAINING SURVIVORS some time after treatment
+
+for a life-threatening disease have a death rate from
+all causes similar to that of a normal population with the
+same age and sex distribution, they may be considered
+cured.'.' The proportion of such cases can then be calculated with nonparametric methods3 In malignant diseases, e.g., in carcinoma of the cervix,' a cured fraction
+of this type has been suggested. In breast cancer, however,
+patients die at a rate that exceeds that of a normal popFrom Radiumhemmet and the Oncologic Centre, Karolinska Hospital,
+S- 104 0 I Stockholm. Sweden.
+Research Fellow, Radiumhemmet, Karolinska Hospital.
+t Associate Professor of Oncology, Radiumhemmet and Oncologic
+Centre, Karolinska Hospital.
+$ Research Fellow, Department of Cancer Epidemiology, Karolinska
+Institute.
+Address for reprints: A. Wallgren, MD. Radiumhemmet, Karolinska
+Hospital, S-104 0 1 Stockholm, Sweden.
+The authors thank the Cancer Registry of Norway for providing them
+with the patient data on which this study is based. They also thank Dr.
+Knut Magnus, the Cancer Registry of Norway. and Dr. Tim0 Hakulinen.
+the Cancer Registry of IFinland. for valuable discussions that have improved this article.
+Accepted for publicaiion January 25, 1983.
+
+ulation even after prolonged periods of follow-up.'- '" The
+disease can recur and kill its host even several decades
+after the initial treatment. The proportion of cured patients, if any, can then only be estimated if it can be
+shown that the survival of the patients closely follows a
+defined mathematical survival model, which supposedly
+is applicable also outside the observed range of followup. By extrapolation, the survival model could then be
+used to predict the outcome after longer follow-up than
+is available.
+Many different models for breast cancer survival have
+been proposed.'.'.'2.'5-'3 In this context it must be realized
+that it is impossible to prove that a survival model is true.
+It can be rejected, however, if it leads to a statistically
+significant departure from observed survival data. Estimates based on large sets of patients are therefore more
+reliable than if based on small samples. We have studied
+the survival and the fit of different survival models in all
+14,73I cases of female breast cancer reported to the Cancer
+Registry of Norway during 1953 through 1967. Complete
+follow-up data were available up to 1972.
+The primary aim of the study was to assess if any of
+
+1793
+
+TABLEI .
+
+Female Patients With Breast Cancer in N o w a y From
+I953 Through 1967 by Age Group and Stage
+Age of patients (yr)
+
+Stage
+
+Total
+no. of
+patients
+
+4 5
+
+45-54
+
+55-14
+
+>75
+
+I
+2
+3
+4
+Unknown
+
+6745
+5252
+985
+I370
+379
+
+1059
+913
+77
+I21
+46
+
+1637
+1493
+150
+259
+54
+
+2969
+235 I
+467
+67 I
+I50
+
+I080
+49 5
+29 1
+319
+I29
+
+Total
+
+14.731
+
+2216
+
+3593
+
+6608
+
+2314
+
+the suggested models was consistent with both the late
+excess mortality and the presence of a cured fraction. We
+also wanted to assess if any such model could be used to
+predict long-term survival from data for a limited period
+of follow-up.
+
+Material and Methods
+We obtained data on all 14,73 1 cases of female breast
+cancer reported to the Cancer Registry of Norway during
+1953 through 1967. The registry covers the entire population of Norway. Thus, life tables for the general Norwegian female population should give a reliable estimate
+of the expected survival of this group. We chose this
+material because it consisted of a large patient population
+in which the cases were grouped according to stage and
+because the follow-up was at least 5 years. The longest
+follow-up was 18 years. The material has previously been
+presented in “Survival of Cancer Patients: Cases Diagnosed in Norway 1953-1 967.”24
+The material was divided by period of treatment, age,
+and stage of disease. During 1953 to 1957, 1958 to 1962,
+and 1963 to 1967 the number of cases reported to the
+registry was 4246, 4872, and 56 13, respectively. The patients were divided into four age groups: <45 years, 45
+to 54 years, 55 to 74 years, and 3 7 5 years.
+The basis for the stage grouping was the information
+supplied in the forms sent to the registry. Stage I is a
+localized tumor without axillary lymph node metastases.
+Stage 2 is a localized tumor with axillary lymph node
+metastases. Stage 3 is a locally advanced cancer with or
+without axillary or supraclavicular lymph node metastases. Stage 4 signifies cases with distant metastases. The
+stage grouping is possibly not as accurate in this material
+as in material from a single institution. The workup was
+probably different in different hospitals, possibly less accurate in old or debilitated patients, and may have
+changed with time.
+Table I gives the number of cases by age and by stage.
+For each of the 20 groups in the table, the material was
+subdivided by the three treatment periods: 1053 to 1957,
+1958 to 1962, and 1963 to 1968. For each of these
+
+1984
+
+VOl. 53
+
+subgroups, we obtained the total number of cases and
+for each year of follow-up (i): the numbers dead (O,),
+withdrawn alive (WJ, expected survival at the end ofeach
+interval (PI).
+For the analysis it was necessary to estimate the number
+of deaths attributable to breast cancer in each interval,
+i.e.,excess deaths. Breast cancer deaths were assumed to
+occur independently. The number of excess deaths for
+the interval i was calculated as the difference between the
+observed number of deaths during this interval (0,)
+and
+the expected number (E,). El was calculated as the product
+of the number of patients exposed to the risk of dying
+during the interval (N:)
+and the midpoint estimate of the
+hazard rate (instantaneous death rate) from normal causes
+of deaths (61,).
+N: = N, - 0 , / 2 - W,/2
+N,: the number of patients entering the interval
+fil = G1/(1 - T11/2)
+GI: the conditional probability of dying from normal
+causes during the interval
+6,= 1 - P,/P,-,
+
+In the tables for the total material, which we obtained
+from the Cancer Registry of Norway, the expected survival
+was calculated for an age-matched general p ~ p u l a t i o n . ~ ~
+Due to differences in mortality or withdrawal pattern in
+different age groups this may lead to an overestimation
+or underestimation of the excess mortality which increases
+with longer f o l l o w - ~ p To
+. ~ ~compensate
+~~~
+for this, the
+excess mortality for each stage, for each treatment period,
+and for the total material was calculated by summing the
+expected numbers of deaths for each year of follow-up
+in each age-group.
+
+The Siirvival Models
+The “nonpuramelric model o/ Cutler and Axte1I3.”:
+This model is based on observations of the conditional
+interval relative survival rate, r, = p,/fi,, where p, is the
+conditional probability of surviving to the end of the
+interval i: p, = 1 - O,/(N, - W,/2), and 5, is the conditional
+probability of escaping the normal mortality risk during
+the interval: 6, = P,/P,., . If r, stabilizes at 1 .O some time
+after treatment, the remaining proportion is only subject
+to the normal mortality risk and may thus be considered
+cured. The calculation of the cured fraction and its standard error is given by Cutler and AxtelL3
+If r, stabilizes at I .O, the cumulative relative survival,
+the ratio between the cumulative observed and expected
+survival, stabilizes at a value that corresponds to the cured
+fraction. If, on the other hand, r, stabilizes at a value LY
+less than 1.0, the remaining proportion is subject to a
+higher than normal mortality risk and no cured fraction
+is observed. The general form for this survival model is
+“
+
+10970142, 1984, 8, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/1097-0142(19840415)53:8<1793::AID-CNCR2820530832>3.0.CO;2-Y by MEF Universitesi, Wiley Online Library on [22/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+CANCERApril 15
+
+1794
+
+BREASTCANCER
+
+A CURABLE
+
+DISEASE?*
+
+Rurqvist et a/.
+
+1795
+
+TABLF
+2. The Survival Models Tested on 14,731 Cases of Female Breast Cancer Reported to the Cancer Registry of Norway
+
+_-
+
+Formulation of survival
+
+Model
+Nonparametric-’
+Parametric models with two parameters
+Exponential’
+Extrapolated a’ztuarial’’.‘‘I
+Parametric models with three parameters
+Sum of two exponential*’
+Exponential with shoulder’”
+Weibul12’
+Lognormal”
+
+P,
+
+=
+
+nP,(c‘ + (I - c’)P,)
+
+P,
+P,
+
+=
+=
+
+P,(c + ( 1
+c) exp(-kt))
+P, exp(1n c(I - exp(-kt)))
+
+P,
+P,
+P,
+
+=
+=
+=
+
+Pic’ exp(-k,t) + ( I - c‘) exp(-k2t))
+P,(c + (I - c)( 1 - (I - exp(-kt))”))
+P,(c + ( I - c) exp(-kt)”)
+
+P,
+
+=
+
+P,(c + ( I
+
+-
+
+-
+
+c)
+
+I’
+
+(exp ( - ‘ h x 2 ) / 6 . d x ) ; u
+
+=
+
+(log t
+
+-
+
+m)/s
+
+f,:probahility lo survive to end of interval i; p,:probability to escape
+normal mortality risk to end of interval i: p,: probability to escape
+specific (excess) mortality risk to end of interval i; c: cured fraction: c’:
+
+noncured fraction with specific mortality risk; a:constant < 1.0: k. k , .
+k2. n: constants: m: mean of lognormal survival time distribution; s:
+
+given in Table 2 . In this case the parameter a has to be
+estimated, and the model is not truly nonparametric.
+PurumPtric szirvivul’models: In the literature, the interest
+in parametric-survival-time models has focused on relatively simple mathematic functions in which the parameters are clinically meaningful, e.g., parameters describing
+the mortality of patients not cured from the disease, and
+the fraction of patients only subject to normal or nearly
+normal mortality risks. We have tested the most commonly proposed mathematical models for cancer survival,
+and they are summarized in Table 2.
+The simplest mlodel is the exponential survival
+model,^.^^.^^ which assumes that the risk to die for uncured
+patients is constant over time. The cured fraction, which
+is subject only to normal mortality risks, will become
+relatively more important with time as the doomed fraction is depleted. Thus, in the total population, the risk
+to die from cancer decreases during follow-up and the
+relative survival approaches asymptotically the cured
+fraction. Haybittle’“ noted, however, that this model
+tended to underestimate the late mortality and to overestimate the cured fraction. In his “extrapolated actuarial”
+model, the logarithm of the hazard rate decreases linearily
+with time, which gave a better approximation of late
+mortality.’”’” In both these models, two parameters have
+to be determined. A persisting excess mortality is also
+explained if the cancer population is assumed to consist
+of two distinct populations, each following an exponential
+model, one with a high. the other with a low niortality,12.2’
+“sum of two exponential” model. This model has three
+parameters, but no cured fraction.
+In the mentioned models, the mortality is assumed to
+be highest imniediately after diagnosis. In most malignant
+diseases, however, the mortality is initially low, increases
+to a maximum, and decreases thereafter.17 The addition
+of a “shape parameter” to the exponential model gives
+the “exponential m’odelwith a shoulder”lx and the Weibull model’ in which the initial part ofthe survival curve
+
+is modified. With the lognormal model, however, a survival curve is obtained that is consistent both with a low
+initial mortality which rapidly increases to a maximum.
+and with a slow decrease in the mortality after the maximum has occurred.” In this model the logarithms of
+the survival times are assumed to be normally distributed.
+
+standard deviation of lognormal survival time distribution.
+
+Agreement or Disagreement Bet ween Observed Survival
+und the Models
+A minimum chi-squared test was used to assess if any
+set of parameters was consistent with a nonsignificant
+departure of the theoretical number of deaths according
+to a model, from the observed number of deaths from
+all causes. This method is similar to the method described
+by Mould and B ~ a g . ~ ~The
+. * ’theoretical and the observed
+numbers were generally compared for yearly intervals.
+To avoid less than 10 to 20 expected deaths per interval,
+2-to-4-year intervals were used in Stage 3 and 4 patients
+after the seventh year. In the minimum chi-squared test
+the parameters were changed stepwise until the minimum
+chi-squared value was reached. The degrees of freedom
+were (n - k - I), where n was the number of intervals
+and k the number of estimated parameters of the model.
+If the minimum chi-squared value indicated a significant
+( P > 0.05) lack of fit, the model was rejected. If it was
+not rejected, a runs test was performed and a DurbinWatson statistic calculated in order to detect correlated
+errors.” If such errors were found. the model was also
+rejected.
+t.,’~tit nut ion o/‘Puru I niv Pr.)
+
+For the lognormal model, which turned out to give
+the best fit to the observed data, the parameter values
+and their standard errors were estimated by the maximum
+likelihood met hod. l 7
+The fit of the lognormal model to the survival of the
+study population was illustrated by a comparison ofcon-
+
+10970142, 1984, 8, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/1097-0142(19840415)53:8<1793::AID-CNCR2820530832>3.0.CO;2-Y by MEF Universitesi, Wiley Online Library on [22/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+IS
+
+No. 8
+
+CANCERApril 15 1984
+
+VOl.
+
+53
+
+Results
+
+Conditional annual
+relative surv ratel%)
+
+The Nonpururnetric Model of' Curler and Axtel13
+
+95-
+
+90..
+
+ji
+1
+
+-
+
+\
+
+0
+
+5
+
+10
+
+15 y e a r s
+
+FIG. I . Conditional annual relative survival rates of 14,73 I cases of
+breast cancer during I8 years of follow-up. The theoretical rates assuming
+a lognormal-survival time distribution are indicated by the broken line.
+
+ditional interval relative survival rates which were calculated for each year of follow-up. The estimated parameter values of the model were used to compute the theoretical cumulative relative survival at yearly intervals.
+The theoretical conditional annual relative survival during
+year t was then obtained as the ratio between the cumulative survival rate at the end of t and at (t - 1).
+Conditional onnual
+relative surv rate (%I
+A
+
+-
+
+90.
+
+H
+
+5
+
+10
+
+The Parametric Models
+Table 3 summarizes the results from the minimum
+chi-squared tests, the runs tests, and the Durbin-Watson
+statistics. In this table,
+indicates that a model could
+not be rejected. Only the lognormal model consistently
+fitted the data for individual stages and for all stages in
+combination. In Stage 3, several models could not be
+rejected. In Stage I the exponential model with an initial
+shoulder was also not rejected. The lognormal model was
+the only model not rejected in any of the different age
+groups or any of the three treatment periods (data not
+shown).
+
++
+
+Parumeters oj [he Lognormu1 Model
+
+stage 1 (67451
+s t a g e 2 (5252)
+
+85
+
+0
+
+Figure 1 shows the conditional annual relative survival
+rates of all patients. In Figures 2 and 3, the material is
+subdivided by stage. For the total material, the annual
+rates increased but did not exceed 100%during 18 years
+of follow-up. No convincing stabilization around a value
+less than 100 was observed. In Stages 1 and 2, the annual
+rates seemed to stabilize around 98%, and no cured fraction was thus observed (Fig. 2). Applying the nonparametric model (Table 2), and assuming that the annual
+rates asymptotically approached the mean of the last 4
+observed years, the fractions with a nearly normal survival
+was estimated to 76% for Stage I , and 3370 for patients
+with Stage 2 tumors. In Stages 3 and 4, the conditional
+relative survival exceeded 100%in the 13th year of followup (Fig. 3). This could indicate that some patients with
+these stages really were cured. In Stage 3 patients, the
+cured fraction was calculated to 23 ? 2'70, and in Stage
+4 to 3 ? 1%. The number of patients remaining at risk
+at the beginning of the 13th year. however, was only 34
+and I2 in the two stages, respectively. Curability in these
+stages based on this model should therefore be regarded
+with caution.
+
+15 years-
+
+Fici. 2. Conditional annual relative survival rates for Stage 1 and 2
+breast cancer cases during 18 years of follow-up. The theoretical rates
+assuming a iognormal-survival time distribution are indicated by the
+broken lines. The figures within brackets denote the number of patients.
+
+Since only the lognormal model gave a consistently
+good fit to the observed data, estimates of the parameters
+and their standard errors are only given for this model.
+The parameters are ( I ) the mean of the logarithms of the
+survival times of those who die from the disease (The
+antilogarithm of this mean is an estimate of the median
+survival time. Logarithms with a base of 10 were used.);
+(2) the standard deviation of the survival times; and (3)
+the cured fraction, i.e., those who have a survival equivalent to that of an age-matched general population. Table
+4 shows the estimates of these parameters and their standard errors for the three treatment periods and for the
+entire material. The parameters were estimated for all
+
+10970142, 1984, 8, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/1097-0142(19840415)53:8<1793::AID-CNCR2820530832>3.0.CO;2-Y by MEF Universitesi, Wiley Online Library on [22/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1796
+
+CURABLE
+
+Conditional a n n u a l
+relative surv rate ( % I
+
+DISEASE?* Riitqvisr el a/.
+
+1797
+
+TABLE3. Results From the Tests of Fit Between the Theoretical
+Distributions and the Observed Distribution of Deaths
+Stage
+Model
+
+5
+
+2
+
+3
+
+4
+
+0
+0
+
+0
+0
+
+0
+0
+
++
+0
+
+0
+0
+
+0
+0
+0
+
+0
++
+0
+
+0
+0
+0
+
+0
++
++
+
+0
+0
+0
+
+10
+
++
+
++
+
++
+
++
+
++
+
+These results are from 14.731 cases of breast cancer reported to the
+Cancer Registry of Norway.
+0: model was rejected because of lack of 61: +: it was not rejected.
+
+stage 4 (1370)
+
+L
+
+15 years
+
+FIG. 3 . Conditional annual relative survival rates for Stage 3 and 4
+breast cancer cases during I8 years of follow-up. The theoretical rates
+assuming a lognormal-survival time distribution are indicated by the
+broken lines. The figures within brackets denote the number of patients.
+
+groups with data for the first 10 years and for groups with
+longer follow-up, also with data for the longest observation
+period. The estimated mean of the lognormal distribution
+of survival times wa!j 0.56 ? 0.01 log years for the total
+material. This corresponds to a median survival of 3.6
+years. The standard deviation was 0.60 k 0.0 I log years.
+The cured fraction was estimated to 35 L 2%. No significant differences were found if the parameters were
+estimated with data only for the first 10 years or if data
+for the longest follow-up were used. There were no significant differences hetween the means or their standard
+deviations estimated for the three treatment periods. The
+cured proportion. however. rose from 33 f 1% in 1953
+to 1957 to 30 3% in 1963 to 1967 ( P = 0.05).
+Table 5 shows the estimated parameter values for the
+different stages. Within each stage the values are given
+for patients younger and older than 55 years of age. The
+mean of the lognormal distribution of survival times decreased from 0.88 2: 0.05 log years (7.6 years) in Stage
+I to -0.14 +: 0.02 (0.7 years) for Stage 4 patients, and
+the estimated cured fraction decreased from 54 2 3'70 to
+2 5 1%. Thcre were no significant differences between
+the estimates of the cured fraction for Stage 3 or Stage
+4 patients whether these were calculated according to the
+nonparameti-ic model or according to the lognormal
+model. In the total material. there was no significant dif-
+
+*
+
+I
+
+Two parameter models
+Exponential
+Extrapolated actuarial
+Three parameter models
+Sum of two exponential
+Exponential with shoulder
+Weibull
+Lognormal
+
+4I
+.
+0
+
+Total
+
+ferences between the means of the log-survival time distributions of patients younger or older than 55 years of
+age. Except in Stage 4, there were also no significant
+differences between the means for the two age groups in
+the individual stages. In Stage 4, the mean was -0.02
+f 0.04 log years (1.0 years) for those younger than 5 5
+years of age, and -0.14 k 0.02 (0.7 years. P = 0.001) for
+those who were older. The standard deviation of the lognormal-survival time distribution was significantly lower
+for patients younger than 5 5 years of age (0.53 k 0.02)
+than for older patients (0.66 f 0.02, P < 0.0001). In the
+individual stages, however, there were no significant differences between the age groups in this respect. The estimated cured fraction was significantly higher for patients
+younger than 55 years of age (44 -+ 1%) than for older
+patients (26 & 2%, P < 0.0001). Significant differences
+between the two age groups in the same direction were
+also found within each stage with the exception of Stage
+4 where no significant cure was found in any age group.
+
+
+
+Estimated with the maximum likelihood method for 14.731 case, of
+hreast cancer reported to the Cancer Registry of Noway. The parameters
+were estimated for three treatment periods and for the total material.
+The values were determined with data for the first 10 years of followup in all groups. In groups with longer observation period. the values
+were also estimated with data for maximum length of follow-up.
+
+
+
+
+
+Estimated with the maximum likelihood method for breast cancer
+cases from the Cancer Registry of Norway divided by stage and by age.
+
+Comparison of Conditional Annual Relative
+Survival Rates
+Using the estimated parameter values , theoretical conditional relative survival rates were calculated for each year of follow-up. Figure l shows these
+rates for the total population together with the rates calculated from the observed survival. They show a good
+similarity even though the differences increase with time.
+The departures were not significant, but it is noteworthy
+that in 7 of the 8 last years of follow-up, the rates calculated
+from the observed survival were higher than the theoretical
+rates. This could indicate a systematic departure from
+the model. Figures 2 and 3 show the results for the different
+tumor stages. The theoretical rates were similar to the
+rates obtained from the observed survival in all stages.
+For Stage 1 and 2 patients (Fig. 2), the mean theoretical
+rate for the period 14 to 18 years was 98.9% and 98.2%.
+respectively. The corresponding rates calcu la ted from the
+observed survival was 98.4% and 98.20/0, respectively.
+Discussion
+The current study shows that there is an excess mortality
+from breast cancer at least during the first 18 years after
+treatment. This result accords with many other
+studies.'-13 In Stages 3 and 4, however, there was no
+excess mortality after the 13th year of follow-up.
+A cured fraction could then be estimated according to
+Cutler and Axtell.' It was 23 +- 2%) in Stage 3 , and 3
+
+Vol. 5 3
+
+2 1% in Stage 4. Only very few patients, however, with
+these stages remained at risk during the 13th year. In
+view of this and the methodological problems involved
+in calculating the excess mortality, vide iqja. curability
+in these stages should be regarded with caution. In Stages
+1 and 2, the annual survival ratios seemed to stabilize
+around a value less than 10076, and no cured fraction
+was observed. This could mean that after a rapidly
+dying subgroup is depleted, the remaining patients are
+still dying at a rate that exceeds that of a normal population. This had led to the formulation of the hypothesis
+that breast cancer consists of two distinct populations,
+one with a yearly excess mortality of 25% to 70%, the
+other with an excess mortality of 2.5% to 9%.3,12,21.2s
+Even
+though the annual survival ratios of patients with Stage
+1 and 2 tumors seemed to converge towards a constant
+value lower than loo%, the parametric model consisting
+of the sum of two different exponential functions did not fit the data for the entire material or for the
+individual stages.
+Several mathematical models have been suggested in
+the literature for breast cancer survival. The simple exponential model with a cured fraction' and the extrapolated actuarial r n ~ d e l , ' which
+" were rejected in the
+current study, could have been rejected a priori because
+both of these models assume that the conditional relative
+survival is lowest immediately after treatment, which
+clearly is not the case except in Stage 4. In
+Stages 1 and 2, the annual relative survival rates were
+even higher during the first year than during the second.
+This shape of the curve is not consistent with the simple
+exponential function. The exponential model with an
+initial shoulder, a survival function seen when cells are
+irradiated with single fractions of various doses of x-rays,
+was suggested to overcome this problem.'* Likewise, in
+the Weibull distribution an increasing hazard rate can be
+achieved if the "shape" parameter is greater than unity.
+Neither of these models nor the exponential functions
+are consistent with the decreased mortality during followup. The extrapolated actuarial model, however, was designed for this reason. All of these models have been
+accepted in other groups of breast cancer patients, but
+were rejected in this study, probably because of the much
+larger size of our study population. Only the lognormal
+survival model was not rejected when applied to the entire
+material. individual stages, age groups, and periods of
+treatment. Boag showed that the distribution
+of survival times for several malignant diseases were skew
+with a marked tail and that their logarithms were approximately normally distributed. " He also suggested that
+the parameters could be estimated with the maximum
+likelihood method. Using a graphical solution, Berg came
+to the same
+The lognormal survival time dis-
+
+
+tribution is consistent with late excess mortality ,
+and at the same time with a fraction of patients only
+subject to normal moilality risks.
+It is possible that significant departures from observed
+values would have been found also with the lognormal
+model if the size of our material had been even larger.
+It is important to rernember that it is not possible to
+prove that a survival model is true, only to reject it if
+there is a statistically significant departure of values predicted by the model from the observed values. Even if
+breast cancer survival times exactly follow the model,
+there are several reasons why departures could be observed. The patients are, for instance, not only subject
+to an increased mortality risk because of the disease, but
+also to the hazards oftreatment, c . , ~postoperative
+.,
+deaths,
+late second cancer due to radiotherapy,’ and in the future,
+due to cytotoxic chemotherapy. Treatment of distant disease could delay death in some cases and possibly hasten
+it in others.>”
+The material came from a registry with a high frequency
+of reports on detected cancer cases. Even if there is reason
+to believe that the ttxpected survival derived from life
+tables for the general female population should be a reasonable estimate of the “breast cancer-free” survival of
+the study population. it is of course possible that breast
+cancer patients are subject to other mortality risks than
+the general population, even besides the increased risk
+from breast cancer. ‘The most easily recognized example
+of this is the association between breast cancer and other
+primary malignancies, e.,q.. endometrial cancer, ovarian
+cancer, and cancer of the colon. This could be an explanation of why the annual survival ratios in Stages 1 and
+2 seemed to converge towards less than 100%.
+When judging the results from this study, it must be
+realized that the mathematic treatment of the material
+is based on several simplifications and approximations.
+For instance, the maiterial was grouped in yearly intervals,
+and death was assumed to have occurred at the midpoint
+of each interval. The calculation of the excess number
+of deaths was also approximate. Because of the age variation in cancer survival, with a poorer outcome for older
+patients,15 the number of older women in the material
+decreased during follow-up niore than expected for a general population. The expected survival for later yearly
+intervals was therefbre probably underestimated since the
+remaining cases were younger than anticipated. Allowance
+was made partly for this by partitioning the patient population into four age groups and calculating the excess
+number of deaths for each subgroup.’ Nevertheless, the
+excess deaths were probably somewhat underestimated
+because of this. The breast cancer deaths were also assumed to be unrehted to deaths from other causes, which
+probably is not true. An interaction between widespread
+
+cancer and other diseases may well exist. This could be
+one reason for the shorter median survival in Stage 4
+patients who were older than 5 5 years of age compared
+to the younger patients. Furthermore, breast cancer is
+not an infrequent cause of death in the general female
+population amounting to 3% to 4% of the total mortality.
+The life tables were not corrected for this. The expected
+survival and thus the excess deaths were therefore somewhat underestimated. A slight underestimation of the excess deaths could explain why some cures were found in
+Stage 4. Another explanation for this could be that the
+clinical staging was not always accurate. On the other
+hand, the study population was taken from a cancer registry in which cancers rather than individuals are registered. Some of the cases were therefore probably registered
+because of their second breast cancer. Due to their first
+cancer, their survival expectation should then be less than
+expected from the life tables.
+What other indications are there that an approximate
+lognormal survival model could be applicable‘? Several
+malignant diseases in which a cured fraction is observable
+or where all patients have lethal disease are also consistent
+with this model. These include chronic leukemia,3’ cancer
+of the uterine
+several types of head and neck
+cancers,
+and gastric
+Berg proposed that
+the lognormal distribution might be a limiting distribution
+for many malignant diseases since it seemed to be approached as the number of patients in a group increased. l 6
+In comparison to the mentioned disease, breast cancer
+was characterized by a long median survival of patients
+not cured, and a large standard deviation of the lognormal
+distribution which is consistent with the late excess mortality. Boag’s explanation for the lognormal survival time
+distribution was that the length ofthe remaining survival
+time, if the patient was not cured by treatment, was dependent principally on the growth rate of tumor remnants.” Pearlman estimated the growth rates of breast
+cancers which recurred in the scar, assuming that the
+recurrence started from a single cell.33He found that the
+growth rates were approximately lognormally distributed.
+Likewise, von Fournier found that the growth rates of
+breast cancers that could be followed in serial mammograms, were lognormally distributed.The
+ tumors
+included in such a study. however, are likely to be selected.
+The fastest and the slowest growing tumors will be underrepresented because rapidly increasing tumors will appear as clinically apparent lesions between mammograms,
+and tumors with low-growth rates may not increase
+enough between the mammograms to be identified as
+cancers.
+One serious disadvantage with the lognormal model is
+that a very large series of patients are necessary, or else
+the standard errors of the estimated parameters will be
+very large. If the standard deviation of the survival time
+distribution can be assumed to be known, the errors of
+the two remaining parameters will d e ~ r e a s e .In
+' ~ the current material, the standard deviation did not vary significantly between the groups treated during different periods of time or when the parameters were determined
+with knowledge of only the first 10 years of follow-up or
+when all 18 years were used (Table 4). Therefore, the
+standard deviation of 0.59 to 0.60 log years calculated
+for this material could possibly be used in studies on
+smaller series.
+In patients with Stage 3 and 4 tumors, the estimates
+of the cured fraction based on the lognormal model were
+not significantly different from those calculated according
+to Cutler and AxtelL3The good fit ofthe lognormal model
+in Stages 1 and 2 is, of course, no proof that there exists
+a proportion of patients with normal survival expectation
+in these stages also. Extrapolations based on mathematical
+models should be cautiously judged until supported by
+observed data from series with longer follow-up. However,
+since the mean age of breast cancer patients in an unselected series is approximately 60 years, a majority of
+patients will die within 2 or 3 decades even of they are
+cured from their cancer. A study of the behavior of breast
+cancer after several decades is thus only possible in young
+patients. Therefore, we are currently following a group
+of young women with breast cancer in order to study the
+long-term survival and a possible cured fraction.

@@ -1,0 +1,1628 @@
+https://www.sciencedirect.com/science/article/pii/S1574789110001274
+Introduction
+
+Implementation of screening/prevention programs and novel
+treatment strategies is decreasing breast cancer mortality
+(Jemal et al., 2009). However, more than 120,000 estimated
+deaths due to breast cancer are expected annually in the US
+and Europe combined (Jemal et al., 2009; La Vecchia et al.,
+2009). A plausible explanation for this scenario is, in part,
+that we still lack a complete enough picture of the biologic
+heterogeneity of breast cancers with respect to molecular
+alterations, treatment sensitivity, and cellular composition.
+Importantly, this complexity is not entirely reflected by
+the main clinical parameters (age, node status, tumor size,
+
+histological grade) and pathological markers (estrogen receptor [ER], progesterone receptor [PR] and human epidermal
+growth factor receptor 2 [HER2]), all of which are routinely
+used in the clinic to stratify patients for prognostic predictions
+and to select treatments.
+Studies based on global gene expression analyses have provided additional insights into this complex scenario. During
+the last 10 years, four molecular ‘intrinsic’ subtypes of breast
+cancer (Luminal A, Luminal B, HER2-enriched, and Basal-like)
+and a Normal Breast-like group have been identified and
+intensively studied (Perou et al., 2000; Sorlie et al., 2001).
+Known as the ‘intrinsic subtypes of breast cancer’, these groups
+of tumors have revealed critical differences in incidence
+
+* Corresponding author. Lineberger Comprehensive Cancer Center, University of North Carolina, 450 West Drive, CB7295, Chapel Hill,
+NC 27599, USA. Tel.: þ1 919 843 5740; fax: þ1 919 843 5718.
+E-mail address: cperou@med.unc.edu (C.M. Perou).
+1574-7891/$ e see front matter ª 2010 Federation of European Biochemical Societies. Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.molonc.2010.11.003
+
+6
+
+
+(Millikan et al., 2008; Carey et al., 2006), survival (Perou et al.,
+2000; Sorlie et al., 2001; Cheang et al., 2009; Hu et al., 2006),
+and response to treatment (Prat et al., 2010; Nielsen et al.,
+2010; Parker et al., 2009b; Hugh et al., 2009; Carey et al., 2007;
+Rouzier et al., 2005a). Importantly, the information provided
+by the intrinsic subtypes complements and expands the information provided by classical clinical-pathological markers
+(Parker et al., 2009b).
+As genomic studies evolve, further sub-classification of
+breast tumors into new molecular entities is expected to
+occur. For example, a new breast cancer intrinsic subtype,
+known as Claudin-low, has been recently identified in human
+tumors, in mouse tumors (Herschkowitz et al., 2007), and in
+a panel of breast cancer cell lines (Prat et al., 2010). Clinically,
+the majority of Claudin-low tumors are poor prognosis
+ER-negative (ER), PR-negative (PR), and HER2-negative
+(HER2) (i.e. triple-negative) invasive ductal carcinomas with
+a high frequency of metaplastic and medullary differentiation. Preliminary data shows that they have a response rate
+to standard neoadjuvant chemotherapy that is intermediate
+between Basal-like and Luminal tumors (Prat et al., 2010).
+Furthermore, Claudin-low tumors are enriched with unique
+biologic properties linked to mammary stem cells (MaSCs)
+(Lim et al., 2009), a Core EMT signature (Taube et al., 2010),
+and show features of tumor initiating cells (TICs, also known
+as Cancer Stem Cells [CSCs]) (Creighton et al., 2009;
+Hennessy et al., 2009), the study of which is leading to the formulation of new hypothesis regarding the ‘cell of origin’ of the
+different subtypes of breast cancers.
+In this review, we comprehensively deconstruct the molecular portraits of breast cancer in three steps. First, we describe
+the molecular features of the Claudin-low subtype in human
+tumors and cell lines. Second, we discuss the main clinicalpathological characteristics and treatment sensitivity of the
+intrinsic subtypes. Finally, we review the CSC hypothesis
+and the potential developmental origin of each intrinsic
+subtype.
+
+2.
+Molecular identification and characterization of
+the Claudin-low intrinsic subtype
+In 2007, Herschkowitz et al. (2007) analyzed 232 human breast
+samples by semi-unsupervised hierarchical clustering and
+compared their gene expression profiles versus 108 mammary
+tumors from multiple genetically engineered mouse models.
+In this report, a potential new intrinsic subtype, apparent in
+both mouse and human data sets, was identified; this ‘Claudin-low’ subtype was characterized by the low expression of
+genes involved in tight junctions and cellecell adhesion, including three different Claudin genes. Interestingly, most of
+the defining characteristics of the Claudin-low human tumors
+were conserved in several mouse models including 3 models
+with engineered BRCA1 and/or p53 deficiencies.
+Recently, we have reported a more comprehensive characterization of this rare intrinsic subtype (Prat et al., 2010). As
+shown in Figure 1A, hierarchical clustering analysis of 320
+human breast tumors and 17 normal breast samples using
+a w1900 gene intrinsic list (Parker et al., 2009b) places the
+Claudin-low group next to the Basal-like subtype indicating
+
+that both tumor types share some gene expression features.
+These shared features include low expression of the HER2
+and the luminal gene clusters, as well as the genes HER2,
+ESR1, GATA3 and the luminal keratins 8 and 18. However,
+two intrinsic gene clusters are uniquely expressed (or not
+expressed) in the Claudin-low subtype. One of these clusters
+is enriched with cellecell adhesion proteins and is found to
+show low expression within Claudin-low tumors. Among the
+w20 genes that compose this cluster are claudin 3, 4, 7, cingulin and occludin that are involved in tight junctions, and
+E-cadherin that is a calcium dependent cell adhesion protein.
+Conversely, the other cluster, which is composed of w40
+genes, is highly enriched with immune system response
+genes and is highly expressed in Claudin-low samples. Many
+of these genes are known to be expressed by T- and B-lymphoid cells (i.e. CD4 and CD79a), indicating high immune cell
+infiltration in this tumor subtype. However, the origin of other
+immune-related genes highly expressed in Claudin-low
+tumors, such as interleukin 6 or CXCL2 might be produced
+by the actual tumor cells, or immune cells, or both (see below).
+Two additional intrinsic gene clusters have characteristic
+levels of expression in Claudin-low tumors. The proliferation
+gene cluster, which is usually highly expressed by poor outcome subtypes such as Basal-like, HER2-enriched and Luminal B tumors, is expressed at low levels in almost all
+Claudin-low samples, although it does not reach the low
+levels observed in the Luminal A or Normal Breast-like groups
+(Prat et al., 2010). This data suggests that Claudin-low tumors
+might be slow cycling tumors. Conversely, a cluster composed
+of w80 genes and highly enriched with mesenchymal/extracellular matrix genes (i.e. laminin and integrin alpha 7) is
+highly expressed in Claudin-low tumors with a pattern of
+expression similar to the Normal Breast-like group, which is
+not unexpected since normal breast samples are highly
+enriched with stromal tissue.
+It is important to note that the Normal Breast-like group in
+our studies has always contained many true normal breast
+samples (typically reduction Mammoplasty samples), with
+the PAM50 Normal Breast-like group being trained using
+only true normals (Parker et al., 2009b). The small number of
+tumors that fall into the Normal Breast-like group with the
+true normals, show low tumor cellularity (<50%) when examined pathologically, which likely explains why they group
+with the true normal samples (Parker et al., 2009b;
+Peppercorn et al., 2008). Other studies have questioned the
+existence of this subtype based upon analyses of data sets
+that typical contain no true normal samples, which depending
+upon the rigor of pathology quality control over % tumor cellularity, may result in only a handful of tumor samples showing this phenotype; thus, those proposing to assess the
+existence of this group must include true normal samples in
+their analyses, and when a tumor sample falls into this group
+it does so mostly likely because that sample is predominant
+composed of normal breast tissue and not tumor tissue. However, future larger studies such as The Cancer Genome Atlas
+project will address the existence of a normal-like breast
+tumor subtype.
+The pattern of expression of the main intrinsic gene clusters across the molecular portraits of breast cancers reveals
+that the Claudin-low tumors are characterized by two main
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+Figure 1 e Intrinsic hierarchical clustering and selected gene expression patterns of 337 UNC breast samples data set (publicly available at
+GSE18229 and https://genome.unc.edu). (A) Average-linkage hierarchical clustering of genes and arrays was performed using the intrinsic gene
+list from Parker et al. (2009b), with the sample associated dendrogram colored according to intrinsic subtype. Characteristic expression patterns are
+highlighted including the Luminal, HER2, Basal, Immune, Cell adhesion, Mesenchymal/Extracellular matrix (ECM) and Proliferation gene
+clusters. Each colored square represents the relative transcript abundance (in log2 space) with highest expression being red, average expression
+being black, and lowest expression being green. (B) Mesenchymal and stem cell-like gene expression in Claudin-low tumors shown using ANOVA
+analysis for each subtype. The Stem Cell-like Signature (CD44D/PROCRD vs. CD24D) was obtained from Shipitsin et al. (2007), and
+a enrichment/activity score was derived by calculating the inner product of this signature (gene ratio) and the gene expression value of each tumor
+sample. (C) DNA-repair (PARP1 and CHEK1) and angiogenesis (VEGFA) gene expression for individual genes across the subtypes.
+
+7
+
+8
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+features: high mesenchymal features and low luminal/
+epithelial differentiation. Interestingly, previous reports
+have linked both of these features by showing that the induction of a mesenchymal state in a mammary epithelial cell
+(also known as epithelial-to-mesenchymal transition [EMT])
+is associated with the acquisition of undifferentiated mammary stem cell-like features (Taube et al., 2010; Morel et al.,
+2008; Gupta et al., 2009; Shipitsin et al., 2007; Mani et al.,
+2008). For example, expression of EMT-inducing transcription
+factors like SNAI1 (Mani et al., 2008), or repression of E-cadherin (Gupta et al., 2009) in mammary epithelial cells, causes
+a fibroblast-like appearance with induction of mesenchymal
+markers such as N-cadherin and/or vimentin. In addition,
+cells in this EMT state acquire a CD44þ/CD24/low stem celllike antigenic phenotype (Gupta et al., 2009; Al-Hajj et al.,
+2003), which has been previously found to enrich for CSCs
+(Gupta et al., 2009; Al-Hajj et al., 2003; Li et al., 2008). Indeed,
+EMT-inducing transcription factors such as ZEB2 and TWIST2,
+as well as the mesenchymal marker vimentin, are expressed
+at higher levels in CD44þCD24/low CSCs and CD49fhigh/
+EpCAM mammary stem cells (MaSCs) relative to the more
+differentiated CD44/CD24þ tumor cells and CD49f/EpCAMþ
+mature luminal cells, respectively (Shipitsin et al., 2007;
+Prat and Perou, 2009).
+Concordant with a mesenchymal/stem cell-like state, Claudin-low tumors show the highest gene expression of vimentin
+
+and N-cadherin, and several known transcriptional repressors
+of E-cadherin (i.e. TWIST1) compared to the Basal-like and
+other tumor subtypes (Prat et al., 2010) (Figure 1B); in these
+Claudin-low tumors, it appears as if the vimentin is expressed
+within the stroma/fibroblasts and epithelial cells as revealed by
+dual label immuno-fluorescence experiments (Figure 2AeC). In
+addition, Claudin-low tumors show the lowest gene expression of epithelial differentiation markers such as CD24, EpCAM
+and MUC1, while showing higher expression of CD44 and
+CD49f (ITGA6) than luminal umors, which is concordant with
+CD44þ/CD24/low and CD49fþ/EpCAM stem cell-like antigenic
+phenotypes (Prat et al., 2010). Furthermore, various genomic
+signatures derived from either CD44þ/CD24/low or normal
+breast MaSCs-enriched FAC sorted populations, have been
+found exclusively highly expressed within Claudin-low tumors
+(Prat et al., 2010; Creighton et al., 2009; Shipitsin et al., 2007;
+Dontu et al., 2003) (Stem Cell-like Signature, Figure 1B) and
+true normal breast specimens.
+Another extensively studied stem cell/TIC/CSC marker,
+aldehyde dehydrogenase 1 (ALDH1) (Resetkova et al., 2010;
+Ginestier et al., 2007), is found highly expressed in both the
+Normal Breast-like group and Claudin-low tumors. This is
+not surprising since the expression of ALDH1 is not restricted
+to epithelial cells but also noted in stromal cells (Lim et al.,
+2009; Resetkova et al., 2010; Ginestier et al., 2007). Thus,
+whether the high gene expression of ALDH1 observed in
+
+Figure 2 e Selected histological features of the intrinsic subtypes of breast cancer. (AeC) Dual label immuno-fluorescence analysis of a Claudinlow sample with tumor cells positive for vimentin (green, A), keratin 5/19 (red, B) and both (yellow, white arrows, C). (D) Basal-like sample with
+EGFR/HER1 positive staining. (E) Basal-like sample with keratin 5/6 positive staining. (F) Well-differentiated Luminal A tumor with strong
+ER-positivity. (G) Poorly differentiated Luminal B tumor with weak/moderate ER-positivity. (H) HER2-enriched tumor with strong membrane
+staining for HER2. (I) Claudin-low tumor with brisk lymphocytic infiltration (black arrows). This figure has been modified from Prat et al. (2010).
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+Claudin-low tumors has an origin in the stromal cells, the
+tumor cells, or both, is currently unknown but is under investigation. Overall, the molecular characterization of Claudinlow tumors suggests that breast epithelial cancer cells within
+this tumor subtype lack luminal and common epithelial cell
+features and are enriched with stem cell-like/mesenchymal
+characteristics that eventually attract stromal and/or immune-related cells into the microenvironment.
+
+3.
+Molecular identification of Claudin-low in vitro
+model systems
+Previous studies have shown that the genetic and transcriptional characteristics of breast tumors are present in cell lines
+(Neve et al., 2006; Chin et al., 2006). In 2006, Neve et al. (2006)
+analyzed the expression pattern of 51 breast cancer cell lines
+and compared their profile with 145 primary breast tumors.
+Hierarchical clustering of the transcriptional profiles of these
+cell lines revealed two major clusters: luminal and basal. The
+luminal cluster included the majority of ERþ and/or HER2þ
+cell lines, while the basal cluster was further subdivided in
+two subgroups: Basal-A (BT20, HCC1143, HCC1187, HCC1569,
+HCC1937, HCC1954, HCC2157, HCC3153, HCC70, MDA-MB468,
+SUM190PT, and SUM225) and Basal-B (BT549, HBL100,
+HCC1500, HCC38, Hs578T, MDA-MB157, MDA-MB231, MDAMB435, MDA-MB436, SUM1315, SUM149PT, and SUM159PT).
+Basal-A cell lines matched closely to the Basal-like signature
+found in primary tumors. Basal-B cell lines exhibited a profile
+that was less similar to in vivo Basal-like tumors, yet were still
+referred to as “Basal”; other investigators have used different
+names for these Basal-B cell lines such as Normal-like
+(Hollestelle et al., 2009; Sieuwerts et al., 2009). Interestingly,
+the Luminal, Basal-A and Basal-B molecular groups are also
+maintained during 3D cell culture (Kenny et al., 2007).
+More recently, we have shown that 9 previously called
+“Basal-B/Normal-like” cell lines (BT549, HBL100, Hs578T,
+MDA-MB157,
+MDA-MB231,
+MDA-MB435,
+MDA-MB436,
+SUM1315, SUM159PT) most resemble the Claudin-low subtype
+(Prat et al., 2010). Among them, the triple-negative MDAMB231 is one of the most widely used breast cancer cell line
+in cancer research due to its plasticity, invasive phenotype
+and high metastatic potential (Minn et al., 2005; Kim et al.,
+2009). Hierarchically clustering the gene expression data of
+Neve et al. (2006) with an intrinsic gene list reveals that these
+9-cell lines cluster together and display similar gene expression patterns as Claudin-low human tumors, namely low
+expression of the luminal and HER2 gene clusters, inconsistent expression of the basal cluster, and low expression of
+the cellecell adhesion cluster containing claudin 3, 4 and 7,
+and E-cadherin (Figure 3A). Importantly, the top upregulated
+and downregulated genes found in these 9 breast cancer cell
+lines, when compared versus all other cell lines, were found
+similarly expressed in Claudin-low tumors (Figure 3B). A major
+difference, however, is that Claudin-low cell lines do not show
+low expression of the proliferation cluster as do the in vivo
+Claudin-low tumors; a potential explanation of this finding
+is unknown but might be secondary to the in vitro culture conditions and/or selection process where slow growing cells are
+selected against.
+
+9
+
+As with Claudin-low tumors, accumulating evidence suggest that these Claudin-low cell lines are enriched with stem
+cell-like features. For example, Charafe-Jauffret et al. (2009)
+reported that many of these cell lines show high expression
+of ALDH1 and contain functional CSCs. This is in concordance
+with two other reports (Fillmore and Kuperwasser, 2008;
+Sheridan et al., 2006) that showed that the MDA-MB231,
+SUM159PT, SUM1315 MDA-MB436, Hs578T and HBL100 cell
+lines have a high proportion (>90%) of CD44þ/CD24/low cells,
+and the CD44þ/CD24/low subpopulation obtained from these
+cell lines were capable of forming tumors in NOD/SCID mice
+and were more resistant to chemotherapy (Fillmore and
+Kuperwasser, 2008). In addition, these potential Claudin-low
+cell lines share gene expression profiles with the normal
+breast bipotent subpopulation of Raouf et al. (2008) (CD49fþ/
+MUC1CD133(CD10/THY1)þ) and the MaSC subpopulation
+of Lim et al. (2009) (CD49fhigh/EpCAM). Moreover, we have
+shown that the SUM159PT Claudin-low cell line possesses
+a similar antigenic phenotype as the MaSC subpopulation of
+Lim et al. (2009) with positivity for CD49f and low to absent
+expression of EpCAM (Prat et al., 2010). Of note, EpCAM is currently being used as the antigen to isolate circulating tumor
+cells by the CellSearch method (Cristofanilli et al., 2004).
+Thus, if CSCs are EpCAM-negative, then it seems unlikely
+that circulating CSC in breast cancer patients will be detected
+by the CellSearch assay, which has already been shown
+to be the case for the majority of Claudin-low cell lines
+(Sieuwerts et al., 2009).
+In general, breast cancer cell lines do not express the
+immune response and mesenchymal/ECM gene clusters
+observed in breast tumors (Figure 3A). This is likely due to
+the lack of contamination of non-epithelial cell types in in vitro
+epithelial cell cultures. However, Claudin-low cell lines are
+still highly enriched with genes involved in wound/inflammatory responses compared to the other cell lines (Figure 4AeB),
+concordant with the high expression of these same genes in
+Claudin-low tumors. Both data point to the interaction between CSCs and the cellular microenvironment as a key event
+in determining tumor growth and survival, which is supported
+by many recent preclinical studies (Kim et al., 2009; CharafeJauffret et al., 2009; Santisteban et al., 2009). For example,
+CD8 T-lymphoid cells can induce an EMT and a stem celllike phenotype in epithelial cells from a murine breast cancer
+model (Santisteban et al., 2009), while highly metastatic cells
+of the MDA-MB231 cell line enhance tumor growth, angiogenesis and stromal recruitment by secreting interleukin 6 (IL-6)
+and interleukin 8 (IL-8) (Kim et al., 2009). Blockade of the IL-8
+receptor CXCR1 using a CXCR1-specific blocking antibody or
+repertaxin (a small-molecule CXCR1 inhibitor), selectively depletes the CSC population of the Claudin-low cell line SUM159
+(Ginestier et al., 2010). Thus, strategies to interfere with these
+inflammatory-related processes might be useful in the treatment of breast cancers in general, and for Claudin-low tumors
+specifically.
+Given the low expression of Claudin proteins and E-cadherin in Claudin-low tumors, it might be possible to identify
+these tumors using a methodology like immunohistochemistry; however, we believe that classifications based upon the
+lack of marker(s) is a troublesome method for multiple reasons
+including 1) assay technical failure would yield false-negative
+
+10
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+Figure 3 e Identification of the Claudin-low profile in breast cancer cell lines. (A) Intrinsic Gene clusters selected in Figure 1 are shown here using
+the cell line gene expression data set of Neve et al. (2006). The sample associated dendrogram has been derived by semi-unsupervised hierarchical
+clustering using the intrinsic list from Parker et al. (2009b) and the 51 cell lines of Neve et al. Claudin-low cell lines are shown in yellow. Each
+colored square represents the relative transcript abundance (in log2 space) with highest expression being red, average expression being black, and
+lowest expression being green. (B) Mean expression of the top highly expressed (n [ 833) and lowly expressed (n [ 642) genes in Claudin-low cell
+lines across 337 human breast tumor samples classified according to intrinsic subtype, including the Normal Breast-like group. Both gene lists were
+obtained by performing Significance Analysis Microarray (SAM) between Claudin-low breast cancer cell lines vs. the rest (FDR<5%). BL, Basallike; CL, Claudin-low; H2, HER2-enriched; LA, Luminal A; LB, Luminal B; NBL, Normal Breast-like. This figure has been modified from
+Prat et al. (2010).
+
+results, 2) tumors derived from other tissues, or cell types,
+could yield false positives. For example, a poorly differentiated
+sarcoma of the breast might be called a Claudin-low breast tumor due to its location and lack of staining for Claudin 3. This
+point is particularly relevant given the wide-spread classification of breast tumors as “triple-negative” breast cancers.
+Therefore, to address this issue and using the cell line gene
+
+expression data of Neve et al. (2006), we developed a w800
+gene Claudin-low centroid-based predictor (which contains
+genes whose high and low expression defines Claudin-low tumors) and applied it to our in vivo human breast tumor data set
+as a test/validation set. Using this cell line-based predictor, we
+were able to identify the Claudin-low human tumors samples
+with high sensitivity (87.5%) and specificity (97.0%) (Prat et al.,
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+11
+
+A
+
+B
+
+Figure 4 e Expression of inflammatory response/angiogenesis biological processes genes across 52 breast cancer cell lines. (A) Selected expression
+of genes involved in wound response, angiogenesis and/or inflammatory response. The sample/cell line associated dendrogram was derived by
+semi-unsupervised hierarchical clustering using the intrinsic list from Parker et al. (2009b). Claudin-low cell lines are shown in yellow color. (B)
+Selected highly expressed Gene Ontology (GO) terms in Claudin-low cell lines. The highly expressed gene list was obtained by SAM between
+Claudin-low breast cancer cell lines vs. rest (FDR<5%). Biologic analysis of microarray data was performed with DAVID annotation tool (http://
+david.abcc.ncifcrf.gov/) (Dennis et al., 2003).
+
+2010). We believe the 9-Cell Line Claudin-low predictor is currently the best method to identify these tumors and cell lines
+across microarray data sets; however, this predictor is sensitive to differences in data set diversity and across data set normalization methods because it is based upon relative gene
+expression levels. In addition, tumors with high tumor associated stromal content might also be identified as Claudin-low
+due to their similar gene expression patterns.
+
+4.
+Clinical characteristics of the Claudin-low and the
+other intrinsic tumor subtypes
+4.1.
+
+Clinical-pathological parameters and prognosis
+
+The main clinical-pathological features of the molecular
+portraits of breast cancer, including the Claudin-low subtype,
+are shown in Figure 5A, which is based upon three independent microarray-based data sets (total n ¼ 748). Overall, Claudin-low tumors are the least frequent subtype (prevalence
+w12e14%) and are mostly high-grade and ER/PR/HER2
+(i.e. triple-negative) tumors similar to the Basal-like subtype,
+which is concordant with the low expression of the luminal
+and HER2 intrinsic gene clusters observed in both tumor
+types. However, it is important to note that w15e25% of Claudin-low tumors are hormonal receptor-positive (HRþ) and
+w10% of Basal-like tumors are also HRþ.
+In terms of patient outcomes, Claudin-low tumors are poor
+outcome tumors compared to luminal A tumors (Figure 5B).
+However, no differences in survival were observed between
+Claudin-low tumors and other poor prognosis subtypes
+(Luminal B, HER2-enriched and Basal-like), or even between
+Claudin-low tumors versus all other tumors combined. This
+
+is in concordance with previous stem cell-like signatures
+that do not show prognostic ability as a whole, although subsets of genes within these signatures can predict outcome
+(Creighton et al., 2009; Shipitsin et al., 2007). At first glance,
+the invasiveness gene signature (IGS) reported by Liu et al.
+(2007) may seem an exception. However, the IGS was derived
+by comparing the geneeexpression profile of CD44þCD24/low
+tumorigenic breast cancer cells with normal breast epithelial
+cells (i.e. HMEC) and not versus differentiated (CD44 and/or
+CD24þ) tumor cells as other studies have done (Creighton
+et al., 2009; Shipitsin et al., 2007). Therefore, the IGS likely distinguishes Luminal A tumors from the other poor prognostic
+subtypes, and it is possibly not focused on stem cell features
+but rather general poor prognosis tumor features.
+Our data also show that the classical pathological markers
+used in the clinic for tumor classification (ER, PR and HER2) do
+not fully recapitulate the intrinsic subtypes (Figure 6). As previously shown by Parker et al., 2009b, this finding demonstrates that ER, PR and HER2 status alone, or in combination,
+are not accurate surrogates for true intrinsic subtype status.
+For example, in a combined data set of w400 tumors/patients
+(UNC337 (Prat et al., 2010) and MDACC133 (Hess et al., 2006))
+(Figure 6A), 49% of triple-negative tumors were Basal-like,
+30% Claudin-low, 9% HER2-enriched, 6% Luminal B, 5% Luminal A and 1% Normal Breast-like; if the Claudin-low classification is ignored, then 72% of triple-negative tumors are
+Basal-like. Conversely, 6e29% (Sorlie et al., 2001; Nielsen
+et al., 2004) and 9e13% (Sorlie et al., 2001) of Basal-like tumors
+are ERþ or HER2þ, respectively (Figure 6B). Thus the triplenegative surrogate for Basal-like makes both kinds of mistakes in that it includes samples that are not Basal-like and
+it fails to identify a significant number of Basal-like tumors
+(Figure 6A). Preliminary data suggest that Basal-like tumors
+that are not triple-negative behave as Basal-like tumors that
+
+12
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+A
+
+B
+
+Figure 5 e Clinical-pathological characteristics of the current intrinsic subtypes of breast cancer. (A) Table summarizing the percentages of the
+different pathological variables across three microarray data sets with clinical information (UNC337, NKI295 (van ’t Veer et al., 2002) and
+MDACC133). (B) KaplaneMeier relapse-free survival and overall survival curves using the UNC337 data set with Normal Breast-like samples
+excluded. This figure has been modified from Prat et al. (2010).
+
+are, which may be clinically important if therapies are found
+that target the unique biology of Basal-like cancers.
+Previous studies (including our own) have tried to define
+Basal-like carcinomas based on immunohistochemical (IHC)
+surrogate profiles. For example, EGFR and keratins 5/6 (CK5/6)
+(Figure 2DeE) have been proposed as positive IHC markers
+on top of the ER-PR-HER2- definition (the “five-marker
+method”, also known as the Core Basal group). This definition
+has previously been shown to identify Basal-like tumors versus microarray-based classifications with 76% sensitivity
+and 100% specificity (Nielsen et al., 2004). Furthermore, in
+a series of 4046 breast tumors (Cheang et al., 2008), 17% (639
+of 3744) were defined as the triple-negative, whereas 9.0%
+were Basal-like by the five-marker Core Basal definition. Interestingly, when the triple-negative group was segregated into
+Core Basal and the ‘5 Negative Profile’ (5NP), the Core Basal
+group showed a significantly worse outcome compared to
+the 5NP group. Thus, although two distinct groups within triple-negative tumors seem to be identified, further paired
+
+microarray-IHC studies should determine whether the 5NP
+group resembles or enriches for the Claudin-low subtype.
+However, as shown in Figure 6B, up to w30% of Claudin-low
+tumors do not fall into the ER/HER2- clinical category.
+Many efforts are being devoted to try to identify those patients with good outcome, and as shown in Figure 5B, patients
+with a low-risk of relapse are found almost exclusively in the
+Luminal A subtype (Parker et al., 2009b; Fan et al., 2006). Thus,
+there is a need to find biomarkers that can distinguish Luminal A from Luminal B tumors, both of which are mainly HRþ
+(Figure 2FeG). A major biological difference between luminal
+A and B is the proliferation signature, which has higher
+expression in luminal B tumors than in luminal A tumors
+(Cheang et al., 2009; Nielsen et al., 2010); histological grade
+also mirrors this proliferation difference (Figure 2FeG). Indeed, proliferation is a main “driver” of the majority of genomic predictors designed to separate ER-positive lymph nodenegative tumors into prognostic subgroups (Sotiriou et al.,
+2006). For example, the expression of proliferation related
+
+13
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+A
+
+Triple Negatives
+with Claudin-low
+
+Triple Negatives
+without Claudin-low
+
+1%
+6%
+5%
+9%
+49%
+30%
+
+B
+
+Claudin-low
+
+Basal-like
+Claudin-low
+HER2-enriched
+Luminal A
+Luminal B
+Normal-like
+
+6%
+5%
+
+8%
+
+9%
+
+72%
+
+Basal-like
+
+2%
+
+2%
+7%
+13%
+
+8%
+
+13%
+71%
+
+83%
+
+HER2-enriched
+
+Luminal B
+1%
+
+18%
+
+ER+/HER2+
+ER+/HER2ER-/HER2+
+ER-/HER2-
+
+Luminal A
+2%
+
+7%
+
+15%
+
+5% 7%
+
+20%
+
+16%
+51%
+
+72%
+
+87%
+
+Figure 6 e Distribution of clinical-pathological categories relative to the intrinsic subtypes of breast cancer. (A) Intrinsic subtype distribution
+within the triple-negative tumor category shown with and without Claudin-low tumors. (B) Distribution of ERD/HER2D, ERL/HER2D,
+ERL/HER2L clinical groups in the Claudin-low, Basal-like, HER2-enriched, Luminal B, and Luminal A within each subtype.
+
+genes, such as MKI67 (encoding Ki-67) and Cyclin B1, are the
+most heavily weighted component in calculating the recurrence score derived from the OncoTypeDX assay (Paik et al.,
+2004). Thus, these and other similar prognostic predictors
+classify virtually all Luminal B tumors, as well as all the
+Basal-like and HER2-enriched tumors, as high risk of recurrence (Fan et al., 2006). It is important to note here that recent
+studies have questioned the reproducibility, and thus the relevance of the Luminal B distinction, which is likely due to the
+large amount of heterogeneity seen within luminal cancers.
+For example in Parker et al. (2009b), at least 5 subgroups of Luminal cancers were seen (see Figure A1). Since there appears
+to be only one good outcome luminal subtype, but multiple
+types of poor outcome luminal tumors, proliferation scores
+and other means of identifying samples that have deviated
+away from the prototypical Luminal A profile are what the
+current ERþ prognosticators are doing (like OncotypeDX and
+Mammaprint). It is also because of this heterogeneity within
+
+Luminal tumors that the Risk or Relapse (ROR) score was developed in Parker et al. (2009b), which should be less sensitive
+to changing distributions of poor outcome subtypes of disease
+when compared versus a nearest centroid predictor.
+The protein expression of Ki-67 has been studied as a potential IHC marker that could distinguish Luminal B from Luminal
+A subtypes in HRþ breast tumors. In Cheang et al. (2009), 357
+breast tumors were profiled and tumor subtypes were assigned
+using the 50-gene qRT-PCR ‘PAM50’ subtype predictor that we
+have recently validated (Parker et al., 2009b). By linking the
+available immunohistochemical data with the expression profile assignments, the authors identified 84 and 60 HRþ/HER2
+tumors as Luminal A and B, respectively. Thus, the Luminal A
+subtype was defined as being HRþ/HER2 and low for Ki-67,
+and the Luminal B subtype as being HRþ/HER2 and high for
+Ki-67 or HRþ/HER2þ. Further validation of this surrogate IHC
+panel in an independent population-based cohort of 4046
+tumors demonstrated the prognostic value of this Luminal
+
+1
+B IHC definition within homogeneously treated patient subsets.
+However, we must keep in mind that although the HRþ/HER2/
+Ki67-high/low IHC panel will distinguish the majority of Luminal B from A tumors, this definition does not identify all the
+tumors within the Luminal B expression-defined subtype since
+up to 20% and 7% of Luminal B tumors are clinically ERþ/HER2þ
+and ER/HER2, respectively (Figure 6B).
+Finally, the HER2-enriched subtype consists of samples
+that are mostly clinically HER2þ (Figure 2H), highly proliferative, lack expression of the basal cluster, and show low expression of the luminal cluster compared to Luminal A and
+B tumors. As seen with the others subtypes, IHC markers
+(i.e. ER/HER2þ) are not an accurate surrogate for this particular intrinsic subtype, since only w50% of HER2-enriched
+tumors are ER/HER2þ. As shown in Figure 6B, 49% of HER2enriched tumors are divided into the following clinical
+categories: ERþ/HER2þ (15%), ERþ/HER2 (16%) and ER/
+HER2 (18%). It is important to note that although w30% of
+HER2-enriched tumors are clinically HER2- (hence the subtype
+name of HER2-enriched ), these tumors might be driven by
+a similar functional event such as the HER2 mutation or
+mutation of some downstream pathway component that phenocopies HER2 amplification.
+
+4.2.
+Metaplastic and medullary breast carcinomas,
+BRCA1 dysfunction, and the Claudin-low/stem cell-like
+profile
+The majority of Claudin-low tumors are invasive ductal carcinomas not otherwise specified (IDC NOS), which is the most
+frequent histological diagnosis in breast cancer (WHO
+Classification of Tumors, 2003). However, metaplastic and
+medullary carcinomas have also been linked with the Claudin-low profile (Prat et al., 2010; Hennessy et al., 2009). These
+two special histological types represent less than 5e7% of all
+breast cancer diagnoses (WHO Classification of Tumours,
+2003), and generally are poorly differentiated triple-negative
+tumors. However, while metaplastic carcinomas are associated with poor prognosis and treatment resistance
+(Hennessy et al., 2005; Al Sayed et al., 2006), medullary carcinomas tend to show good outcomes despite their aggressive
+pathological features (Vu-Nishino et al., 2005).
+In Hennessy et al. (2009) the expression profiles of 12 metaplastic carcinomas (MBC) were compared with 184 breast
+tumors (mainly IDC NOS) and 9 normal breast samples. MBC
+were somewhat heterogeneous in this analysis with 2 MBC
+clustering with the Claudin-low tumors, 2 with the Basal-like
+tumors, and 6 formed a potential novel subgroup of tumors
+intermediate between Basal-like and Claudin-low tumors.
+However, the majority of these metaplastic tumors (n ¼ 7/12)
+were further identified as Claudin-low by the 9-Cell Line Claudin-low predictor (Prat et al., 2010). In addition, metaplastic
+tumors as a group were found to be enriched with a CD44þ/
+CD24low/ stem cell-like gene signature similar to Claudin-low
+tumors (Hennessy et al., 2009), suggesting that metaplastic carcinomas and Claudin-low tumors possess similar transcriptional features that are enriched in purified breast TIC fractions.
+In Prat et al. (2010), 5 of 21 (24%) Claudin-low tumors
+showed medullary-like features such as pushing margins
+and brisk tumor lymphocytic infiltration (Figure 2I). As
+
+defined by Ridolfi et al. (1977), medullary carcinomas are divided into 2 categories: typical and atypical medullary carcinomas. Typical medullary carcinomas display at least 75%
+syncytial architecture, marked anisonucleosis, a well-defined margin, diffuse lymphoplasmocytic infiltrate, and absence of tubular differentiation and/or an intraductal
+component. Atypical medullary carcinomas also have the
+syncytial architecture and at least two or three of the above
+criteria. By strict definition, the Claudin-low tumors with
+medullary-like features identified in Prat et al. (2010) did
+not meet Ridolfi’s criteria to be called either typical or atypical medullary. However, further microarray analyses demonstrated that medullary carcinomas as a group share similar
+MaSC gene expression profiles as do Claudin-low tumors,
+which is concordant with another report (Honeth et al.,
+2008) that showed that 8/8 medullary carcinomas were positive for the CD44þ/CD24 phenotype by IHC staining. The link
+between medullary carcinomas (as well as metaplastic carcinomas) with the Claudin-low gene expression profile was
+further observed in a comprehensive data set of 113 tumors
+from 11 special histological types of breast cancer, including
+10 medullary and 20 metaplastic carcinomas (Weigelt et al.,
+2008). In this data set, 20% and 40% of medullary and metaplastic tumors previously called Basal-like were now identified as Claudin-low by the 9-Cell Line Claudin-low predictor
+(Prat et al., 2010). Interestingly, the Claudin-low breast cancer
+cell lines MDA-MB157 and Hs578T were derived from medullary (Young et al., 1974) and metaplastic (Hackett et al., 1977)
+carcinomas, respectively.
+The fact that a subset of medullary and metaplastic carcinomas share Claudin-low gene expression profiles indicates
+that these tumors might share a common cell of origin, and/
+or similar initiating genetic event(s). One of these oncogenic
+alterations may involve the BRCA1 pathway. Both metaplastic
+and medullary carcinomas have been shown to have a w60%
+incidence of methylation of BRCA1 (Turner et al., 2006; Esteller
+et al., 2000). 13% of breast tumors from BRCA1 mutation carriers have pure medullary histology (Eisinger et al., 1998),
+while 60% show medullary-like features (Lakhani et al.,
+1998), especially pushing margins and lymphoid infiltration.
+Metaplastic tumors also have been recently documented in
+this particular patient subpopulation (Suspitsin et al., 2009).
+It is interesting to note that 2/4 BRCA1-mutated breast cancer
+cell lines are Claudin-low (MDA-MB436 and SUM1315), while
+the other 2 are Basal-like (SUM149PT and HCC1937) (Elstrodt
+et al., 2006).
+To further explore the association between BRCA1-mutated breast cancer and the Claudin-low subtype, we applied
+the Claudin-low predictor to the NKI (n ¼ 337) microarray
+data set (van ’t Veer et al., 2002; van de Vijver et al., 2002),
+which includes 18 BRCA1-mutated breast tumors. Of the 18
+BRCA1 mutant tumors, we identified 12 as Basal-like (67%), 4
+as Claudin-low (22%), 1 as HER2-enriched (5.5%), and 1 as Normal Breast-like (Prat and Perou, unpublished observation).
+This finding is concordant with a 20% incidence of Claudinlow/mesenchymal tumors observed in the Brca1Co/Co;
+TgMMTV-Cre; p53þ/ breast cancer mouse model
+(Herschkowitz et al., 2007). Thus, although BRCA1 mutations
+are most frequent in Basal-like tumors, they may also occur
+within the Claudin-low subtype and further studies should
+
+
+determine differences in prognosis and treatment response
+between BRCA1-mutated Claudin-low and Basal-like tumors.
+
+4.3.
+Intrinsic subtyping in the adjuvant and
+neoadjuvant setting
+Current knowledge of the biology of breast cancer has provided the basis of the various successful adjuvant and neoadjuvant treatment strategies: endocrine therapy for HRþ
+disease (with or without chemotherapy), anti-HER2 therapies
+such as trastuzumab in combination or sequentially after chemotherapy for HER2þ disease, and chemotherapy for patients
+with triple-negative disease (Podo et al.). However, the biological diversity displayed by the breast cancer intrinsic subtypes
+indicate that further sub-classification of patients into different treatment groups should be considered.
+Two studies have directly evaluated the response to neoadjuvant chemotherapy of the intrinsic subtypes as determined
+by gene expression (Rouzier et al., 2005a; Parker et al., 2009a).
+Rouzier et al. (2005a) evaluated 82 primary breast tumors
+treated with 12 weeks of paclitaxel (T) followed by 4 cycles
+of 5-flourouracil, doxorubicin, and cyclophosphamide (FAC).
+Surgery was performed after 24 weeks of neoadjuvant therapy
+and patients were evaluated for pathological complete response (pCR). Among 22 patients with Basal-like tumors and
+the 20 patients with HER2-enriched tumors, the pCR rates
+were both 45%, whereas only 7% of Luminal A/B tumors
+achieved a pCR. More recently, Parker et al. (2009b) evaluated
+the ability of the molecular subtypes to predict pCR to anthracycline/taxane-based chemotherapy using a combined cohort
+of 357 patients from three different neoadjuvant studies
+(Parker et al., 2009a). Among the subtypes, Basal-like and
+HER2-enriched tumors showed the highest response rate
+with 43% and 36% pCR rates, respectively, whereas Luminal
+A and B tumors showed 7% and 17% pCR rates. Multivariable
+logistic regression indicated that intrinsic subtype was an
+independent predictor of pCR and ER status was no longer significant when subtype was included in the model. These studies highlight the higher chemo-sensitivity of Basal-like and
+HER2-enriched subtypes (largely ER-negative) and the
+chemo-insensitivity of the Luminal subtypes (largely ER-positive), which explains why ER status is such a strong predictor
+of pCR among the various clinical variables (Carey et al., 2007;
+Rouzier et al., 2005b). The relative insensitivity of Luminal/
+ERþ tumors may be due to an intact ER-cMYB-HEP27-MDM2TP53 response cascade, which may allow these tumors to go
+into a TP53 and p21 mediated cell cycle arrest in response to
+chemotherapy treatment (Deisenroth et al., 2010). These studies illustrate the need to account for varying subtype proportions when comparing pCR statistics across clinical trials.
+The relationship between subtype and chemotherapy response has also been evaluated using IHC surrogates for the
+molecular subtypes. In Carey et al. (2007), 107 patients were
+treated with neoadjuvant AC for 4 cycles and followed for
+a median of 39 months. As expected, pCR to chemotherapy
+was significantly better among triple-negative (27%) and
+HER2þ/ER (36%) tumors versus ERþ tumors (7%). However,
+despite the lower rates of response to therapy, disease-free
+survival was still better for patients with ERþ tumors due to
+
+15
+
+higher rates of relapse in triple-negative and HER2þ/ER patients with residual disease. Known as the “triple-negative
+paradox”, this hypothesis was further tested retrospectively
+by Liedtke et al. (2008) by comparing response to neoadjuvant
+chemotherapy and survival using 1118 patients with triplenegative and non-triple-negative breast cancer. In this study,
+patients with triple-negative disease had significantly higher
+pCR rates when compared with non-triple-negative disease
+(22% vs. 11%), but showed decreased 3-year progression-free
+survival and overall survival rates. More importantly, both triple-negative and non-triple-negative patients had similar survival if pCR was achieved, thus some triple-negative patients
+can have good long term survival outcomes. In contrast,
+patients with residual disease had worse overall survival if
+they had triple-negative disease compared with non-triplenegative disease. Thus, the pCR surrogate marker after chemotherapy seems appropriate for Basal-like and Claudin-low
+subtypes, which represent w80% of all triple-negative tumors.
+The endocrine treatment sensitivity of Luminal A versus
+Luminal B subtypes has not been specifically studied until recently (Cheang et al., 2009; Nielsen et al., 2010). In Cheang et al.
+(2009), among 976 tumors from patients treated with tamoxifen as their only adjuvant systemic therapy, the authors identified 584 as luminal A, 303 as luminal B, and 89 as luminal/
+HER2þ (defined as ERþ or PRþ and HER2þ) by using a surrogate
+immunohistochemical panel whose performance was previously trained using the PAM50 predictor (see above). The 10year relapse-free survival was 70% survival for patients with
+luminal A (HRþ/HER2/Ki67low) tumors, and dropped to
+53% for patients with luminal B (HRþ/HER2/Ki67high) tumors, and 51% for patients with luminal/HER2þ tumors. A
+more recent analysis using the more precise qRT-PCR PAM50
+assay and tumors from the same University of British Columbia cohort of ER-positive tumors treated with tamoxifen-only
+confirmed these survival results, and was able to identify a set
+of very good outcome patients whose 20 year survival probability was w95% (Nielsen et al., 2010); thus, high proliferative
+Luminal B tumors have a worse prognosis despite treatment
+with tamoxifen, while Luminal A/Risk of Relapse (ROR)-low
+tumors show favorable relapse-free and disease specific survival outcomes after treatment with tamoxifen alone in
+node-negative patients. Furthermore, treatment with aromatase inhibitors might not change the overall hormone-resistance of Luminal B tumors. In the TransATAC study, high
+recurrence scores in the primary tumor as determined by
+the OncotypeDX assay were independently associated with
+higher risk of relapse in 1308 HRþ node-negative and nodepositive patients treated with anastrozole (or tamoxifen)
+(Dowsett et al., 2008). As previously discussed, HRþ tumors
+with a high recurrence score are mostly Luminal B cancers
+(Fan et al., 2006). In addition, features of the Luminal B subtype
+such as high Ki-67 and low ER status in postsurgical samples,
+were independently associated with relapse-free survival after treatment with neoadjuvant letrozole or tamoxifen (P024
+trial) (Ellis et al., 2008). Luminal B tumors are not only relatively chemo-insensitive tumors, but they are also poor prognostic and relatively hormone-resistant tumors. Clinical trials
+focusing in this particular luminal subtype are needed and
+several are in the planning stage.
+
+16
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+The known mechanisms of resistance to hormonal therapy
+may help decipher the biology of Luminal B tumors (Loi et al.,
+2008). Among them, ligand-independent activation of ER by
+the epidermal growth factor receptor (HER) family has been
+extensively studied (Osborne and Schiff, 2005). In particular,
+HER2 overexpression and/or amplification (HER2þ) confers increased resistance to endocrine treatment in preclinical
+models (Benz et al., 1992; Pietras et al., 1995) and in ER-positive
+breast cancer patients treated with tamoxifen (Houston et al.,
+1999; Lipton et al., 2003) or AIs (Lipton et al., 2003; Ellis et al.,
+2006). The HER family of receptors includes EGFR (also known
+as HER1), HER2, HER3, and HER4. HER2 is a ligand-less receptor
+that forms homodimers and heterodimers with the other
+members of the HER family, resulting in activation of signal
+transduction pathways that increase proliferation such as
+the mitogen-activated protein kinase (MAPK) and phosphatidylinositol 30 -kinase (PI3K)/mTOR. A variety of kinases from
+both pathways can phosphorylate specific sites of the ER,
+leading to ligand-independent ER activation. Conversely, ER
+itself can activate the growth factor receptor pathway either
+through genomic and/or nongenomic signaling (Osborne and
+Schiff, 2005). Thus, in HRþ/HER2þ breast tumors, which represent 20% of Luminal B tumors, a vicious cycle might be established between ER mechanisms of action and HER2 leading to
+enhanced cell proliferation and cell survival. Two clinical trials have tested this hypothesis and have demonstrated that
+a combined endocrine and anti-HER2 approach significantly
+enhances progression-free survival and clinical benefit rates
+in patients with HRþ/HER2þ metastatic breast cancer
+(Johnston et al., 2009; Kaufman et al., 2006).
+In HRþ/HER2-/high proliferative tumors, which represent
+w72% of tumors in the Luminal B subtype, the HER-pathway
+might also be active in a different manner than HER2 amplification. For example, overexpression of HER2 in luminal breast
+cancer cell lines is not required for HER-signaling if HER ligands are available (Agus et al., 2002; Menendez et al., 2006).
+In addition, gene expression profiling of luminal MCF-7 cells
+treated with HER3 ligand heregulin (HRG) identified a similar
+expression profile as the Luminal B subtype in patients (Loi
+et al., 2009). Thus, activation of the HER-pathway and/or similar downstream functional pathways such as the PI3K/mTOR
+pathway could explain the shared biology between ERþ/
+HER2-/high proliferative tumors and ERþ/HER2þ tumors,
+both of which are contained within the Luminal B subtype.
+A successful targeted treatment strategy has been the development of anti-HER2 therapies such as trastuzumab, an
+anti-HER2 monoclonal antibody. In patients with HER2þ tumors, administration of trastuzumab in the adjuvant setting
+in combination with chemotherapy results in an improvement in recurrence-free survival as well as overall survival
+(Piccart-Gebhart et al., 2005; Romond et al., 2005). Despite
+this success, many HER2þ patients do not benefit from trastuzumab, which has led to many efforts to identify additional
+biomarkers of response/benefit to anti-HER2 therapies. Once
+again, the molecular subtypes might help better understand
+the biology of this responsiveness. Looking at HER2-positivity
+across subtypes reveals that although the majority of HER2þ
+tumors have a HER2-enriched gene expression profile, all the
+other intrinsic subtypes have HER2þ tumors within them, indicating that the HER2þ clinical category is biologically
+
+heterogeneous. Thus, further clinical trials should try to answer these two challenging questions: (1) does the HER2enriched subtype “enrich” for HER2þ patients that have
+a higher response/benefit to anti-HER2 therapies than
+HER2þ and non-HER2-enriched tumors? (2) do patients with
+clinically HER2- tumors within the HER2-enriched subtype
+benefit from anti-HER2 therapies? This question will be interesting to address given recent suggestions that some HER2patients may gain a trastuzumab benefit (Paik et al., 2008),
+however, this can only be addressed through the analysis of
+trials where all patients were given trastuzumab, which are
+few.
+Another challenge will be to identify effective targets for the
+triple-negative subpopulation, which is basically composed of
+Basal-like and Claudin-low tumors. The list of molecular targets
+that are being evaluated here is constantly growing and includes: poly(adenosine diphosphate [ADP]eribose) polymerase
+1 (PARP1), vascular endothelial growth factor (VEGF, see
+Figure 1C), HER1, MAPK, PI3K/mTOR, and the stem cell pathways NOTCH and Hedgehog. One of the promising therapies being tested on this subgroup of tumors are inhibitors of PARP1,
+a key player in the repair of DNA single-stand breaks. As noted
+earlier, Basal-like and potentially Claudin-low tumors, are commonly seen in BRCA1 mutation carriers (Foulkes et al., 2003),
+and defects in the BRCA1 pathway may also be involved in sporadic tumors of both subtypes. Dysfunctional BRCA1 results in
+deficient DNA-repair by homologous recombination, which
+causes genetic aberrations that drive carcinogenesis. The inhibition of PARP1 in this BRCA1 dysfunctional context leads to the
+accumulation of collapsed replication forks, DNA doublestrand breaks, and cell death (Rottenberg et al., 2008). Defect
+or inhibition of these genes individually is tolerable, yet in combination is lethal, a concept called synthetic lethality. A phase 1
+clinical trial evaluated olaparib (AZD2281) as a single agent in
+a study patient population composed of hereditary BRCA1 and
+BRCA2 mutated cancers observed an anti-tumor activity of
+w60%. A subsequent randomized phase 2 clinical trial evaluated another PARP1 inhibitor, BSI-201, in combination with
+gemcitabine/carboplatin in 123 subjects with sporadic triplenegative metastatic breast cancer (O’Shaughnessy et al.,
+2009). Preliminary analysis demonstrated that the addition
+of BSI-201 to standard chemotherapy doubled the progression-free survival compared to chemotherapy alone. Intriguingly, PARP1 and other DNA-repair pathway-related genes
+such as CHEK1 are typically found highly expressed in
+Basal-like cancers, suggesting they may be under a constant
+state of DNA-repair, which may not be seen in Claudin-low
+tumors (Figure 1B). Further studies should determine if inhibition of PARP1 is a Basal-like specific therapy, or alternatively, a therapy that may increase the chemo-sensitivity
+in any breast cancer that is homologous recombination
+DNA-repair deficient, regardless of subtype.
+
+5.
+The CSC hypothesis, treatment resistance, and
+the intrinsic subtypes
+According to the cancer stem cell (CSC) hypothesis, a cancer
+arises either from transformation of a normal stem/progenitor cell with the inherent capacity to self-renew and to
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+differentiate into the various cell types that form the bulk of
+the tumor, or alternatively, arises from a differentiated cancer
+cell that acquires the ability to self-renew (Rosen and Jordan,
+2009; Jordan, 2009). Either way, the CSC hypothesis suggests
+that cells with CSC features exist and represent a minor subpopulation within a tumor, but that they are the driver of
+the entire tumor phenotype.
+The CSC hypothesis has important implications for breast
+cancer treatment strategies since breast CSCs are more resistant to both radiation and chemotherapy (Creighton et al.,
+2009; Gupta et al., 2009; Li et al., 2008; Diehn et al., 2009;
+McDermott and Wicha, 2010). In Li et al. (2008), paired breast
+cancer biopsies were obtained from 52 breast cancer patients
+before and after 12 weeks of treatment with either neoadjuvant chemotherapy or after 6 weeks of treatment with the
+EGFR/HER2 inhibitor lapatinib in HER2þ patients. The authors
+observed that chemotherapy treatment increased the percentage of CD44þ/CD24/low cells and the mammosphere formation efficiency (MSFE) regardless of the ER/PR/HER2 status
+of the tumor, while in the lapatinib group this increase was
+not observed suggesting that anti-HER2 therapies in HER2þ
+disease specifically target cancer stem cells. More recently,
+Creighton et al. (2009) derived a gene signature from CD44þ/
+CD24/low and cancer mammospheres (MMS) cells (both isolated from primary human breast cancers) by comparing
+these cells with the CD44/CD24þ cell fraction. To examine
+the signature’s clinical and therapeutic significance, the authors evaluated gene expression profiles of breast tumors before and after chemo- and hormone therapy. The CD44þ/
+CD24/low/MMS signature was more pronounced in tumor
+tissue remaining after either endocrine therapy (letrozole) or
+chemotherapy (docetaxel), consistent with the selective survival of CSCs after treatment. In addition, the authors observed an increased expression of mesenchymal markers
+such as vimentin in cytokeratin-positive epithelial cells in
+the post-letrozole treated samples (Gupta et al., 2009).
+The CD44þ/CD24/low/MMS gene expression profile of
+Creighton et al. (2009) has also been compared to the intrinsic
+subtypes of breast cancer, including the Claudin-low subtype.
+Of note, only the Claudin-low group showed a clear enrichment for the CD44þ/CD24/low/MMS signature, further suggesting that these tumors might be enriched with CSCs/TICs.
+To further explore the potential association between Claudin-low tumors and treatment resistance, we evaluated the
+potential chemo-sensitivity of Claudin-low tumors to neoadjuvant anthracycline/taxane-based chemotherapy using
+a cancer patient data set of 133 pre-treated samples (Prat
+et al., 2010). In this data set, Claudin-low tumors showed
+a trend towards a lower pathological complete response
+(pCR) rate after anthracycline/taxane-based chemotherapy
+compared to Basal-like tumors (39% vs. 73% pCR rates,
+Figure 5A), but their pCR rate was significantly higher than
+Luminal A (0%) or B (19%) tumors. These findings provided
+the first evidence that Claudin-low tumors show some chemotherapy insensitivity; however, their pCR rate was still significantly high, suggesting that they are not entirely therapy
+resistant. Further studies are needed to better characterize
+the treatment sensitivity of this tumor subtype, with Claudin-low cell lines and transgenic mouse models offering
+a good opportunity to tackle this issue preclinically.
+
+6.
+
+17
+
+Developmental origins of the intrinsic subtypes
+
+The first evidence that the breast cancer intrinsic subtypes
+might resemble different developmental cells types of the normal breast came from a recent report by Lim et al. (2009) where
+they functionally characterized and expression profiled different subpopulations of normal mammary epithelial cells using
+FAC sorting with two cell surface markers: EpCAM and CD49f.
+More precisely, the authors isolated highly purified subpopulations of normal human MaSC/bipotent cells (CD49fhi/
+EpCAM), committed luminal progenitor cells (CD49fþ/
+EpCAMþ), and mature ERþ/luminal cells (CD49f/EpCAMþ).
+Importantly, the authors observed that the luminal progenitor
+signature was very similar to the Basal-like breast tumor signature. The authors also demonstrated that BRCA1-mutated
+pre-neoplastic breast tissues, which are known to have a lifetime risk of developing Basal-like breast cancer of >80%,
+showed an aberrant expansion of this luminal progenitor subpopulation. These results, together with recent data coming
+from a genetically engineered mouse models study that deleted BRCA1 in the mouse mammary epithelial luminal progenitors (Molyneux et al., 2010), suggest that the potential
+cell of origin of sporadic and BRCA1-mutated Basal-like breast
+cancers could be the luminal progenitor (which shows the
+Basal-like tumor expression profile); however, other plausible
+hypotheses exist and are discussed below.
+Similar to these Lim et al. (2009) observations, we hypothesized that a luminal epithelial differentiation program from
+a MaSC/Luminal progenitor/Mature luminal might exist
+(Figure 7A). To genomically evaluate this hypothesis, we
+used Lim et al.’s FACS data to derive a continuous “differentiation predictor model” for the luminal pathway (Prat et al.,
+2010). Using this differentiation score predictor and genomic
+data of human breast tumors, we observed that the majority
+of invasive breast tumors can be placed along the normal
+mammary luminal epithelial differentiation hierarchy starting with the Claudin-low subtype being closest to the MaSC,
+followed by the Basal-like, then the HER2-enriched, and then
+both Luminal tumors subtypes being closest to the mature luminal cell (Prat et al., 2010). As shown in Figure 7A, this simplified mammary luminal epithelial differentiation axis goes
+from a mesenchymal state, through a basal-like state (that
+has characteristics of mesenchyme, basal and luminal cells)
+to a mature luminal state. We note that this differentiation hierarchy does not take into account the myoepithelial cell lineage development, which based upon the data of Lim et al.
+(2009) suggests that the myoepithelial linage breaks off from
+the luminal lineage before the Basal-like/luminal progenitor
+state (Figure 7A). Much less is known about myoepithelial
+cell development and where and when bi-potency is lost
+(Visvader, 2009), however, learning more about this lineage
+will likely provide important information about some of the
+rare breast cancer histological subtypes that show myoepithelial/basal-like differentiation including medullary and adenocystic carcinomas.
+These luminal developmental lineage data could support
+the hypothesis that each ‘intrinsic’ subtype reflects a unique
+mammary epithelial cell state along the differentiation hierarchy, and that each transformed cell (i.e. cell of origin) could
+
+18
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+Figure 7 e Possible developmental origins of the intrinsic breast
+cancer subtypes. (A) Normal mammary luminal and myoepithelial
+differentiation hierarchies with approximate genomic expression
+patterns of mesenchymal, basal, and luminal profiles highlighted. (B)
+Hypothesis 1: each molecular subtype originates in a normal
+epithelial cell along the luminal differentiation hierarchy. Aberrant
+symmetric division expands each subpopulation of cells to form the
+bulk of the tumor, which is composed entirely of TICs. (C)
+Hypothesis 2: the MaSC subpopulation is the cell of origin of all
+breast cancers and depending upon its genetic alterations, a given
+tumor arrests at a distinct stage of development. (D) Hypothesis 3:
+each molecular subtype originates in a normal epithelial cell along the
+luminal differentiation hierarchy. However, the transformation events
+
+derive from a transformed cell at each stage, which would
+then form the bulk of the tumor by symmetric divisions
+(Hypothesis #1, Figure 7B). In this scenario, MaSCs would
+give rise to Claudin-low tumors, Luminal progenitor cells to
+Basal-like tumors, and mature luminal cells to tumor luminal
+A and B tumors cells, with all cells within the tumor being
+TICs. The potential cell of origin of HER2-enriched tumors
+could be an epithelial cell with an intermediate differentiated
+state between the luminal progenitor and the mature luminal
+cell, which is what the expression profile of this subtype
+suggests.
+Although appealing in its simplicity, this hypothesis argues
+against other studies that have identified TICs/CSCs
+(i.e. CD44þ/CD24 cells) with mesenchymal properties in
+a variety of breast tumors and at a low frequency within these
+tumors (Creighton et al., 2009; Li et al., 2008; Fillmore and
+Kuperwasser, 2008; Sheridan et al., 2006). A second hypothesis
+is that the cell of origin for each intrinsic subtype could be the
+MaSC (Hypothesis #2, Figure 7C). In this scenario, transformed
+MaSC (with Claudin-low/mesenchymal features) would have
+the capacity to divide symmetrically and asymmetrically,
+with the asymmetric divisions resulting in cell differentiation
+with arrest at specific stages of differentiation depending
+upon the genetic events present within each particular tumor.
+In this context, the bulk of the tumor would be composed of
+either luminal progenitor/Basal-like cells, or more differentiated luminal cells, with each molecular subtype having a subpopulation of cells that are mesenchymal/Claudin-low. These
+undifferentiated cells within tumors would be more resistant
+to treatment and possibly the cells responsible for spread to
+distant organs. In the metastatic site, these mesenchymal/
+Claudin-low cells would undergo their aberrant differentiation process, which would include an apparent mesenchymaleepithelial transition (MET) as has been described in
+embryonic development studies (Chaffer et al., 2007). This,
+as well as Hypothesis #1, could explain why distant metastases display the same molecular breast cancer subtype as their
+primary tumors (Weigelt et al., 2005).
+We have experimentally approached this second hypothesis
+by trying to identify epithelial tumor cells with mesenchymal
+characteristics across 86 samples, including 20 Claudin-low tumors. In order to do this, we used dual labeling immuno-fluorescence with a pan-keratin epithelial marker and the
+mesenchymal marker vimentin. Interestingly, the vast majority of dual positive samples (25/28, 85%) were observed in the
+Claudin-low (Figure 2AeC) and Basal-like subtypes, suggesting
+that these two tumor subtypes possess epithelial cells with
+mesenchymal features. The more differentiated subtypes
+(HER2-enriched, Luminal A and B) were either not enriched or
+the frequency of these cells was so low that we were unable
+to identify them. Moreover, we provided evidence that a fraction
+(w10%) of cells within the Basal-like BRCA1-mutated
+
+(genetically and/or via microenvironment influences) render
+differentiated cells with MaSC-like features including the ability to
+self-renew and divide asymmetrically. Abbreviations: MaSC,
+mammary stem cell; MyoProg, myoepithelial progenitor; MatureMyo, mature myoepithelial cells; LumProg, luminal progenitor; LateLP, late luminal progenitor; Mature-L, mature luminal cells.
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+SUM149PT cell line were mesenchymal/Claudin-low cells that
+can self-renew and differentiate into Basal-like cells (Prat
+et al., 2010). Conversely, we could not identify Claudin-low cells
+within the Luminal MCF-7 cell line. Thus, this data argues in favor of the MaSC being the cell of origin of Claudin-low and
+Basal-like tumors (as opposed to the luminal progenitor), while
+the cell of origin of the more differentiated epithelial tumors
+(i.e. Luminal A, B and HER2-enriched) subtypes is not as clear.
+A third hypothesis also exists where a molecular subtype
+originates in non-stem cell somewhere along the luminal differentiation hierarchy, but that the transformation event imparts self-renewal abilities and mesenchymal features, thus
+effectively creating a CSC from a differentiated cell (Chaffer
+and Weinberg, 2010; Gupta et al., 2009). In this scenario, the
+cells that acquired these CSC characteristics would then symmetrically and asymmetrically divide to create the mixed cell
+type containing tumor (Hypothesis #3, Figure 7D). An interesting twist on this hypothesis is that if, for example, a Basal-like/
+luminal progenitor type cell is the primary cell type of transformation, then Claudin-low tumors may arise via EMT-inducing event that drives these rare tumors into a more
+mesenchymal state. Lastly, and the hypothesis we favor,
+some combination of these hypotheses may occur where
+Claudin-low and Basal-like tumors arise from transformation
+of MaSC (Hypothesis #2) with limited differentiation into luminal progenitors in the case of Basal-like cancers, while the formation of Luminal tumors may occur via transformation of
+differentiated cells (Hypothesis #1 and/or #3). Further studies
+are clearly required to unambiguously determine the cell of
+origin for each intrinsic subtype, however, studies focused
+on breast cancer stem cell should consider tumor subtype
+when interpreting results as we feel it likely that different
+transformation schemes, and cell types of transformation,
+may be occurring within different subtypes.
+
+7.
+
+Discussion
+
+In this review, we have dissected the most recent data on the
+intrinsic classification of breast cancer with a special focus on
+the Claudin-low subtype. Importantly, we show and reiterate
+that the information provided by these molecular entities is
+not fully recapitulated by the classical pathological markers.
+We envision an integration of the intrinsic subtypes with the
+four main clinical treatment groups (HRþ/HER2, HRþ/
+HER2þ, HR/HER2þ and triple-negative) in order to improve
+patient outcomes. In addition, other variables beyond gene
+expression and clinical-pathological variables, like gene mutation status or DNA copy number changes, will be needed
+to further stratify patients into more precise prognostic and/
+or specific treatment groups.
+The HRþ/HER2 group of tumors is mainly composed of two
+subtypes: Luminal A (good prognosis, chemoresistant and endocrine sensitive) and Luminal B (poor prognosis, mainly chemoresistant and endocrine less sensitive). As discussed above,
+a main difference between A vs. B is proliferation status, which
+is low in Luminal A and high in Luminal B tumors. In this context, genomic prognostic assays such as the OncoTypeDX and
+the NKI 70-gene signature (or even the pathological marker Ki67) have the ability to identify tumors with high risk of
+
+19
+
+recurrence, which are mainly Luminal B tumors. An important
+issue here will be to find which ERþ patients benefit from chemotherapy. As suggested by data from neoadjuvant clinical trials, Luminal B tumors benefit more from chemotherapy than
+Luminal A tumors, although only less than w20% of Luminal B
+patients eventually achieve a pCR. This increased benefit with
+the administration of chemotherapy in Luminal B is concordant
+with data coming from NSABP-B20 trial where only node-negative HRþ patients with high OncoTypeDX RS benefited from adjuvant chemotherapy (Paik et al., 2006).
+In the HRþ/HER2þ group of tumors, two subtypes are
+mainly identified: Luminal B and HER2-enriched. Here a major
+challenge will be to elucidate differences between the two molecular subtypes in terms of efficacy of chemotherapy, antihormonal therapy, and anti-HER2 therapy. For example, are
+HRþ/HER2þ/Luminal B tumors less or more sensitive to antiHER2 therapies than HRþ/HER2þ/HER2-enriched tumors,
+and do they respond better to anti-hormonal therapies than
+HRþ/HER2þ/HER2-enriched tumors?
+Within HR/HER2þ tumors, w50e88% of these fall into the
+HER2-enriched subtype, followed by the other poor prognostic
+subtypes. Here the challenge will be to determine if HR/
+HER2þ that are not of the HER2-enriched subtype, benefit
+from anti-HER2 therapies, and if HER2þ tumors that are not of
+the HER2-enriched subtype show similar or different response
+rates to trastuzumab when compared to HER2þ/HER2-enriched
+tumors. Finally, within triple-negative disease, Basal-like and
+Claudin-low are the most frequent subtypes identified. Further
+studies focusing on the efficacy of particular chemotherapies
+and/or targeted therapies such as the PARP inhibitors and/or
+anti-CSC therapies in these subgroups of patients are warranted. It will be important to determine if Basal-like and Claudin-low tumors show similar responses to common therapies
+as they may given their expression similarities, or they may
+not given their differences including vast differences in proliferation rates. Overall, we believe that the information provided
+by the intrinsic subtypes, when combined with the current clinical-pathological markers, helps to further explain the biological complexity of breast cancer, should increase the efficacy
+of current and novel therapies, and ultimately will improve outcomes for breast cancer patients.
+
+Acknowledgements
+We thank Katherine A. Hoadley for critical review of the manuscript. This work was supported by funds from the NCI
+Breast SPORE program to UNC-CH (P50-CA58223-09A1), by
+NCI RO1-CA-101227, the Breast Cancer Research Foundation
+and by the V Foundation for Cancer Research. A. Prat is affiliated to the Internal Medicine PhD program of the Autonomous
+University of Barcelona (UAB), Spain.
+R E F E R E N C E S
+
+Agus, D.B., Akita, R.W., Fox, W.D., Lewis, G.D., Higgins, B.,
+Pisacane, P.I., Lofgren, J.A., Tindell, C., Evans, D.P., Maiese, K.,
+Scher, H.I., Sliwkowski, M.X., 2002. Targeting ligand-activated
+
+20
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+ErbB2 signaling inhibits breast and prostate tumor growth.
+Cancer Cell 2, 127.
+Al Sayed, A.D., El Weshi, A.N., Tulbah, A.M., Rahal, M.M.,
+Ezzat, A.A., 2006. Metaplastic carcinoma of the breast clinical
+presentation, treatment results and prognostic factors. Acta.
+Oncol. 45, 188e195.
+Al-Hajj, M., Wicha, M., Benito-Hernandez, A., Morrison, S.,
+Clarke, M., 2003. Prospective identification of tumorigenic
+breast cancer cells. Proc. Natl. Acad. Sci. U S A 100, 3983e3988.
+Benz, C., Scott, G., Sarup, J., Johnson, R., Tripathy, D., Coronado, E.,
+Shepard, H., Osborne, C., 1992. Estrogen-dependent, tamoxifenresistant tumorigenic growth of MCF-7 cells transfected with
+HER2/neu. Breast Cancer Res. Treat. 24, 85e95.
+Carey, L.A., Perou, C.M., Livasy, C.A., Dressler, L.G., Cowan, D.,
+Conway, K., Karaca, G., Troester, M.A., Tse, C.K., Edmiston, S.,
+Deming, S.L., Geradts, J., Cheang, M.C., Nielsen, T.O.,
+Moorman, P.G., Earp, H.S., Millikan, R.C., 2006. Race, breast
+cancer subtypes, and survival in the Carolina Breast Cancer
+Study. JAMA 295, 2492e2502.
+Carey, L.A., Dees, E.C., Sawyer, L., Gatti, L., Moore, D.T., Collichio, F.,
+Ollila, D.W., Sartor, C.I., Graham, M.L., Perou, C.M., 2007. The
+triple negative paradox: primary tumor chemosensitivity of
+breast cancer subtypes. Clin. Cancer Res. 13, 2329e2334.
+Chaffer, C.L., Weinberg, R.A., 2010. Cancer cell of origin: spotlight
+on luminal progenitors. Cell Stem Cell 7, 271e272.
+Chaffer, C.L., Thompson, E.W., Williams, E.D., 2007. Mesenchymal
+to epithelial transition in development and disease. Cells
+Tissues Organs 185, 7.
+Charafe-Jauffret, E., Ginestier, C., Lovino, F., Wicinski, J.,
+Cervera, N., Finetti, P., Hur, M., Diebel, M., Monville, F.,
+Dutcher, J., Brown, M., Viens, P., Xerri, L., Bertucci, F.,
+Stassi, G., Dontu, G., Birnbaum, D., Wicha, M., 2009. Breast
+cancer cell lines contain functional cancer stem cells with
+metastatic capacity and a distinct molecular signature. Cancer
+Res. 69, 1302e1313.
+Cheang, M., Voduc, D., Bajdik, C., Leung, S., McKinney, S., Chia, S.,
+Perou, C., Nielsen, T., 2008. Basal-like breast cancer defined by
+five biomarkers has superior prognostic value than triplenegative phenotype. Clin. Cancer Res. 14, 1368e1376.
+Cheang, M.C.U., Chia, S.K., Voduc, D., Gao, D., Leung, S., Snider, J.,
+Watson, M., Davies, S., Bernard, P.S., Parker, J.S., Perou, C.M.,
+Ellis, M.J., Nielsen, T.O., 2009. Ki67 index, HER2 status, and
+prognosis of patients with luminal B breast cancer. J. Natl.
+Cancer Inst. 101, 736e750.
+Chin, K., DeVries, S., DFridlyand, J., Spellman, P., Roydasqupta, R.,
+Kuo, W., Lapuk, A., Neve, R., Quian, Z., Ryder, T., Chen, F.,
+Feiler, H., Tokuyasu, T., Gray, J., 2006. Genomic and
+transcriptional aberations linked to breast cancer
+pathophysiologies. Cancer Cell 10, 529e541.
+Creighton, C.J., Li, X., Landis, M., Dixon, J.M., Neumeister, V.M.,
+Sjolund, A., Rimm, D.L., Wong, H., Rodriguez, A.,
+Herschkowitz, J.I., Fan, C., Zhang, X., He, X., Pavlick, A.,
+Gutierrez, M.C., Renshaw, L., Larionov, A.A., Faratian, D.,
+Hilsenbeck, S.G., Perou, C.M., Lewis, M.T., Rosen, J.M.,
+Chang, J.C., 2009. Residual breast cancers after conventional
+therapy display mesenchymal as well as tumor-initiating
+features. Proc. Natl. Acad. Sci. U S A 106, 13820e13825.
+Cristofanilli, M., Budd, G.T., Ellis, M.J., Stopeck, A., Matera, J.,
+Miller, M.C., Reuben, J.M., Doyle, G.V., Allard, W.J.,
+Terstappen, L.W.M.M., Hayes, D.F., 2004. Circulating tumor
+cells, disease progression, and survival in metastatic breast
+cancer. N. Engl. J. Med. 351, 781e791.
+Deisenroth, C., Thorner, A.R., Enomoto, T., Perou, C.M., Zhang, Y.
+Mitochondrial HEP27 is a c-Myb target gene that inhibits
+Mdm2 and Stabilizes p53. Mol. Cell Biol. 30, 3981e93.
+Dennis, G., Sherman, B.T., Hosack, D.A., Yang, J., Gao, W., Lane, H.C.,
+Lempicki, R.A., 2003. DAVID: database for annotation,
+visualization, and integrated discovery. Genome Biol. 4, R60.
+
+Diehn, M., Cho, R.W., Lobo, N.A., Kalisky, T., Dorie, M.J.,
+Kulp, A.N., Qian, D., Lam, J.S., Ailles, L.E., Wong, M., Joshua, B.,
+Kaplan, M.J., Wapnir, I., Dirbas, F.M., Somlo, G.,
+Garberoglio, C., Paz, B., Shen, J., Lau, S.K., Quake, S.R.,
+Brown, J.M., Weissman, I.L., Clarke, M.F., 2009. Association of
+reactive oxygen species levels and radioresistance in cancer
+stem cells. Nature 458, 780.
+Dontu, G., Abdallah, W., Foley, J., Jackson, K., Clarke, M.,
+Kawamura, M., Wicha, M., 2003. In vitro propagation and
+transcriptional profiling of human mammary stem/progenitor
+cells. Genes Dev. 17, 1253e1270.
+Dowsett M, Cuzick J, Wales C, Forbes J, Mallon L, Salter J, Quinn E,
+Bugarini R, Baehner F, Shak S. Risk of distant recurrence using
+oncotype DX in postmenopausal primary breast cancer
+patients treated with anastrozole or tamoxifen: a TransATAC
+study. San Antonio Breast Cancer Symp. 2008:abstract 53,
+(2008).
+Eisinger, F., Jacquemier, J., Charpin, C., Stoppa-Lyonnet, D.,
+Paillerets, BB-d, Peyrat, J.-P., Longy, M., Guinebretiere, J.-M.,
+Sauvan, R., Noguchi, T., Birnbaum, D., Sobol, H., 1998.
+Mutations at BRCA1: the medullary breast carcinoma
+revisited. Cancer Res. 58, 1588e1592.
+Ellis, M.J., Tao, Y., Young, O., White, S., Proia, A.D., Murray, J.,
+Renshaw, L., Faratian, D., Thomas, J., Dowsett, M., Krause, A.,
+Evans, D.B., Miller, W.R., Dixon, J.M., 2006. EstrogenIndependent proliferation is present in estrogen-receptor
+HER2-Positive primary breast cancer after neoadjuvant
+letrozole. J. Clin. Oncol. 24, 3019e3025.
+Ellis, M.J., Tao, Y., Luo, J., A’Hern, R., Evans, D.B., Bhatnagar, A.S.,
+Chaudri Ross, H.A., von Kameke, A., Miller, W.R., Smith, I.,
+Eiermann, W., Dowsett, M., 2008. Outcome prediction for
+estrogen receptor-positive breast cancer based on post
+neoadjuvant endocrine therapy tumor characteristics. J. Natl.
+Cancer Inst. 100, 1380e1388.
+Elstrodt, F., Hollestelle, A., Nagel, J.H.A., Gorin, M.,
+Wasielewski, M., van den Ouweland, A., Merajver, S.D.,
+Ethier, S.P., Schutte, M., 2006. BRCA1 mutation analysis of 41
+human breast cancer cell lines reveals three new deleterious
+mutants. Cancer Res. 66, 41e45.
+Esteller, M., Silva, J.M., Dominguez, G., Bonilla, F., Matias-Guiu, X.,
+Lerma, E., Bussaglia, E., Prat, J., Harkes, I.C., Repasky, E.A.,
+Gabrielson, E., Schutte, M., Baylin, S.B., Herman, J.G., 2000.
+Promoter hypermethylation and BRCA1 inactivation in
+sporadic breast and ovarian tumors. J. Natl. Cancer Inst. 92,
+564e569.
+Fan, C., Oh, D.S., Wessels, L., Weigelt, B., Nuyten, D.S.A.,
+Nobel, A.B., van’t Veer, L.J., Perou, C.M., 2006. Concordance
+among gene-Expression-Based predictors for breast cancer. N.
+Engl. J. Med. 355, 560e569.
+Fillmore, C., Kuperwasser, C., 2008. Human breast cancer cell
+lines contain stem-like cells that self-renew, give rise to
+phenotypically diverse progeny and survive chemotherapy.
+Breast Cancer Res. 10, R25.
+Foulkes, W.D., Stefansson, I.M., Chappuis, P.O., Begin, L.R.,
+Goffin, J.R., Wong, N., Trudel, M., Akslen, L.A., 2003. Germline
+BRCA1 mutations and a basal epithelial phenotype in breast
+cancer. J. Natl. Cancer Inst. 95, 1482e1485.
+Ginestier, C., Hur, M., Charafe-Jauffret, E., Monville, F., Dutcher, J.,
+Brown, M., Jacquemier, J., Viens, P., Kleer, C., Liu, S., Schott, A.,
+Hayes, D., Birnbaum, D., Wicha, M., Dontu, G., 2007. ALDH1 is
+a marker of normal and malignant human mammary stem
+cells and a predictor of poor clinical outcome. Cell Stem Cell 1,
+555e567.
+Ginestier, C., Liu, S., Diebel, M.E., Korkaya, H., Luo, M., Brown, M.,
+Wicinski, J., Cabaud, O., Charafe-Jauffret, E., Birnbaum, D.,
+Guan, J.-L., Dontu, G., Wicha, M.S., 2010. CXCR1 blockade
+selectively targets human breast cancer stem cells in vitro and
+in xenografts. J. Clin. Invest.
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+Gupta, P., Onder, T., Jiang, G., Tao, K., Kuperwasser, C.,
+Weinberg, R., Lander, E., 2009. Identification of selective
+inhibitors of cancer stem cells by high-throughput screening.
+Cell 138, 645e659.
+Gupta, P.B., Chaffer, C.L., Weinberg, R.A., 2009. Cancer stem cells:
+mirage or reality? Nat. Med. 15, 1010e1012.
+Hackett, A., Smith, H., Springer, E., Owens, R., Nelson-Rees, W.,
+Riggs, J., Gardner, M., 1977. Two syngeneic cell lines from
+human breast tissue: the aneuploid mammary epithelial
+(Hs578T) and the diploid myoepithelial (Hs578Bst) cell lines.
+J. Natl. Cancer Inst. 58, 1795e1806.
+Hennessy, B.T., Krishnamurthy, S., Giordano, S., Buchholz, T.A.,
+Kau, S.W., Duan, Z., Valero, V., Hortobagyi, G.N., 2005.
+Squamous cell carcinoma of the breast. J. Clin. Oncol. 23,
+7827e7835.
+Hennessy, B., Gonzalez-Angulo, A., Stemke-Hale, K., Gilcrease,
+M., Krishnamurthy, S., Lee, J., Fridlyand, J., Mills, G.
+Characterization of a naturally occurring breast cancer subset
+enriched in EMT and stem cell characteristics. Cancer Res., in
+press.
+Herschkowitz, J., Simin, K., Weigman, V., Mikaelian, I., Usary, J.,
+Hu, Z., Rasmussen, K., Jones, L., Assefnia, S.,
+Chandrasekharan, S., Backlund, M., Yin, Y., Khramtsov, A.,
+Bastein, R., Quackenbush, J., Glazer, R., Brown, P., Green, J.,
+Kopelovich, L., Furth, P., Palazzo, J., Olopade, O., Bernard, P.,
+Churchill, G., Van Dyke, T., Perou, C., 2007. Identification of
+conserved gene expression features between murine
+mammary carcinoma models and human breast tumors.
+Genome Biol. 8, R76.
+Hess, K.R., Anderson, K., Symmans, W.F., Valero, V., Ibrahim, N.,
+Mejia, J.A., Booser, D., Theriault, R.L., Buzdar, A.U.,
+Dempsey, P.J., Rouzier, R., Sneige, N., Ross, J.S., Vidaurre, T.,
+Gomez, H.L., Hortobagyi, G.N., Pusztai, L., 2006.
+Pharmacogenomic predictor of sensitivity to preoperative
+chemotherapy with paclitaxel and fluorouracil, doxorubicin,
+and cyclophosphamide in breast cancer. J. Clin. Oncol. 24,
+4236e4244.
+Hollestelle, A., Nagel, J., Smid, M., Lam, S., Elstrodt, F.,
+Wasielewski, M., Ng, S., French, P., Peeters, J., Rozendaal, M.,
+Riaz, M., Koopman, D., ten Hagen, T., de Leeuw, B.,
+Zwarthoff, E., Teunisse, A., van der Spek, P., Klijn, J.,
+Dinjens, W., Ethier, S., Clevers, H., Jochemsen, A., den
+Bakker, M., Foekens, J., Martens, J., Schutte, M., 2009. Distinct
+gene mutation profiles among luminal-type and basal-type
+breast cancer cell lines. Breast Cancer Res. Treat. [Epub ahead
+of print].
+Honeth, G., Bendahl, P.-O., Ringner, M., Saal, L., GruvbergerSaal, S., Lovgren, K., Grabau, D., Ferno, M., Borg, A.,
+Hegardt, C., 2008. The CD44þ/CD24 phenotype is enriched in
+basal-like breast tumors. Breast Cancer Res. 10, R53.
+Houston, S., Plunkett, T., Barnes, D., Smith, P., Rubens, R.,
+Miles, D., 1999. Overexpression of c-erbB2 is an independent
+marker of resistance to endocrine therapy in advanced breast
+cancer. Br. J. Cancer 79 (7e8), 1220e1226.
+Hu, Z., Cheng, F., Oh, D.S., Marron, J.S., He, X., Qaqish, B.F.,
+Livasy, C., Carey, L.A., Reynolds, E., Dressler, L., Nobel, A.,
+Parker, J., Ewend, M.G., Sawyer, L.R., Wu, J., Liu, Y., Nanda, R.,
+Tretiakova, M., Orrico, A.R., Dreher, D., Palazzo, J.P.,
+Perreard, L., Nelson, E., Mone, M., Hansen, H., Mullins, M.,
+Quackenbush, J.F., Ellis, M.J., Olopade, O.I., Bernard, P.S.,
+Perou, C.M., 2006. The molecular portraits of breast tumors are
+conserved across microarray platforms. BMC Genomics 7, 96.
+Hugh, J., Hanson, J., Cheang, M.C.U., Nielsen, T.O., Perou, C.M.,
+Dumontet, C., Reed, J., Krajewska, M., Treilleux, I., Rupin, M.,
+Magherini, E., Mackey, J., Martin, M., Vogel, C., 2009. Breast
+cancer subtypes and response to docetaxel in node-positive
+breast cancer: use of an immunohistochemical definition in
+the BCIRG 001 trial. J. Clin. Oncol. 27, 1168e1176.
+
+21
+
+Jemal, A., Siegel, R., Ward, E., Hao, Y., Xu, J., Thun, M.J., 2009.
+Cancer statistics, 2009. CA Cancer J. Clin. 59, 225e249.
+Johnston, S., Pippen Jr., J., Pivot, X., Lichinitser, M., Sadeghi, S.,
+Dieras, V., Gomez, H.L., Romieu, G., Manikhas, A.,
+Kennedy, M.J., Press, M.F., Maltzman, J., Florance, A.,
+O’Rourke, L., Oliva, C., Stein, S., Pegram, M., 2009. Lapatinib
+combined with letrozole versus letrozole and placebo as firstline therapy for postmenopausal hormone receptor-positive
+metastatic breast cancer. J. Clin. Oncol. 27, 5538e5546.
+Jordan, C.T., 2009. Cancer stem cells: controversial or just
+misunderstood? Cell Stem Cell 4, 203.
+Kaufman, B., Mackey, J., Clemens, M., Bapsy, P., Vaid, A.,
+Wardley, A., Tjulandin, S., Jahn, M., Lehle, M., Jones, A., 2006.
+Trastuzumab Plus Anastrozole Prolongs Progression-free
+Survival in Postmenopausal Women with HER2-positive,
+Hormone-dependent Metastatic Breast Cancer Proc. San
+Antonio Breast Cancer Symposium: a.
+Kenny, P.A., Lee, G.Y., Myers, C.A., Neve, R.M., Semeiks, J.R.,
+Spellman, P.T., Lorenz, K., Lee, E.H., Barcellos-Hoff, M.H.,
+Petersen, O.W., Gray, J.W., Bissell, M.J., 2007. The morphologies
+of breast cancer cell lines in three-dimensional assays correlate
+with their profiles of gene expression. Mol. Oncol. 1, 84e96.
+Kim, M.-Y., Oskarsson, T., Acharyya, S., Nguyen, D.X.,
+, J., 2009. Tumor selfZhang, X.H.F., Norton, L., Massague
+Seeding by circulating cancer cells. Cell 139, 1315.
+La Vecchia, C., Bosetti, C., Lucchini, F., Bertuccio, P., Negri, E.,
+Boyle, P., Levi, F. Cancer mortality in Europe, 2000e2004, and
+an overview of trends since 1975. Ann. Oncol., in press.
+Lakhani, S.R., Jacquemier, J., Sloane, J.P., Gusterson, B.A.,
+Anderson, T.J., van de Vijver, M.J., Farid, L.M., Venter, D.,
+Antoniou, A., Storfer-Isser, A., Smyth, E., Steel, C.M.,
+Haites, N., Scott, R.J., Goldgar, D., Neuhausen, S., Daly, P.A.,
+Ormiston, W., McManus, R., Scherneck, S., Ponder, B.A.,
+Ford, D., Peto, J., Stoppa-Lyonnet, D., Easton, D.F., 1998.
+Multifactorial analysis of differences between sporadic breast
+cancers and cancers involving BRCA1 and BRCA2 mutations.
+J. Natl. Cancer Inst. 90, 1138e1145.
+Li, X., Lewis, M.T., Huang, J., Gutierrez, C., Osborne, C.K., Wu, M.F., Hilsenbeck, S.G., Pavlick, A., Zhang, X., Chamness, G.C.,
+Wong, H., Rosen, J., Chang, J.C., 2008. Intrinsic resistance of
+tumorigenic breast cancer cells to chemotherapy. J. Natl.
+Cancer Inst. 100, 672e679.
+Liedtke, C., Mazouni, C., Hess, K.R., Andre, F., Tordai, A.,
+Mejia, J.A., Symmans, W.F., Gonzalez-Angulo, A.M.,
+Hennessy, B., Green, M., Cristofanilli, M., Hortobagyi, G.N.,
+Pusztai, L., 2008. Response to neoadjuvant therapy and longterm survival in patients with triple-negative breast cancer.
+J. Clin. Oncol. 26, 1275e1281.
+Lim, E., Vaillant, F., Wu, D., Forrest, N.C., Pal, B., Hart, A.H.,
+Asselin-Labat, M.-L., Gyorki, D.E., Ward, T., Partanen, A.,
+Feleppa, F., Huschtscha, L.I., Thorne, H.J., Fox, S.B., Yan, M.,
+French, J.D., Brown, M.A., Smyth, G.K., Visvader, J.E.,
+Lindeman, G.J., 2009. Aberrant luminal progenitors as the
+candidate target population for basal tumor development in
+BRCA1 mutation carriers. Nat. Med. 15, 907.
+Lipton, A., Ali, S.M., Leitzel, K., Demers, L., Harvey, H.A., ChaudriRoss, H.A., Brady, C., Wyld, P., Carney, W., 2003. Serum HER-2/
+neu and response to the aromatase inhibitor letrozole versus
+tamoxifen. J. Clin. Oncol. 21, 1967e1972.
+Liu, R., Wang, X., Chen, G.Y., Dalerba, P., Gurney, A., Hoey, T.,
+Sherlock, G., Lewicki, J., Shedden, K., Clarke, M.F., 2007. The
+prognostic role of a gene signature from tumorigenic breastcancer cells. N. Engl. J. Med. 356, 217e226.
+Loi, S., Haibe-Kains, B., Desmedt, C., Wirapati, P., Lallemand, F.,
+Tutt, A., Gillet, C., Ellis, P., Ryder, K., Reid, J., Daidone, M.,
+Pierotti, M., Berns, E., Jansen, M., Foekens, J., Delorenzi, M.,
+Bontempi, G., Piccart, M., Sotiriou, C., 2008. Predicting
+prognosis using molecular profiling in estrogen receptor-
+
+22
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+positive breast cancer treated with tamoxifen. BMC Genomics
+9, 239.
+Loi, S., Sotiriou, C., Haibe-Kains, B., Lallemand, F., Conus, N.,
+Piccart, M., Speed, T., McArthur, G., 2009. Gene expression
+profiling identifies activated growth factor signaling in poor
+prognosis (Luminal-B) estrogen receptor positive breast
+cancer. BMC Med. Genomics 2, 37.
+Mani, S.A., Guo, W., Liao, M.-J., Eaton, E.N., Ayyanan, A.,
+Zhou, A.Y., Brooks, M., Reinhard, F., Zhang, C.C., Shipitsin, M.,
+Campbell, L.L., Polyak, K., Brisken, C., Yang, J., Weinberg, R.A.,
+2008. The epithelial-mesenchymal transition Generates cells
+with properties of stem cells. Cell 133, 704e715.
+McDermott, S.P., Wicha, M.S., 2010. Targeting breast cancer stem
+cells. Mol. Oncol. 4, 404e419.
+Menendez, J.A., Mehmi, I., Lupu, R., 2006. Trastuzumab in
+combination with heregulin-activated Her-2 (erbB-2) triggers
+a receptor-enhanced chemosensitivity effect in the absence of
+Her-2 overexpression. J. Clin. Oncol. 24, 3735e3746.
+Millikan, R., Newman, B., Tse, C.-K., Moorman, P., Conway, K.,
+Smith, L., Labbok, M., Geradts, J., Bensen, J., Jackson, S.,
+Nyante, S., Livasy, C., Carey, L., Earp, H., Perou, C., 2008.
+Epidemiology of basal-like breast cancer. Breast Cancer Res.
+Treat. 109, 123e139.
+Minn, A., Gupta, G., Siegel, P., Bos, P., Shu, W., Giri, D., Viale, A.,
+Oshen, A., Gerald, W., Massague, J., 2005. Genes that mediate
+breast cancer metastasis to lung. Nature 436, 518e524.
+Molyneux, G., Geyer, F., Magnay, F., McCarthy, A., Kendrick, H.,
+Natrajan, R., Mackay, A., Grigoriadis, A., Tutt, A., Ashworth, A.,
+Reis-Filho, J., Mj, S., 2010. BRCA1 basal-like breast cancers
+originate from luminal epithelial progenitors and not from
+basal stem cells. Cell Stem Cell 3, 403e417.
+vre, M., Thomas, Cm, Hinkal, G., Ansieau, Sp,
+Morel, A.-P., Lie
+Puisieux, A., 2008. Generation of breast cancer stem cells
+through epithelial-mesenchymal transition. PLoS ONE 3,
+e2888.
+Neve, R., Chin, K., Fridlyand, J., Yeh, J., Baehner, F.L., Fevr, T., Gray, J.,
+2006. A collection of breast cancer cell lines for the study of
+functionally distinct cancer subtypes. Cancer Cell 10, 515e527.
+Nielsen, T.O., Hsu, F.D., Jensen, K., Cheang, M., Karaca, G., Hu, Z.,
+Hernandez-Boussard, T., Livasy, C., Cowan, D., Dressler, L.,
+Akslen, L.A., Ragaz, J., Gown, A.M., Gilks, C.B., van De Rijn, M.,
+Perou, C.M., 2004. Immunohistochemical and clinical
+characterization of the basal-like subtype of invasive breast
+carcinoma. Clin. Cancer Res. 10, 3574e5367.
+Nielsen, T.O., Parker, J.S., Leung, S., Voduc, K.D., Ebbert, M.,
+Vickery, T.L., Davies, S.R., Snider, J.E., Stijleman, I.J., Reed, J.,
+Cheang, M.C.U., Mardis, E.R., Perou, C.M., Bernard, P.S.,
+Ellis, M.J., 2010. A comparison of PAM50 intrinsic subtyping
+with immunohistochemistry and clinical prognostic factors in
+tamoxifen-treated estrogen receptor positive breast cancer.
+Clin. Cancer Res. 16, 5222e5232.
+Osborne, C.K., Schiff, R., 2005. Estrogen-receptor biology:
+continuing progress and therapeutic implications. J. Clin.
+Oncol. 23, 1616e1622.
+O’Shaughnessy, L., Osborne, C., Pippen, J., Yoffe, M., Patt, D.,
+Monaghan, G., Rocha, C., Ossovskaya, V., Sherman, B.,
+Bradley, C., 2009. Efficacy of BSI-201, a poly (ADP-ribose)
+polymerase-1 (PARP1) inhibitor, in combination with
+gemcitabine/carboplatin (G/C) in patients with metastatic
+triple-negative breast cancer (TNBC): results of a randomized
+phase II trial. Proc. Am Soc Clin. Oncol. a.
+Paik, S., Shak, S., Tang, G., Kim, C., Baker, J., Cronin, M.,
+Baehner, F.L., Walker, M.G., Watson, D., Park, T., 2004. A
+multigene assay to predict recurrence of tamoxifen-treated,
+node-negative breast cancer. N. Engl. J. Med. 351, 2817e2826.
+Paik, S., Tang, G., Shak, S., Kim, C., Baker, J., Kim, W., Cronin, M.,
+Baehner, F.L., Watson, D., Bryant, J., Costantino, J.P.,
+Geyer Jr., C.E., Wickerham, D.L., Wolmark, N., 2006. Gene
+
+expression and benefit of chemotherapy in women with nodenegative, estrogen receptor-positive breast cancer. J. Clin.
+Oncol. 24, 3726e3734.
+Paik, S., Kim, C., Wolmark, N., 2008. HER2 status and benefit from
+adjuvant trastuzumab in breast cancer. New Engl. J. Med. 358,
+1409e1411.
+Parker J, Prat A, Cheang M, Lenburg M, Paik S, Perou C. Breast
+Cancer Molecular Subtypes Predict Response to
+Anthracycline/taxane-based Chemotherapy. San Antonio
+Breast Cancer Symposium 2009a:(abstract 2019).
+Parker, J.S., Mullins, M., Cheang, M.C.U., Leung, S., Voduc, D.,
+Vickery, T., Davies, S., Fauron, C., He, X., Hu, Z.,
+Quackenbush, J.F., Stijleman, I.J., Palazzo, J., Marron, J.S.,
+Nobel, A.B., Mardis, E., Nielsen, T.O., Ellis, M.J., Perou, C.M.,
+Bernard, P.S., 2009b. Supervised risk predictor of breast cancer
+based on intrinsic subtypes. J. Clin. Oncol. 27, 1160e1167.
+Peppercorn, J., Perou, C., Carey, L., 2008. Molecular subtypes in
+breast cancer evaluation and management: divide and
+Conquer. Cancer Invest. 26, 1e10.
+Perou, C.M., Sorlie, T., Eisen, M.B., van de Rijn, M., Jeffrey, S.S.,
+Rees, C.A., Pollack, J.R., Ross, D.T., Johnsen, H., Akslen, L.A.,
+2000. Molecular portraits of human breast tumours. Nature
+406, 747e752.
+Piccart-Gebhart, M.J., Procter, M., Leyland-Jones, B.,
+Goldhirsch, A., Untch, M., Smith, I., Gianni, L., Baselga, J.,
+Bell, R., Jackisch, C., Cameron, D., Dowsett, M., Barrios, C.H.,
+Steger, G., Huang, C.-S., Andersson, M., Inbar, M.,
+Lichinitser, M., Lang, I., Nitz, U., Iwata, H., Thomssen, C.,
+Lohrisch, C., Suter, T.M., Ruschoff, J., Suto, T., Greatorex, V.,
+Ward, C., Straehle, C., McFadden, E., Dolci, M.S.,
+Gelber, R.D.the Herceptin Adjuvant Trial Study T, 2005.
+Trastuzumab after adjuvant chemotherapy in HER2-Positive
+breast cancer. N. Engl. J. Med. 353, 1659e1672.
+Pietras, R., Arboleda, J., Reese, D., Wongvipat, N., Pegram, M.,
+Ramos, L., Gorman, C., Parker, M., Sliwkowski, M., Slamon, D.,
+1995. HER-2 tyrosine kinase pathway targets estrogen receptor
+and promotes hormone-independent growth in human breast
+cancer cells. Oncogene 10, 2435e2446.
+Podo, F., Buydens, L.M.C., Degani, H., Hilhorst, R., Klipp, E.,
+Gribbestad, I.S., Van Huffel, S., W.M. van Laarhoven, H., Luts,
+J., Monleon, D., Postma, G.J, Schneiderhan-Marra, N., Santoro,
+F., Wouters, H., Russnes, H.G., Sørlie, T., Tagliabue, E.,
+Børresen-Dale, A.-L. Triple-negative breast cancer: present
+challenges and new perspectives. Mol. Oncol. 4, 209e29.
+Prat, A., Perou, C.M., 2009. Mammary development meets cancer
+genomics. Nat. Med. 15, 842.
+Prat, A., Parker, J., Karginova, O., Fan, C., Livasy, C.,
+Herschkowitz, J., He, X., Perou, C., 2010. Phenotypic and
+molecular characterization of the claudin-low intrinsic
+subtype of breast cancer. Breast Cancer Res. 12, R68.
+Raouf, A., Zhao, Y., To, K., Stingl, J., Delaney, A., Barbara, M.,
+Iscove, N., Jones, S., McKinney, S., Emerman, J., Aparicio, S.,
+Marra, M., Eaves, C., 2008. Transcriptome analysis of the
+normal human mammary cell commitment and
+differentiation process. Cell Stem Cell 3, 109e118.
+Resetkova, E., Reis-Filho, J., Jain, R., Mehta, R., Thorat, M.,
+Nakshatri, H., Badve, S. Prognostic impact of ALDH1 in breast
+cancer: a story of stem cells and tumor microenvironment.
+Breast Cancer Res. Treat., in press.
+Ridolfi, R., Rosen, P., Port, A., Kinne, D., Mike, V., 1977. Medullary
+carcinoma of the breast. A clinicopathologic study with 10
+year follow-up. Cancer 40, 1365e1385.
+Romond, E.H., Perez, E.A., Bryant, J., Suman, V.J., Geyer Jr., C.E.,
+Davidson, N.E., Tan-Chiu, E., Martino, S., Paik, S.,
+Kaufman, P.A., Swain, S.M., Pisansky, T.M., Fehrenbacher, L.,
+Kutteh, L.A., Vogel, V.G., Visscher, D.W., Yothers, G.,
+Jenkins, R.B., Brown, A.M., Dakhil, S.R., Mamounas, E.P.,
+Lingle, W.L., Klein, P.M., Ingle, J.N., Wolmark, N., 2005.
+
+M O L E C U L A R O N C O L O G Y 5 ( 2 0 1 1 ) 5 e2 3
+
+Trastuzumab plus adjuvant chemotherapy for operable HER2positive breast cancer. N. Engl. J. Med. 353, 1673e1684.
+Rosen, J.M., Jordan, C.T., 2009. The increasing complexity of the
+cancer stem cell paradigm. Science 324, 1670e1673.
+Rottenberg, S., Jaspers, J., Kersbergen, A., van der Burg, E.,
+Nygren, A., Zander, S., Derksen, P., de Bruin, M.,
+Zevenhoven, J., Lau, A., Boulter, R., Cranston, A., O’Connor, M.,
+Martin, N., Borst, P., Jonkers, J., 2008. High sensitivity of
+BRCA1-deficient mammary tumors to the PARP inhibitor
+AZD2281 alone and in combination with platinum drugs. Proc.
+Natl. Acad. Sci. U S A 105, 17079e17084.
+Rouzier, R., Perou, C., Symmans, W., Ibrahim, N., Cristofanilli, M.,
+Anderson, K., Hess, K., Stec, J., Ayers, M., Wagner, P.,
+Morandi, P., Fan, C., Rabiul, I., Ross, J., Hortobagyi, G.,
+Pusztai, L., 2005a. Breast cancer molecular subtypes respond
+differently to preoperative chemotherapy. Clin. Cancer Res.
+11, 5678e5685.
+Rouzier, R., Pusztai, L., Delaloge, S., Gonzalez-Angulo, A.M.,
+Andre, F., Hess, K.R., Buzdar, A.U., Garbay, J.-R.,
+Spielmann, M., Mathieu, M.-C., Symmans, W.F., Wagner, P.,
+Atallah, D., Valero, V., Berry, D.A., Hortobagyi, G.N., 2005b.
+Nomograms to predict pathologic complete response and
+metastasis-free survival after preoperative chemotherapy for
+breast cancer. J. Clin. Oncol. 23, 8331e8339.
+Santisteban, M., Reiman, J.M., Asiedu, M.K., Behrens, M.D.,
+Nassar, A., Kalli, K.R., Haluska, P., Ingle, J.N., Hartmann, L.C.,
+Manjili, M.H., Radisky, D.C., Ferrone, S., Knutson, K.L., 2009.
+Immune-induced epithelial to mesenchymal transition in vivo
+generates breast cancer stem cells. Cancer Res. 69, 2887e2895.
+Sheridan, C., Kishimoto, H., Fuchs, R., Mehrotra, S., BhatNakshatri, P., Turner, C., Goulet, R., Badve, S., Nakshatri, H.,
+2006. CD44þ/CD24 breast cancer cells exhibit enhanced
+invasive properties: an early step necessary for metastasis.
+Breast Cancer Res. 8, R59.
+Shipitsin, M., Campbell, L., Argani, P., Weremowicz, S.,
+Bloushtain-Qimron, N., Yao, J., Nikolskaya, T.,
+Serebryiskaya, T., Beroukhim, R., Hu, M., Halushka, M.,
+Sukumar, S., Parker, L., Anderson, K., Harris, L., Garber, J.,
+Richardson, A., Schnitt, S., Nikolsky, Y., Gelman, R., Polyak, K.,
+2007. Molecular definition of breast tumor heterogeneity.
+Cancer Cell 11, 259e273.
+Sieuwerts, A., Kraan, J., Bolt, J., Van der Spoel, P., Elstrodt, F.,
+Schutte, M., Martens, J., Gratama, J., Sleijfer, S., Foekens, J.,
+2009. Anti-epithelial cell adhesion molecule antibodies and
+the detection of circulating normal-like breast tumor cells.
+J. Natl. Cancer Inst. 101, 61e66.
+Sorlie, T., Perou, C.M., Tibshirani, R., Aas, T., Geisler, S.,
+Johnsen, H., Hastie, T., Eisen, M.B., van de Rijn, M., Jeffrey, S.S.,
+2001. Gene expression patterns of breast carcinomas
+distinguish tumor subclasses with clinical implications. Proc.
+Natl. Acad. Sci. U S A 98, 10869e10874.
+Sotiriou, C., Wirapati, P., Loi, S., Harris, A., Fox, S., Smeds, J.,
+Nordgren, H., Farmer, P., Praz, V., Haibe-Kains, B., 2006. Gene
+
+23
+
+expression profiling in breast cancer: understanding the
+molecular basis of histologic grade to improve prognosis.
+J. Natl. Cancer Inst. 98, 262e272.
+Suspitsin, E., Sokolenko, A., Voskresenskiy, D., Ivantsov, A.,
+Shelehova, K., Klimashevskiy, V., Matsko, D., Semiglazov, V.,
+Imyanitov, E., 2009 Apr 7. Mixed epithelial/mesenchymal
+metaplastic carcinoma (carcinosarcoma) of the breast in
+BRCA1 carrier. Breast Cancer [Epub ahead of print].
+Taube, J.H., Herschkowitz, J.I., Komurov, K., Zhou, A.Y., Gupta, S.,
+Yang, J., Hartwell, K., Onder, T.T., Gupta, P.B., Evans, K.W.,
+Hollier, B.G., Ram, P.T., Lander, E.S., Rosen, J.M.,
+Weinberg, R.A., Mani, S.A., 2010. Core epithelial-tomesenchymal transition interactome gene-expression
+signature is associated with claudin-low and metaplastic
+breast cancer subtypes. PNAS 107, 15449e15454.
+Turner, N.C., Reis-Filho, J.S., Russell, A.M., Springall, R.J.,
+Ryder, K., Steele, D., Savage, K., Gillett, C.E., Schmitt, F.C.,
+Ashworth, A., Tutt, A.N., 2006. BRCA1 dysfunction in sporadic
+basal-like breast cancer. Oncogene 26, 2126.
+van de Vijver, M.J., He, Y.D., van’t Veer, L.J., Dai, H., Hart, A.A.,
+Voskuil, D.W., Schreiber, G.J., Peterse, J.L., Roberts, C.,
+Marton, M.J., Parrish, M., Atsma, D., Witteveen, A., Glas, A.,
+Delahaye, L., van der Velde, T., Bartelink, H., Rodenhuis, S.,
+Rutgers, E.T., Friend, S.H., Bernards, R., 2002. A geneexpression signature as a predictor of survival in breast
+cancer. N. Engl. J. Med. 347, 1999e2009.
+van ’t Veer, L.J., Dai, H., van de Vijver, M.J., He, Y.D., Hart, A.A.,
+Mao, M., Peterse, H.L., van der Kooy, K., Marton, M.J.,
+Witteveen, A.T., 2002. Gene expression profiling predicts
+clinical outcome of breast cancer. Nature 415, 530e536.
+Visvader, J., 2009. Keeping abreast of the mammary epithelial
+hierarchy and breast tumorigenesis. Genes Dev. 23,
+2563e2577.
+Vu-Nishino, H., Tavassoli, F.A., Ahrens, W.A., Haffty, B.G., 2005.
+Clinicopathologic features and long-term outcome of patients
+with medullary breast carcinoma managed with breastconserving therapy (BCT). Int. J. Radiat. Oncol. Biol. Phys. 62,
+1040.
+Weigelt, B., Hu, Z., He, X., Livasy, C., Carey, L.A., Ewend, M.G.,
+Glas, A.M., Perou, C.M., van’t Veer, L.J., 2005. Molecular
+portraits and 70-gene prognosis signature are preserved
+throughout the metastatic process of breast cancer. Cancer
+Res. 65, 9155e9158.
+Weigelt, B., Horlings, H.M., Kreike, B., Hayes, M.M.,
+Hauptmann, M., Wessels, L.F.A., Jong, Dd, Vijver, MJVd,
+Veer, LJVt, Peterse, J.L., 2008. Refinement of breast cancer
+classification by molecular characterization of histological
+special types. J. Pathol. 216, 141e150.
+WHO Classification of Tumors, 2003. Lyon Press.
+Young, R., Cailleau, R., Mackay, B., Reeves, W., 1974.
+Establishment of epithelial cell line MDA-MB-157 from
+metastatic pleural effusion of human breast carcinoma. In
+Vitro 9, 239e245.
+
+

@@ -1,0 +1,72 @@
+Aromatase inhibitors versus tamoxifen in premenopausal women with oestrogen receptor‐positive early‐stage breast cancer treated with ovarian suppression: a patient‐level meta‐analysis of 7030 women from four randomised trials
+Authors: Early Breast Cancer Trialists’ Collaborative Group (EBCTCG)*
+Full Article Link: https://doi.org/10.1016/S1470-2045(21)00758-0
+Additional Information:
+• This online publication has been corrected. The corrected version first appeared at thelancet.com/oncology on March 28, 2022
+• Published Online: February 3, 2022
+• Full list of EBCTCG members is available at: https://www.ctsu.ox.ac.uk/research/ebctcg
+• Correspondence: EBCTCG Secretariat, Clinical Trial Service Unit, Nuffield Department of Population Health, Richard Doll Building, Oxford OX3 7LF, UK; bc.overview@ctsu.ox.ac.uk
+
+Summary (Lancet Oncol 2022; 23: 382–92)
+Background:
+For women with early‐stage oestrogen receptor (ER)‐positive breast cancer, adjuvant tamoxifen reduces 15‐year breast cancer mortality by about one third. Aromatase inhibitors are more effective than tamoxifen in postmenopausal women but are ineffective in premenopausal women when used without ovarian suppression. This meta‐analysis investigates whether premenopausal women treated with ovarian suppression benefit from aromatase inhibitors.
+
+Methods:
+An individual patient data meta‐analysis was performed using data from four randomised trials (ABCSG XII, SOFT, TEXT, and HOBOE) that included 7030 premenopausal women with ER‐positive tumours enrolled between June 17, 1999, and August 4, 2015. All participants received ovarian suppression (via goserelin, triptorelin, or ovarian ablation) and were randomised to receive either an aromatase inhibitor (anastrozole, exemestane, or letrozole) or tamoxifen for 3 or 5 years. Data on baseline characteristics, breast cancer recurrence (distant, locoregional, or contralateral), second primary cancers, and mortality were collected. Primary outcomes included breast cancer recurrence, breast cancer mortality, death without recurrence, and all‐cause mortality, with distant recurrence analyzed separately.
+
+Findings:
+The median follow‐up was 8.0 years (IQR 6.1–9.3). Women allocated to an aromatase inhibitor had a lower rate of breast cancer recurrence compared with those assigned tamoxifen (RR 0.79, 95% CI 0.69–0.90; p=0.0005). The main benefit was observed in years 0–4 (RR 0.68, 99% CI 0.55–0.85; p<0.0001), with a 3.2% absolute reduction in 5‐year recurrence risk (6.9% vs 10.1%). No additional benefit or loss was seen in years 5–9 (RR 0.98, 99% CI 0.73–1.33; p=0.89) or beyond 10 years. Distant recurrence was reduced with aromatase inhibitors (RR 0.83, 95% CI 0.71–0.97; p=0.018). There were no significant differences in breast cancer mortality (RR 1.01, 95% CI 0.82–1.24; p=0.94), death without recurrence (RR 1.30, 95% CI 0.75–2.25; p=0.34), or all‐cause mortality (RR 1.04, 95% CI 0.86–1.27; p=0.68). However, bone fractures were more frequent with aromatase inhibitors (6.4% vs 5.1%; RR 1.27, 95% CI 1.04–1.54; p=0.017). Non–breast cancer deaths and endometrial cancer incidences were low.
+
+Interpretation:
+For premenopausal women with early‐stage ER‐positive breast cancer receiving ovarian suppression, using an aromatase inhibitor instead of tamoxifen reduces the risk of breast cancer recurrence. Longer follow‐up is needed to determine any impact on mortality.
+
+Funding:
+Cancer Research UK, UK Medical Research Council.
+
+Copyright:
+© 2022 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 licence.
+
+Introduction:
+Adjuvant tamoxifen for 5 years reduces 15‐year breast cancer mortality by approximately one third in women with early‐stage hormone receptor–positive breast cancer. Aromatase inhibitors, which block the conversion of androgens into oestrogens, have demonstrated superior efficacy to tamoxifen in postmenopausal women. However, in premenopausal women the ovarian production of oestrogen negates the effect of aromatase inhibitors unless ovarian suppression or ablation is also employed. This study explores whether premenopausal women benefit from the addition of an aromatase inhibitor to ovarian suppression compared with tamoxifen plus ovarian suppression.
+
+Research in Context:
+Previous meta-analyses in postmenopausal women have shown that aromatase inhibitors reduce recurrence rates by about 30% compared with tamoxifen. Given the uncertainty in premenopausal women without ovarian suppression, this collaborative meta-analysis of individual patient data from four trials aims to define the benefits and risks when ovarian suppression is added.
+
+Methods:
+The study followed standard protocols for systematic reviews and meta-analyses of individual patient data. Eligible trials began before January 1, 2010, and involved premenopausal women with ER‐positive operable breast cancer randomized to receive either an aromatase inhibitor plus ovarian function suppression or tamoxifen plus ovarian function suppression. Data collected included demographics, tumour characteristics, recurrence (locoregional, distant, or contralateral), second primary cancers, bone fractures, and mortality. Time-to-event analyses were performed using stratified log-rank tests and Kaplan–Meier estimates, with treatment effects expressed as rate ratios (RR) and 95% confidence intervals.
+
+Added Value of This Study:
+By analyzing individual patient data from 7030 premenopausal women, this meta-analysis demonstrates that aromatase inhibitors significantly reduce recurrence rates compared with tamoxifen, particularly in the first 4 years of treatment. The 5-year absolute risk reduction was 3.2%, and a significant reduction in distant recurrence was noted, although no significant difference in breast cancer mortality or all‐cause mortality was found at a median follow-up of 8 years.
+
+Implications:
+For premenopausal women with early-stage ER-positive breast cancer undergoing ovarian suppression, aromatase inhibitors offer a recurrence benefit compared with tamoxifen without increasing non–breast cancer mortality. The long-term impact on overall survival requires further follow-up, and the management of treatment-related side effects remains important.
+
+Contributors:
+The analyses were designed and carried out by R Bradley, J Braybrooke, R Gray, and R K Hills, with data verification by the same team. The report was drafted by these authors and reviewed by all members of the writing committee. The EBCTCG Secretariat coordinated trial identification, data acquisition, and verification.
+
+Writing Committee:
+Includes members from the Clinical Trial Service Unit, Nuffield Department of Population Health, University of Oxford; Karolinska Institutet; Georgetown University Medical Center; Peter MacCallum Cancer Centre; Medical University of Vienna; Istituto Nazionale Tumori IRCCS Fondazione Pascale; and Dana-Farber Cancer Institute, among others.
+
+EBCTCG Secretariat:
+Coordinated by R Berry, C Boddington, R Bradley, J Braybrooke, and colleagues.
+
+Group Contributing Data:
+Austrian Breast and Colorectal Cancer Study Group (ABCSG Trial XII); International Breast Cancer Study Group (SOFT, TEXT); and Napoli Istituto Tumori (HOBOE).
+
+Declaration of Interests:
+Competing interests and sources of funding are detailed in the full article.
+
+Data Sharing:
+Data sharing policy is available at: https://www.ndph.ox.ac.uk/data-access
+
+Acknowledgments:
+The EBCTCG Secretariat is supported by Cancer Research UK and the UK Medical Research Council. Sincere thanks are extended to all trial participants and investigators.
+
+References (Selected):
+
+    EBCTCG. Relevance of breast cancer hormone receptors and other factors to the efficacy of adjuvant tamoxifen: patient-level meta-analysis of randomised trials. Lancet 2011; 378: 771–84.
+    EBCTCG. Aromatase inhibitors versus tamoxifen in early breast cancer: patient-level meta-analysis of the randomised trials. Lancet 2015; 386: 1341–52.
+    EBCTCG. Ovarian ablation in early breast cancer: overview of the randomised trials. Lancet 1996; 348: 1189–96.
+    Masuda N et al. Neoadjuvant anastrozole versus tamoxifen in patients receiving goserelin for premenopausal breast cancer (STAGE). Lancet Oncol 2012; 13: 345–52.
+    Gnant M et al. Endocrine therapy plus zoledronic acid in premenopausal breast cancer. N Engl J Med 2009; 360: 679–91.
+    ... [Additional references available in the full text]

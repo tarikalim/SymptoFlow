@@ -1,0 +1,35 @@
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000486/abstract
+
+---
+
+**Tamoxifen for Early Breast Cancer - Early Breast Cancer Trialists' Collaborative Group**
+
+**Background**  
+There have been numerous randomized trials of adjuvant tamoxifen in women with early breast cancer. An updated overview of these trials is presented in this systematic review. The Early Breast Cancer Trialists' Collaborative Group (EBCTCG) presents its third five-yearly systematic overview (meta-analysis) of the results of tamoxifen treatment.
+
+**Objectives**  
+The objective of this report is to provide an updated meta-analysis of the randomised trials that began before 1990, comparing adjuvant tamoxifen for any duration versus no tamoxifen treatment for women with early breast cancer.
+
+**Methods**  
+Data collection for the EBCTCG overviews is described elsewhere. Information was obtained from 37,000 women across 55 trials that began before 1990, comprising about 87% of the global evidence. In comparison to previous overviews, this update includes twice as much evidence from trials of about 5 years of tamoxifen and events occurring more than five years after randomisation.
+
+**Main Results**  
+Of the 37,000 women, nearly 8,000 had a low or zero level of the oestrogen-receptor (ER) protein in their primary tumour. Among these women, the effects of tamoxifen appeared to be small, and subsequent analyses of recurrence and mortality focused on the remaining 18,000 women with ER-positive tumours, along with nearly 12,000 more with untested tumour status (estimated 8,000 of these would be ER-positive). 
+
+In the trials involving 1 year, 2 years, and approximately 5 years of adjuvant tamoxifen, the proportional reductions in recurrence rates for these 30,000 women were 21% (SD 3), 29% (SD 2), and 47% (SD 3), respectively. A highly significant trend was observed with a greater effect with longer treatment duration (p<0.00001). Similarly, the corresponding reductions in mortality rates were 12% (SD 3), 17% (SD 3), and 26% (SD 4), with a significant test for trend (p=0.003). 
+
+The absolute improvement in recurrence was greater in the first 5 years of treatment, while the survival improvement continued to grow steadily over the next 10 years. Proportional mortality reductions were similar for both node-positive and node-negative disease, but the absolute mortality reductions were greater in node-positive women. In the trials involving about 5 years of tamoxifen treatment, the absolute improvements in 10-year survival were as follows:
+
+- Node-positive women: 10.9% improvement (61.4% vs 50.5% survival)
+- Node-negative women: 5.6% improvement (78.9% vs 73.3% survival)
+
+These benefits were observed regardless of age, menopausal status, daily tamoxifen dose (generally 20 mg), and whether chemotherapy had been administered to both treatment groups.
+
+**Other Outcomes**  
+Among all women studied, including those with ER-negative tumours, the proportional reductions in contralateral breast cancer were 13% (SD 13) for 1-year tamoxifen use, 26% (SD 9) for 2 years, and 47% (SD 9) for approximately 5 years of treatment. However, the incidence of endometrial cancer was approximately doubled in the 1 or 2-year tamoxifen trials, and quadrupled in the 5-year trials. Although the number of cases was small, these ratios were not significantly different from one another. The absolute decrease in contralateral breast cancer was about twice as large as the absolute increase in endometrial cancer cases. 
+
+Tamoxifen did not seem to have any significant effect on the incidence of colorectal cancer, nor on any other major causes of death (excluding deaths from breast or endometrial cancer). The overall relative risk for these other causes of death was 0.99 (SD 0.05).
+
+**Authors' Conclusions**  
+For women with tumours reliably shown to be ER-negative, the role of adjuvant tamoxifen remains a subject of further research. However, treatment with tamoxifen substantially improves 10-year survival for women with ER-positive tumours and for women whose tumours have unknown ER status. The proportional reductions in breast cancer recurrence and mortality appear to be largely unaffected by other patient characteristics or treatments.
+

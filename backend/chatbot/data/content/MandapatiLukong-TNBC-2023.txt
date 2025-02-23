@@ -1,0 +1,33 @@
+Triple negative breast cancer: approved treatment options and their mechanisms of action
+
+Authors:
+Aditya Mandapati; Kiven Erique Lukong
+
+Citation:
+Journal of Cancer Research and Clinical Oncology (2023) 149:3701–3719
+DOI: https://doi.org/10.1007/s00432-022-04189-6
+
+Article Details:
+
+    Received: 4 April 2022
+    Accepted: 6 July 2022
+    Published online: 17 August 2022
+    © The Author(s) 2022
+
+Abstract:
+Purpose: Breast cancer, the most prevalent cancer worldwide, is classified into several subtypes including Luminal A, Luminal B, HER2-positive, and Triple-negative breast cancer (TNBC). TNBC, which lacks estrogen, progesterone, and HER2 receptors, accounts for approximately 15–20% of cases. The absence of these receptor targets underlies the aggressive, heterogeneous, and refractory nature of TNBC, resulting in limited therapeutic strategies.
+
+Methods: Traditional chemotherapeutic regimens for TNBC include agents such as taxanes and anthracyclines. FDA-approved therapies include paclitaxel, docetaxel, doxorubicin, and epirubicin. In addition, PARP inhibitors like olaparib and atezolizumab have been approved in combination with chemotherapy to enhance efficacy and reduce adverse outcomes. Recently, the immunotherapeutic agent Keytruda was also approved for TNBC treatment.
+
+Results: This review outlines current FDA-approved treatments for TNBC and elucidates their mechanisms of action. It details how conventional chemotherapies work, as well as the targeted mechanisms of PARP inhibitors, immunotherapeutics, and antibody–drug conjugates in overcoming treatment resistance.
+
+Conclusion: The recent approval of targeted therapies such as Trodelvy, olaparib, and Keytruda reflects advances in understanding the signaling pathways driving TNBC. Future advancements in novel drug delivery methods may further enhance treatment efficacy while reducing adverse side effects.
+
+Keywords:
+Breast cancer · Taxol · Doxorubicin · Epirubicin chemotherapy · PARP inhibitors · Olaparib · Atezolizumab · Immunotherapy · Keytruda · BRCA1 and BRCA2 · ER · HER2 · TNBC
+
+Introduction (Excerpt):
+Breast cancer is the most frequently diagnosed cancer globally, with an estimated 2.3 million new cases in 2020. TNBC, defined by the absence of ER, PR, and HER2 expression, represents 15–20% of cases and is associated with aggressive behavior, higher recurrence, and poorer outcomes compared to other subtypes. The heterogeneity of TNBC is reflected in its molecular subtyping, which includes classifications such as basal-like 1 (BL1), basal-like 2 (BL2), immunomodulatory (IM), mesenchymal (M), mesenchymal stem-like (MSL), and luminal androgen receptor (LAR) subtypes. This review discusses the approved treatment modalities for TNBC—including chemotherapeutics, PARP inhibitors, immunotherapy, and antibody–drug conjugates—and explains their mechanisms of action.
+
+Additional Link:
+For further details, visit the article online at: https://doi.org/10.1007/s00432-022-04189-6

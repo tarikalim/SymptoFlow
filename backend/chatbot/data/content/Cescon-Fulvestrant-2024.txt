@@ -1,0 +1,75 @@
+A Phase I/II Study of GSK525762 Combined with Fulvestrant in Patients with Hormone Receptor–positive/HER2-negative Advanced or Metastatic Breast Cancer
+Authors: David W. Cescon; John Hilton; Serafin Morales Murilo; Rachel M. Layman; Timothy Pluard; Belinda Yeo; In Hae Park; Louise Provencher; Sung-Bae Kim; Young-Hyuck Im; Anastasia Wyce; Anu Shilpa Krishnatry; Kirsty Hicks; Qu Zhang; Olena Barbash; Ahmed Khaled; Thierry Horner; Arindam Dhar; Mafalda Oliveira; and Joseph A. Sparano
+Full Article Link: https://doi.org/10.1158/1078-0432.CCR-23-0133
+Additional Information:
+• Published in Clinical Cancer Research 2024; Volume 30, pages 334–343
+• This open access article is distributed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
+• Correspondence: David W. Cescon, Princess Margaret Cancer Center, Toronto, Ontario, Canada; Email: dave.cescon@uhn.ca
+
+Abstract
+Introduction:
+Breast cancer is the most common malignancy among women worldwide, with approximately one in eight females affected by invasive disease during their lifetime. In metastatic breast cancer (mBC), about 70% of patients present with tumors that express hormone receptors (HR+), without HER2 overexpression. Although endocrine therapy is the cornerstone of treatment for HR+/HER2– mBC, resistance—either intrinsic or acquired—leads to disease progression in a substantial proportion of patients. Current first-line treatments include the combination of endocrine therapy with cyclin-dependent kinase 4/6 inhibitors (CDK4/6i). However, outcomes with fulvestrant alone in the second-line setting are suboptimal. GSK525762 (molibresib) is a small-molecule inhibitor targeting BET family proteins (BRD2, BRD3, BRD4, and BRDT), and preclinical studies have suggested that combining molibresib with fulvestrant might overcome endocrine resistance.
+
+Results:
+In this phase I/II study, 123 patients with advanced or metastatic HR+/HER2– breast cancer were enrolled. The study evaluated two dosing levels (DL): molibresib 60 mg plus fulvestrant 500 mg (DL1) and molibresib 80 mg plus fulvestrant 500 mg (DL2). The most common treatment-related adverse events (AE) were nausea (52%), dysgeusia (49%), and fatigue (45%). At the 60-mg dose, more than 90% of patients experienced treatment-related AEs. Grade 3–4 treatment-related AEs occurred in 47% of patients at the 60-mg dose and 48% at the 80-mg dose. The objective response rate (ORR) was 13% (95% CI, 8–20%), which did not meet the prespecified 25% threshold for advancing to phase II. In a subgroup analysis of 82 patients with detectable circulating tumor DNA (ctDNA) at baseline, the presence of copy-number amplification was strongly associated with poor progression-free survival (HR, 2.89; 95% CI, 1.73–4.83; P < 0.0001).
+
+Conclusions:
+The combination of molibresib with fulvestrant did not demonstrate clinically meaningful activity in this study. Additionally, the tolerability of the combination was poor, with a high incidence of significant adverse events. These findings suggest that the therapeutic window for BET inhibitors in unselected patients in this setting may be small. Baseline ctDNA characteristics, particularly copy-number amplification, appear to be predictive of poorer outcomes and may help in early identification of prognostic groups.
+
+Introduction
+Endocrine therapy is the standard initial treatment for patients with HR-positive, HER2-negative metastatic breast cancer. Although approximately 50% of patients achieve a complete or partial response with such therapy, the majority eventually experience disease progression due to resistance. Fulvestrant, a selective estrogen receptor degrader, has been used as a standard second-line treatment; however, its response rates and progression-free survival (PFS) outcomes are limited. Molibresib (GSK525762), a BET inhibitor, has shown promise in preclinical studies by potentially overcoming endocrine resistance when combined with fulvestrant. This study was designed to evaluate the safety, tolerability, pharmacokinetics, pharmacodynamics, and efficacy (as measured by ORR) of this combination in women with advanced or metastatic HR-positive/HER2-negative breast cancer.
+
+Patients and Methods
+This phase I/II study employed a dose-escalation (phase I) and dose-expansion (phase II) design. Patients with relapsed or refractory advanced/metastatic HR+/HER2– breast cancer, who had progressed on prior endocrine-based therapy (with or without prior CDK4/6 inhibitor exposure), were enrolled. In phase I, patients were assigned to one of two dosing levels: DL1 (molibresib 60 mg plus fulvestrant 500 mg) and DL2 (molibresib 80 mg plus fulvestrant 500 mg). Dose-escalation decisions were made based on a modified toxicity probability interval method (mTPI), with dose-limiting toxicities (DLTs) assessed within the first 28 days. Patients continued treatment until progression, unacceptable toxicity, withdrawal of consent, or death. Phase II was planned to be randomized and controlled; however, phase II was not initiated based on the phase I results.
+
+Pharmacokinetic samples for molibresib and its active metabolites, as well as for fulvestrant, were collected at predetermined time points during cycle 1 and subsequent cycles. Biomarker analysis of circulating tumor DNA (ctDNA) was performed using a 74-gene panel, with molecular response defined as a ≥50% reduction in mean variant allele frequency from baseline.
+
+Results
+A total of 190 patients were screened, with 124 enrolled and 123 receiving at least one dose of the combination therapy. Among these patients, 58% were exposed to molibresib for less than 3 months. Almost all patients (97%) experienced at least one treatment-related adverse event, with common AEs including nausea, dysgeusia, and fatigue. Dose interruptions or delays occurred in 67% of patients, and 36% required a dose reduction. Grade 3–4 treatment-related AEs were observed in 47% (DL1) and 48% (DL2) of patients. The ORR was 13% (95% CI, 8–20%), which did not meet the prespecified threshold to proceed to phase II. In a subgroup of 82 patients with available ctDNA data, copy-number amplification at baseline was significantly associated with worse PFS (HR, 2.89; 95% CI, 1.73–4.83; P < 0.0001).
+
+Pharmacokinetic analyses demonstrated that molibresib was rapidly absorbed, with a Cmax typically achieved within 3 hours post-dose. Co-administration of fulvestrant did not affect the pharmacokinetics of molibresib, and vice versa.
+
+Discussion
+The study evaluated the combination of molibresib with fulvestrant in a heavily pretreated population of women with HR-positive/HER2-negative advanced or metastatic breast cancer. The overall objective response rate of 13% was lower than the target needed to justify further development of this combination. Additionally, the tolerability of molibresib, particularly at the 80-mg dose, was suboptimal, with high rates of grade 3–4 adverse events leading to frequent dose modifications. The biomarker analysis suggests that baseline ctDNA characteristics, especially copy-number amplification, may identify patients with poorer prognosis. Although the pharmacokinetic profile of the combination was as expected, the clinical activity did not meet the predefined threshold for proceeding to phase II. These findings raise questions about whether the lack of efficacy was due to insufficient target engagement of molibresib or if the BET inhibition strategy itself is limited in this patient population.
+
+Authors’ Contributions
+D.W. Cescon: Conceptualization, formal analysis, investigation, writing—original draft, and review and editing.
+J. Hilton: Data curation, formal analysis, writing—original draft, and review and editing.
+S. Morales Murilo: Data curation, formal analysis, writing—original draft, and review and editing.
+R.M. Layman: Data curation, formal analysis, writing—original draft, and review and editing.
+T. Pluard: Data curation, formal analysis, writing—original draft, and review and editing.
+B. Yeo: Data curation, formal analysis, writing—original draft, and review and editing.
+I.H. Park: Data curation, formal analysis, writing—original draft, and review and editing.
+L. Provencher: Data curation, formal analysis, writing—original draft, and review and editing.
+S.-B. Kim: Data curation, formal analysis, writing—original draft, and review and editing.
+Y.-H. Im: Data curation, formal analysis, writing—original draft, and review and editing.
+A. Wyce: Conceptualization, data curation, formal analysis, writing—original draft, and review and editing.
+A.S. Krishnatry: Conceptualization, data curation, formal analysis, writing—original draft, and review and editing.
+K. Hicks: Conceptualization, data curation, formal analysis, writing—original draft, and review and editing.
+Q. Zhang: Formal analysis, writing—original draft, and review and editing.
+O. Barbash: Conceptualization, formal analysis, writing—original draft, and review and editing.
+A. Khaled: Conceptualization, formal analysis, writing—original draft, and review and editing.
+T. Horner: Conceptualization, formal analysis, writing—original draft, and review and editing.
+A. Dhar: Conceptualization, formal analysis, writing—original draft, and review and editing.
+M. Oliveira: Data curation, formal analysis, writing—original draft, and review and editing.
+J.A. Sparano: Conceptualization, data curation, formal analysis, writing—original draft, and review and editing.
+
+Acknowledgments
+The authors thank all patients, their families, and the investigators who participated in this study. Medical and editorial support were provided by Scion (a division of Prime, London, UK), sponsored by GSK in accordance with Good Publication Practice guidelines.
+
+Funding:
+This study was funded by GlaxoSmithKline (GSK).
+
+Data Availability
+GSK’s data-sharing commitments and requests for access to anonymized individual participant data can be found at: https://www.clinicalstudydatarequest.com/Study-Sponsors/Study-Sponsors-GSK.aspx
+
+References (Selected Excerpts):
+
+    Lei S, Zheng R, Zhang S, Wang S, Chen R, Sun K, et al. Global patterns of breast cancer incidence and mortality: a population-based cancer registry data analysis from 2000 to 2020. Cancer Commun (Lond) 2021;41:1183–94.
+    Siegel RL, Miller KD, Jemal A. Cancer statistics, 2016. CA Cancer J Clin 2016;66:7–30.
+    Fan W, Chang J, Fu P. Endocrine therapy resistance in breast cancer: current status, possible mechanisms and overcoming strategies. Future Med Chem 2015;7:1511–9.
+    Elfgen C, Bjelic-Radisic V. Targeted therapy in HR+ HER2– metastatic breast cancer: current clinical trials and their implications for CDK4/6 inhibitor therapy and beyond treatment options. Cancers (Basel) 2021;13:5994.
+    … [Additional references available in the full text]
+
+Disclaimer/Publisher’s Note:
+The statements, opinions, and data in this article are solely those of the authors and do not represent the views of the American Association for Cancer Research. MDPI and the editors disclaim any responsibility for injury or damage resulting from the ideas, methods, or products described herein.

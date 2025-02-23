@@ -1,0 +1,507 @@
+
+Breast cancer has surpassed lung cancer as the most common cause of cancer deaths, worldwide. Early breast cancers are
+treatment sensitive and patients under standardized treatment have prolonged. Breast cancer treatment has signiﬁcantly
+evolved from the conventional surgical approach and radiotherapy to local and systemic adjuvant therapies. Though localized
+breast cancers are clinically manageable, distant recurrence is a cause of morbid concern. Adjuvant systemic therapy is effective
+in both distant and local recurrences and hence gained signiﬁcant attention. Early breast cancer prognosis has greatly improved
+in the past 3 decades with reduced mortality rates due to the widespread use of adjuvant therapy. It can markedly increase the
+cure rate of breast cancers, and postoperative adjuvant therapy became a part of comprehensive breast cancer treatment.
+Further research to understand the early breast cancer characteristics could expand the treatment modalities that can improve
+the outcomes and survival beneﬁts of breast cancer patients.
+
+Breast cancer has now overtaken lung cancer as the most
+common malignancy worldwide, with high annual incidence
+of 11.7% and the ﬁfth leading cause of cancer deaths
+worldwide in 2020.1 Clinical presentation of breast cancer is
+localized tumor in 61% of patients, 32% of patients show
+regionally advanced tumor, and 7% show metastases.
+Deeper understanding on clinical and pathogenic attributes of breast cancer has led to the evolution of breast
+cancer treatment over the years resulting in de-escalation of
+radical mastectomy and/or radiotherapy. Progress has been
+achieved by increasing implementation of multimodal
+treatment comprising chemotherapy, endocrine therapy,
+targeted therapy, and immunotherapy.
+Multiple clinical trials have shown decreased recurrence and
+enhanced survival with adjuvant systemic chemotherapy, endocrine therapy, and anti-HER2 therapy in early breast cancer
+patients. With wider treatment possibilities, women with breast
+cancer who can receive sufﬁcient therapy now have a 90%
+
+probability of being cured. Much importance has been directed
+toward optimizing adjuvant systemic therapy approaches since it
+has improved the survival outcomes of early breast cancer patients.5 In the current scenario, women with early breast cancer
+can receive systemic treatment lasting beyond 10 years provided
+a lower risk of toxicity.4 In this review, we discuss the latest
+research progress on adjuvant therapy for early breast cancer
+mainly including chemotherapy, endocrine therapy, targeted
+therapy, bone-modifying drug therapy, and adjuvant intensive
+therapy after neoadjuvant therapy. A summary of clinical outcomes of various research studies on different adjuvant therapies
+in early breast cancer patients is listed in Table 1.
+
+
+Cancer Control
+
+Adjuvant Chemotherapy
+
+Triple-Negative Breast Cancer
+
+Chemotherapy plays an important role in the treatment of
+breast cancer in all stages. Chemotherapy can prolong the
+survival and improve the prognosis of early breast cancer.
+However, adverse reactions and drug resistance caused by
+chemotherapy are a cause of concern and need to be resolved. Anthracycline-containing adjuvant chemotherapy
+regimen is often recommended for women with resected
+node-positive or high-risk node-negative breast cancer.
+Anthracyclines have been shown to be effective in several
+large cohort studies. Improved disease-free survival (DFS)
+and overall survival (OS) were observed in early breast
+cancer patients by adding taxane to an anthracycline-based
+regimen in the adjuvant setting.7 According to the National
+Comprehensive Cancer Network (NCCN), anthracyclinebased regimens have been the cornerstone of adjuvant
+chemotherapy for the last 3 decades but are associated with
+long-term cardiotoxicity. Thus, in order to prevent cardiotoxicities, non-anthracycline-containing regimens are
+increasingly sought after for patients with early-stage breast
+cancer.
+The US Oncology Trial 9735 showed DFS (81% vs 75%)
+and OS (87% vs 82%) rates as well as reduced cardiotoxicity
+in early breast cancer patients treated with anthracycline-free
+docetaxel with cyclophosphamide regimen compared to
+anthracycline-containing epirubicin with cyclophosphamide
+regimen. Similarly, TRYPHAENA trial also demonstrated
+better outcomes with the addition of docetaxel–carboplatinbased neoadjuvant chemotherapy to dual HER2 blockade
+regimen. About 58% of patients showed total pathological
+complete response (pCR) and they were more likely to be
+disease free at 3 years (HR = .27; 95% CI, .11–.64) with
+better DFS (∼90%) and PFS rates (∼89%).10 However,
+NATT trial demonstrated anthracycline-based chemotherapy
+to be more beneﬁcial for patients with early breast cancer
+than “anthracycline-free” chemotherapy. The pCR rates
+were lower in patients treated with docetaxel plus cyclophosphamide (6.8%) than patients treated with docetaxel,
+anthracycline, and cyclophosphamide (17.6%).
+The results of an individual patient-level meta-analysis
+by the Early Breast Cancer Trialists’ Collaborative
+Group (EBCTCG) comparing anthracycline-based vs
+anthracycline-free regimens conﬁrmed that anthracyclinebased chemotherapy, especially dose-dense regimens, can
+lead to a favorable survival beneﬁt. It reduced the mortality
+rate by 57% compared to 45% by anthracycline-free regimens in early breast cancer patients. Clinical management
+of breast cancer with anthracycline is still controversial, and
+accurately treating anthracycline-sensitive patients continues to remain as a challenge. Nevertheless, anthracyclines
+are still preferable due to shorter treatment duration, less
+patient visits, shorter duration of antiemetic usage, and
+therefore became standard of care in early breast cancer
+treatment.
+
+Chemotherapy has long been the only effective treatment
+strategy available for triple-negative breast cancers (TNBCs)
+commonly characterized by heterogeneity, aggressiveness,
+and poor prognosis.14,15 Even though programmed cell death
+1 (PD1), programmed cell death ligand 1 (PD-L1), and poly
+(ADP-ribose) polymerase (PARP) inhibitor have been found
+to be effective in the neoadjuvant phase, chemotherapy remains the fundamental treatment modality for TNBC.
+Adjuvant chemotherapy for early TNBC emphasizes the
+use of standardized chemotherapy regimens and development
+for reasonable management of adverse reactions.
+BGIRG005 trial studied AC-T (doxorubicin + cyclophosphamide followed by docetaxel) vs TAC (docetaxel +
+doxorubicin + cyclophosphamide) as adjuvant therapy for
+early triple-negative breast cancer. There was no signiﬁcant
+difference in DFS and OS in terms of efﬁcacy, but AC-T
+showed signiﬁcantly higher hematological toxicity than the
+combination therapy. Due to low tolerability and toxicity,
+adjuvant chemotherapy with AC-T can be preferred in highrisk TNBC patients.16 In SYSUCC-001 trial, patients with
+early triple-negative breast cancer who completed standardized adjuvant therapy were given capecitabine maintenance
+therapy for 1 year. After a median follow-up of 56.5 months,
+the 5-year DFS of capecitabine (82.8%) was signiﬁcantly
+superior to that of the control group (73.0%). Therefore, the
+choice of standard therapy followed by 1 year of capecitabine
+therapy may reduce the risk of recurrence.Meta-analysis on
+9 randomized clinical trials in TNBC patients treated with
+combined capecitabine regimens in neoadjuvant and adjuvant
+chemotherapy showed signiﬁcantly improved DFS (HR = .75;
+95% CI; .65–.86; P < .001) and OS (HR = .63; 95% CI; .53–
+.77; P < .001).15 Chemotherapy combined with immunotherapy has been implicated as neoadjuvant treatment for early
+breast cancer and as salvage treatment for metastatic breast
+cancer However, the optimal combination and management
+of adverse events when using combination therapies are still
+being explored and no studies have been published in early
+TNBC adjuvant settings.
+
+Hormone Receptor-Positive Breast Cancer
+Hormone receptor (HR)-positive (ie, estrogen receptor (ER)and/or progesterone receptor (PR)-positive) and human epidermal growth factor receptor 2 (HER2)-negative breast
+cancer contributes to 70% of breast cancer cases in the
+Western countries. Only 15% of these breast cancer patients
+develop recurrence in <10 years when treated only with adjuvant endocrine therapy. Adjuvant chemotherapy helps to
+reduce the risk of recurrence of breast cancer in these patients.
+This led the National Institutes of Health consensus recommend adjuvant chemotherapy for most patients which decreased the mortality of breast cancer patients.20 Given the low
+relative risk of recurrence and partial chemotherapy effectives,
+
+
+
+
+
+especially in patients with HER2-negative breast cancer,
+which was found to be a viable alternative. Phase III
+ELEGANT study is the ﬁrst prospective, randomized, openlabel clinical trial to compare the safety proﬁle of epirubicin
+and cyclophosphamide (EC) with docetaxel and cyclophosphamide (TC). The study ﬁrst reported similar efﬁcacy results
+of EC and TC with no signiﬁcant difference in survival,
+providing favorable evidence for chemotherapy regimens in
+patients with node-negative low-risk luminal breast cancer.
+A meta-analysis of 37 298 patients from 26 clinical trials
+included by the EBCTCG compared the efﬁcacies of dosedense and standard chemotherapy regimens. The latest
+analysis of the data revealed that dose-dense regimen (every
+2 weeks) containing taxanes could lower the recurrence rate
+(24.0% vs 28.3%) and reduce breast cancer mortality (16.8%
+vs 19.6%) as against the standard regimen (every 3 weeks).
+Dose-dense chemotherapy could improve the long-term survival beneﬁt of patients with early high-risk breast cancer and
+shorten the duration of treatment. Studies are required to
+evaluate the usefulness of dose-dense chemotherapy approach
+in HR-positive early breast cancer settings. Currently, dosedense chemotherapy has been incorporated into the domestic
+and foreign guidelines as routine postoperative adjuvant
+chemotherapy for high-risk patients. Notably, the dose-dense
+regimen breaks the balance between efﬁcacy and safety to
+some extent, and this trade-off puts higher demands on
+clinicians.
+
+HER2-Positive Breast Cancer
+In recent years, a growing number of studies have begun to
+explore whether anthracyclines can be avoided without affecting prognosis of breast cancer patients, considering their
+high toxicity and adverse effects. This approach was ﬁrst
+initiated in low-risk HER2-positive early breast cancer patients. The HERTC study exploring the TCH (docetaxel +
+cyclophosphamide + trastuzumab) regimen in HER2-positive
+early breast cancer patients found that 2-year DFS rate was
+100% and 98.1% in axillary node-negative patients with tumor
+diameters of <1 cm and 1.1–2.0 cm, respectively. This study
+conﬁrms the efﬁcacy of TCH regimen as adjuvant therapy for
+HER2-positive breast cancer patients.28 The single-arm APT
+study explored the efﬁcacy and safety of adjuvant paclitaxel
+plus TH in patients with node-negative, early HER2-positive
+breast cancer with tumors smaller than 3 cm. Propensity-score
+matching (PSM) showed that patients who received TH and
+non-paclitaxel chemotherapy had similar invasive DFS
+(IDFS) (96.5% vs 92.9%) and OS (99.3% vs 97.4%) as those
+who received paclitaxel and TH, although the incidence of
+adverse reactions was lower in the latter group.For the
+purpose of reducing impact of adverse reactions on patients
+and improve the quality of life, chemotherapy “subtraction”
+on the premise of ensuring the efﬁcacy has gradually started to
+show advantages.
+
+
+
+Adjuvant Targeted Therapy
+Adjuvant targeted therapy that targets molecular pathways
+was used to reduce the risk of recurrence especially in HER2positive breast cancer patients.30 Approximately 20%–30% of
+breast cancer tumors overexpress or amplify HER2.31 This
+molecular subtype is highly aggressive and malignant and
+contributes to high rates of metastasis and mortality.32 Anti
+HER-2 monoclonal antibody TH was shown to improve DFS
+(84%) and OS (92%) in HER2-positive early breast cancer
+patients when used in combination with chemotherapy in
+adjuvant settings.33 Earlier TH was the only anti-HER2 drug
+available but in the past 20 years, landscape of HER2-targeted
+drugs has been constantly evolving. This led to the emergence
+of new drugs such as pertuzumab, lapatinib, trastuzumab
+emtansine (T-DM1), and trastuzumab deruxtecan (DS8201)
+that have signiﬁcantly improved the therapeutic effect and
+prognosis of HER2-positive breast cancer patients.34
+APHINITY study found that the addition of pertuzumab to
+TH and chemotherapy decreases the recurrence rate (7.1% vs
+8.7%, P = 0. 045) and prolongs the IDFS (94.1% vs 93.2%) in
+early HER2-positive breast cancer patients.35 This study establishes the role of dual-targeted therapy in the standard of
+care for HER2-positive breast cancers. A subsequent update
+on the APHINITY study published the data of 8.4-year
+follow-up that showed an OS hazard ratio (HR) of .83 (95%
+CI: .68–1.02; P = .078) with an 8-year OS rate of 92.7% vs
+92.0% for single-targeted vs dual-targeted therapy, respectively. The updated IDFS HR was .77 (95% CI: .66–.91), and
+the node-positive (N+) cohort IDFS HR was .72 (95% CI: .60–
+.87). Updated study results suggested that IDFS beneﬁt from
+pertuzumab was maintained in HER2-positive early breast
+cancer, while patients with node-positive breast cancer were
+beneﬁted more from dual-targeted therapy.36
+The ExteNET multi-center, randomized, double-blind
+phase III clinical trial enrolled 2840 HER2-positive early
+breast cancer patients treated with trastuzumab in combination
+with neoadjuvant/adjuvant chemotherapy. Intensive adjuvant
+therapy with neratinib initiated in HR-positive in ≤1 year
+showed signiﬁcantly improved outcomes in terms of 5-year
+IDFS (7.4%) and 8-year OS (9.1%) with fewer central nervous
+system adverse events.
+ATEMPT study enrolled 497 patients with stage I HER2positive breast cancer patients who were randomized to receive either the trastuzumab regimen or trastuzumab emtansine monotherapy for 1 year. The results indicated 1 year of
+adjuvant trastuzumab emtansine was associated with excellent
+3-year iDFS. The number of recurrent events was lower in the
+trastuzumab emtansine group with a 3-year IDFS rate of
+97.8% and relapse-free survival (RFS) rate of 99.2%. Although clinically relevant toxicities were not signiﬁcantly
+reduced, it is suggested that adjuvant targeted therapy without
+chemotherapy can serve as an alternative to taxane-based
+trastuzumab regimen without compromising efﬁcacy.
+With the advent of antibody drug conjugates, adjuvant
+
+
+
+therapy options for treating early HER2-positive breast cancer
+patients have become enriched.39 Evolution of HER2-targeted
+therapies for patients with HER2-positive breast cancer is an
+important milestone in breast cancer treatment and enables
+clinicians to design more beneﬁcial personalized treatments.
+
+Adjuvant Endocrine Therapy
+HR-positive breast cancer is the most common subtype of breast
+cancer mostly diagnosed with early-stage disease. Optimization
+of adjuvant systemic therapy has the potential to exert a broad
+impact on the treatment of HR-positive early breast cancer patients. Currently, adjuvant therapy for early-stage HR-positive
+breast cancer includes endocrine therapy, with or without
+chemotherapy.40,41 Endocrine therapy had long been recognized
+as a powerful and important adjuvant treatment for women with
+HR-positive early-stage breast cancer. In 1982, adjuvant tamoxifen given for 2 years was shown to reduce the risk of recurrence. Subsequently, several randomized clinical trial data
+have established the beneﬁts of ovarian function suppression
+(OFS), tamoxifen, and aromatase inhibitors (AIs) alone or in
+combination with other agents. The survival beneﬁts of endocrine therapy for a minimum of 5 years in stage I through III preand postmenopausal women with HR-positive breast cancer
+were further conﬁrmed by meta-analyses studies which assessed
+multiple clinical trial data. In postmenopausal women, AIs were
+shown to be more effective while in patients with higher-stage/
+risk disease, prolonged adjuvant therapy for up to 10 years was
+reported to be useful. Ovarian suppression plus an AI was shown
+to be more beneﬁcial than tamoxifen in premenopausal women
+with HR-positive breast cancer. Recent trials evaluating adjuvant
+endocrine therapy with CDK-4/-6 inhibitors show marked survival beneﬁts in combination with endocrine therapy in high- and
+intermediate-risk HR-positive early breast cancer patients.2,42
+The development and clinical practice of endocrine therapy
+has further enabled the improvement of clinical outcomes and
+lowered the risk of relapse and mortality and also reduces the
+burden of overtreatment in breast cancer patients.
+
+HR-Positive/HER2-Negative Breast Cancer
+Seventy percent of breast cancers belong to HR-positive and
+human epidermal growth HER2-negative subtype at initial
+diagnosis.43-45 Since metastatic recurrence of HR-positive
+breast cancer is associated with high mortality, researchers
+are constantly exploring new and more effective drugs targeting endocrine-related pathways in addition to standard
+treatment regimens. According to the ATAC study, a 5-year AI
+therapy signiﬁcantly increased DFS and decreased the chance
+of recurrence compared to a 5-year tamoxifen treatment in
+postmenopausal individuals (HR 0.81; 95% CI, 0.67–0.98;
+P = 0.03), demonstrating the importance of AI as a standard
+adjuvant therapy for postmenopausal early breast cancer.46 As
+a result of intensive clinical research on CDK4/6 inhibitors for
+early breast cancer, abemaciclib in combination with
+
+Cancer Control
+
+endocrine therapy was approved by the US Food and Drug
+Administration (FDA)for the adjuvant treatment of HRpositive, HER2-negative, node-positive, early breast cancer
+patients at a high risk of recurrence and patients with a Ki-67
+score ≥20%.47,48
+The UNIRAD study assessed 2-year efﬁcacy of mammalian target of rapamycin (mTOR) inhibitor everolimus in
+combination with adjuvant endocrine therapy vs endocrine
+therapy alone (AI or tamoxifen based on physician’s choice) in
+1278 patients with ER+/HER2-early breast cancer.49 The
+study was suspended due to a high discontinuation rate of
+53.4% in the everolimus group and 22.3% in the placebo
+group, even before the ﬁrst planned interim analysis. This
+emphasizes the necessity for drugs provided in combination
+with endocrine therapy in patients with early breast cancer to
+have long-term tolerability. An oral PI3Kα-selective inhibitor,
+alpelisib, showed a 7.9-month numeric improvement in median OS when alpelisib was added to fulvestrant treatment in
+PIK3CA-mutated, HR-positive, HER2-negative advanced
+breast cancer patients in SOLAR-1 trial.50 Alpelisib in
+combination with fulvestrant is the ﬁrst drug to be approved by
+the FDA for the treatment of PIK3CA-mutated advanced or
+metastatic breast cancer patients,51 and the efﬁcacy of alpelisib
+in ER-positive early breast cancer patients remains to be
+explored. CoopERA study, which provided the ﬁrst clinical
+evidence of oral selective ER degraders (SERDs) in early ERpositive/HER2-negative breast cancer, compared giredestrant
+with anastrozole in neoadjuvant settings. This study found
+that, giredestrant treatment resulted in further reduction of
+Ki67 expression from baseline compared to anastrozole
+( 81%; 95% CI,
+86%,
+75% vs
+74%; 95%
+CI, 80%, 67%).52 Several large adjuvant trials comparing
+oral SERDs with standard endocrine therapy have been
+initiated.53,54 Superior clinical potential of these drugs will be
+reﬂected by their rapid transition for the treatment of earlystage disease prior to approval of advanced breast cancer.
+At the same time, the optimal regimens for applicable
+population of endocrine therapy are constantly being explored. Results from an 8-year follow-up of the MINDACT
+trial showed that, more locoregional recurrences and contralateral breast cancer were observed in patients with stage I
+low-risk breast cancer who did not receive adjuvant endocrine
+therapy (4.7% and 4.6% in patients receiving no adjuvant
+systemic therapy vs 1.4% and 1.5% in patients receiving only
+endocrine therapy). Overall, signiﬁcantly fewer breast cancer
+events were observed in patients receiving adjuvant endocrine
+therapy, although the effect of endocrine therapy on the distant
+metastasis-free interval was limited. A recent propensitymatched study compared survival differences between patients with weakly ER-positive early breast cancer who did not
+receive endocrine therapy and those who received 2–3 years or
+5 years of endocrine therapy. No signiﬁcant differences in 5year DFS rates between the 2–3-year group and the 5-year
+group were observed after a median follow-up of 65 months
+(HR .82; 95% CI, .51–1.33; P = .43). Short-term adjuvant
+
+
+
+endocrine therapy for 2–3 years may serve as an alternative to
+the standard 5-year adjuvant endocrine therapy for patients
+with weakly ER-positive early breast cancer.
+
+HR-Positive/HER2-Positive Breast Cancer
+HR-positive and HER2-positive breast cancer is a unique
+subtype and differs from other subtypes in clinical behavior,
+molecular function, signaling pathway, and treatment sensitivity. Optimal endocrine therapeutic approach for HRpositive/HER2-positive breast cancer remains controversial.57 The currently recommended adjuvant therapy for HRpositive/HER2-positive breast cancer is anti-HER2 targeted
+therapy in combination with chemotherapy followed by endocrine therapy. The SYSUCC-002 trial studied the efﬁcacy
+and safety of TH in combination with endocrine therapy or
+chemotherapy as ﬁrst-line treatment in patients with HRpositive/HER2-positive metastatic breast cancer. A median
+progression-free survival (PFS) of 19.2 months (95% CI:
+16.7–21.7) in the endocrine therapy arm and 14.8 months
+(12.8–16.8) in the chemotherapy arm (hazard ratio of . 95%
+CI: .71–1.09; P non-inferiority <.0001) was observed. Trastuzumab plus endocrine therapy was found to be non-inferior
+to trastuzumab plus chemotherapy, and a signiﬁcantly higher
+incidence of toxicity was observed in the chemotherapy arm
+than the endocrine therapy arm.59 Still there is a lack of
+relevant evidence on the adjuvant therapy of early breast
+cancer, but for low-risk patients who do not need chemotherapy, or those who need chemotherapy but have issues in
+tolerability, endocrine therapy in combination with targeted
+therapy can be considered.
+
+Adjuvant Bone-Modifying Agent
+In recent years, the value of the third-generation bisphosphonates in bone protection and treatment of breast
+cancer bone metastasis have been gradually explored. In 2022,
+the American Society of Clinical Oncology (ASCO) introduced guidelines for adjuvant therapy of bone-modifying
+agents in early breast cancer. It highlighted that, despite the
+EBCTCG meta-analysis ﬁnding advantages for bisphosphonates in all subgroups of postmenopausal early
+breast cancer patients, the beneﬁt was rather marginal.60
+EBCTCG meta-analysis found highly signiﬁcant reductions
+in recurrence (rate ratio [RR] 0.86; 95% CI 0.78–0.94; P =
+0.002), distant recurrence (RR 0.82; 95% CI 0.74–0.92; P =
+0.0003), bone recurrence (RR 0.72; 95% CI 0.60–086; P =
+0.0002), and breast cancer mortality (RR 0.82; 95% CI 0.73–
+0.93; P = 0.002) in postmenopausal women while in premenopausal women the treatment had no apparent effect on any
+outcome.61 Basic studies have shown that bisphosphonates can
+inhibit proliferation of breast cancer cells and induce apoptosis
+and have anti-angiogenic properties in terms of anti-tumor
+capacity, with direct anti-tumor effects.62-65 Of these, zoledronic acid was identiﬁed to be the most potent
+
+
+
+bisphosphonate. Several studies have established the antitumor status of zoledronic acid in the treatment of early breast
+cancer as it may reduce the risk of recurrence and improve OS.
+Zoledronic acid was recommended by the 2022 ASCO
+guidelines for adjuvant therapy in early breast cancer patients.
+Regardless of molecular typing, anti-tumor effects of zoledronic acid in breast cancer patients have been demonstrated
+by several randomized, open-label, phase III studies. The
+ABCSG-12 trial enrolled 1800 premenopausal patients with
+HR-positive early breast cancer who received zoledronic acid
+combined with endocrine therapy. This trial showed an absolute increase in DFS rate of 3.4% (88.4% vs 85.0%), improved OS rate (96.7% vs 94.5%), and a 23% reduction in the
+risk of relapse (HR = .77; 95% CI, .60–.99, P = .042), when
+compared with endocrine therapy alone.67 The AZURE study
+analyzed the efﬁcacy of zoledronic acid in combination with
+adjuvant systemic therapy in 3360 women with breast cancer
+(all molecular subtypes included). In postmenopausal patients,
+systemic therapy combined with zoledronic acid reduced the
+risk of disease recurrence by 18% (HR = .82; 95% CI, .67–
+1.00), the risk of developing invasive disease by 22% (HR =
+.78; 95% CI, .64–.94), and the risk of death by 31% (HR = .69;
+95% CI, .50–.94; P = .019).68 The results of ZO-FAST study,
+which enrolled 1065 HR-positive postmenopausal early breast
+cancer patients, made comparative efﬁcacy evaluation between early zoledronic acid plus endocrine therapy and delayed zoledronic acid plus endocrine therapy. The ﬁndings
+showed that the early use of zoledronic acid increased DFS
+(HR = .66; 95% CI, .44–.97; P = .0375) and decreased the risk
+of disease recurrence by 34% as compared to delayed use (P <
+.05).69 SWOG S0307 showed no difference in efﬁcacy between oral clodronic acid and oral ibandronic acid with zoledronic acid in the adjuvant therapy of early breast cancer,
+despite an increased rate of osteonecrosis of the jaw with
+zoledronic acid.70
+Studies exploring the efﬁcacy of denosumab, an antireceptor activator of nuclear factor-κB ligand (RANKL)
+monoclonal antibody, in the adjuvant therapy of breast cancer
+have also reached the study endpoints in recent years. An international, double-blind, randomized, placebo-controlled
+phase III trial, D-CARE, enrolled 4509 breast cancer patients
+to receive either denosumab (120 mg) or matching placebo,
+starting with neoadjuvant or adjuvant chemotherapy. Primary
+analysis showed that bone metastasis-free survival was not
+signiﬁcantly different between the treatment groups. According
+to this study, RANKL inhibition might delay bone metastases in
+early breast cancer patients but did not enhance disease-related
+outcomes for high-risk early breast cancer patients.71
+Another prospective, double-blind, placebo-controlled
+phase III clinical study (ABCSG-18) explored the efﬁcacy
+of denosumab in adjuvant settings for breast cancer. Longterm follow-up demonstrated that denosumab (60 mg) improved DFS and OS, with an absolute difference of 5.4% in
+DFS at 11 years, and an improvement rate by 17% in risk of
+progressive disease (HR = .83; 95% CI, .71–.97; P = .02),
+
+
+
+compared to placebo. Further statistical analysis showed
+signiﬁcant OS beneﬁt, with the risk of death decreased by 26%
+(HR = .74; 95% CI, .58–.94; P = .013).52 Conﬂicting results of
+these 2 studies call into question the anti-tumor efﬁcacy of
+denosumab in early breast cancer patients. Therefore, denosumab is not currently recommended for adjuvant therapy of
+early breast cancer and requires further evaluations.
+
+Adjuvant Intensive Therapy Following
+Neoadjuvant Therapy
+Presence of residual disease after neoadjuvant therapy indicates
+the existence of partial treatment resistance in the tumor. After
+neoadjuvant therapy, achieving a pathologic complete response is
+associated with better prognosis in breast cancer patients. Additional anti-cancer treatments might help breast cancer patients
+with residual disease after neoadjuvant chemotherapy.72 Many
+post-neoadjuvant therapy trials evaluating additional chemotherapy with different agents, bisphosphonates, and poly ADPribose polymerase inhibitors (PARPi) have been conducted.
+Results of KATHERINE study revealed that 14 cycles of
+adjuvant intensive T-DM1 therapy after surgery further improved iDFS in the T-DM1 group compared to the TH group
+(88.3% vs 77.0%; HR = .50, 95% CI, .39–.64; P < .0001) in
+HER2-positive breast cancer patients who did not achieve
+pCR after neoadjuvant therapy.73 CREATE-X study showed
+that postoperative administration of 6–8 cycles of capecitabine
+could signiﬁcantly improve 5-year DFS and OS, with good
+safety and tolerable toxicity in triple-negative breast cancer
+patients failing to achieve pCR.74 The OlympiA study was
+designed to evaluate the efﬁcacy and safety of olaparib and
+placebo as adjuvant therapy after standard of care for patients
+with germline BRCA (gBRCA)-mutated, HER2-negative
+early breast cancer at a high risk for recurrence. Results revealed that adjuvant intensive therapy with olaparib signiﬁcantly improved 3-year distant DFS (87.5% vs 80.4%; P <
+.001) and reduced mortality after 1 year (3.21% vs 4.68%; P =
+.02).75 The interim analysis of KEYNOTE-522 revealed that
+patients with triple-negative breast cancer who had been
+treated with PD-1 inhibitors in the neoadjuvant settings, regardless of their pCR status after surgery, had a lower risk of
+distant recurrence after continued use of PD-1 inhibitors for
+1 year.76 DESTINY-Breast05 explored the efﬁcacy and safety
+of ADC drug DS8201 vs T-DM1 in adjuvant intensive therapy
+of HER2-positive breast cancer with neoadjuvant non-pCR,
+with the primary endpoint of investigator-assessed IDFS.
+Although the study is still ongoing, DS8201-based ADC drugs
+have shown breakthrough efﬁcacy in the past. Hence, this
+study is expected to show improvement in the cure rate and
+further redeﬁne its standard of care for HER2-positive breast
+cancer patients. Several interesting strategies are currently
+being evaluated in the post-neoadjuvant setting and a precise
+understanding on tumor characteristics will improve adjuvant
+intensive therapy strategies.
+
+Cancer Control
+
+Future Prospects
+Postoperative adjuvant therapy is a key part of the comprehensive breast cancer treatment. Standardized adjuvant therapy might help in the possibility of early breast cancer cure,
+signiﬁcantly prolonging the survival time and reducing the
+risk of recurrence. The commonly used anthracyclines for
+adjuvant therapy serve potential survival beneﬁts for early
+breast cancer patients but their long-term cytotoxicity led
+researchers to seek alternative therapeutic approaches. Different treatment initiatives have been studied for different
+breast cancer types. In the absence of standard chemotherapy
+for HR-positive early breast cancer, dose-density chemotherapy has shown promise but the equilibrium between efﬁcacy and safety cannot be maintained, which poses a
+concern. Meanwhile, targeted therapy with monoclonal antibody demonstrated equal as well as superior efﬁcacy and
+safety.
+Single and dual-targeted antibody therapies showed
+promise in the last 2 decades and are also constantly
+evolving. It also remains as a milestone in personalized
+breast cancer treatment approaches. Endocrine therapy also
+showed improved clinical outcomes which can be useful in
+negating high-toxicity proﬁles of anthracyclines. Recently,
+PARPi therapy exhibited signiﬁcant beneﬁts in postneoadjuvant intensive therapy settings. Consistent alternative measures have been taken so far in reducing the
+toxicities by adjuvant chemotherapy using anthracyclines.
+Hence, further studies should be encouraged to test the
+clinical outcomes of anthracycline-free regimens including
+different types of early breast cancer patients to identify
+their beneﬁts and shortcomings. Moreover, studies on
+personalized adjuvant treatment approaches using advanced diagnostic tools to accurately identify the breast
+cancer type should be given additional consideration since
+early breast cancer detection and clinical management are
+highly important in eradicating further recurrences. With
+the deeper scientiﬁc understanding on the mechanism of
+breast cancer occurrence and development, and the continuous clinical trial investigations on new drugs and
+treatment regimens, adjuvant therapy for breast cancer will
+improve the therapeutic effect, thus bringing more survival
+beneﬁts to early breast cancer patients.

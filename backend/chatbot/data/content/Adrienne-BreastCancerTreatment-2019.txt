@@ -1,0 +1,777 @@
+https://jamanetwork.com/journals/jama/article-abstract/2721183
+
+Cadherins and catenins in breast cancer
+Pamela Cowin, Tracey M Rowlands and Sarah J Hatsell
+Recent studies show that cadherins and catenins are
+hormonally regulated and carry out physiological roles during
+mammary development but have pathological effects when
+deregulated. E-cadherin expression is irreversibly lost in
+invasive lobular breast cancer (ILC). Animal models of ILC
+provide mechanistic insight, confirming that E-cadherin serves
+as both a tumor suppressor and an invasion suppressor in ILC.
+Ductal breast cancer involves complex, reversible, epigenetic
+modulation of multiple cadherins. Transcriptional regulators of
+E-cadherin have been identified that induce epithelial-tomesenchymal transitions. Catenins are lost or mislocalized in
+tumors lacking cadherins. However, b-catenin signaling is
+upregulated by numerous pathways in >50% of breast tumors
+and animal models suggest its oncogenic function in breast
+relates to its role in mammary progenitor cell expansion.
+Addresses
+Departments of Cell Biology and Dermatology, New York University
+School of Medicine, New York, New York 10016 USA
+Corresponding author: Cowin, Pamela (cowinp01@med.nyu.edu)
+
+Current Opinion in Cell Biology 2005, 17:499–508
+This review comes from a themed issue on
+Cell-to-cell contact and extracellular matrix
+Edited by Inke S Näthke and W James Nelson
+Available online 16th August 2005
+0955-0674/$ – see front matter
+# 2005 Elsevier Ltd. All rights reserved.
+DOI 10.1016/j.ceb.2005.08.014
+
+Introduction
+Breast cancer is the most frequent malignancy in women.
+Though most breast cancers are benign and curable by
+surgery, one-quarter have a latent and insidious character,
+growing slowly but metastasizing early. Current therapies
+delay tumor progression significantly, but recurrence is
+inevitable, resulting in high mortality rates. The seeds of
+breast cancer cell behavior are sown in their origin.
+Embryonic mammary cells are imbued with motile and
+invasive properties, and cell movement and changes in
+cell contact characterize mammary development
+(Figure 1) [1].
+Mammary ducts and alveoli, which form cyclically during
+pregnancy, are bilayered epithelial structures enclosing a
+central lumen (Figure 2). Lumenal cells adhere to one
+another via E-cadherin, which is also required for mammary cell survival [2,3]. Myoepithelial cells surround
+www.sciencedirect.com
+
+the lumenal layer and adhere to one another via Pcadherin. P-cadherin / mice undergo precocious mammary development [4], which suggests that loosening of
+myoepithelial cell junctions triggers ductal branching,
+possibly by allowing lumenal cells or basal/intermediate
+progenitors greater access to basement membrane signals.
+Desmosomal cadherins, desmogleins (Dsg) and desmocollins (Dsc) interconnect the lumenal and myoepithelial
+layers and are critical for establishing this bilayered
+arrangement [5]. H-cadherin is expressed in normal mammary ducts, and cadherin 11 (OB-cadherin) and N-cadherin are found in mammary tumor cell lines but have
+unknown expression patterns in the normal gland [6–9].
+All these proteins have documented roles in breast cancer. This review focuses on the contributions of cadherins
+and their associated catenins to this disease.
+
+E-cadherin and breast cancer
+The association between loss or downregulation of Ecadherin and the progression of sporadic breast cancer has
+been extensively documented. Both irreversible and
+reversible mechanisms are at play and the prevalence
+of each is related to the histological subtype. E-cadherin
+expression is irreversibly lost in >85% of invasive lobular
+breast cancers (ILCs). This results from loss of heterozygosity (LOH) at 16q22.1, involving the E-cadherin
+gene CDH1 (>50%), frequently in combination with
+mutation (50%) or epigenetic silencing of the remaining
+CDH1 allele [10–12]. The 15% of ILCs that retain Ecadherin expression show non-polarized mislocalization,
+suggesting that adhesion is dysfunctional [11]. The diffuse growth patterns and loss of cellular coherence that
+characterize ILCs are in keeping with early studies on
+breast cancer cell lines, which correlated low E-cadherin
+expression with invasive properties, defining E-cadherin
+as an invasion-suppressor gene [13,14]. The prevalence of
+E-cadherin loss in non-invasive precursor lesions known
+as lobular carcinomas in situ (LCIS) suggests that Ecadherin is a tumor- as well as an invasion-suppressor.
+However, the tumor-suppressor role of E-cadherin is not
+completely clarified, as CDH1 germ-line mutations confer only a slight increase in breast cancer risk and are
+rarely present in familial breast cancer [11,12]. In mice,
+conditional deletion of one E-cadherin allele in lumenal
+cells or basal/intermediate cells has no effect and homozygous inactivation results in apoptosis rather than tumorigenesis [2,3]. However, K14-cre-mediated deletion of
+both E-cadherin and p53 leads to survival of E-cadherinnegative cells, resulting in tumors that recapitulate features of ILC. This mouse model provides important
+insight into the cell type from which ILC originates
+and the mechanisms by which the two most frequent
+Current Opinion in Cell Biology 2005, 17:499–508
+
+500 Cell–to–cell contact and ECM
+
+Figure 1
+
+Embryonic and adult development in mouse mammary gland. Around embryonic day 10 (E10), mammary cells migrate along bilateral epidermal
+thickenings called milk lines and coalesce at intervals to form placodes. Placode signals specify the underlying mammary mesenchyme, which
+reciprocates, inducing epithelial invasion to form the mammary buds (E13). Parathyroid related protein (PTHrP) and Lef1 induce sprouting and
+branching, resulting in formation of the mammary rudiment. The gland stays quiescent until puberty when estrogen and growth hormone (GH)
+stimulate stromal IGF-1 to induce proliferation of cap cells within the terminal end buds, producing rapid ductal elongation. In early pregnancy,
+progesterone receptor (PR) and Wnt 4 stimulate side branching. Alveologenesis occurs in mid to late pregnancy and is controlled by b-catenin,
+C/EBP, Stat5, prolactin (PRL), cyclin D1 and RANKL. At the cessation of lactation, involution is mediated by MMPs, Stat3 and IGF binding
+protein (IGBP) and the gland undergoes remodeling to resemble a virgin gland.
+
+genetic events in human breast cancer (i.e. loss of p53 and
+loss of E-cadherin) contribute to tumor initiation and
+progression [3].
+LOH at 16q also occurs in 50% of the more common
+ductal breast cancers. In contrast to ILC, ductal tumors
+lack mutations in the remaining CDH1 allele and show
+highly variable E-cadherin expression. Where E-cadherin
+levels are reduced, this is caused by epigenetic silencing
+via promoter hypermethylation or transcriptional repression [11,12]. Reports are conflicted as to the usefulness
+of E-cadherin expression as an independent prognostic
+indicator in ductal breast cancer. In general, retention of
+Current Opinion in Cell Biology 2005, 17:499–508
+
+E-cadherin expression correlates with well-differentiated, non-invasive properties [11]. However, E-cadherin
+expression is retained in inflammatory breast cancer, an
+extremely aggressive sub-type [15]. Also, derivative
+metastases frequently show strong E-cadherin expression
+[16]. One emerging opinion is that dynamic, reversible
+modulation of E-cadherin occurs during ductal carcinoma
+progression. Reduced E-cadherin expression favors dissemination, but regaining expression favors survival and
+reattachment of metastases. Downregulation of Dsc3 or
+of desmosomal plaque proteins has been reported in
+poorly differentiated and invasive ductal carcinomas
+[17,18]. Thus desmosomes may also suppress metastasis.
+www.sciencedirect.com
+
+Cadherins and catenins in breast cancer Cowin, Rowlands and Hatsell 501
+
+Figure 2
+
+Structure of the terminal end bud and duct. (a) Diagram of a terminal end bud showing the major pathways involved in ductal extension during
+puberty. Estrogen and growth hormone (GH) promote ductal extension by stimulating estrogen receptor (ER)/growth hormone receptor
+(GHR)-positive stromal cells surrounding the terminal end bud to produce insulin-like growth factor (IGF-1). IGF-1 induces the proliferation of
+the cap cells. Macrophages stimulated by colony stimulating factor 1 (CSF1) are required for ductal elongation. (b) A cross-section through the
+mammary duct, showing adherens junctions containing P-cadherin between myoepithelial cells and E-cadherin between luminal epithelial cells.
+Desmosomal cadherins link the two cell types. Basal/intermediate cells, which are a putative stem/progenitor population, are also indicated.
+
+Cadherin regulation
+The complexities of the intracellular pathways that regulate cadherin expression are not yet fully understood,
+but several key transcription factors with significant roles
+in breast cancer have been identified (Figure 3). The
+zinc-finger transcription factors Snail, SLUG, ZEB1(@EF1) and smad-interacting protein (SIP-1) bind to
+one of three E-boxes in the E-cadherin promoter and
+repress expression [19,20,21]. In cancer, Snail upregulation is associated with the epithelial-to-mesenchymal
+transition (EMT) and correlates with disappearance of
+adherens junctions, profound morphological changes, and
+enhanced migratory and invasive capabilities [22]. In
+keeping with its role as a transcriptional repressor, upregulation of Snail has been correlated with advanced, dedifferentiated tumors lacking E-cadherin expression [22].
+However, another study in breast cancer cell lines suggested that presence of the related factor Slug correlates
+www.sciencedirect.com
+
+more strongly than Snail with lack of E-cadherin [19].
+Other negative regulators of E-cadherin include b-catenin, Kaiso, E12/E47 and Twist. Twist upregulation correlates with E-cadherin downregulation in metastatic
+breast tumor cell lines and invasive lobular carcinomas
+[23]. Suppression of Twist reduced intravasation of
+metastatic tumor cells without affecting their proliferation or survival. The activation of these transcription
+factors in cancer is likely to be a remnant of their roles
+as master regulators of EMT during development. However, reintroduction of E-cadherin to cells that have
+undergone Twist-induced EMT failed to rectify the
+phenotype, suggesting the essential involvement of additional Twist target genes in this event [23].
+Upstream of these transcriptional changes, TGF-b, which
+is upregulated in E-cadherin-negative carcinomas, has
+been shown to activate SIP-1 and Snail and to stimulate
+Current Opinion in Cell Biology 2005, 17:499–508
+
+502 Cell–to–cell contact and ECM
+
+Figure 3
+
+Early non-invasive tumor cells express epithelial markers such as E-cadherin. Induction of regulators of the epithelial-to-mesenchymal transition
+(EMT), such as Twist, SIP, Slug and Snail, repress E-cadherin transcription in cancer cells, causing downregulation of other adhesive epithelial
+markers. Mesenchymal markers such as N-cadherin are induced in these cancer cells. This leads to a less adhesive, more motile cell morphology
+that allows local invasion, intravasation and subsequent metastasis.
+
+EMT in cultured mammary cells [24,25]. In these cells,
+TGF-b represses E-cadherin and also upregulates Ncadherin by a mechanism that is yet to be defined.
+However, although these changes in cadherin expression
+accompany the morphological EMT, they do not cause it
+[24]. Activation of HER2/neu (ErbB2) represses E-cadherin transcription, leading to EMT in human mammary
+epithelial cells, while EGFR, Ep-CAM and MUC-1/episialin inactivate E-cadherin by disrupting its association
+with the cytoskeleton [1].
+Several studies have shown that steroid hormones regulate cadherins. A connection between estrogen and both
+N- and E-cadherin expression has long been postulated
+from in vivo studies, and an imperfect estrogen response
+element may be involved in upregulation of E-cadherin
+transcription by estrogen [26]. Estrogen receptor (ER)
+indirectly stimulates estrogen-dependent expression of
+metastatic tumor antigen 3 (MTA3), a component of Mi2/NuRD, a nucleosome-remodeling and deacetylation
+complex; in turn, MTA3 transcriptionally represses Snail
+[27]. Thus, estrogen is proposed to maintain epithelial
+architecture by constraining Snail repression of E-cadherin [27]. These studies suggest a mechanistic link
+Current Opinion in Cell Biology 2005, 17:499–508
+
+between ER-negative status and loss of E-cadherin, leading to EMT and tumor invasion, and provide an explanation for the poor prognosis of ER- negative breast cancers.
+Collectively, these data begin to explain the mechanisms
+that may connect cadherins with other key prognosticators in breast cancer; it is likely that many more interdependencies will be revealed.
+
+Cadherin switching
+Several studies on human breast cancer cell lines have
+delved into the functional consequences of differential
+cadherin expression. Though early studies correlated low
+E-cadherin expression with invasive properties, other
+studies have found that increased N-cadherin and cadherin-11 levels are more closely associated with invasion,
+motility and metastasis of breast cancer cells [7–9].
+Forced expression of E-cadherin in such cell lines failed
+to rectify their invasive phenotype, revealing a dominant
+role for N-cadherin. The effects of N-cadherin are linked
+to its association with FGFR-1 [7,8]. Hazan and colleagues demonstrated that N-cadherin stabilizes FGFR-1,
+thereby sensitizing breast cancer cells to FGF2 stimulation, which results in sustained activation of the MAPK
+pathway and increased expression of matrix-metalloprowww.sciencedirect.com
+
+Cadherins and catenins in breast cancer Cowin, Rowlands and Hatsell 503
+
+teinase (MMP)-9 [28]. N-cadherin additionally facilitates
+invasion and metastasis by promoting tumor cell affinity
+for stromal and endothelial cells [6,8,28]. These studies
+provided a compelling picture of the potential consequences of an E- to N-cadherin switch; however, the
+incidence of this switch in breast tumors and the pathological consequences remained uncertain. Recent studies
+suggested that no phenotypic or pathological consequence results from MMTV-N-cadherin misexpression
+in the mammary glands of wild-type mice or in the
+MMTV-HER2/neu tumorigenesis model [29]. However,
+Hazan and colleagues have found a strong association
+between N-cadherin expression and progression of the
+highly invasive micropapillary carcinoma of breast [30].
+Other reports have found stronger correlations between
+misexpression of P-cadherin and breast cancer progression [31]. P-cadherin expression is associated with high
+histological grade of ER-negative ductal carcinoma in situ
+(DCIS) and invasive carcinomas [31]. By contrast, misexpression of MMTV-P-cadherin in luminal epithelial
+cells had no effect in wild-type or MMTV-HER2/neu
+mice [32]. Thus, although the clinical correlations
+between P-cadherin expression and cancer progression
+appear to be robust, the mechanistic connection has not
+yet been determined.
+One question raised by the analyses of breast cancer cell
+lines is whether the expression of multiple cadherins
+represents a pathological cause or effect or instead results
+from the expansion of a particular cell lineage. Though Ecadherin and P-cadherin are restricted to lumenal cells
+and myoepithelial cells respectively, several studies suggest these cell types can interconvert in vitro and derive
+from a common progenitor [33]. Thus, breast cell lines
+expressing multiple cadherins may represent transformed
+populations of bipotent stem progenitors.
+
+Catenins
+Cadherins associate with catenins, which connect the
+adhesion complex to the actin cytoskeleton [1]. In addition to facilitating adhesion, catenins have important roles
+in many signaling pathways. Junctional catenin expression is often lost in cadherin-negative breast cancer and
+changes in catenin phosphorylation may compromise
+adhesion in cadherin-positive cancers. For example,
+a-catenin is downregulated more often than E-cadherin
+in breast cancer and correlates with poor prognosis [34].
+Alternatively-spliced isoforms of p120 catenin bind to the
+juxtamembrane domain of E-cadherin and influence cell
+adhesion, either positively or negatively. Membrane localization of p120 is reduced in many ductal carcinomas and
+becomes predominantly cytoplasmic in the majority of
+LCIS and invasive lobular carcinomas, correlating with
+loss of E-cadherin [35]. p120 isoform 1 is associated with
+a motile cell phenotype and is increased upon loss of
+E-cadherin and induction of N-cadherin [35]. p120 also
+www.sciencedirect.com
+
+binds to and inhibits the function of Kaiso, a BTB/POZ
+zinc finger transcription repressor. Kaiso target genes
+include E-cadherin, MMP7, MTA2 and the non-canonical Wnt-11. Nuclear Kaiso was seen at the periphery of
+some breast adenocarcinomas and cytoplasmic staining
+colocalizing with p120 was seen in the center of the tumor
+[36]. Cytoplasmic p120 could function to sequester
+Kaiso, leading to target gene derepression.
+b-catenin has critical roles in morphogenesis and human
+cancer, through its dual function in adhesive complexes
+and as a transducer/transcriptional regulator in numerous
+signal transduction pathways, including the canonical
+Wnt pathway [1]. In mice, it has long been known that
+misexpression of Wnt-1, Wnt-3 or Wnt-10b induces mammary adenocarcinomas [37]. These ‘transforming’ Wnts
+increase b-catenin signaling in mammary cell lines, suggesting their proto-oncogenic effects could be conveyed
+by the canonical b-catenin pathway [37]. Consistent with
+this view, the APCMin mouse shows an enhanced incidence (10%) of spontaneous mammary cancer and greatly
+increased susceptibility (90%) to carcinogen-induced
+mammary cancer [38]. Mutations in b-catenin’s N-terminal destruction box are found in mouse mammary tumors
+induced by 1,3-butadiene [39]. The findings that
+MMTV-DN89b-catenin induces adenocarcinomas and
+that K5-DN57b-catenin induces basal-type carcinomas
+in mouse mammary gland show that stabilized b-catenin
+is oncogenic in both lumenal and basal/intermediate cell
+types within breast [40,41].
+In human breast cancers, there are many reports of
+inactivation of negative regulators of the Wnt pathway
+and of amplification or overexpression of positively acting
+pathway components (Figure 4). DVL-1, encoding
+Disheveled (Dsh), a downstream Wnt activator, is amplified and upregulated in 50% of ductal breast cancers [42].
+FRP1/FRZB, which is located at 8p11–21 and encodes
+frizzled-related protein 1 (Frp1), a secreted Wnt inhibitor,
+is frequently deleted. Frp1 expression is repressed or
+absent in 80% of malignant breast carcinomas, making
+it one of the most frequent alterations in breast cancer
+[43]. Axin, which destabilizes b-catenin, is downregulated
+in a small percentage of breast cancers [44]. AXIN2 maps
+to 17q23–q24, which shows frequent LOH in breast
+cancer [45]. The APC gene is subject to LOH (23–
+40%), mutation (6–18%) and hypermethylation, resulting
+in loss of expression in 36–50% of breast tumors [46–48].
+Stabilizing N-terminal b-catenin mutations have not
+been found in breast cancer. However, eight studies have
+reported b-catenin upregulation in human breast tumors
+and two have correlated this feature, in association with
+other markers, with poor clinical outcome [42,44,46,49–
+51,52,53]. In addition to the potential for Wnt-dependent upregulation of b-catenin detailed above, it is well
+documented that b-catenin stability is regulated by
+Current Opinion in Cell Biology 2005, 17:499–508
+
+504 Cell–to–cell contact and ECM
+
+Figure 4
+
+A diagram of the signaling pathways acting on b-catenin (shown in red) that are involved in breast cancer. The most studied of these is the
+Wnt pathway, which stabilizes b-catenin by inhibiting its N-terminal phosphorylations and ubiquitination. This allows b-catenin to accumulate,
+enter the nucleus and derepress Lef/Tcf target genes. Other factors also stabilize b-catenin, such as Pin-1 and IKKa. p53, which is commonly
+mutated in breast cancer, promotes b-catenin degradation through activation of either GSK3b or the Skp/Siah/Ebi complex. PTEN decreases
+b-catenin signaling by inhibiting the PI3K pathway, which stabilizes b-catenin by inactivating GSK3b. TGFb has complex effects on b-catenin.
+It can reduce signaling by inhibiting Lef/Tcfs through NLK or co-activate target genes through Smads.
+
+Current Opinion in Cell Biology 2005, 17:499–508
+
+www.sciencedirect.com
+
+Cadherins and catenins in breast cancer Cowin, Rowlands and Hatsell 505
+
+numerous Wnt-independent mechanisms. Many of the
+key proteins in these pathways (PTEN, ILK, IKKa,
+IKKb, Pin1 and p53) are deregulated or mutated in a
+significant proportion of sporadic and inherited breast
+cancer [1]. For example, Pin1, which is upregulated in
+80% of breast cancers, stabilizes b-catenin by inhibiting its
+association with APC [50,54]. PTEN and p53 mutations
+underlie Cowden’s and Li Fraumeni syndromes, respectively, which are associated with increased predisposition
+to breast cancer. b-catenin and p53 (the most frequently
+mutated gene in sporadic breast cancer) reciprocally regulate one another in a complex fashion. b-catenin upregulates p53, and p53 destabilizes b-catenin, via both GSK3b-dependent and Siah-dependent mechanisms [55,56].
+One gene expression study has reported b-catenin upregulation concomitant with downregulation of both Siah
+and Axin in 30% of tumors [44]. Another study has shown
+that a population with increased b-catenin and p53 has a
+significantly worse clinical outcome [52]. Thus, a significant synergism exists between p53 and b-catenin in
+breast cancer, which has recently been confirmed by the
+development of a mouse model [57].
+Several studies have correlated increased b-catenin with
+upregulation of its target genes [49,50]. Of these targets,
+cyclin D1 and c-myc are upregulated in a significant
+proportion (40%) of breast cancers, while Twist is strongly
+associated with invasive properties, E-cadherin is a breast
+tumor suppressor and CD44 has been identified as a
+breast cancer stem cell marker [58]. Thus b-catenin
+has the potential to be a master regulator of many known
+prognostic indicators of breast cancer.
+An important question is how b-catenin’s function in
+mammary development relates to its role in breast cancer.
+Canonical Wnt/b-catenin pathways are critical for both
+embryonic and adult mammary development. Embryonic
+mammary buds activate Tcf/Lef target genes and fail to
+form or elongate in mice where Wnt/b-catenin signaling is
+blocked by expression of Dikkopf (Dkk) or by loss of Lef1 [59–61]. Expression of Axin or of a dominant-negative
+repressor of b-catenin signaling (b-eng) inhibits alveologenesis during pregnancy [40,62,63]. A connection
+between development and breast cancer is suggested
+by the phenotype of the MMTV-DN89b-catenin mice.
+MMTV-DN89b-catenin induces precocious alveologenesis in virgin mice that rapidly develops into adenocarcinomas [40]. Significantly, these hyperplasias and tumors
+are enriched in cells displaying stem/progenitor attributes
+[40,64–67]. These progenitors accrue when differentiation is blocked by the absence of cyclin D1 and tumors
+form more rapidly. Thus, tumor incidence correlates
+proportionally with the number of stem/progenitor cells
+in these mice [64]. These studies add to an increasing
+number of reports showing that organs in which b-catenin
+causes tumors correspond to those in which it has a role in
+stem or progenitor cell renewal.
+www.sciencedirect.com
+
+Recent data have provided evidence that some human
+breast tumors are formed by cancer stem cells (CSCs)
+expressing CD44, a known b-catenin target gene [58].
+This study found that only CD44-expressing cells (which
+make up <1% of the tumor) are capable of regenerating
+tumors when transplanted into murine mammary fatpads. These cells regenerate the full spectrum of cell
+types found in the original tumor and thus display classical stem cell features, being capable of self-renewal and
+generating differentiated progeny. A stem cell origin
+would explain the latency and high rates of remission
+associated with breast cancer. Stem cells are predisposed
+to accumulate mutations and their mitotic quiescence
+and expression of multi-drug resistance transporters, such
+as BRCP-1, permit them to export and elude anti-mitotic
+chemotherapeutic agents. Stem cells and CSCs, however,
+are not necessarily synonymous. Data from the hematopoietic system have suggested that CSCs may derive
+from lineage-limited progenitors that gain self-renewal
+capacity during transformation in a b-catenin-dependent
+manner. The accumulation of alveolar progenitors in
+the MMTV-DN89b-catenin mouse and their predisposition to develop tumors is entirely consistent with this
+scenario.
+
+Conclusions
+Recent studies have provided important mechanistic
+insights into the roles of cadherins and catenins in breast
+cancer. Animal models have confirmed the causative role
+for E-cadherin in ILC suggested by earlier studies on
+breast cancer cell lines. The importance of misexpression
+of N- and P-cadherin has been revealed by their experimental misexpression in breast cells and by analysis of
+their expression in breast tumors. Transcriptional regulators of E-cadherin that can act as master controllers of
+the EMT have been identified. Connections between
+hormones and cadherin and catenin function have provided important insights into breast cancer. b-catenin
+upregulation has proven to be a frequent event in breast
+tumors and animal models link its oncogenic potential to
+the expansion of mammary progenitor populations. Identification of the cell types that undergo b-catenin-dependent self-renewal in breast during mammary
+development and those that can acquire this behavior
+during transformation remains an important future
+imperative.
+
+References and recommended reading
+Papers of particular interest, published within the annual period of
+review, have been highlighted as:
+ of special interest
+ of outstanding interest
+1.
+
+
+Hatsell S, Rowlands TR, Hiremath M, Cowin P: The role of
+b-catenin and Tcfs in mammary development and
+neoplasia. Journal of Mamary Gland Biology and Cancer 2003,
+8:143-156.
+This review provides further background on b-catenin in mammary
+development.
+Current Opinion in Cell Biology 2005, 17:499–508
+
+506 Cell–to–cell contact and ECM
+
+2.
+
+Boussadia O, Kutsch S, Hierholzer A, Delmas V, Kemler R:
+E-cadherin is a survival factor for the lactating mouse
+mammary gland. Mech Dev 2002, 115:53-62.
+
+3.
+
+
+Derkson P, Liu X, Evers B, Zenvenhoven J, Peterse HL, Cardiff RD,
+Vink J, Krimpenfort P, Berns A, Jonkers J: Somatic inactivation of
+E-cadherin and p53 leads to metastatic lobular breast cancer.
+2005.
+This paper describes an important mouse model of ILC produced by
+conditional deletion of E-cadherin and p53 using K14-cre. K14-cre
+targets myoepithelial cells and basal/intermediate cells. As the former
+do not express E-cadherin it is likely that the tumors that arise, which
+express lumenal cytokeratins, derive from the basal/intermediate progenitors. Abrogation of p53 permits the E-cadherin-null cells to escape
+apoptosis and form highly invasive tumors that recapitulate several
+stages of tumor progression.
+4.
+
+Radice G, Ferreira-Cornwall C, Robinson SD, Rayburn H,
+Chodosh LA, Takeichi M, Hynes RO: Precocious mammary
+gland development in P-cadherin-deficient mice. J Cell Biol
+1997, 139:1025-1032.
+
+5.
+
+Runswick SK, O’Hare MJ, Jones L, Streuli CH, Garrod DR:
+Desmosomal adhesion regulates epithelial morphogenesis
+and cell positioning. Nat Cell Biol 2001, 3:823-830.
+
+6.
+
+Hazan RB, Kang L, Whooley BP, Borgen PI: N-cadherin
+promotes adhesion between invasive breast cancer cells and
+the stroma. Cell Adhes Commun 1997, 4:399-411.
+
+7.
+
+Nieman MT, Prdoff RS, Johnson KR, Wheelock MJ: N-cadherin
+promotes motility in human breast cancer cells regardless of
+their E-cadherin expression. J Cell Biol 1999, 147:631-644.
+
+8.
+
+Hazan RB, Phillips GR, Qiao RF, Norton L, Aaronson SA:
+Exogenous expression of N-cadherin in breast cancer cells
+induces cell migration, invasion and metastasis. J Cell Biol
+2000, 148:779-790.
+
+9.
+
+Pishvaian MJ, Feltes CM, Thompson P, Bussemakers MJ,
+Schalken JA, Byers SW: Cadherin-11 is expressed in
+invasive breast cancer cell lines. Cancer Res 1999,
+59:947-952.
+
+10. Berx G, Cleton-Jansen AM, Nollet F, de Leeuw WJ,
+van de Vijver M, Cornelisse C, van Roy F: E-cadherin is a
+tumour/invasion suppressor gene mutated in human lobular
+breast cancers. EMBO J 1995, 14:6107-6115.
+11. Berx G, Van Roy F: The E-cadherin/catenin complex: an
+important gatekeeper in breast cancer tumorigenesis
+and malignant progression. Breast Cancer Res 2001,
+3:289-293.
+12. Cleton-Jansen AM: E-cadherin and loss of heterozygosity at
+chromosome 16 in breast carcinogenesis: different genetic
+pathways in ductal and lobular breast cancer? Breast Cancer
+Res 2002, 4:5-8.
+13. Frixen UH, Behrens J, Sachs M, Eberle G, Voss B, Angelika W,
+Lochner D, Birchmeier W: E-Cadherin-mediated cell–cell
+adhesion prevents invasiveness of human carcinoma cells.
+J Cell Biol 1991, 113:173-185.
+14. Vleminckx K, Vakaet LJ, Mareel M, Fiers W, van Roy F: Genetic
+manipulation of E-cadherin expression by epithelial tumor
+cells reveals an invasion suppressor role. Cell 1991,
+66:107-119.
+15. Charafe-Jauffret E, Tarpin C, Bardou VJ, Bertucci F, Ginestier C,
+Braud AC, Puig B, Geneix J, Hassoun J, Birnbaum D et al.:
+Immunophenotypic analysis of inflammatory breast cancers:
+identification of an ‘inflammatory signature’. J Pathol 2004,
+202:265-273.
+16. Kowalski PJ, Rubin MA, Kleer CG: E-cadherin expression in
+primary carcinomas of the breast and its distant metastases.
+Breast Cancer Res 2003, 5:R217-R222.
+17. Klus GT, Rokaeus N, Bittner ML, Chen Y, Korz DM, Sukumar S,
+Schick A, Szallasi Z: Down-regulation of the desmosomal
+cadherin desmocollin 3 in human breast cancer. Int J Oncol
+2001, 19:169-174.
+18. Sommers CL, Gelmann EL, Kemler R, Cowin P, Byers SW:
+Alterations in b-catenin phosphorylation and plakoglobin
+Current Opinion in Cell Biology 2005, 17:499–508
+
+expression in human breast cancer cells. Cancer Res 1994,
+54:3544-3552.
+19. Hajra KM, Chen DY, Fearon ER: The SLUG zinc-finger protein
+represses E-cadherin in breast cancer. Cancer Res 2002,
+62:1613-1618.
+20. Eger A, Aigner K, Sonderegger S, Dampier B, Oehler S,
+
+Schreiber M, Berx G, Cano A, Beug H, Foisner R: DeltaEF1 is
+a transcriptional repressor of E-cadherin and regulates
+epithelial plasticity in breast cancer cells. Oncogene 2005,
+24:2375-2385.
+This paper and [19,21,22] provide important reports of transcriptional
+repressors that participate in epigenetic silencing of E-cadherin in breast
+tumors.
+21. Batlle E, Sancho E, Franci C, Dominguez D, Monfar M, Baulida J,
+Garcia De Herreros A: The transcription factor snail is a
+repressor of E-cadherin gene expression in epithelial tumour
+cells. Nat Cell Biol 2000, 2:84-89.
+22. Blanco MJ, Moreno-Bueno G, Sarrio D, Locascio A, Cano A,
+Palacios J, Nieto MA: Correlation of Snail expression with
+histological grade and lymph node status in breast
+carcinomas. Oncogene 2002, 21:3241-3246.
+23. Yang J, Mani SA, Donaher JL, Ramaswamy S, Itzykson RA,
+ Come C, Savagner P, Gitelman I, Richardson A, Weinberg RA:
+Twist, a master regulator of morphogenesis, plays an
+essential role in tumor metastasis. Cell 2004,
+117:927-939.
+This paper demonstrates that twist is essential for intravasation of
+metastatic mammary carcinoma cells. Twist mediates this by promoting
+EMT through loss of E-cadherin-mediated cell adhesion.
+24. Maeda M, Johnson KR, Wheelock MJ: Cadherin switching:
+essential for behavioral but not morphological changes during
+an epithelium-to-mesenchyme transition. J Cell Sci 2005,
+118:873-887.
+25. Comijn J, Berx G, Vermassen P, Verschueren K, van Grunsven L,
+Bruyneel E, Mareel M, Huylebroeck D, van Roy F: The twohanded E box binding zinc finger protein SIP1 downregulates
+E-cadherin and induces invasion. Mol Cell 2001, 7:1267-1278.
+26. Rowlands TM, Symonds JM, Farookhi R, Blaschuk OW:
+Cadherins: crucial regulators of structure and function in
+reproductive tissues. Rev Reprod 2000, 5:53-61.
+27. Fujita N, Jaye DL, Kajita M, Geigerman C, Moreno CS, Wade PA:
+MTA3, a Mi-2/NuRD complex subunit, regulates an invasive
+growth pathway in breast cancer. Cell 2003, 113:207-219.
+28. Suyama K, Shapiro I, Guttman M, Hazan RB: A signaling pathway
+leading to metastasis is controlled by N-cadherin and the FGF
+receptor. Cancer Cell 2002, 2:301-314.
+29. Knudsen KA, Sauer C, Johnson KR, Wheelock MJ: Effect of
+N-cadherin misexpression by the mammary epithelium in
+mice. J Cell Biochem 2005, 95:1093-1107.
+30. Nagi C, Guttman M, Jaffer S, Qiao R, Keren R, Triana A, Li M,
+ Godbold J, Bleiweiss IJ, Hazan RB: N-cadherin expression in
+breast cancer: correlation with an aggressive histological
+variant-invasive micropapillary carcinoma. 2005.
+Together with [31], this paper provides evidence that upregulation of Ncadherin and P-cadherin occurs in significant proportions and subsets of
+breast tumors.
+31. Kovacs A, Walker RA: P-cadherin as a marker in the differential
+ diagnosis of breast lesions. J Clin Pathol 2003, 56:139-141.
+See annotation to [30].
+32. Radice GL, Sauer CL, Kostetskii I, Peralta Soler A, Knudsen KA:
+Inappropriate P-cadherin expression in the mouse mammary
+epithelium is compatible with normal mammary gland
+function. Differentiation 2003, 71:361-373.
+33. Peterson OW, Gudjonsson T, Villadsen R, Bissell MJ,
+Ronnov-Jessen L: Epithelial progenitor cell lines as models
+of normal breast morphogenesis and neoplasia. Cell Prolif
+2003, S1:33-44.
+34. Rimm DL, Sinard JH, Morrow JS: Reduced a-catenin and
+E-cadherin expression in breast cancer. Lab Invest 1995,
+72:506-512.
+www.sciencedirect.com
+
+Cadherins and catenins in breast cancer Cowin, Rowlands and Hatsell 507
+
+35. Sarrio D, Perez-Mies B, Hardisson D, Moreno-Bueno G, Suarez A,
+
+Cano A, Martin-Perez J, Gamallo C, Palacios J: Cytoplasmic
+localization of p120ctn and E-cadherin loss characterize
+lobular breast carcinoma from preinvasive to metastatic
+lesions. Oncogene 2004, 23:3272-3283.
+
+[35 ] and [36] provide the first reports of aberrant p120 and Kaiso
+expression in breast tumors. They show concurrent loss or cytoplasmic
+relocalization of p120 upon E-cadherin loss in lobular tumors.
+
+50. Ryo A, Nakamura M, Wulf G, Liou YC, Lu KP: Pin1 regulates
+turnover and subcellular localization of b-catenin by
+inhibiting its interaction with APC. Nat Cell Biol 2001,
+3:793-801.
+
+36. Soubry A, van Hengel J, Parthoens E, Colpaert C, Van Marck E,
+
+Waltregny D, Reynolds AB, van Roy F: Expression and nuclear
+location of the transcriptional repressor Kaiso is regulated
+by the tumor microenvironment. Cancer Res 2005,
+65:2224-2233.
+See annotation to [35].
+
+52. Chung GG, Zerkowski MP, Ocal IT, Dolled-Filhart M, Kang JY,
+ Psyrri A, Camp RL, Rimm DL: b-Catenin and p53 analyses of
+a breast carcinoma tissue microarray. Cancer 2004,
+100:2084-2092.
+This paper examines a large cohort of breast tumors by immunohistochemistry and shows that increased levels of b-catenin together with
+increased p53 predicts poor outcome. Intriguingly, b-catenin is elevated
+at the membrane and cytoplasm.
+
+37. Brennan KR, Brown AM: Wnt proteins in mammary
+
+development and cancer. J Mammary Gland Biol Neoplasia
+2004, 9:119-131.
+This review, together with [1], provides further background on Wnt/bcatenin in mammary development.
+38. Moser AR, Luongo C, Gould KA, McNeley MK, Shoemaker AR,
+Dove WF: ApcMin: a mouse model for intestinal and mammary
+tumorigenesis. Eur J Cancer 1995, 31A:1061-1064.
+39. Zhuang SM, Wiseman RW, Soderkvist P: Frequent mutations of
+the Trp53, Hras1 and b-catenin (Catnb) genes in 1,3butadiene-induced mammary adenocarcinomas in B6C3F1
+mice. Oncogene 2002, 21:5643-5648.
+40. Imbert A, Eelkema R, Jordan S, Feiner H, Cowin P: DN89
+b-catenin induces precocious development, differentiation,
+and neoplasia in mammary gland. J Cell Biol 2001,
+153:555-568.
+41. Teuliere J, Faraldo MM, Deugnier MA, Shtutman M, Ben-Ze’ev A,
+ Thiery JP, Glukhova MA: Targeted activation of b-catenin
+signaling in basal mammary epithelial cells affects mammary
+development and leads to hyperplasia. Development 2005,
+132:267-277.
+This paper shows that b-catenin is also oncogenic when expressed in
+basal cells of the mammary gland.
+42. Nagahata T, Shimada T, Harada A, Nagai H, Onda M, Yokoyama S,
+Shiba T, Jin E, Kawanami O, Emi M: Amplification, up-regulation
+and over-expression of DVL-1, the human counterpart of the
+Drosophila disheveled gene, in primary breast cancers. Cancer
+Sci 2003, 94:515-518.
+43. Ugolini F, Charafe-Jauffret E, Bardou VJ, Geneix J, Adelaide J,
+Labat-Moleur F, Penault-Llorca F, Longy M, Jacquemier J,
+Birnbaum D et al.: WNT pathway and mammary carcinogenesis:
+loss of expression of candidate tumor suppressor gene SFRP1
+in most invasive carcinomas except of the medullary type.
+Oncogene 2001, 20:5810-5817.
+44. Roh MS, Hong SH, Jeong JS, Kwon HC, Kim MC, Cho SH,
+Yoon JH, Hwang TH: Gene expression profiling of breast
+cancers with emphasis of b-catenin regulation. J Korean Med
+Sci 2004, 19:275-282.
+45. Mai M, Qian C, Yokomizo A, Smith DI, Liu W: Cloning of the
+human homolog of conductin (AXIN2), a gene mapping to
+chromosome 17q23–q24. Genomics 1999, 55:341-344.
+46. Jonsson M, Borg A, Nilbert M, Andersson T: Involvement of
+adenomatous polyposis coli (APC)/b-catenin signalling in
+human breast cancer. Eur J Cancer 2000, 36:242-248.
+47. Furuuchi K, Tada M, Yamada H, Kataoka A, Furuuchi N, Hamada J,
+Takahashi M, Todo S, Moriuchi T: Somatic mutations of the
+APC gene in primary breast cancers. Am J Pathol 2000,
+156:1997-2005.
+48. Virmani AK, Rathi A, Sathyanarayana UG, Padar A, Huang CX,
+Cunnigham HT, Farinas AJ, Milchgrub S, Euhus DM, Gilcrease M
+et al.: Aberrant methylation of the adenomatous polyposis
+coli (APC) gene promoter 1A in breast and lung carcinomas.
+Clin Cancer Res 2001, 7:1998-2004.
+49. Lin SY, Xia W, Wang JC, Kwong KY, Spohn B, Wen Y,
+Pestell RG, Hung MC: b-catenin, a novel prognostic marker
+for breast cancer: its roles in cyclin D1 expression and
+cancer progression. Proc Natl Acad Sci USA 2000,
+97:4262-4266.
+www.sciencedirect.com
+
+51. Lim SC, Lee MS: Significance of E-cadherin/b-catenin
+complex and cyclin D1 in breast cancer. Oncol Rep 2002,
+9:915-928.
+
+53. Schlosshauer PW, Brown SA, Eisinger K, Yan Q, Guglielminetti ER,
+Parsons R, Ellenson LH, Kitajewski J: APC truncation and
+increased b-catenin levels in a human breast cancer cell line.
+Carcinogenesis 2000, 21:1453-1456.
+54. Wulf G, Ryo A, Liou YC, Lu KP: The prolyl isomerase Pin1
+ in breast development and cancer. Breast Cancer Res 2003,
+5:76-82.
+This review highlights recent papers showing the overexpression of Pin1
+in 90% of grade III breast cancers and the strong correlation of this with
+cytoplasmic and nuclear expression of b-catenin and with increased
+levels of downstream targets such as cyclin D1.
+55. Sadot E, Geiger B, Oren M, Ben-Ze’ev A: Down-regulation
+of b-catenin by activated p53. Mol Cell Biol 2001,
+21:6768-6781.
+56. Matsuzawa SI, Reed JC: Siah-1, SIP, and Ebi collaborate in a
+novel pathway for b-catenin degradation linked to p53
+responses. Mol Cell 2001, 7:915-926.
+57. Ridgeway AG, McMenamin J, Leder P: P53 levels determine
+outcome during b-catenin tumor initiation and metastasis
+in the mammary gland and male germ cells. Oncogene 2005,
+in press.
+58. Al-Hajj M, Wicha MS, Benito-Hernandez A, Morrison SJ,
+ Clarke MF: Prospective identification of tumorigenic
+breast cancer cells. Proc Natl Acad Sci USA 2003,
+100:3983-3988.
+This paper describes the isolation of a specific population of breast
+cancer cells that have stem cell characteristics using several cell surface
+markers, including the b-catenin target gene CD44.
+59. Andl T, Reddy ST, Gaddapara T, Millar SE: WNT signals are
+required for the initiation of hair follicle development.
+Dev Cell 2002, 2:643-653.
+60. van Genderen C, Okamura RM, Farinas I, Quo R-G, Parslow TG,
+Bruhn L, Grosschedl R: Development of several organs
+that require inductive epithelial–mesenchymal interactions
+is impaired in Lef-1-deficient mice. Genes Dev 1994,
+8:2691-2704.
+61. Chu EY, Hens J, Andl T, Kairo A, Yamaguchi TP, Brisken C,
+Glick A, Wysolmerski JJ, Millar SE: Canonical WNT signaling
+promotes mammary placode development and is essential for
+initiation of mammary gland morphogenesis. Development
+2004, 131:4819-4829.
+62. Hsu W, Shakya R, Costantini F: Impaired mammary gland and
+lymphoid development caused by inducible expression of Axin
+in transgenic mice. J Cell Biol 2001, 155:1055-1064.
+63. Tepera SB, McCrea PD, Rosen JM: A b-catenin survival signal is
+
+required for normal lobular development in the mammary
+gland. J Cell Sci 2003, 116:1137-1149.
+This paper, together with [40,62], provides important evidence that bcatenin controls breast alveologenesis.
+64. Rowlands TR, Pechenkina I, Hatsell SJ, Pestell RG, Cowin P:
+ Dissecting the roles of b-catenin and cyclin D1 during
+mammary development and neoplasia. Proc Natl Acad Sci USA
+2003, in press.
+
+[64 –67] provide important proof of the hypothesis put forth in [1] that
+b-catenin predisposes the mammary gland to breast cancer by increasing the number of mammary progenitors.
+Current Opinion in Cell Biology 2005, 17:499–508
+
+508 Cell–to–cell contact and ECM
+
+65. Li Y, Welm B, Podsypanina K, Huang S, Chamorro M,
+ Zhang X, Rowlands T, Egeblad M, Cowin P, Werb Z et al.:
+Evidence that transgenes encoding components of the
+Wnt signaling pathway preferentially induce mammary
+cancers from progenitor cells. Proc Natl Acad Sci USA 2003,
+100:15853-15858.
+See annotation to [64].
+66. Liu BY, Kim YC, Leatherberry V, Cowin P, Alexander CM:
+ Mammary gland development requires syndecan-1 to create a
+
+Current Opinion in Cell Biology 2005, 17:499–508
+
+b-catenin/TCF-responsive mammary epithelial
+subpopulation. Oncogene 2003, 22:9243-9253.
+See annotation to [64].
+67. Liu BY, McDermott SP, Khwaja SS, Alexander CM: The
+ transforming activity of Wnt effectors correlates with
+their ability to induce the accumulation of mammary
+progenitor cells. Proc Natl Acad Sci USA 2004,
+101:4158-4163.
+See annotation to [64].
+
+www.sciencedirect.com
+
+

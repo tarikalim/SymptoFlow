@@ -1,0 +1,274 @@
+
+
+Abstract
+The clinical and pathological features of 51 patients who
+survived for more than 20 years after diagnosis of cancer
+of the breast were compared with those of 176 contemporaries who died within 20 years after diagnosis.
+Of those who survived, 18 (35%) had had pathologically
+affected axillary nodes compared with at least 86 (49%)
+of those who died. Also, 11 (21%) of the survivors had
+had small tumours compared with 10 (6%) of those who
+died. Pathological review of tumours in the survivors
+showed 40 (78%) to have been infiltrating ductal
+carcinomas, of which 13 (32%) were grade 3 lesions.
+These differences between the two groups were largely
+due to the prognostic value of these variables in the first
+five years after diagnosis. After a patient had survived
+five years the major prognostic variables were of little
+value in the prediction of which patients would be cured
+of breast cancer. Advanced age, which was of little
+prognostic value in the first five years after diagnosis,
+was of significant prognostic value in the longer term,
+partly due to the steep age gradient for mortality from
+other diseases. Nevertheless, seven of 19 deaths more than
+20 years after first treatment were due to breast cancer.
+Late deaths from breast cancer may, however, have
+often been the result of metastases from second primaries rather than the late manifestationof micrometastases
+from the original primary carcinoma.
+Age, menstrual state, clinical stage, and axillary nodes
+being affected are thus of some prognostic value in
+cancer of the breast, but the present inadequacy of
+knowledge of the behaviour of the disease makes accurate
+prediction of which patients will be cured impossible.
+
+On reviewing the original histological slides we found that three
+survivors had had benign lesions (sclerosing papilloma, epithelial
+hyperplasia, and sclerosing adenosis). They were excluded from the
+study. We also excluded nine patients with in situ carcinomas. This
+left a total study population of 227 patients with histologically confirmed invasive breast cancer (tumour node metastasis (TNM) stages
+1,2,3) who were treated in this unit from 1 January 1939 to 31 December 1961. From the unit's notes we sought age at diagnosis, duration of
+symptoms, stage and location of tumour, family history, method of
+treatment, duration of survival, and cause of death. In addition,
+details of menstrual state at diagnosis, marital state, and parity were
+obtained. Menstrual state was deemed to be unknown in those who
+had had a hysterectomy and were aged under 55. In patients who had
+survived 20 years the original pathological slides were reviewed to
+confirm the diagnosis, type the tumour, and grade the infiltrating
+ductal carcinomas, using the system devised by Bloom and Richardson.2
+Standard life table methods were used in the analysis in addition
+to Student's t test and Yates's corrected x2 values for 2 x 2 tables.
+In life table analyses with three or more groups all x2 values are for
+trend across group and should be referred to the x2 distribution with
+one degree of freedom.3 No allowance for natural mortality was
+made in computing expected values.
+
+Introduction
+
+Results
+
+Cancer of the breast, unlike many other forms of cancer, may
+result in metastasis decades after the original diagnosis
+and treatment. Brinkley and Haybittle have, however, shown
+that the subgroup of women who remain free from the disease
+for 20 years after treatment have a subsequent survival that is
+similar to that of a normal population matched for age.1 This
+suggests that the disease has been eradicated in most patients
+within this group. Nevertheless, despite the survival curves
+being apparently parallel, the women in the "cured" cohort
+still have a greatly increased risk of dying of breast cancer
+when compared with the normal population.
+We analysed the records of all patients with clinically nondisseminated invasive cancer of the breast at first presentation
+who had received their primary treatment from this unit before
+31 December 1961. Complete follow up was available for all
+
+Of the 227 patients, 51 (220 0) survived for more than 20 years
+from the date of first treatment. Seven of these 51 patients, however,
+subsequently developed a recurrence or died of breast cancer more
+than 20 years after treatment. Of the 176 who died within 20 years,
+26 had apparently done so from causes other than breast cancer
+without evidence of recurrence, but we did not attempt in the analyses
+below to separate these women from those who died of breast cancer.
+As table I shows, more of the survivors at 20 years had had tumours
+at clinical stage 1 and a greater proportion of those who died had had
+lesions at stage 3 (X2 =916; p=0 002). Interestingly, however, 10
+(200') of the survivors had presented with stage 3 tumours. Most of
+the prognostic importance of clinical stage was associated with nodal
+state, and a more careful examination of this factor 
+showed that clinical nodal state was an important predictor of survival
+to five years (p <0 00001) but that it was of no value whatsoever after
+
+recur or
+
+these patients. Information was sought concerning the clinical
+and pathological features of each patient so that a comparison
+could be made between the group who survived for more than
+20 years without recurrence or metastasis and those who died
+before this time. The object of the study was to identify those
+features observable at first presentation that predicted a
+favourable long term prognosis. In addition, the value of known
+"short term" prognostic indicators in predicting long term
+survival was also assessed.
+Patients and methods
+
+A similar but less striking picture was seen when size of tumour
+was considered (fig 2 and table II). This also had a considerable
+effect in predicting survival in the first five yers after diagnosis
+(x2 =43; p<O-OOO1). A smaller effect was seen from five to 10 years
+after first treatment (X2 =8 16; p =0 0003), and the association was no
+longer significant from 10 to 20 years (X2=-15; not significant) and
+was non-existent after 20 or more years (x2 =0 01; not significant).
+A different pattern of time dependence was seen for age. At first
+presentation the average age of the survivors was 47 7 years compared
+with 53-2 for those who died within 20 years. The difference of 5-5
+years was significant (t =3495; p =00007). In contrast with nodal
+state and size of tumour, the effect of age became manifest only on
+long term follow up (fig 3, table II). Age at diagnosis had no material
+effect on survival in the first five years, a weak and non-significant
+effect after five to 10 years (X2= 106; p=0-15), but a strong effect
+after 10 to 20 years (x2 =1314; p=00003). No further effect was
+seen after 20 years but this may have been due to the small numbers.
+Results of histological examination of axillary lymph nodes were
+available for 48 (94%) of the survivors. Of these, 18 (35%) had had
+confirmed metastatic tumour within the lymph nodes. In contrast,
+axillary lymph node state was known in 125 of 133 women who had
+been treated by radical mastectomy and died within 20 years. Lymph
+nodes were pathologically affected in 86 (49°h) of these 176 women
+
+(XI 12=90; p=0 0004). This was almost certainly an underestimate
+of the number of women who died in whom axillary nodes were
+affected as in most patients not receiving radical mastectomy the
+nodes were irradiated and not removed because the tumours were
+advanced.
+Of the survivors, five (10%) had a first degree relative with breast
+cancer compared with 22 (13%) of those who died (X2=0-08; not
+significant), suggesting that a genetic predisposition did not enhance
+or diminish the probability of long term survival.
+We assessed the effect of a history of previous breast surgery for
+non-malignant disorders. Preceding benign breast disease had been
+diagnosed in three survivors (6%) and 18 (10%) of those who died
+(X2=0 45) and thus did not have a significant prognostic effect.
+Tables III, IV, V, and VI show, respectively, methods of treatment,
+duration of symptoms before first presentation to the clinic, location
+of primary tumours, and histological type and grade of tumour for
+those who survived and those who died within 20 years. None of
+these variables differed significantly between the two groups.
+Of the patients who survived, 35 (69%) had been premenopausal at
+presentation compared with 71 (40%) of those who died (X2= 116;
+p= 00006). When the survivors were subdivided, on the basis of
+their menopausal state, there was a similar distribution of clinical and
+pathological stages among those who were premenopausal and those
+who were postmenopausal. Furthermore, grades of tumour were
+similarly equally distributed between the two subgroups. Stages of
+tumour were also equally divided among premenopausal and postmenopausal women who died. Although premenopausal patients may
+develop tumours that are intrinsically less malignant, or possibly may
+mount a more effective host response to their tumours, the above
+
+Our study showed that 51 (22%) of this unit's patients with
+clinically localised invasive breast cancers survived for 20 years
+from the time of diagnosis. Their survival was not related to
+the site of the tumour, duration of symptoms, previous benign
+breast disease, family history, parity, or lactation. Although
+size of tumour and axillary nodal state were significant prognostic
+variables, their contribution was almost completely confined to
+prediction of survival for five years. Thereafter, these variables
+did not affect survival, so that one quarter of the long term
+survivors had tumours greater than 5 cm in diameter and one
+third had pathologically affected axillary nodes. In addition,
+grade of tumour did not appear to be a long term prognostic
+indicator as 13 (25%) of the survivors had grade 3 infiltrating
+ductal carcinomas compared with 43 (24%) of those who died.
+The age and menstrual state of the patient at presentation
+had a prognostic value independent of tumour stage and grade.
+Although premenopausal patients may develop tumours that
+are intrinsically less malignant or possibly mount a more
+effective response to their tumour, these differences were more
+likely to have been due to natural mortality, as the importance
+of age manifests itself 10 years or more after the initial diagnosis.
+Similar findings were reported in the studies of Langlands and
+Kerr5 and of Pocock et al,6 who analysed the survival of 3878
+patients treated by simple mastectomy and radiotherapy. When
+cases were subdivided by clinical stage and size of tumour there
+was a non-proportional hazard with time, resulting in a decay
+of the prognostic ability of clinical stage.
+Our findings refute the hypothesis that there are two distinct
+variants of breast cancer-namely, one that remains locally
+
+invasive and another that metastasises and is therefore incurable 7
+18 (350o) of our survivors had had histologically confirmed
+axillary metastases. Adair also reported a 300o incidence of
+axillary nodes being affected in cured patients.8 Trials of
+aggressive treatment to the axilla either by surgery or radiotherapy do not, however, suggest that this substantially affects
+survival, at least over the short term.
+None of the survivors had received any form of systemic
+adjuvant treatment-that is, no attempt had been made to
+destroy putative micrometastases. The non-appearance of
+clinical metastases during the ensuing 20 years of complete
+follow up suggested that axillary metastases were not invariably
+associated with dissemination of disease. Based on our figures,
+if entry to trials of adjuvant cytotoxic chemotherapy had been
+dictated by the presence of axillary node metastases (found in
+
+-as
+
+concentration was raised at 3-92 mmol/I (15-7 mg/100 ml), fell transiently
+after treatment with intravenous saline, but rose again to 3-66 mmol/l
+(14-6 mg/100 ml) despite continuous rehydration for 19 days.
+Case 2-A 32 year old woman underwent renal transplantation three
+months before presentation. Radiographs and serum alkaline phosphatase
+activity showed no evidence of bone disease, but 14 months previously she
+had received lax-hydroxycholecalciferol for hyperparathyroid bone disease.
+Renal function was stable (creatinine clearance 38 ml/min), and immunosuppression was maintained with azathioprine and prednisolone. One
+month after transplantation she developed cough and dyspnoea, subsequently
+attributed to cytomegalovirus infection, and required assisted ventilation for
+four weeks. She then developed a generalised grade II limb weakness due
+to a peripheral motor neuropathy. Power returned gradually over the
+subsequent two months, but serum calcium concentration rose to 3-54
+mmol/l (14 mg/100 ml) despite adequate hydration and treatment with
+prednisolone (10 mg daily).
+In both patients serum immunoreactive parathyroid hormone was
+undetectable (<40 pg/ml) and the concentration of 1,25-dihydroxycholecalciferol was low (21 pmol/l (8-2 pg/ml) and 42 pmol/l (16-9 pg/ml)
+respectively; normal 45-138 pmol/l (18-55 pg/ml)). Both patients had
+biochemical evidence of increased bone resorption as judged by high ratios
+of fasting urinary calcium to creatinine concentrations (figure) and of
+hydroxyproline to creatinine concentrations (374 and 83-3 mmol/mol
+(434 and 97 mg/g) respectively (normal 10-30 mmol/mol (12-35 mg/g)).
+Both patients were treated with clodronate and became normocalcaemic
+within five days (figure). When treatment was stopped after five days in
+case 2 the hypercalcaemia recurred, but it responded to further treatment.
+Fasting urinary calcium excretion, initially high in both patients, fell to
+normal within two weeks after the start of treatment. In case 1 both serum
+calcium concentration and fasting urinary calcium excretion rose transiently
+when clodronate was stopped after one month of treatment. Urinary
+hydroxyproline excretion was initially unchanged but fell gradually to
+normal after three months in both patients.
+
+Comment
+It is not clear whether the increasing mobility of our two patients
+may in some way have triggered their hypercalcaemia. Serum
+concentrations of 1,25-dihydroxycholecalciferol were low, suggesting
+that intestinal absorption of calcium was also low. The undetectable
+concentrations of immunoreactive parathyroid hormone excluded
+hyperparathyroidism as a cause for the hypercalcaemia.
+Both patients had biochemical evidence of increased bone
+resorption, and in both creatinine clearance was impaired. Impairment
+of renal function would not cause, but is likely to contribute to,
+hypercalcaemia, and in both cases appreciable bone resorption
+appeared to be the major mechanism for hypercalcaemia. These
+conclusions are supported by the response of these patients to
+clodronate. This agent has been previously used in Paget's disease
+and hypercalcaemic disorders associated with increased bone
+resorption.4 The effects of clodronate in immobilisation hypercalcaemia
+have not been reported previously, although the drug inhibits bone
+loss after immobilisation in experimental animals and in paraplegia.
+Plasma calcium concentration and fasting urinary calcium excretion
+decreased in both our patients, indicating the efficacy of treatment.
+The diphosphonate etidronate is also effective,5 but its action to
+
+
+104 of the 173 patients for whom histological data were available)
+18 patients (17%) would have received unnecessary treatment.
+In contrast, of the 69 patients known to have had unaffected
+axillary nodes 39 (570%') died in the subsequent 20 years.
+Interestingly, five (10%) of the so called "cured group" died
+of metastases after developing contralateral breast cancer more
+than 20 years after first treatment. Although there is no firm
+evidence to support this, many late deaths from breast cancer
+may possibly be the result of new tumours rather than a late
+manifestation of slow growing micrometastases.
+Our results indicate that, although age, menstrual state,
+clinical stage, and spread to axillary nodes are of some prognostic
+value in breast cancer, the present inadequacy of knowledge of
+the behaviour of the disease makes accurate prediction of which
+patients will be cured impossible.
+
+

@@ -1,0 +1,2975 @@
+Breast Cancer 
+
+SPECIAL FEATURE
+
+From improved survival to potential cure
+in patients with metastatic breast cancer
+
+Possible clinical cure of metastatic breast cancer: lessons from our
+30-year experience with oligometastatic breast cancer patients
+and literature review
+
+
+
+Abstract
+Background Metastatic breast cancer (MBC) is generally
+incurable. However, 10–20-year relapse-free survival of
+MBC is approximately 2%, implying that at least a small
+subset of MBC patients achieve prolonged survival. We
+therefore analyzed long-term outcome in a particular subset, i.e., oligometastatic breast cancer (OMBC).
+
+
+
+
+retrospectively analyzed. OMBC was identified as: one or 2
+organs involved with metastatic lesions (excluding the
+primary lesion resectable by surgery), fewer than 5 lesions
+per metastasized organ, and lesion diameter less than 5 cm.
+Patients were generally treated with systemic chemotherapy first, and those who achieved complete response (CR)
+or partial response (PR) were further treated, if applicable,
+with local therapy (surgical or radiation therapy) to maintain CR or to induce no evidence of clinical disease (NED),
+with additional systemic therapy.
+Results Median follow-up duration was 103 (6–329)
+months. Single or 2 organs were involved in, respectively,
+44 (59%) and 31 (41%) cases with metastatic lesions, 48%
+of which were visceral. In cases where effects of systemic
+therapy, possibly in combination with other treatments,
+were evaluated (N = 68), CR or PR was achieved in 33
+(48.5%) or 32 (47.1%), respectively, with overall response
+rate (ORR: CR ? PR) of 95.6% (N = 65). In cases
+receiving multidisciplinary treatment (N = 75), CR or
+NED (CR/NED), or PR was induced in 48 (64.0%) or 23
+(30.7%) cases, respectively, with ORR (CR/NED ? PR) of
+94.7% (N = 71). CR rates (60.5%) with systemic therapy
+and CR/NED rates (79.5%) with multidisciplinary treatment were significantly better in subjects with a single
+involved organ than in those with two involved organs
+(P = 0.047 and 0.002, systemic only or multidisciplinary
+treatments, respectively).
+Medians estimated by Kaplan–Meier method were: overall
+survival (OS) of 185.0 months and relapse-free interval
+(RFI) of 48.0 months. Estimated outcomes were: OS rates
+(OSR) of 59.2% at 10 years and 34.1% at 20 years, and
+relapse-free rates (RFR) of 27.4% at 10 years and 20 years.
+No disease progression was observed after 101.0 months as
+RFR. Cases with single organ involvement (N = 44)
+showed significantly better outcomes (OSR of 73% at
+
+Breast Cancer
+
+10 years and 52% at 20 years, RFR of 42% at 10 years and
+20 years). Those who received local therapies (N = 35)
+also showed better prognosis: OSR of 82% at 10 years and
+53% at 20 years, RFR of 38% at 10 years and 20 years.
+Three cases (4%) survived for their lifetime without relapse
+after achieving CR or NED, our definition of clinical cure.
+Multivariate analysis revealed factors favoring better
+prognosis as: none for OS, and single organ involvement
+with metastasis, administration of local treatment, and
+shorter disease-free interval (DFI) (P = 0.030, 0.039, and
+0.042, respectively) for RFR. Outcomes in OMBC in literature were OSR of 35–73% at 10 years and 26–52% at
+20 years, and RFR of 27–42% at 10 years and 26–42% at
+20 years.
+Conclusions The present analyses clearly indicate that
+OMBC is a distinct subgroup with long-term prognosis
+superior to MBC, with reasonable provability for clinical
+cure. Further prospective studies to better characterize
+OMBC are warranted to improve prognosis in MBC.
+Keywords Oligometastatic breast cancer  Metastatic
+breast cancer  Relapse-free survival  Cure  Clinical cure
+
+Introduction
+Metastatic breast cancer (MBC) encompasses both primary
+breast cancers with distant metastases and those recurrent
+after surgical intervention. Unlike early-stage breast cancers, cure is rarely achieved in patients with MBC [1], and
+therefore current treatment for MBC is focused mainly on
+prolonging patient life and improving and maintaining
+quality of life (QOL). Median survival for MBC is variably
+reported but generally short, e.g., 8–24 months [1],
+18–24 months [1–3], or as long as 2–4 years [4, 5]. Data on
+long-term survival beyond 3–5 years are limited [1–3], but
+20-year survivals are reported as low as 1–3% [1, 4, 6].
+However, development of new approaches in the last
+decade, using new hormone therapy formulations, chemotherapy agents, and drugs targeting specific molecules,
+brought hope for improved survival of MBC [7, 8]. A
+systematic review of results from various randomized trials
+on therapy regimens for MBC, including 370 trials with a
+total of 54,189 patients treated between 1973 and 2007,
+was performed, and survival data of 26,031 patients were
+obtained. A meta-analysis in this study indeed demonstrated that transition of systemic treatment regimes has
+stepwisely achieved significant improvement in survival
+rate of MBC over the last 30 years [9]. The improved
+efficacy of systemic therapy would ultimately lead to
+clinical cure of MBC, through increasing rate of complete
+response (CR) and prolonging no evidence of clinical
+disease (NED) following local treatments.
+
+
+
+On the other hand, definition for ‘‘cure’’ of the breast
+cancers has yet been unanimously defined. Some suggest
+cure of breast cancer as a condition where cancer cells are
+eradicated, permitting a normal lifespan without threat of
+recurrence [3, 10] or without cancer-related complaints
+[11], whereas others consider that all cancer cells do not
+have to be destroyed in ‘‘cure,’’ but rather that disease must
+be rendered harmless (without clinically significant adverse
+effects) for prolonged periods [2]. In the present article, we
+define cure as clinical cure, in which systemic therapy has
+induced complete response (CR) or local therapy maintained no evidence of clinical disease (NED), i.e., sustained
+relapse-free interval (RFI) and no recurrence of cancer
+after CR/NED induction during the entire lifespan of the
+patient [12].
+Factors that affect prognosis of MBC include: number of
+recurrence sites, tumor cell numbers, patient age and performance status (PS), disease-free interval (DFI) after
+surgical intervention, and tumor biology [grade, estrogen
+receptor status, human epidermal growth factor receptor
+type 2 (HER2) status] [3, 13]. Long-term survivors are
+usually young and have excellent PS with limited metastatic lesions [4]. Also, CR is more efficiently achieved in
+MBC with low tumor burden and good PS, and in those
+whose metastatic lesions are predominantly in soft tissues.
+Furthermore, survival periods for those in whom CR is
+established are significantly longer than those without CR
+[1, 14, 15]. In particular, MBC with only a few metastatic
+lesions is categorized as oligometastatic breast cancer
+(OMBC). In general, one or more organs are involved by a
+single metastatic lesion in OMBC [2, 11, 13, 16]. OMBC is
+a new paradigm proposed by Hellman in 1995 [16]. Due to
+its relatively limited nature, oligometastases either de novo
+or following systemic treatment could be removed by local
+therapy. In cases with more advanced lesions with possible
+subclinical systemic spreading, addition of systemic therapy would be further required. Therefore, the paradigm
+proposes that surgical and/or radiation therapies targeting
+solitary oligometastatic lesions could potentially cure
+oligometastases either alone or in combination with systemic therapy. To date, oligometastases denote lesions with
+limited metastases, solitary metastasis, isolated metastases,
+or minimal metastases. However, OMBC has not yet been
+widely recognized since its proposal in 1995, and despite
+many reports that suggest benefits of aggressive multidisciplinary treatment to induce long-term CR or cure [1],
+little data are available regarding clinical outcome, particularly for long-term observations, of OMBC following
+therapeutic interventions. OMBC is often surgically
+excised or treated with radiation, and consequent conditions without lesions are defined as stage IV-NED (no
+evidence of clinical disease). Two approaches are possible
+for treatment strategies in achieving long-lasting CR/NED
+
+123
+
+220
+
+and ultimate cure of OMBC. One is multidisciplinary
+treatment that first performs local therapy to remove clinically detectable lesions to establish disease-free status, i.e.,
+stage IV-NED, after which postsurgical systemic treatment
+similar to adjuvant therapy in the case of primary breast
+cancer is administered. Outcomes from this approach in the
+longest and largest-scale study for 30 years conducted in
+M.D. Anderson Cancer Center (MDACC) were reported
+[17]. This approach stresses the characteristics of OMBC as
+a local disease. In contrast, the other approach emphasizes a
+systemic nature of breast cancer and therefore treats OMBC
+first with systemic therapies (chemo-, hormone, and
+molecular-targeted therapies), followed by local therapy
+targeting remaining lesions, mainly in responders to the
+initial systemic treatment, to achieve prolonged CR and
+subsequent clinical cure. We have adopted the latter
+approach in treating breast cancer patents in our institution
+since 1980. In this multidisciplinary approach, the systemic
+therapy rather resembles neoadjuvant therapy for de novo
+primary breast cancer. In the present article, we retrospectively analyze our clinical experience in the past 30 years.
+To our knowledge, the present article is the first to date
+reporting therapeutic outcome, particularly for the long
+term, by the systemic therapeutic strategy in OMBC, along
+with a systematic review of previous literature.
+The primary purpose of the present analyses is to assess
+the long-term maintenance rate of CR/NED, an equivalent
+to clinical cure, in patients with OMBC. Secondly, we aim
+to evaluate factors that affect prognosis of OMBC. We also
+review literature on long-term survival rates in MBC and
+therapeutic outcomes of OMBC that have achieved longterm CR/NED, along with our experience, to address issues
+that would benefit our future approach to establish clinical
+cure in MBC.
+
+Patients and methods
+Patient selection
+We performed retrospective analyses of cases of OMBC
+selected from the MBC patients treated mainly with chemotherapy-based systemic treatment as front-line therapy
+in our institution during the last 30 years between April
+1980 and March 2010.
+Patients who met all 3 following criteria as a modified,
+milder definition were considered as having OMBC: number of organs involved with metastatic lesions other than
+those with primary lesions (for which curative surgery was
+considered possible) of 2 or less; number of metastatic
+lesions per organ of 5 or less (in lungs or bones that were too
+small or unclear for detection by diagnostic imaging,
+approximately 10 or less); lesion diameter of 5 cm or less.
+
+123
+
+Breast Cancer (2012) 19:218–237
+
+Patients were excluded from the present analyses if: the
+patient had previously received intensive chemotherapy,
+such as those whose regimen included substantial dose and/
+or intensity of anthracyclines or taxanes to their metastatic
+lesions prior to study enrollment; the lesion was a recurrence within 1 year after adjuvant or neoadjuvant chemotherapy including anthracyclines or taxanes; patients
+presenting pulmonary lymphangitis carcinomatosis, symptomatic brain metastasis, dysfunction of critical organs such
+as bone marrow, heart, liver, or kidney, simultaneous active
+cancers of separate origin, or any other serious health
+problems. Patients were fully informed regarding their
+therapeutic decisions, and each patient’s consent was
+obtained and recorded prior to initiating treatment. For
+those demonstrating sensitivity to hormone therapy, the
+general recommendation for hormone therapy as initial
+systemic treatment for OMBC was explained, and only
+those who preferred to receive chemotherapy prior to hormone treatment were treated with chemotherapy as initial
+treatment, since an algorithm for treatment of recurrent
+breast cancer was reported by Hortobagyi in 1998 [18].
+Treatments and evaluation of responses
+In general, eligible patients received systemic chemotherapy first, and responders who achieved CR or partial
+response (PR) were, if applicable, further treated with local
+therapy (surgery or radiation) to sustain CR and to induce
+NED by removing the remaining tumor mass. In addition,
+systemic therapy (chemotherapy and hormone or molecular-targeted therapy, if applicable) was administered.
+Anthracycline-based regimens such as ACFV [doxorubicin
+(DOX), cyclophosphamide (CPM), tegafur, and vincristine
+(VCR)] were the front-line chemotherapies between 1980
+and 1997, and taxane with or without anthracycline-based
+regimens such as AT [DOX, docetaxel (DOC)] were frequently used since 1998. The ACFV regimen consisted of
+DOX 40 mg/m2 i.v., CPM 500 mg/m2 i.v., and VCR
+1.4 mg/m2 (maximum 2.0 mg/body) i.v. at day 1, and
+repeated every 3 weeks, along with tegafur 800 mg/body
+p.o. daily until white blood cell (WBC) counts dropped
+below 2,000/mm3. When cumulative dose of DOX exceeded 400 mg/m2, regimen was switched to CMF (CPM,
+methotrexate, fluorouracil) for maximum of 2 years in CR
+cases, or until disease progression was observed or sideeffects became intolerable in non-CR cases. AT regimen
+included DOX 50 mg/m2 i.v. and DOC 60 mg/m2 i.v. at
+day 1 followed by every 3-week administration of the
+combination. DOX was discontinued after total dose of
+DOX exceeded 400 mg/m2 and changed to a regimen
+mainly with DOC, similar to that described for ACFV.
+Prior and during the treatment, all patients underwent
+evaluation with complete medical history, physical
+
+Breast Cancer (2012) 19:218–237
+
+examination, baseline blood tests, and imaging evaluations
+[radiography, bone scintigraphy, computed tomography
+scan, magnetic resonance imaging (MRI), and ultrasonography, if necessary and available]. Effects of the treatment
+were generally monitored by imaging analyses at every
+3 months for lesions detected at diagnosis of OMBC or every
+6 months without detectable lesions before the treatment.
+Effects of the treatment were assessed by analyses of
+maximum response, according to either the criteria of the
+World Health Organization (WHO) [19] or the Response
+Evaluation Criteria in Solid Tumors (RECIST) version 1.0
+[20] since its announcement in 2004. Responses in bone
+metastases were evaluated using the methods reported by
+MDACC [14, 15], with CR as clear evidence of complete
+bone recalcification with attainment of near-normal bone
+architecture or normalization of scan, and PR as radiological evidence of sclerosis in lytic lesions or marked
+improvement of bone scan. In recent years, MRI was
+performed when available, and the imaging information
+was taken into account in evaluation of bone metastases.
+Responses in pleural fluids were determined as: CR for
+radiological demonstration of complete disappearance of
+pleural fluid, and PR for 50% or more decrease. For study
+inclusion, pathological diagnosis of the primary lesions had
+to be obtained, whereas tissue or cellular pathology of the
+metastatic lesions was preferred but not mandatory.
+Variables
+Information regarding patient age, DFI, PS, involved organs
+and their number, status of estrogen receptor (ER), progesterone receptor (PgR), and HER2, Ki67 status, and previous
+treatments prior to the present study periods was obtained
+from medical records. Immunohistochemical (IHC) staining
+was performed for ER, PgR, HER2, and Ki67. ER and PgR
+positivity were defined as any positive nuclear staining
+(C1%), and HER2 positivity was defined as IHC score 3? or
+fluorescence in situ hybridization (FISH) with amplification
+ratio C2.0. The cutoff point for Ki67 index was set as
+13.25%, with below 14% defined as low, and 14% or higher
+defined as high expression [21]. Intrinsic breast cancer subtypes were classified according to a gene expression profilevalidated IHC surrogate panel [22] as follows: luminal A
+(ER positive, low Ki67, and HER2 negative), luminal B (ER
+positive, high Ki67, and HER2 negative), HER2-like (any
+ER, any Ki67, and HER2 positive), and basal-like (ER
+negative, any Ki67, and HER2 negative).
+Statistical analyses
+The characteristics of the patients with assessable data
+were compared with v2 test or Wilcoxon rank-sum tests.
+Overall survival (OS) was defined as duration from
+
+221
+
+initiation of treatment to last visit or death. Progressionfree interval (PFI) was defined as duration from initiation
+of treatment to the point when disease progression was
+detected. Complete response (CR) achieved by a systemic
+therapy or no evidence of clinical disease (NED) after a
+local therapy was considered relapse-free, and the duration
+between induction of relapse-free status and the point of
+relapse detection was defined as the relapse-free interval
+(RFI); survival time after induction of relapse-free status
+without relapse was defined as relapse-free survival (RFS).
+Unrelated death other than from breast cancer was considered as censored in evaluation of PFI and RFI. Survival
+curves were determined by the Kaplan–Meier method, and
+analyzed using the log-rank test. A multivariate analysis
+was performed by Cox regression and included the following variables: age, DFI, PS, number of involved organs,
+types of involved organs, liver metastasis, hormone
+receptor status, HER2 status, Ki67 status, intrinsic subtype,
+administration of local therapy, and chemotherapy regimens. Differences were considered statistically significant
+for P \ 0.05. All P values were calculated for two-sided
+analyses.
+
+Results
+Analyses of OMBC patients in our institution in the last
+30 years
+Patient characteristics
+There were 75 OMBC cases with sufficient records, and the
+patient characteristics at diagnosis are presented in
+Table 1. Performance status was good (PS 0 or 1) in the
+majority of subjects (92%). The number of organs involved
+with metastatic lesions was 1 in 44 cases (59%) and 2 in 31
+cases (41%). Visceral metastases were found in approximately half of cases (48%). Metastases in liver, known as
+the worst prognosis group, were found in 10 patients. No
+brain metastasis was found at time of OMBC diagnosis.
+Ki67 levels were low in 42 cases (56%) and high in 18
+cases (24%), though we encountered more cases with
+negative Ki67 staining by IHC in cases whose samples
+were preserved for prolonged periods from their acquisition. Intrinsic subtypes were luminal A in 26 cases (35%),
+luminal B in 7 cases (9%), HER2-like in 13 cases (17%),
+and basal-like in 18 cases (24%). Adjuvant or neoadjuvant
+therapy prior to relapse detection was performed in 30
+cases (40%), which include anthracycline and/or taxanebased regimens in 16 cases (21%) and non-anthracycline
+and/or taxane-based regimens (CMF, fluorouracil, mitomycin C) in 14 cases (19%). For the metastatic lesions, 3
+patients (4%) received chemotherapy prior to the present
+
+123
+
+222
+
+Breast Cancer (2012) 19:218–237
+
+Table 1 Characteristics of patients with oligometastatic breast cancer prior to treatment
+
+Table 1 continued
+No. of patients
+
+No. of patients
+HER2-targeting
+
+1 (1%)
+
+No. of evaluable patients
+
+75
+
+Hormonal therapy
+
+5 (7%)
+
+Median age (years)
+
+48 (28–69)a
+
+No systemic therapy
+
+65 (87%)
+
+Median DFI (months)
+
+25.3 (0–168)a
+
+Unknown
+
+1 (1%)
+
+PS
+0
+
+52 (69)
+
+1
+
+17 (23)
+
+2
+Unknown
+
+2 (3)
+4 (5)
+
+No. of involved organs
+1
+
+44 (59%)
+
+2
+
+31 (41%)
+
+Involved organs
+Viscera
+
+36 (48%)
+
+Soft part
+
+41 (55%)
+
+Bone
+
+29 (39%)
+
+Hormone receptor status
+ER and/or PgR positive
+
+48 (64%)
+
+ER and PgR negative
+
+24 (32%)
+
+Unknown
+
+3 (4%)
+
+HER2 status
+Positiveb
+
+13 (17%)
+
+Negative
+Unknown
+
+55 (73%)
+7 (9%)
+
+Ki67 level
+Low (\14%)
+
+42 (56%)
+
+High (C14%)
+
+18 (24%)
+
+Unknown
+
+15 (20%)
+
+Intrinsic subtype by IHC
+Luminal A
+
+26 (35%)
+
+Luminal B
+
+7 (9%)
+
+HER2-like
+
+13 (17%)
+
+Basal-like
+
+18 (24%)
+
+Unknown
+
+11 (15%)
+
+Previous treatment
+Breast surgery
+
+61 (81%)
+
+Adjuvant/neoadjuvant setting
+Chemotherapy
+Anthracycline and/or taxane-based
+Non-anthracycline and/or taxane-based
+
+30 (40%)
+16 (21%)
+14 (19%)
+
+HER2-targeting therapy
+
+2 (3%)
+
+Hormonal therapy
+
+23 (31%)
+
+No adjuvant/neoadjuvant therapy
+
+30 (40%)
+
+Unknown
+
+4 (5%)
+
+Metastatic setting
+Chemotherapy
+
+3 (4%)
+
+Taxane ± anthracycline-based
+
+2 (3%)
+
+Non-anthracycline and/or taxane-based
+
+1 (1%)
+
+123
+
+DFI disease-free interval, ER estrogen receptor, HER2 human epidermal growth factor receptor type 2, IHC immunohistochemical
+assays, No. number, PgR progesterone receptor, PS performance
+status [Eastern Cooperative Oncology Group (ECOG)]
+a
+
+Range
+
+b
+
+HER2 positive: Hercep TestTM score 3(?) or FISH amplified
+
+study periods, whereas no systemic treatments were previously performed in other 65 cases (87%).
+Treatments administered
+Systemic chemotherapy was performed as an initial treatment for OMBC in 66 cases (88%), including 63 cases
+(83%) with chemotherapy only and 3 cases (4%) with
+simultaneous treatment of both chemo- and radiation
+therapy, as an initial treatment. Others at first received
+local treatment by either radiation therapy (5 cases, 7%) or
+surgical excision (4 cases, 5%), followed by a systemic
+treatment. Chemotherapy regimens utilized in the study
+subjects included anthracycline-based regimens in 23 cases
+(30.7%), taxane with or without anthracycline-based regimens in 49 cases (65.3%), and molecular-targeted regimens in 3 cases (4.0%). Among the anthracycline-based
+regimens, ACFV regimen was most frequently used (15
+cases). Among the taxane with or without anthracyclinebased regimens, AT regimen was the most common (40
+cases). In 23 cases administered anthracycline-based regimens against OMBC, adjuvant or neoadjuvant chemotherapy prior to relapse was performed in 4 cases (17.4%);
+regimens included non-anthracycline and/or taxane-based
+regimens (CMF, fluorouracil, mitomycin C) in 3 cases
+(13.0%) and anthracycline and/or taxane-based regimens in
+1 case (4.3%). Among 49 cases who received taxane with
+or without anthracycline-based regimens for OMBC, 23
+cases (46.9%) received adjuvant or neoadjuvant chemotherapy, including non-anthracycline and/or taxane-based
+regimens (9 cases, 18.4%) and anthracycline and/or taxanebased regimens (14 cases, 28.6%). Patients whose OMBC
+was treated with taxane with or without anthracyclinebased regimens had more frequently received adjuvant/
+neoadjuvant therapy for their primary lesions, compared
+with those whose OMBC had been treated with anthracycline-based regimens. Among those who had received
+adjuvant or neoadjuvant therapies to their primary lesions,
+
+Breast Cancer (2012) 19:218–237
+
+agents with more potent antitumor effects were more frequently used in those whose treatment for OMBC was
+taxane-based compared with those with anthracyclinebased regimens.
+Response to systemic or multidisciplinary treatments
+in each subgroup
+Table 2 presents overall responses in all 75 subjects treated
+either by systemic therapy only (chemotherapies except 1
+case with hormone therapy) or by multidisciplinary treatment in combination with local therapies. In 68 cases for
+which isolated effects of systemic therapy only were evaluated, overall response rates (ORR: CR ? PR) were 65 cases
+[95.6%, 95% confidence interval (CI) 86.8–98.9%], with CR
+in 33 cases (48.5%, 95% CI 36.4–60.9%) and PR in 32 cases
+(47.1%, 95% CI 35.0–59.5%). The overall effects of multidisciplinary treatments were evaluated in all the OMBC
+cases (N = 75), with CR or NED (CR/NED), and PR
+achieved in 48 cases (64.0%, 95% CI 52.0–74.5%), and 23
+cases (30.7%, 95% CI 20.8–42.5%), respectively, with ORR
+(CR/NED ? PR) of 71 cases (94.7%, 95% CI 86.2–98.3%).
+When CR or CR/NED rates were compared in each subgroup, those with only one organ involved with metastatic
+lesions showed significantly higher CR or CR/NED rates
+compared with those with 2 involved organs, in either systemic therapy only groups (P = 0.047) or those who
+received multidisciplinary treatments (P = 0.002). Among
+metastatic patients with single organ involvement, CR was
+achieved in 60.5% of patients treated with systemic therapy
+and in 79.5% of those who received multidisciplinary
+treatments. Patients with low Ki67 levels tended to show
+higher CR or CR/NED rates with either systemic
+(P = 0.055) or multidisciplinary treatments (P = 0.09).
+Among patients who received any local therapy, those whose
+approaches were multidisciplinary demonstrated higher CR/
+NED rates (P = 0.003) than those treated with chemotherapy as solo treatment. CR or CR/NED rates were higher in
+patients who received anthracycline-based regimens for
+their OMBC (P = 0.010 in systemic therapy only,
+P = 0.064 in multidisciplinary treatment group) compared
+with those who received taxane with or without anthracycline-based regimens. Other factors such as patient age, DFI,
+status of hormone receptors and HER2, intrinsic subtype, and
+presence of liver metastases did not significantly affect rates
+for CR or CR/NED.
+Overall survival (OS), progression-free interval (PFI),
+and relapse-free interval (RFI)
+Median follow-up duration was 103 (6–329) months. Figure 1 shows OS, PFI, and RFI estimated by the Kaplan–Meier
+method for all study subjects. The RFI curve starts with all the
+
+223
+
+patients who have achieved CCR/NED after multidisciplinary therapy (N = 75, 64% of all the study subjects), and the
+RFI is shown as percentage of the patients remained CCR/
+NED in the total study subjects. The estimated medians were
+OS of 185.0 months, PFI of 68.5 months, and RFI of
+48.0 months. The estimated overall survival rate (OSR) was
+79.2% at 5 years (95% CI 69.6–90.0%, 45 cases), 59.2% at
+10 years (95% CI 46.9–74.7%, 16 cases), 51.2% at 15 years
+(95% CI 37.6–69.7%, 10 cases), and 34.1% at 20 years (95%
+CI 19.6–59.5%, 4 cases); the progression-free rate (PFR) was
+56.8% at 5 years (95% CI 46.0–70.2%, 37 cases), 32.8% at
+10 years (95% CI 22.3–48.1%, 10 cases), and 29.1% at
+15 years and 20 years (95% CI 18.6–45.6%; 15 years: 6
+cases; 20 years: 3 cases); the relapse-free rate (RFR) was
+45.0% at 5 years (95% CI: 34.6-58.6%, 27 cases), and 27.4%
+at 10, 15, and 20 years (95% CI: 17.9-42.0%; 10 years: 8
+cases; 15 years: 4 cases; 20 years: 3 cases). Among those
+whose PFR or RFR was longer than 128.0 and 101.0 months,
+respectively, no case with disease progression was observed.
+Median OS in cases with single organ involvement with
+metastatic lesions was 292 months with OSR of 73% at
+10 years and 52% at 20 years, median RFI was 95 months,
+and RFR was 42% at 10 and 20 years, representing the best
+prognostic subgroup. Patients who received local therapy
+also showed good prognosis, with OSR of 82% at 10 years
+and 53% at 20 years, and RFR of 38% at 10 years and
+20 years. OS in this subgroup had not reached median. By the
+time the current analyses were finalized, there were 3 cases
+(4%) that met our definition of clinical cure, and those subjects remained clinically relapse free for their entire survival
+periods, dying of traumatic intracranial hemorrhage at 85
+years old, presumed acute cardiovascular disease at 64 years
+old, and an accident at 47 years old.
+OS in various response groups is shown in Fig. 2. In cases
+where CR/NED was induced, OS was significantly longer
+than in those who achieved PR or stable disease (SD)
+(P \ 0.0001). Estimated median OS in CR/NED cases was
+192.2 months, with 60-month OSR of 92.4% (95% CI 84.5–
+100%), 120-month OSR of 79.6% (95% CI 67.0–94.6%),
+180-month OSR of 68.9% (95% CI 52.8–89.8%), and
+240-month OSR of 45.9% (95% CI 27.0–78.2%); approximately 80% and 70% of CR/NED cases survived for 10 and
+15 years, respectively, and about half of those cases were
+anticipated to survive 20 years after initial diagnosis of
+OMBC.
+Results of univariate analysis of OS, PFI, and RFI are
+shown in Table 3 by each factor. Factors that showed statistically significant benefits on OS were: single organ
+involvement by metastatic lesions (P = 0.0063), receipt of
+local therapies (P = 0.0063), absence of metastasis in liver
+(P = 0.0025), and anthracycline-based chemotherapy regimens (P = 0.0245). Statistically favorable factors for PFI
+were the same as those for OS except chemotherapy regimes,
+
+123
+
+123
+P (CR rate)
+
+29 (50)
+4 (40)
+15 (75)
+17 (37)
+1 (50)
+
+20
+46
+2
+
+2 (59)
+5 (28)
+
+37
+18
+
+58
+10
+
+5 (38)
+23 (47)
+
+13
+49
+
+19 (48)
+14 (50)
+
+11 (46)
+10 (53)
+10 (43)
+
+24
+19
+23
+
+40
+28
+
+23 (61)
+10 (33)
+
+38
+30
+
+(62)
+(14)
+(38)
+(47)
+
+15 (48)
+16 (52)
+
+31
+31
+
+13
+1
+5
+8
+
+12 (41)
+21 (54)
+
+29
+39
+
+21
+7
+13
+17
+
+33 (49)
+
+68
+
+(38)
+(86)
+(46)
+(47)
+
+5 (25)
+27 (59)
+0
+
+27 (47)
+5 (50)
+
+18 (45)
+14 (50)
+
+8
+6
+6
+8
+
+13 (35)
+12 (67)
+
+6 (46)
+25 (51)
+
+13 (54)
+7 (37)
+12 (52)
+
+14 (37)
+18 (60)
+
+15 (48)
+13 (42)
+
+16 (55)
+16 (41)
+
+32 (47)
+
+(100)
+(100)
+(85)
+(94)
+
+20 (100)
+44 (96)
+1 (50)
+
+56 (97)
+9 (90)
+
+37 (93)
+28 (100)
+
+21
+7
+11
+16
+
+35 (95)
+17 (94)
+
+11 (85)
+48 (98)
+
+24 (100)
+17 (89)
+22 (96)
+
+37 (97)
+28 (93)
+
+30 (97)
+29 (94)
+
+28 (97)
+37 (95)
+
+65 (96)
+
+0.010
+
+NS
+
+NS
+
+NS
+
+0.055
+
+NS
+
+NS
+
+0.047
+
+NS
+
+NS
+
+23
+49
+3
+
+65
+10
+
+40
+35
+
+26
+7
+13
+18
+
+42
+18
+
+13
+55
+
+28
+20
+24
+
+44
+31
+
+34
+34
+
+33
+42
+
+75
+
+(69)
+(43)
+(62)
+(61)
+
+19 (83)
+28 (57)
+2 (67)
+
+43 (66)
+5 (50)
+
+19 (48)
+29 (83)
+
+18
+3
+8
+11
+
+30 (71)
+8 (44)
+
+8 (62)
+34 (62)
+
+16 (57)
+14 (70)
+15 (63)
+
+35 (80)
+13 (42)
+
+24 (71)
+22 (65)
+
+20 (61)
+28 (67)
+
+48 (64)
+
+CR/NED
+
+(27)
+(57)
+(23)
+(33)
+
+(33)
+(23)
+(35)
+(21)
+(50)
+
+3 (13)
+19 (39)
+0 (0)
+
+19 (29)
+4 (40)
+
+18 (45)
+5 (14)
+
+7
+4
+3
+6
+
+8
+3
+19
+9
+9
+
+11 (39)
+4 (20)
+
+8 (18)
+15 (48)
+
+9 (26)
+10 (29)
+
+12 (36)
+11 (26)
+
+23 (31)
+
+PR
+
+(96)
+(100)
+(85)
+(94)
+
+22 (96)
+47 (96)
+2 (67)
+
+62 (95)
+9 (90)
+
+37 (93)
+34 (97)
+
+25
+7
+11
+17
+
+39 (93)
+17 (94)
+
+11 (85)
+53 (96)
+
+27 (96)
+18 (90)
+23 (96)
+
+43 (98)
+28 (90)
+
+33 (97)
+32 (94)
+
+32 (97)
+39 (93)
+
+71 (95)
+
+CR/NED ? PR
+
+0.064
+
+NS
+
+0.003
+
+NS
+
+0.090
+
+NS
+
+0.002
+
+NS
+
+NS
+
+P (CR/NED rate)
+
+Values in parentheses indicate percentage
+CR complete response, ER estrogen receptor, HER2 human epidermal growth factor receptor type 2, IHC immunohistochemical assays, NED no evidence of clinical disease, No. number, NS
+not statistically significant, PgR progesterone receptor, PR partial response
+
+Total no. of patients
+Age (years)
+\48
+C48
+DFI (months)
+\25.3
+C25.3
+No. of involved organs
+1
+2
+Hormone receptor status
+ER and PgR positive
+ER or PgR positive
+ER and PgR negative
+HER2 status
+Positive
+Negative
+Ki67 level
+Low (\14%)
+High (C14%)
+Intrinsic subtype by IHC
+Luminal A
+Luminal B
+HER2-like
+Basal-like
+Local therapy
+(-)
+(?)
+Liver metastases
+(-)
+(?)
+Chemotherapy regimen
+Anthracycline-based
+Taxane ± anthracycline-based
+Molecular-targeted
+
+CR ? PR
+
+No. evaluable
+
+PR
+
+No. evaluable
+
+CR
+
+Response to multidisciplinary therapy
+
+Response to systemic therapy
+
+Table 2 Response by therapeutic approach in patient subgroups
+
+224
+Breast Cancer (2012) 19:218–237
+
+0.8
+
+Median 60M 120M 180M 240M
+(M)
+(%) (%) (%)
+(%)
+185.0 79.2 59.2 51.2 34.1
+68.5 56.8 32.8 29.1 29.1
+48.0
+45.0 27.4 27.4
+27.4
+
+OS
+PFI
+RFI
+
+OS
+
+0.6
+
+Fig. 1 Estimated overall
+survival, progression-free
+interval, and relapse-free
+interval by multidisciplinary
+treatment
+
+225
+1.0
+
+Breast Cancer (2012) 19:218–237
+
+0.4
+
+PFI
+
+0.0
+
+0.2
+
+RFI (CCR/NED)
+
+0
+
+60
+
+120
+
+180
+
+240
+
+300
+
+Time (months)
+Abbreviations: CCR : continuing complete response, M : months, NED : no evidence of clinical disease, OMBC : oligometastatic
+breast cancer, OS : overall survival, PFI : progression-free interval, RFI : relapse-free interval, y : year
+
+1.0
+
+Median 60M 120M 180M 240M
+
+CR/NED
+
+(M)
+
+0.6
+
+0.8
+
+Fig. 2 Estimated overall
+survival by response to
+multidisciplinary treatment
+
+(%)
+
+(%)
+
+(%)
+
+P
+
+(%)
+
+CR/NED 192.2
+
+92.4 79.6
+
+68.9
+
+45.9 < 0.0001
+
+PR
+
+69.8
+
+54.8
+
+NA
+
+NA
+
+NA
+
+SD
+
+41.4
+
+50.0
+
+NA
+
+NA
+
+NA
+
+0.4
+
+PR
+
+0.0
+
+0.2
+
+SD
+
+0
+
+60
+
+120
+
+180
+
+240
+
+300
+
+Time (months)
+Abbreviations: CR : complete response, M(m) : months, NA:not applicable, NED : no evidence of clinical disease,
+OS : overall survival, PR : partial response, SD : stable disease
+
+i.e., single organ involvement by metastatic lesion
+(P \ 0.0001), receipt of local therapies (P = 0.0027), and
+absence of metastasis in liver (P = 0.0142). Significantly
+beneficial factors for RFI were also consistent with those for
+PFI: single organ involvement by metastatic lesions
+
+(P \ 0.0001), receipt of local therapies (P = 0.0050), and
+absence of metastasis in liver (P = 0.0116). Age, DFI,
+hormone receptors and HER2 status, Ki67 levels, or intrinsic
+subtype did not demonstrate significant influences on OS,
+PFI, or CCR/NED.
+
+123
+
+226
+
+Results of multivariate analysis are presented in
+Table 4. The anthracycline-based chemotherapy regimen
+demonstrated more favorable effects on OS, though the
+difference did not reach statistical significance
+(P = 0.097). Single organ involvement with metastatic
+lesions showed statistically significant benefit on PFI
+(P = 0.0023). Shorter DFI (P = 0.042), single organ
+involvement with metastatic lesions (P = 0.030), and
+administration of a local therapy (P = 0.039) showed
+significantly better effects on RFI, whereas negative hormone receptors (P = 0.086) and low Ki67 levels
+(P = 0.070) showed preferable trends toward better RFI
+despite lack of statistical significance.
+
+Review of literature on OMBC
+Current status of MBC outcomes
+At present, MBC is generally incurable. Despite ample
+reports on therapeutic outcomes of MBC, results from
+observation for over 10 years are rare, and therefore little is
+known regarding OS and RFR (CR/NED maintenance rate)
+in order to assess the possibility of achieving clinical cure
+in MBC. We summarize findings from publications to date
+on prognosis of MBC based on long-term observations in
+Table 5. Though such publications are extremely limited,
+OS for MBC has been reported as 12.2–22.5% at 5 years,
+3.8–5.3% at 10 years, or 2.7% at 15 years. Long-term RFR
+(CR/NED maintenance rate), which one could consider as
+near clinical cure, has been reported as 3.1–3.2% at
+5 years, 1.9–3.4% for over 10 years, or 2–5% in general
+[3]. Furthermore, subpopulation of MBC who have
+achieved CR by chemotherapy could remain CR for over
+20 years [6, 14, 23].
+Reports by Greenberg and Rahman et al. from MDACC
+were the first to describe long-term prognosis of MBC with
+sustained CR and have refined a standard for current
+understanding on long-term outcome in MBC treated with
+chemotherapy [6, 15]. More recently, Güth et al. [11]
+reported results from a nonselective population-based
+cohort study on long-term prognosis and their characteristics in MBC. In their study, 5 out of 149 MBC patients
+(3.4%) remained with no clinical evidence of cancer
+relapse for 9–14 years. Their results were encouraging,
+suggesting that, though not many, a few MBC cases do
+survive for prolonged periods or even potentially achieve
+clinical cure, although the absolute necessity for including
+chemotherapy in treating every MBC patients was not fully
+supported in this particular study, since 4 out of 5 of those
+long-term survivors in that study had not received chemotherapy. The commentary on this article by Babiera
+et al. [24] also stressed that we must continue to learn not
+
+123
+
+Breast Cancer (2012) 19:218–237
+
+only from those who have succumbed to the disease but
+also from those who succeeded in escaping from their fate
+with MBC.
+Theories supporting multidisciplinary approach
+for OMBC and the Swenerton Score
+Revolution in understanding of breast cancer biology,
+natural history, therapeutic approaches, and evaluation of
+prognostic factors has modified our strategy for breast
+cancer treatment, either de novo or metastatic, and drastically improved survival. There have been three major
+paradigms for biology of breast cancer. First, in 1894, the
+Halsted theory defined breast cancer as a local disease that
+spreads in an orderly fashion and eventually becomes
+systemic, therefore proposing radical mastectomy as
+essential to cure the disease [25, 26]. The second paradigm,
+proposed by Fisher et al. in 1980, on the other hand, considered overt breast cancer as a systemic disease even at
+inception, therefore suggesting that therapies targeting
+local or regional lesions would not affect survival [27]. As
+the Fisher theory became more widely accepted than that of
+Halsted, importance of systemic therapies was underscored, and such treatments have been increasingly
+applied. However, subsequent evidence demonstrated that
+control over local lesions might also affect patient outcomes in MBC. Based on the two ostensibly contradictory
+theories and cumulative evidence, a third paradigm was
+proposed by Hellman et al. in 1994 [28], integrating the
+two previous hypotheses. The Hellman theory, also known
+as a spectrum paradigm, hypothesizes that breast cancer
+comprises a biological spectrum extending from purely
+localized to systemic nature, but also including many
+intermediate stages from the point of their first detection.
+Subsequently, in 1995, Hellman proposed another theory, describing a novel concept, OMBC, as a characteristic
+subset of MBC [16]. In principle, the new theory presumes
+that likelihood of metastasis, as well as the number of
+involved organs and the location of the metastases, reflect
+the nature of the tumor. It also reiterates the importance of
+local therapy, either with or without combination of systemic therapies in metastatic or relapsing breast cancer to
+achieve better prognosis. Patients with oligometastases,
+either de novo or following systemic treatment, should
+reflect their relatively ‘‘local’’ state of the tumor and
+therefore ablation could cure these lesions, whereas more
+advanced, i.e., systemic in nature, disease would require
+more aggressive and effective systemic approach. Newer
+surgical or radiation therapies may further be required for
+curative treatment of such oligometastases.
+Similarly, three major hypotheses on tumor cell kinetics
+have been proposed. The oldest is the Skipper–Schabel–
+Wilcox model (Log-kill model) reported in 1964. In this
+
+NR
+
+49
+
+Taxane ±
+anthracyclinebased
+
+71
+
+96
+
+75
+
+80
+
+88
+
+71
+
+69
+
+87
+
+79
+
+50
+
+76
+
+19
+
+66
+
+82
+
+42
+
+35
+
+73
+
+59
+
+NR
+
+65
+
+–
+
+61
+
+70
+
+38
+
+35
+
+61
+
+51
+
+NR
+
+43
+
+–
+
+41
+
+53
+
+23
+
+–
+
+52
+
+34
+
+20 years
+(%)
+
+0.0245
+
+0.0025
+
+0.0063
+
+0.0063
+
+P
+
+45
+
+83
+
+98
+
+34
+
+38
+
+128
+
+69
+
+25
+
+61
+
+80
+
+38
+
+25
+
+74
+
+57
+
+5 years
+(%)
+
+–
+
+38
+
+48
+
+20
+
+–
+
+50
+
+33
+
+10 years
+(%)
+
+–
+
+34
+
+39
+
+20
+
+–
+
+45
+
+29
+
+15 years
+(%)
+
+–
+
+34
+
+39
+
+20
+
+–
+
+45
+
+29
+
+20 years
+(%)
+
+NS
+
+0.0142
+
+0.0027
+
+\0.0001
+
+P
+
+4
+
+52
+
+96
+
+NA
+
+NA
+
+95
+
+48
+
+Median
+(months)
+
+13
+
+50
+
+64
+
+29
+
+22
+
+63
+
+45
+
+5 years
+(%)
+
+–
+
+32
+
+38
+
+18
+
+–
+
+42
+
+27
+
+10 years
+(%)
+
+Relapse-free interval remaineda
+
+a
+
+Estimated percentile in all evaluable patients
+
+CR complete response, HER2 human epidermal growth factor receptor type 2, NED no evidence of clinical disease, NA not applicable, No. number, NR not reached, NS not statistically significant,
+
+No statistical significance was shown for age, disease-free interval, hormone receptor status, HER2 status, Ki67 level, or intrinsic subtype
+
+192
+
+23
+
+70
+
+Anthracyclinebased
+
+Chemotherapy
+regimen
+
+10
+
+(?)
+
+187
+
+NR
+
+35
+
+65
+
+102
+
+(-)
+
+Liver metastases
+
+(?)
+
+(-)
+
+102
+
+292
+
+185
+
+15 years
+(%)
+
+Median
+(months)
+
+10 years
+(%)
+
+Median
+(months)
+
+5 years
+(%)
+
+Progression-free interval
+
+Overall survival
+
+40
+
+31
+
+Local therapy
+
+44
+
+2
+
+75
+
+1
+
+No. of involved
+organs
+
+All patients
+
+No. evaluable
+
+Table 3 Main results of univariate analysis for estimated overall survival, progression-free interval, and relapse-free interval remained
+
+–
+
+32
+
+38
+
+18
+
+–
+
+42
+
+27
+
+15 years
+(%)
+
+–
+
+32
+
+38
+
+18
+
+–
+
+42
+
+27
+
+20 years
+(%)
+
+NS
+
+0.0116
+
+0.0050
+
+\0.0001
+
+P
+
+Breast Cancer (2012) 19:218–237
+227
+
+123
+
+10 years
+(%)
+5 years
+(%)
+
+3.49
+
+123
+
+Treatment
+modality
+
+3.4% at
+9–14 years
+
+1973–1982
+
+1988–1993
+
+1990–1999
+
+Greenberg [6] and
+Rahman [15]
+
+Yamamoto [53]
+
+Güth [11]
+
+Treatment
+setting
+
+model, the authors hypothesized, using the L1210 leukemia cell lines, that tumor cell doubling time is constant
+regardless of cancer size, and therefore a set dosage of
+chemotherapeutic agent should kill tumor cells at a constant ratio [29]. According to this hypothesis, antitumor
+agents have to be administered up to the maximally tolerable levels, or treatments ought to be started while tumor
+cell mass is small enough for the host to tolerate an amount
+of antitumor agent necessary to effectively eliminate entire
+tumor cell populations. Subsequently, the Godie–Coldman
+hypothesis was proposed in 1979. In this hypothesis,
+authors noted a possibility for sudden spontaneous mutation that renders initially drug-sensitive tumor cells, which
+presumably account for the majority of the tumor mass in
+micrometastases, as drug-resistant after several cell cycles;
+therefore, delay in systemic therapy could result in a major
+disadvantage to patient survival [30]. The third hypothesis
+by Norton and Simon considers, in human breast cancers,
+that tumor cell proliferation follows a Gompertzian phenomenon and decelerates, while reaching a ‘‘plateau
+phase’’ as the tumor enlarges. Consequently, fast-growing,
+smaller tumors regress more rapidly in response to an
+
+Table 5 Summary of long-term outcomes of metastatic breast cancer in literature
+
+DFI disease-free interval, ER estrogen receptor, No. number, NED no
+evidence of clinical disease, PgR progesterone receptor
+
+Study
+period
+
+0.39
+
+Author (reference)
+
+1
+
+(?)
+
+No.
+patients
+
+Local therapy
+(-)
+
+3.1% at
+[5 years
+5 years
+(%)
+Median
+(months)
+Median
+(months)
+
+15 years
+(%)
+
+PFS
+OS
+
+1
+
+High (C14%)
+
+CCR continuing complete response, CT chemotherapy, DOX doxorubicin, HT hormonal therapy, NED no evidence of clinical disease, OS overall survival, PFS progression-free survival,
+R radiotherapy, S surgery, Tx therapy
+
+0.039
+
+Low (\14%)
+
+13.7
+
+0.157–0.951
+
+1.79
+
+Ki67 level
+
+149
+
+0.070
+
+1
+
+ER and/or PgR positive
+
+Various (HT, CT, R, S)
+
+0.901–13.508
+
+ER and PgR negative
+
+Front-line
+
+0.086
+
+Hormone receptor status
+
+17.1
+
+0.920–3.483
+
+2.68
+
+5.3
+
+0.030
+
+1
+
+2
+
+22.5
+
+1.10–6.55
+
+1
+
+28.0
+
+0.042
+
+279
+
+1.00–1.023
+
+No. of involved organs
+
+Various systemic Tx
+
+1.01
+
+DFI (months)
+
+Front-line
+
+0.023
+
+Relapse-free interval
+
+2.5
+
+1.18–8.58
+
+1
+2
+
+2.7
+
+1
+3.18
+
+No. of involved organs
+
+4.3
+
+0.097
+
+11.5
+
+0.665–132
+
+Progression-free interval
+
+2.7
+
+9.35
+
+3.8
+
+1
+
+Taxane ± anthracycline-based
+
+12.2
+
+Anthracycline-based
+
+10 years
+(%)
+
+Chemotherapy regimen
+
+21.3
+
+15 years
+(%)
+
+Overall survival
+
+1,581
+
+P
+
+DOX-based
+CT ± local therapy
+
+95% CI
+
+Front-line
+CT
+
+Hazard
+ratio
+
+CCR/NED
+
+Table 4 Main results of multivariate analysis
+
+3.2% at
+5 years
+
+Breast Cancer (2012) 19:218–237
+1.9% at
+[10 years
+
+228
+
+Breast Cancer (2012) 19:218–237
+
+antitumor agent compared with larger tumors, but also
+regrow faster (the Norton–Simon hypothesis) [31]. Plausibility of this hypothesis was demonstrated in a study with
+paclitaxel dose-dense therapy. Though efficacy and validity
+of those three hypotheses have not been proven in every
+tumor type or for all chemotherapy regimens, it appears to
+be commonly recognized that antitumor agents exert more
+efficient regression in smaller tumors than in those that
+have larger growth fraction and shorter doubling time.
+The ‘‘small is sensitive’’ concept was supported by data
+of a study on MBC treated with cytotoxic chemotherapy by
+Swenerton et al. [14]. In this study, authors evaluated
+influences of estimated quantitative tumor burden, instead
+of number of organs involved, in combination with other
+characteristics of the host, tumor, and therapeutic approaches, and assessed predictive and prognostic factors for
+responses to chemotherapy and consequent survival in 619
+MBC cases treated with FAC regimen (5-fluorouracil,
+adriamycin, and cyclophosphamide) or its modified version. The extent of metastatic lesions was evaluated by
+prospective review of the data from radiological images
+and clinical records using a scoring system [Swenerton
+Score (SS)]. The following 12 anatomical sites were considered: ipsilateral breast, contralateral breast, lymph
+nodes, skin/chest wall, lungs, pleura, liver, mediastinum,
+abdominal and pelvic cavities, bones, bone marrow, and
+central nervous system. A value was assigned to describe
+the extent of disease at each site as follows: 0 = no disease, 1 = strong suspicion of involvement but insufficient
+laboratory or clinical information to define further,
+2 = minimal involvement, 5 = moderate involvement,
+and up to 10 as extensive involvement. The total burden of
+metastatic disease was the sum of the scores for all known
+disease sites. Both responses (P = 0.01) and survival
+(P \ 0.01) showed highly significant correlations with the
+evaluation of total tumor burden by this scoring system.
+Not only was the overall response rate (ORR) clearly
+related to the estimated tumor burden, but the association
+was even more marked in cases that achieved CR. Patients
+with smaller tumor burden (SS \5) achieved CR in 38%,
+whereas the CR rate in those with larger tumor loads (SS
+[20) was only 7%. The difference in survival distributions
+among the various response categories was statistically
+significant (P \ 0.01). Patients achieving CR had a definite
+survival advantage over patients in PR (P = 0.04). These
+findings suggest that the Swenerton Score is a more sensitive measurement of tumor burden than those using the
+number of sites with metastatic lesions as a parameter.
+Swenerton’s study sends a critical message that early
+diagnosis and timely institution of combination chemotherapy for MBC, while the relative tumor burden is low,
+could be key to achieving best possible outcome. However,
+the Swenerton Score is not practical for clinical application
+
+229
+
+due to the huge efforts required in its calculation, and
+therefore it is rarely utilized. As another independent predictive factor that reflects tumor burden, circulating tumor
+cell (CTC) numbers are being evaluated. Cristofanilli et al.
+suggested that CTC numbers have superior and independent prognostic value for tumor burden. However, this
+study did not evaluate CTC numbers as a predictive factor
+for efficacy of thermotherapy in MBC [32].
+As discussed above, the spectrum paradigm and concept
+of oligometastases proposed by Hellman are ratified both
+by the logical hypotheses for tumor cell kinetics and by
+results from the Swenerton Score study. At individual
+cellular levels, each breast cancer encompasses a spectrum
+of local and systemic natures, and as the disease progresses, the systemic nature of the cancer dominates. Since
+clinical observations also indicate that smaller tumors are
+more susceptible to chemotherapy, multidisciplinary
+approach with early and aggressive systemic therapy
+combined with local treatment to OMBC should be considered as front-line treatment, particularly in those who
+show sufficient response to initial systemic therapies, to
+achieve greatest therapeutic benefits.
+Reports on therapeutic outcomes of OMBC
+Reports on therapeutic outcomes of OMBC are limited, the
+majority focusing on local treatment rather than curative
+attempt with multidisciplinary treatments. Table 6 presents
+a summary of such limited studies that intended cure of
+MBC, by multidisciplinary approaches utilizing systemic
+and/or local treatments. Among those studies, 4 (Boner,
+Blumenshein, Nieto, Hanrahan) initially performed local
+therapy targeting the tumor, followed by adjuvant-type
+therapy after induction of stage IV-NED. This approach
+emphasizes the relatively local nature of OMBC.
+Borner et al. [33] report data from the only randomized
+controlled trial (RCT) to date with patients of OMBC. In
+OMBC patients who developed isolated locoregional
+recurrence after mastectomy, absence of remote metastases
+was verified and locoregional lesions were surgically
+excised after irradiation to induce stage IV-NED, macroscopically determined as total removal of the recurrent
+lesions. Subjects were then randomly allocated either to
+receive an adjuvant-type therapy with tamoxifen (TAM) or
+not. Analyses of the follow-up data indicated that, in hormone-sensitive subjects, systemic administration of TAM
+significantly suppressed progression of the disease.
+Blumenschein et al. [34] described outcomes for 59
+OMBC cases with remote metastasis and/or relapse.
+Recurring lesions that are easily resectable, such as locoregional recurrence or metastases in the lung or liver, were
+first surgically removed to achieve stage IV-NED, followed by chemotherapy and, if applicable, radiation
+
+123
+
+123
+
+1973–1982
+
+1980–2010
+
+Rahman [15]
+
+Current study,
+2011
+
+OMBC
+
+MBC
+
+Retrospective
+phase II
+
+23
+18
+
+C3
+
+[20
+
+185
+
+15.5
+
+11–20
+
+Retrospective
+
+27
+21
+
+B10
+
+Swenerton Score
+
+27
+
+75
+
+1,581
+
+2
+
+103
+(6–329)
+
+[171.6
+
+NR
+
+87
+
+80
+
+1
+
+No. of involved
+organs
+
+Front-line Tx: CT
+
+Prospective
+
+26
+
+259
+
+212.5b
+45
+
+62
+
+285
+
+60
+
+267b
+
+(4-108)
+
+SHDC ± R ± HT
+
+S ± R-DOC-based
+CT ± HT
+
+OMBC/
+stage IVNED
+
+62
+
+Prospective
+
+1998–2004
+
+1974–2004
+
+Hanrahan [17]
+
+OMBC/
+stage IVNED
+
+CT-R ± S ± HT
+
+S-CT ± R ± HT
+
+132
+
+59
+
+Retrospective
+
+44
+
+NR
+
+S ± R-DOX-based
+CT ± HT
+
+1991–1998
+
+Nieto [35]
+
+OMBC/
+stage IVNED
+
+NR
+
+Median
+(months)
+
+OS
+
+Observation
+
+167
+
+No.
+patients
+
+Adj. TAM
+
+75.6
+
+Phase III (RCT)
+
+1974–1992
+
+1986–1996
+
+Blumenschein
+[34]
+
+OMBC/
+stage IVNED
+
+Median
+(range)
+F/U
+duration
+(months)
+
+Study design and
+main treatment
+modality
+
+S and/or R
+(control)
+
+1982–1991
+
+Borner [33]
+
+Disease
+status
+
+1967–1976
+
+Study
+period
+
+Author
+(reference)
+
+Table 6 Summary of outcome of oligometastatic breast cancer in literature
+
+Median
+(months)
+
+5 years
+(%)
+
+79
+
+59
+
+56
+
+36
+
+62
+
+59
+
+42
+
+51c, 34d
+
+26d
+
+12
+
+69
+
+9
+
+11
+
+15
+
+10
+
+48
+
+42
+
+52
+
+45
+
+34
+
+41
+
+7
+
+52
+
+53a
+
+36
+
+29c,d
+
+[10 years
+(%)
+
+58
+
+33
+
+10 years
+(%)
+
+85a
+
+57
+
+5 years
+(%)
+
+59
+
+14
+
+Median
+(months)
+
+26*1
+
+12c
+
+[10 years
+(%)
+
+82*1
+
+16
+
+10 years
+(%)
+
+RFSI
+
+76
+
+74
+
+5 years
+(%)
+
+PFSI
+
+27
+
+34
+
+4
+
+10 years
+(%)
+
+27c,d
+
+26d
+
+3c
+
+[10 years
+(%)
+
+230
+Breast Cancer (2012) 19:218–237
+
+at 20 years
+p = 0.007
+
+31
+
+d
+
+35
+38
+
+74
+128
+
+2
+
+102
+
+69
+
+35
+
+35
+
+c
+
+61c, 52d
+73
+87
+292
+44
+1
+
+No. of involved
+organs
+
+CT ± S and/or
+R ± HT
+
+living patients, c at 15 years,
+At 44 months (3.7 years),
+
+b
+*1
+
+a
+
+45c,d
+50
+
+10 years
+(%)
+5 years
+(%)
+Median
+(months)
+[10 years
+(%)
+10 years
+(%)
+5 years
+(%)
+Median
+(months)
+
+Adj. adjuvant, CT chemotherapy, DOC docetaxel, DOX doxorubicin, F/U follow-up, HDC high-dose chemotherapy, HT hormonal therapy, MBC metastatic breast cancer, NED no evidence of clinical disease, No. number, NR not reached,
+OMBC oligometastatic breast cancer, OS overall survival, PFSI progression-free survival or interval, R radiotherapy, RCT randomized controlled trial, RFSI relapse-free survival or interval, S surgery, Tx therapy
+
+63
+95
+
+22
+
+42
+
+10 years
+(%)
+5 years
+(%)
+Median
+(months)
+[10 years
+(%)
+
+RFSI
+PFSI
+Study
+period
+Author
+(reference)
+
+Table 6 continued
+
+Disease
+status
+
+Study design and
+main treatment
+modality
+
+Median
+(range)
+F/U
+duration
+(months)
+
+No.
+patients
+
+OS
+
+231
+
+42c,d
+
+[10 years
+(%)
+
+Breast Cancer
+
+therapy to the site of relapse. The results from this study
+suggested a desirable outcome and potential cure with
+multidisciplinary treatment group in OMBC as a small
+subset of MBC, and that early diagnosis for MBC is of
+benefit.
+Nieto et al. reported outcome of selected 60 OMBC
+cases treated with multidisciplinary treatments combining a
+local therapy and high-dose chemotherapy with autologous
+hematopoietic stem-cell transplantation (HDC). Subjects in
+this study were limited to those who met at least one of the
+following criteria: metastatic lesion was surgically
+removable prior to HDC or was within a single irradiation
+field of curative intent, and bone marrow tumor cell infiltration was less than 5% by microscopic evaluations. Cases
+with liver or brain metastases, those that received chemotherapy for their metastatic lesions prior to the present
+study periods, or relapse within a previous irradiation field
+were excluded. Median observation period was 62 months.
+Median OS and 5-year OSR were 80 months and 62%, and
+median RFS and 5-year RFS rates were 52 months and
+52%, respectively. Multivariate analysis showed that cases
+that involved single organ had significantly better RFS
+(P = 0.03) compared with those whose metastatic lesions
+involved 2 or 3 organs. These results for long-term prognosis of OMBC are encouraging and imply a possibility to
+re-evaluate the current tenet, if larger-scale prospective
+randomized studies validate their findings, that early
+detection of relapsing cancer is of no benefit.
+In an editorial comment to the article by Nieto et al., the
+editor Hortobagyi introduced data from a clinical trial
+evaluating efficacy of adjuvant-type systemic therapy following local therapy on OMBC since 1974 at MDACC, to
+which the editor belongs. Taken together with data of the
+Nieto study, Hortobagyi suggested that 3–30% of selected
+MBC patients with distant metastases and those who
+achieve long-term disease-free status by multidisciplinary
+treatments are probably curable [4]. Subjects in the study
+by Nieto et al. indeed represent a subgroup of patients
+whose outcome would be affected by choice of therapeutic
+approach. Patients who are asymptomatic and hormone
+receptor positive are those expected to have most favorable
+prognosis, and therefore, according to the currently most
+common practice standard, are likely to initially receive
+palliative hormonal therapy. In contrast, data from the
+Nieto study suggest that this subgroup of patients would
+rather most benefit from more intensive, multidisciplinary
+approach. The editorial comment therefore emphasized the
+importance of large-scale controlled clinical trials to verify
+the hypothesis and also reiterates Nieto’s conclusion suggesting that an intensive monitoring strategy to detect
+relapsing lesions after mastectomy is essential.
+Hanrahan et al. summarized their 30-year experience of isolated recurrence cases with 4 phase II trials at
+
+
+
+ In this study, the subjects first received local
+therapy (surgery and/or radiotherapy) with curative intent,
+and efficacy of adjuvant-type chemotherapy in subjects
+who achieved stage IV-NED was evaluated. Doxorubicinbased regimens as adjuvant-type chemotherapy were performed in 259 out of 285 cases. Median observation periods until surviving subjects’ last visits were 212.5 months.
+Median OS time was 87 months with OSR of 56, 42, and
+26% at 5, 10, and 20 years, respectively, and median RFS
+time of 42 months with RFS rates of 41, 34, and 26% at 5,
+10, and 20 years, respectively. There were 28 patients
+(10.8%) who remained disease free for more than 20 years.
+Despite several historical biases, this is the study to date
+with largest scale and longest observation period, in which
+effects of adjuvant-type chemotherapy in OMBC patients
+who achieved stage IV-NED by a local therapy were
+evaluated. Authors also performed comparative analyses
+with archival control patients treated only with local therapy at their institution and found that patients who received
+an adjuvant-type chemotherapy after the induction of
+stage IV-NED showed higher OS and RFS rates. At
+present, data based on a phase III randomized control trial
+evaluating efficacy of adjuvant-type chemotherapy in
+stage IV-NED breast cancer patients are not yet available.
+Nonetheless, the result from MDACC clearly suggests an
+importance of adjuvant-type chemotherapy in managing
+stage IV breast cancer patients.
+A report in the Cochrane Library summarized current
+understanding on efficacy of systemic treatments against
+locoregional recurrence in stage IV-NED breast cancer
+cases after receiving curative local treatment. Unfortunately, 3 out of the 4 RCTs included in that comprehensive analysis, other than the previously mentioned Borner
+study, were of small scale with sample sizes less than 20,
+and therefore the review had to conclude that evidence
+supporting efficacy of systemic therapy following local
+therapy against locoregional recurrence is insufficient.
+Rahman et al. also reported long-term outcome of the
+same patient group that Greenberg et al. had reported. The analyses did not solely focus on OMBC or multidisciplinary approach with local therapy of curative
+intent. Nevertheless, the study warrants mention as it
+addresses many aspects that we intend to stress in this
+review article, as: it was a rare report that included
+cases presumed as OMBC, it was a clinical trial that
+utilized systemic chemotherapy as an initial treatment for
+relapsing tumor, outcomes for up to 5 years were
+shown despite lacking details of local treatments, and it
+showed that patients with less organ involvement with
+metastatic lesions and with lower Swenerton Score demonstrated better CR rates, as well as 5-year OS and PFS,
+indicating that OMBC with lower tumor burden represents
+a subgroup with relatively good prognosis.
+
+
+
+Breast Cancer
+
+We believe that the present assessment of experience
+with OMBC patients in our institution for the past 30 years
+is the first to consider OMBC as a systemic disease and to
+describe corresponding outcomes in response to multidisciplinary strategy, first with systemic chemotherapy, followed by local therapy in a selected subject population who
+responded to the initial systemic treatments.
+Comparison of the data from various studies is challenging, as criteria for subject selection and specific therapeutic approaches are not identical. Nonetheless, overall
+prognosis for OMBC are OSR of 56–87, 35–73, and
+26–25%, and RFR of 22–63, 27–42, and 26–42%, at 5, 10,
+and 20 years, respectively, though reports on outcome over
+10 years are very limited (Table 6). These data suggest
+that, though still challenging, prognosis for patients with
+OMBC is more promising than that for patients with MBC
+in total (see Table 5 and discussion in the previous
+section).
+Benefits of local and systemic treatment for OMBC
+At present, it is not fully understood how or when to
+integrate such local management into standard systemic
+therapies for MBC or which subpopulations of patients
+would most benefit from such treatments. Local therapy,
+other than as a palliative means, is not generally recommended for early-stage MBC patients in current clinical
+practice. However, such approach may be worth consideration in a limited population of OMBC that demonstrates
+good response to systemic therapy. No data from
+RCT assessing efficacy of local therapy for OMBC are
+currently available. Discussion regarding outcomes of
+metastatic lesions in various organs can be found in other
+articles of this Special Feature. Unfortunately, reports on
+OMBC outcomes treated with local therapy are oftentimes
+biased by various factors such as patient selection or
+leading times. Based on results from nonrandomized
+comparative studies on local therapy or observational
+studies in patients who received local therapies, overall
+outcome for OMBC appears promising, though some
+investigators argue that these results showing preferable
+outcomes might be incorrect due to patient selection biases. In addition, difference in tumoricidal effects of systemic and local therapy is of consideration. Chemotherapy
+could effectively eliminate cancer cells in a tumor burden
+of \1 million cells, whereas surgical debulking procedure
+can easily remove a focus of cancer up to an estimated 50
+billion cells. Every 7 Gy irradiation would kill approximately 1 logarithm cells in radiosensitive tumors, i.e.,
+56 Gy irradiation eliminating every cancer cell in a
+metastasis with 100 million cells. On the other hand,
+therapies targeting local lesions are not effective in eliminating cancer cells that could be systemically spread but
+
+Breast Cancer
+
+might be subclinical. Therefore, we should carefully
+examine characteristics of each therapeutic approach, and
+data from prospective studies on optimal combination of
+systemic and local therapies should be collected to establish therapeutic strategy that is maximally tumoricidal.
+Recent advances in research on cancer stem cell (CSC)
+biology have revealed possible mechanisms by which CSC
+could affect therapeutic efficacy. Biological characteristics
+of CSCs may be distinct in either primary or metastatic
+lesions or in circulation. CSCs in a metastatic lesion may
+differentiate to tumor cells, which may cause a second
+metastasis via circulation. These possibilities also stress the
+importance of locally targeting CSCs.
+Interestingly, 30–40% of clinically diagnosed OMBC
+patients treated first with local therapies and achieving
+stage IV-NED demonstrate widespread metastases within
+3 months after the local therapy, and eventually, 50–80%
+progress to MBC within 2 years. These observations indicate that the subpopulation of patients diagnosed as OMBC
+could actually have other lesions that are not clinically
+detectable but equivalent rather to MBC, which cannot be
+controlled with local treatment only. As a result, overall
+5-year OS rates in OMBC are 4–36%. The largest study
+so far on outcomes of stage IV-NED OMBC patients,
+conducted at MDACC as mentioned earlier in our assessment of the previously published study results, was not a
+RCT. Hortobagyi, a lead investigator of this study, ponders
+that, considering the extremely high incidence of additional
+metastases when treated with regional treatment only,
+control arm was not ethically acceptable. RCTs on
+efficacy of systemic treatment in stage IV-NED patients to
+date are also only small scale and have not sufficiently
+proven the benefit of systemic approach. Accurate
+selection of ‘‘pure’’ OMBC by newer diagnostic means and
+yet-to-be identified markers would allow us to determine
+exact efficacy and plausibility of these two approaches,
+either solo or in combination. Whether local or systemic
+therapy should be the first to be administered in treatment
+of OMBC is another important aspect that has not been
+clarified.
+Guidelines for treatment of OMBC
+The National Comprehensive Cancer Network (NCCN)
+Clinical Practice Guidelines in Oncology, Breast Cancer
+version 2 (2011) recommends to initially perform a local
+therapy (surgical resection and/or radiation therapy), with
+consideration of subsequent systemic therapies for locoregional recurrence (breast, chest wall, axillary, supraclavicular, and internal mammary node recurrence) [38].
+Efficacy of chemotherapy following the local therapies on
+isolated local and/or regional ipsilateral recurrence is being
+evaluated prospectively by an international multicenter
+
+
+
+The international guideline for management of MBC:
+Can MBC be cured? by the European School of OncologyMetastatic Breast Cancer (ESO-MBC) Task Force, is
+another important guideline, based on the discussion at the
+European Breast Cancer Conference (EBCC)-6,]. In particular, the guidelines focus on
+current understanding and therapeutic approaches for
+OMBC with one or only a few organs involved with
+metastatic lesions, since these form a distinctive subset of
+MBC patients who are ‘‘potentially curable’’ and would
+most benefit from multidisciplinary treatment. As shown in
+the outline (Table 7), the guidelines conclude, ‘‘The presented data, overall, seem to suggest the possibility of a
+curative multidisciplinary therapeutic approach for at least
+a fraction of patients with limited MBC. Based on the
+available data, the ESO-MBC Task Force retains its original recommendation statement (2007): A small but very
+important subset of MBC patients, for example, those with
+a solitary metastatic lesion, can achieve complete remission and a long-term survival. A more aggressive and
+multidisciplinary approach should be considered for these
+selected patients. A clinical trial addressing this specific
+situation is needed’’.
+
+Discussion
+Cure for MBC is practically impossible to achieve with our
+current therapeutic tactics. However, OMBC, a subgroup
+of MBC, demonstrates relatively favorable prognosis. In
+the present study, we analyzed outcomes of OMBC from
+the 30-year experience of our own institution and other
+study results reported in literature, intending to gain perspective on the possibility of clinical cure for MBC.
+First, we aimed to attest whether prolonged relapse-free
+condition (CR/NED maintenance) can be sufficiently
+assumed as clinical cure of OMBC, by evaluating longterm outcome of OMBC patients in our institution. Onethird of the OMBC patients treated with multidisciplinary
+approach in our institution were expected to survive over
+20 years, and one-fourth of the entire subject population
+analyzed were supposed to remain relapse free, based on
+the estimated OS and CR/NED maintenance rates,
+respectively. None of those who achieved CR/NED
+developed progressive disease after 101 months. Patients
+with a single organ involved with metastasis showed
+markedly better prognosis. These data indicate, despite
+various biases intrinsic to a retrospective analysis, that
+OMBC represents a small but particular subgroup of MBC,
+in which prolonged relapse-free interval/survival (CR/NED
+maintenance) and subsequent clinical cure are not
+
+
+Breast Cancer  
+
+Table 7 Outline of international guidelines for metastatic breast cancer: Can metastatic breast cancer be cured? (2010)
+Identification of MBC patients suitable for
+curative treatment
+
+Gene expression profiling may identify the highest probability of therapeutic benefit (potentially
+leading to cure), and advances in pharmacogenetics may allow selection of the therapeutic
+options with the higher therapeutic efficacy for the individual patient. Improved diagnostic tools
+will improve the identification of truly solitary metastatic lesions susceptible to effective local
+treatment.
+
+Definition of cure and appropriate endpoints
+
+‘‘Cure’’ does not necessarily mean destroying every cancer cell, but rather rendering the disease
+harmless (without clinically significant adverse effects) for prolonged periods. Importantly, the
+ultimate goal in MBC management is to prolong duration of life while maintaining good quality
+of life. New endpoints must be defined to assess this global definition of cure.
+An increasing number of randomized clinical trials document statistically significant
+improvements in disease control with modern chemotherapy in MBC. In addition, a small but
+recognizable subset of patients achieves long-term remission.
+
+The role of systemic treatment
+
+‘‘Adjuvant’’ systemic therapy after local
+treatment
+
+Available data suggest that, despite important differences in patient characteristics and selection
+bias, at 5 years after local treatment for a locally recurrent or metastatic lesion followed by
+adjuvant systemic treatment, 36–52% of patients remain alive and without evidence of relapse.
+The utility of chemotherapy after locoregional treatment for isolated locoregional recurrence
+(i.e., not associated with distant metastasis) is still an open question being currently investigated
+in a joint study by the International Breast Cancer Study Group (IBSCG) and the National
+Surgical Adjuvant Breast and Bowel Project (NSABP), under the umbrella of the Breast
+International Group (BIG).
+
+The role of local treatment
+
+Available data demonstrate favorable results in a subset of patients undergoing ‘‘radical’’ local
+therapy for metastatic disease. Selection bias and the retrospective nature of available data do
+not allow for generalization of the results, and the use of such approaches must be
+individualized.
+
+Surgery for primary tumor in the presence
+of metastatic disease
+
+There is a bulk of retrospective data suggesting the importance of local treatment of primary
+tumor and strongly recommending that well-conducted randomized trials be performed in this
+setting. One such trial is being developed under the joint effort of Breast International Group
+and the North American Intergroup. While waiting for data from these studies, surgery for
+breast primary tumor can be considered as a relatively inexpensive and low-morbidity treatment
+which can offer rapid local control and has potential for survival benefit, provided it is
+performed optimally.
+
+Surgery for lung metastases
+
+The largest dataset comes from the International Registry of Lung Metastases and presents results
+of lung metastasectomy in 467 breast cancer patients. Complete resection was possible in 84%
+of patients and led to median survival of 37 months (5-year OS of 38%, 10-year OS of 22%).
+Pulmonary resection in MBC patients, apart from its potential therapeutic value, is also an
+important diagnostic tool, especially in patients with a suspected first recurrence. The
+proportion of lesions proved not to be breast cancer metastases in various series ranges from 7%
+to 66%.
+
+Surgery for liver metastases
+
+In various series of hepatic resection for breast cancer metastases, the reported median survival
+ranged from 14.5 to 63 months and the 5-year survival from 14% to 61%, in general, comparing
+well with nonsurgically treated patients. Most of the reported series, however, describe
+extremely selected patients. Effective local control can be achieved by radiofrequency ablation
+in solitary lesions less than 3 cm in diameter. This therapy provides promising survival rates in
+patients with no visceral extrahepatic disease or with single bone metastases.
+
+incidental but a plausible treatment goal by aggressive
+application of neoadjuvant chemotherapy-type multidisciplinary treatment. The second aim of the present analysis
+of OMBC outcomes in our institution is to elucidate possible factors that affect OMBC prognosis. We identified
+such factors by multivariate analyses as single organ
+involvement with metastatic lesions for both PFI and RFI,
+and administration of local therapy and shorter DFI for
+RFI. Anthracycline-based chemotherapy regimen for OS,
+and negative hormone receptors and low Ki67 index for
+RFI also showed trends for favorable prognosis though
+lacked statistical significance. These data verify our
+empirical understanding and rationale that single organ
+
+
+
+involvement by metastatic lesions is a characteristic for a
+MBC subgroup with favorable prognosis. Association of
+shorter DFI with better OMBC prognosis may reflect faster
+tumor cell proliferation that renders cells more susceptible
+to chemotherapy. The present assessment encompasses
+patients from over 30 years, when available choices of
+agents for systemic therapy were also changing. Therefore,
+patient outcomes cannot simply be compared. Nonetheless,
+patients treated with anthracycline-based regimens for their
+OMBC demonstrated better outcome than those treated
+with taxane with or without anthracycline-based regimens.
+We speculate that the former group of patients showed
+greater sensitivity for chemotherapy after their relapse,
+
+
+ they had less frequently received adjuvant/neoadjuvant chemotherapy for the primary lesions, and 
+their regimen for adjuvant/neoadjuvant therapy, if
+received, was less potent, preserving remaining potential
+for cancer cells to be targeted with a newly administered
+tumoricidal agent. Relapse following more potent adjuvant/neoadjuvant therapy might also reflect more malignant biology of cancer cells, which could be harder to
+eliminate. Ironically, recent data suggest that adjuvant/
+neoadjuvant chemotherapy for the primary lesion with
+more potent antitumor effects would reduce efficacy of the
+chemotherapy after relapses. Our data also
+agreed with others suggesting that chemotherapy is more
+effective on hormone receptor-negative than hormone
+receptor-positive tumors. Ki67 is a marker for cellular
+proliferative potential, and high Ki67 index has been
+associated with greater sensitivity to chemotherapy ;
+therefore, the present result was unexpected. We frequently experienced negative Ki67 staining in archived
+tissue samples. The negative staining in preserved old
+specimens is a limitation of the retrospective analysis and
+may have underestimated the effect of Ki67 on OMBC
+prognosis in our study. Dosage of chemotherapy agents we
+used in the present study was relatively low compared with
+those recommended by several more recent guidelines
+(NCCN clinical practice guidelines). Therefore, we cannot
+exclude a possibility that higher dose regimen might have
+resulted in higher rate for cure. Though some studies
+suggest dose-dependent increase of tumoricidal effects, others suggest that the most efficient antitumor effects
+may not be observed at the highest possible dose.
+As discussed above, biological heterogeneity of tumor
+cells might limit the dose-responsiveness of antitumor
+agents, which might be overcome by combination of
+newer, non-cross-resistant agents. Thirdly, we performed a
+systemic review of literature on the long-term outcome of
+OMBC, in search of a clue to envision possible clinical
+cure for MBC. As there are not many reports from studies
+on OMBC prognosis, we included data from our own
+institution in the systemic review. Comparison of the
+results from different studies in literature is challenged by
+various biases, such as differences in subjects’ background
+and therapeutic choice in each clinical study. Among
+those, lead-time bias needs particular attention. However,
+if, as is generally recognized at present, early detection and
+treatment of MBC do not prolong OS in MBC, lead-time
+bias should be negligible. Nevertheless, overall outcome
+for OMBC was markedly superior to those for the entire
+MBC populations. These data strongly suggest that OMBC is a specific subgroup, in which clinical
+cure is conceivable.
+In the long-lasting battle against breast cancer, recent
+advances in systemic and radiation therapies and
+
+
+
+supportive means for unfavorable effects of these treatment, as well as novel diagnostic techniques for early
+detection of metastatic or microinvasive lesions, are
+immensely accelerating. Those advances would show best
+and prompt benefit by targeting OMBC, rather than dealing
+with the entire MBC population. When improved clinical
+outcome is proven in OMBC, means of evaluation after
+curative surgery for early breast cancer must be restructured to better identify this subgroup. Biomarkers that
+determine biological characteristics for OMBC must be
+identified to enable selection of the subgroup with better
+prognosis, and provision of more appropriate treatment on
+a molecular basis will improve the outcome in OMBC,
+resulting in better prognosis of the entire MBC population.
+Integration of findings in the above-mentioned various
+areas will help us obtain better insights into treatments and
+outcome of MBC.
+As discussed in our evaluation of previous reports,
+clinical cure is no longer beyond hope, at least in OMBC,
+and 10 or even 20 years of long-term relapse-free survival/
+interval (CR/NED maintenance rates) can be achieved at
+relatively high incidence. Then, what level of proof for
+clinical cure in OMBC or MBC would reasonably justify
+curative intent in every breast cancer? In acute myeloid
+leukemia (AML), a malignant tumor that we can currently
+anticipate to achieve cure with a highest probability, longterm complete remission rates in adults are 20–30%, except
+for acute promyelocytic leukemia whose prognosis is
+exceptionally good [47–49]. These numbers appear similar
+to those we observed for RFSI in patients with OMBC.
+However, even in an era when cytosine arabinoside and
+daunorubicin, core agents in the current chemotherapy
+regimens, brought hope for cure of AML (1968–1974),
+renowned hematologists such as Crosby or Boggs were
+skeptical about aggressive chemotherapy and suggested
+that supportive and/or palliative treatments without performing chemotherapies would be sufficient [50–52], with
+their famous statement: ‘‘With the therapeutic agents that
+we have today, there is no hope for cure and an idea that
+cure is just around the corner is simply an optimistic illusion’’. Current advances in treatment of AML clearly
+show that history has answered the question of whether or
+not intensive approaches including chemotherapy should
+be pursued to achieve cure. This historical evidence also
+indicates that it is improbable that we will find a correct
+answer while in the midst of controversy.
+Cumulative, though limited, data on long-term prognosis in OMBC discussed herein clearly shed light on possible clinical cure in MBC, which we consider, to date, to
+be deemed fatal. As Dr. Wood commented at the ‘‘Can
+metastatic breast cancer be cured?’’ session in EBCC-6,
+April 2008 in Berlin, physicians and patients should set
+their mutual goal to achieve cure in treating breast cancer.
+
+
+If a physician in charge considers a cure as out of scope,
+sufficiently aggressive treatment that would potentially
+cure the disease would never be chosen, despite patient’s
+desire for a cure-oriented therapy, neglecting a possibility
+to achieve clinical cure. Therefore, in order to accumulate
+sufficient information to estimate outcomes and factors that
+determine the outcomes in MBC, it is essential, for both
+physicians and the patients with OMBC, to discuss their
+pros and cons and to make a best suitable choice from
+available therapeutic options. These options should take
+multidisciplinary approaches, and even rather aggressive
+ones that may not be highly provable to date to achieve
+clinical cure should not be overly discouraged.
+
+Conclusions
+The long-term outcome of OMBC in our institution for
+over 30 years was OSR of 59.2% at 10 years and 34.1% at
+20 years, and RFR of 27.4% at 10 and 20 years. Those
+whose metastatic lesions involved only one organ represented a subgroup with excellent prognosis (OSR of 73% at
+10 years and 52% at 20 years, RFR of 42% at 10 and
+20 years). There were 3 cases (4%) that we consider clinical cure, and more cases should be observed in the future.
+We also reviewed literature on OMBC outcomes and found
+that OSR is 35–73% at 10 years and 26–52% at 20 years,
+and RFR is 27–42% at 10 years and 26–42% at 20 years.
+Though more information should be compiled, current data
+indicate that long-term prognosis in OMBC is distinct from
+that in the entire population of MBC, in which relapse-free
+survival rate (RFS rate) for 10–20 years is as low as
+1.9–3.4% or 2–5%. As we assemble more data by longterm observations of multicenter prospective studies and
+from results of phase II and III trials, we anticipate confirmation of long-term prognosis for OMBC and verification of factors that affect prognosis, enabling identification
+of subgroups in MBC and to provide personalized and
+multidisciplinary care, leading to improved overall prognosis for MBC. To accomplish this impending task,
+cooperative efforts beyond a single institution and an
+individual physician’s lifetime career are imperative.
+Acknowledgments First and foremost, we acknowledge the courage and vision of the patients who participated in our clinical studies
+that enabled us to reach our present understanding of breast cancer
+biology. We would also like to thank all the physicians, nurses,
+pharmacists, and other staff members of the participating hospitals
+and universities for their genuine and continual efforts to support our
+study. We appreciate the considerable support provided by Ms. Akiko
+Akahori in her administrative work and data collection in preparing
+the current manuscript, and Mss. Michiko Kasai and Kana Tamura for
+their pathological expertise. The lead author is most grateful for
+30 years’ mentoring and assistance for a long-lasting journey in breast
+cancer clinical practice and studies in medical oncology by
+
+
+

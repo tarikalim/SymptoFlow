@@ -1,0 +1,466 @@
+
+Breast cancer risk factors
+
+
+Abstract
+Breast cancer is the most frequently diagnosed neoplastic disease in women around menopause often
+leading to a significant reduction of these women’s ability to function normally in everyday life. The increased
+breast cancer incidence observed in epidemiological studies in a group of women actively participating in social
+and professional life implicates the necessity of conducting multidirectional studies in order to identify risk factors associated with the occurrence of this type of neoplasm. Taking the possibility of influencing the neoplastic
+transformation process in individuals as a criterion, all the risk factors initiating the process can be divided into
+two groups. The first group would include inherent factors such as age, sex, race, genetic makeup promoting
+familial occurrence of the neoplastic disease or the occurrence of benign proliferative lesions of the mammary
+gland. They all constitute independent parameters and do not undergo simple modification in the course of
+an individual’s life. The second group would include extrinsic factors conditioned by lifestyle, diet or long-term
+medical intervention such as using oral hormonal contraceptives or hormonal replacement therapy and their
+influence on the neoplastic process may be modified to a certain degree. Identification of modifiable factors
+may contribute to development of prevention strategies decreasing breast cancer incidence.
+
+Introduction
+Breast cancer is the most frequently diagnosed neoplastic disease in women around menopause often leading to a significant reduction of these women’s ability
+to function normally in everyday life. According to 2010
+epidemiological data for the Polish population published
+on the National Cancer Registry web page, the number of new breast cancer cases was
+15 784, which constituted about 22% of all diagnosed
+cancers. The age distribution within the population of
+breast cancer patients is also quite characteristic. Eighty
+percent of these cancers are diagnosed in women aged
+50 and more. Moreover, according to epidemiological
+data, 50% of breast cancers occur in women aged from
+50 to 69 years. What is especially worrying, within the
+last two decades we have observed an over 2-fold increase in the occurrence of breast cancer in the Polish
+population, which, unfortunately, has not been correlated with a significant improvement in treatment outcomes. As it was presented in the analysis by the National Cancer Registry, 5-year survival was observed in
+75% of patients diagnosed in the years 2000-2002 and
+in 77.2% of patients diagnosed in the years 2003-2005.
+The increased breast cancer incidence observed in
+epidemiological studies in a group of women actively
+
+participating in social and professional life implicates
+the necessity of conducting multidirectional studies in
+order to identify risk factors associated with the occurrence of this type of neoplasm. Intensive studies conducted over the past several years showed that 20-30%
+of newly diagnosed breast cancer cases may be associated with the occurrence of various risk factors actively
+initiating or modifying the process of neoplastic transformation of breast cells. The most important ones are
+age over 40, history of mammary gland diseases, history of cancer in first-degree relatives, early menarche
+and late childbearing (after 35 years of age), woman’s
+age at menopause and Caucasian race. Despite the
+identification of many factors increasing the risk of
+breast cancer occurrence, in 75-80% of women no risk
+factor is found. The above-mentioned factors do not
+exhaust the list of possible factors. They only illustrate
+multidirectionality of the epidemiological, molecular
+and clinical studies that have been conducted. Taking the possibility of influencing the neoplastic transformation process in individuals as a criterion, all the
+risk factors initiating the process can be divided into
+two groups. The first group would include inherent factors such as age, sex, race, genetic makeup promoting
+familial occurrence of neoplastic disease or the occurrence of benign proliferative lesions of the mammary
+
+
+
+
+gland. They all constitute independent parameters and
+do not undergo simple modification in the course of
+an individual’s life. The second group would include
+extrinsic factors conditioned by lifestyle, diet or longterm medical intervention and their influence on the
+neoplastic process may be modified to a certain degree.
+However, it should be stressed that despite intensive
+studies and examinations, it is difficult to unequivocally
+explain the etiopathogenesis of the disease.
+
+Intrinsic factors conditioning breast
+cancer occurrence
+The first basic factor in this group is the patient’s age
+at the moment of diagnosis of neoplastic disease. As it
+was mentioned above, breast cancer is most frequently
+found in women around menopause. It is significantly
+less frequently found in women below 45 years of age.
+The analysis of morbidity coefficients for the Polish population has indicated a linear increase in the group of
+women aged between 40 and 59 years, then it reaches
+a plateau with a slight decreasing tendency in women
+aged 70 and older. A very interesting correlation can be
+observed between the age when neoplastic disease is
+diagnosed and the expression of the estrogen receptor
+found in the examined tumor tissue. Neoplasms showing estrogen receptor overexpression ER (+) are characterized by a frequency increasing with age as opposed
+to ER (–) tumors, which occur more frequently up to
+50 years of age and then reach a plateau. This phenomenon explains an increased percentage of ER (+) tumors
+diagnosed in women after menopause.
+Analyzing the structure of occurrence of breast cancer in relation to sex, we can firmly state that the neoplasm is diagnosed predominantly in women and only
+sporadically in men in whom it constitutes less than
+1% of all diagnosed breast cancers . Despite the incidental occurrence of this type of neoplasm in men, epidemiological data analysis has shown a clear increase
+in the occurrence of breast cancer in men over the last
+three decades. This phenomenon is difficult to explain, which is probably a result of the civilization progress ultimately leading to excessive obesity and longer
+life expectancy in men. On the basis of literature
+data it is hard to unequivocally describe the disease
+course and prognosis in this group of patients, which,
+as it seems, could be a result of a higher degree of advancement of the basic neoplastic process at the moment of diagnosis, coexistence of diseases associated
+with old age or more aggressive course of the neoplastic
+disease. Some other studies, however, did not reveal
+increased mortality due to breast cancer in relation to
+patients’ sex. This variation was initially explained
+by differences in the molecular mechanism underlying
+neoplastic transformation of mammary gland cells between women and men. However, numerous studies
+
+conducted within the last two decades have not confirmed this hypothesis. What is more, due to significant
+homology of the neoplastic processes in both sexes, it is
+nowadays suggested that the same treatment methods
+should be applied in women and men diagnosed with
+breast cancer. Detailed histopathological analysis
+of archive tissue material obtained from male patients
+diagnosed with breast cancer showed a significantly,
+over 80%, higher level of overexpression of estrogen
+and progesterone receptors than the one observed in
+material obtained from women with breast cancer. This
+overexpression is very often strictly correlated with an
+overexpression of bcl-2 protein. However, it is postulated that despite such a large percentage of ER (+)
+tumors, their response to tamoxifen is weaker and the
+receptor status is not associated with better prognosis. Another very interesting phenomenon is a small
+percentage of tumors with HER-2 (human epidermal
+growth factor receptor 2) super-expression in this group
+and reported lack of the associated prognostic value
+. Other risk factors leading to the occurrence of
+breast cancer in both sexes include an increased estrogens level due to obesity, testicles hormonal function
+impairment or Klinefelter syndrome.
+Race is a very important intrinsic factor elevating
+the risk of occurrence of breast cancer. As it was demonstrated in the study of Ban et al. [2], who analyzed
+data included in SEER (Surveillance, Epidemiology, and
+End Results) database, the frequency of occurrence
+of breast cancer in Caucasian women is about 127.4
+in 100 000 individuals. The indicators of mortality and
+5-year survival are 12.3% and 90.4%, respectively. In
+the case of Blacks, the frequency of occurrence of the
+neoplasm is about 121.4 in 100 000 individuals and the
+indicators of mortality and 5-year survival are 18.2%
+and 78.6%, respectively. The increased mortality due
+to breast cancer as well as a lower number of women
+surviving over 5 years from the moment of diagnosis is
+a result of a higher level of progression of the disease
+at the moment of initiating anti-neoplastic treatment
+and a high percentage of tumors with no receptor expression (triple negative tumors). It is worthwhile
+noticing that there is a much lower incidence of breast
+cancer among Hispanics, however, in their case, the disease is diagnosed at a younger age and often shows
+lack of expression of the estrogen or progesterone receptor as well as super-expression of HER2.
+Another intrinsic factor conditioning the occurrence
+of breast cancer is the familial susceptibility to this type
+of neoplasm. Intensive studies have been conducted in
+the recent decades, which led to identification of genes
+whose function disorder is associated with an increased
+risk of occurrence of malignant breast or ovarian cancer. The most important are genes BRCA1 and BRCA2
+(breast cancer susceptibility 1 and 2) fulfilling the function of tumor suppressor genes in a cell. The occurrence
+
+
+
+of changes in the coding sequence may lead to the
+development of hereditary syndromes called HBC-SS
+(Hereditary Breast Cancer Site Specific) or HBOC (Hereditary Breast Ovarian Cancer) syndrome, which manifest themselves in the form of breast and/or ovarian
+cancer. The correlation of epidemiologic and population
+studies has allowed for the estimation of the number of
+familial breast and/or ovarian cancer cases. They constitute about 10% of all newly diagnosed neoplasms of
+these organs. Identification of mutations in BRCA1
+or BRCA2 genes is associated with an increased risk
+of occurrence of breast and/or ovarian cancer in 65%
+or 45% of mutation carriers, respectively, depending
+on the mutation type. The hereditary syndromes
+caused by BRCA1 or BRCA2 gene mutations are associated with several clinical symptoms, which may require
+a complex molecular analysis in the patient. The first,
+basic criterion is early age of breast and/or ovarian cancer occurrence, usually in relatively young people below
+45 years of age. The second criterion that is taken into
+account is the identification of familial aggregation of
+breast and/or ovarian cancer cases in first- and seconddegree relatives on a pedigree. Lack of the abovedescribed aggregation, in the presence of other clinical
+circumstances, cannot prevent doctors from performing molecular diagnostics in such patients. As it was
+demonstrated in molecular screening of an unselected
+population of breast cancer patients, in 35% to 50% of
+the patients who were BRCA mutation carriers, no familial history was found. Due to this fact, the leading
+medical societies such as ASCO (American Society of
+Clinical Oncology), ESMO (European Society for Medical
+Oncology), NCCN (The National Comprehensive Cancer Network) or NICE (The National Institute for Health
+and Care Excellence) have drafted guidelines concerning molecular diagnostics, defining a group of patients
+who should undergo examination, in whom there is the
+highest risk of occurrence of mutations in BRCA1 or
+BRCA2 genes. The guidelines differ slightly as they have
+to consider genetic variations of different populations
+as well as socioeconomic conditions. However, they all
+assume the necessity of performing genetic testing to
+evaluate the presence of BRCA1 and/or BRCA2 mutations in patients diagnosed with breast cancer by the
+age of 35. The examination should also be performed
+in all patients diagnosed with breast cancer by the age
+of 40 whose tumor was characterized by lack of estrogen, progesterone and HER2 receptor overexpression
+(triple negative patients). Genetic consultation is also
+recommended to patients with bilateral breast cancer
+and family history of breast and/or ovarian cancer, especially if the tumor occurred by the age of 50, as well
+as in men diagnosed with breast cancer. The indication for the examination of mutations in BRCA1 and
+BRCA2 genes may also be a family history of prostate
+cancer at an early age, pancreatic cancer or malignant
+
+
+
+melanoma. Nevertheless, despite meeting the criteria qualifying patients for molecular examination, in
+over 90% of tested patients no mutations are found in
+BRCA1 or BRCA2 genes, which does not exclude, however, the familial background of the neoplastic disease. One of the reasons for this outcome may be the
+scope of mutations analysis on a molecular level, which
+does not always fully reflect the “mutation status” of
+a given population or an individual patient. It most frequently results from economic considerations limiting
+the analysis to the most frequent mutations in a given
+population, which leads to overlooking mutations occurring in a given population in only a small percentage
+of cases but still disrupting the functions of BRCA1 or
+BRCA2 genes. The quality of the performed molecular
+evaluation is also strongly influenced by the selection
+of the analyzed genes resulting from the quality of the
+pedigree as well as prioritizing the information of neoplastic diseases over the one without any direct connection with the initial diagnosis. Omitting pedigree
+information, apparently not associated with the basic
+disease, which may suggest the existence of other hereditary processes may direct the doctor’s attention to
+conclusions excluding the analysis of mutations of other genes that are significantly involved in the neoplastic
+transformation such as CHEK2 (checkpoint kinase 2),
+PTEN (phosphatase and tensin homolog), PALB2 (partner and localizer of BRCA2), RAD51C (S. cerevisiae, homolog of, C), CDH1 (cadherin 1) or genes determining
+Lynch syndrome. Analyzing the function of genes
+in the process of development of familial breast and/
+or ovarian cancers, one must remember that it can be
+to a certain degree modified under the influence of
+environmental factors or result from single nucleotide
+polymorphisms.
+Also the role of natural hormonal changes taking
+place in the period of maturation and their influence
+on the risk of occurrence of breast cancer in adult life
+is very interesting. As it was pointed out in a work of
+Hsieh et al., early menarche is associated with a higher
+risk of occurrence of breast cancer due to a longer period of exposure to estrogens activity [20]. Each delay of
+menarche by 2 years reduces the risk of occurrence of
+breast cancer by 10%. What is interesting, in women in
+whom menarche occurred before the age of 12, estrogen expression in each menstrual cycle is higher than
+in women who had menarche after the age of 13.
+There is a slightly different correlation between the risk
+of occurrence of breast cancer and age of the first successful pregnancy. Early pregnancy and due date delivery has a protective value and is associated with a lower risk of breast cancer. This correlation mostly concerns
+women with hormone dependent (ER positive) breast
+cancer diagnosed in the postmenopausal period.
+Similar protective activity, decreasing the risk of occurrence of breast cancer is provided by prolonged breast-
+
+
+
+feeding. As it is estimated on the basis of epidemiologic observations, each year of breastfeeding reduces
+the risk of neoplastic disease by 4.3%. Unfortunately, this effect has not been observed in European
+countries, which is most often connected with cultural
+habits and drive for quick return to professional activity, thus shortening the period of breastfeeding. The
+correlation of the above-described observations with
+the presence of mutations in BRCA1 and BRCA2 genes
+showed a 32% breast cancer risk reduction in BRCA1
+mutation carriers who breastfed their children for
+a year or longer. However, a similar phenomenon has
+not been observed in carriers of BRCA2 gene mutation. Moreover, in breastfeeding women, in whom breast
+cancer does occur, tumors with super-expression of the
+estrogen receptor occur three times more frequently
+than in women who have never breastfed. This observation is hard to explain. It seems that breastfeeding facilitates correct differentiation of epithelial cells of the
+lactiferous ducts thanks to which they are less susceptible to the activity of mutagenic factors and disorders on
+the DNA (deoxyribonucleic acid) level, which can occur
+during the cell replication process. Also the age of
+menopause is not irrelevant to the risk of occurrence of
+breast cancer. A literature review clearly demonstrates
+that each year of continuing menstruation increases
+the risk of breast cancer by 3%. This observation is also
+confirmed by a 50% reduction in the breast cancer risk
+in women who underwent ovariectomy by the age of
+40. This phenomenon is especially visible in the group
+of carriers of BRCA1 or BRCA2 mutations.
+When talking about intrinsic factors one must not
+forget about proliferative lesions of benign character
+occurring in mammary glands. They are benign, however, they can significantly increase the risk of occurrence of malignant lesions. Based on the epidemiologic
+data, in the group of women diagnosed with benign
+proliferative lesions of the mammary glands with cellular atypia and familial aggregation of breast neoplasms in first- and second-degree relatives there was
+an 11-fold increase in the breast cancer risk compared
+to women without cellular atypia and family history of
+cancer.
+
+Extrinsic factors conditioning breast
+cancer occurrence
+One of basic groups of extrinsic factors modifying
+the risk of breast cancer occurrence includes dietary
+habits, which may lead to obesity occurring especially
+frequently in populations of developed countries. Eating
+products that are rich in fat, leading to excess weight
+or obesity, as well as processed products containing
+a range of chemical substances, used to enhance flavor or preserve food, may be a factor promoting the
+neoplastic transformation process in mammary gland
+
+cells. This correlation, especially when observed
+in women in the postmenopausal period, is associated
+with an increased risk of occurrence of breast cancer
+without an overexpression of estrogen, progesterone or
+HER2 receptors. The above-described observations
+have been confirmed by Saxe et al. The authors
+showed that using low-fat diet in a group of women after menopause, who were treated for neoplastic disease,
+significantly decreased the risk of neoplasm relapse after the primary surgical procedure. The above-described
+observations also provide the basis for recommending
+physical activity to a group of obese women with breast
+cancer after the primary surgical procedure. The studies
+proved that regular physical activity, with a frequency of
+3-5 times a week reduces the risk of breast cancer occurrence by 20-40%, reinforces the immunological system, improves general fitness and the quality of life.
+A significant role in the modification of the risk of
+occurrence of neoplastic disease is played by dietary
+habits typical for a given age group or population. Eating products containing a large amount of anti-oxidants
+or rich in vitamin D may lead to a 20% reduction in the
+relative risk of breast cancer. The risk may increase as a result of drinking even a small amount of alcohol as it affects estrogen metabolism in the liver.
+
+Endogenous sex hormone blood
+concentration, hormonal therapy
+and breast cancer risk
+A high endogenous estrogen level is a well-defined
+risk factor contributing to a higher incidence of breast
+cancer. The analysis of prospective studies confirmed
+a strong association between increasing concentrations
+of sex hormones (total estradiol, free estradiol, estrone,
+estrone sulfate, androstenedione, dehydroepiandrosterone, dehydroepiandrosterone sulfate and testosterone) in postmenopausal women and a higher breast
+cancer risk. The significance of these data among
+premenopausal women is less clear partially because of
+a cycle-dependent variability of the hormone concentration in this group. Available studies on large cohorts
+of observed participants suggest that levels of circulating estrogens and androgens may also play an important role in the etiology of premenopausal breast cancer. The results of the Nurses’ Health Study II
+support another thesis that premenopausal levels
+of estrogens and androgens may be important for the
+development of postmenopausal disease. The influence of serum hormone levels on the risk of development of different breast cancer subtypes according to
+the receptor status was studied by Farhat et al.
+The analysis revealed that higher serum levels of bioavailable testosterone may be associated with lower
+risks of ER-negative breast cancer. On the other hand,
+both testosterone and estradiol were correlated with an
+
+
+
+increased risk of ER-positive disease in postmenopausal women.
+Exemestane, anastrozole and letrozole are aromatase inhibitors (AIs) that are known to inhibit the
+enzyme responsible for the conversion of androgens to
+estrogens and thus these drugs decrease blood estrogen levels in postmenopausal women. Taken together
+the above data prompted numerous studies evaluating AIs to lower the risk of breast cancer. The NCIC CTG
+MAP.3 trial was a prospective double-blind trial that
+investigated the role of exemestane in reducing the
+incidence of invasive breast cancer in postmenopausal
+women who were determined to be at increased risk.
+The trial revealed a significant 65% relative reduction in
+the annual incidence of invasive breast cancer among
+the investigated drug group with no statistically significant differences in the incidence of serious adverse
+events between groups. Another phase III trial that
+evaluated the AIs in postmenopausal women at high
+risk of breast cancer was IBIS-II in which anastrozole
+was associated with a 53% reduction in the incidence
+of invasive breast cancer and DCIS (ductal carcinoma
+in situ) when compared with placebo – the effect was
+significant in ER positive disease. Current ASCO
+clinical practice guidelines recommend exemestane
+as an alternative option to tamoxifen or raloxifene to
+reduce the risk of invasive breast cancer, specifically
+ER-positive in postmenopausal women at increased risk
+of breast cancer or with LCIS (lobular carcinoma in situ)
+or atypical hyperplasia. This indication was not accepted by the European Medicines Agency.
+The relationship between oral contraception (OC)
+and the risk of breast cancer still remains controversial.
+Some studies have suggested that using oral hormonal
+contraceptives increases the risk of breast cancer by
+24% compared to women who have never used them
+, and the largest incidence increase is observed in the
+course of using the contraception. On the other hand,
+the reanalysis of epidemiological studies showed a little or even no association between the risk of breast
+cancer and oral contraception. The differences between analyses could be also associated with changes
+in formulations of oral contraceptives during past decades. Moreover, different oral contraceptive formulations could lead to different risks of breast cancer. It
+was also described that the risk of occurrence of breast
+cancer drops significantly 10 years after discontinuing
+hormonal therapy and it is not dependent on the duration of their usage. In the 1990s, the Collaborative
+Group on Hormonal Factors in Breast Cancer confirmed
+no significant risk of breast cancer diagnosed 10 or
+more years after stopping OC (RR 1.01). Moreover, the
+cancers diagnosed in women who had used combined
+OC were less advanced clinically compared to never
+users. In the large, prospective study (116 608 females and 1 246 967 person-years of follow-up) was
+
+
+found that only one formulation of oral contraception
+was related to an increase in the risk of breast cancer
+in comparison with never OC users – triphasic ethinyl
+estradiol combined with levonorgestrel (RR 3.05). It
+should be underlined that non-triphasic formulations
+with levonorgestrel were not associated with increasing the risk of breast cancer . Other recent evidence
+suggests that triphasic OC formulation levonorgestrel is
+not associated with an increased risk of breast cancer.
+Further analyses did not show any significantly increase
+in the breast cancer risk among women aged 35 to 64
+(current or former OC users). The relative risk was 1.0
+for women who were currently using OC and 0.9 for using in the past. The analysis highlights the lack of association between taking OC and an increased risk of
+breast cancer in women with a family history of this
+cancer. In another multicenter, population-based
+study, women were asked about OC formulation used
+in the past. The most common used formulations were
+monophasic (100 µg mestranol/1.0 mg ethynodiol diacetate; 35 µg ethinyl estradiol/0.5 mg norethindrone;
+35 µg ethinyl estradiol/1.0 mg norethindrone; 50 µg
+mestranol/1.0 mg norethindrone; 80 µg mestranol/
+1.0 mg norethindrone; 100 µg mestranol/2.0 mg nor­
+ethindrone; 100 µg mestranol/2.5 mg norethindrone;
+30 µg ethinyl estradiol/0.3 mg norgestrel; 50 µg ethinyl estradiol/0.5 mg norgestrel) and only one was multiphasic (35 µg ethinyl estradiol/0.5 mg (one week)/0.75
+mg (one week)/1.0 mg (one week) norethindrone).
+Based on multivariable analyses the researchers did
+not observe any significant correlation between OC
+formulation and increasing the breast cancer risk [42].
+The retrospective analysis of a population-based study
+(5113 breast cancer cases and 20 452 controls) did not
+show any association between use of levonorgestrel
+releasing intrauterine devices (IUD) and the increase
+in breast cancer. The recent evidence also excluded
+that levonorgestrel IUD could have any promotional
+effect on tumor growth [43]. Very interesting conclusions were obtained in a study in which a lower degree of neoplastic disease progression at the time of
+diagnosis was observed in women using hormonal
+contraceptives compared to women who had never
+used them [40].
+Using oral hormonal menopause therapy is associated with an increase in the breast cancer risk, which
+was correlated with the length of therapy, 15% in the
+case of 5 years and 34% in the case of 10 years [2]. The
+risk of occurrence of breast cancer is additionally enhanced by the use of two-component oral menopausal
+hormone therapy containing estrogen and progesterone (especially conjugated equine estrogens – CEE and
+medroxyprogesterone acetate – MPA) [44]. It should be
+noticed that the type of progestin may be a risk factor
+for breast cancer. Use of a synthetic medroxyprogesterone acetate may increase the number of cell division in
+
+
+
+mammary tissue and may cause greater proliferation
+of abnormal cells. Some authors observed that intake
+of natural progesterone did not result in the increase in
+the breast cancer risk however, further long-term studies are needed to clarify this hypothesis. The impact
+of androgens on promoting and development of breast
+cancer was unclear for many years. The risk of breast
+cancer associated with use of menopausal hormone
+therapy containing testosterone was assessed in the
+Nurses’ Health Study (24 years of follow-up; 1 359 323
+person-years). It was found in this study that the risk of
+breast cancer was nearly 2.5-fold greater among current
+users of estrogen plus testosterone therapies compared
+to never users of hormonal therapy. Based on results it
+was calculated that the risk of breast cancer associated
+with the current use of estrogen and testosterone therapy was significantly greater compared with estrogenonly and slightly greater than estrogen-progestin therapy (EPT). The increase in the breast cancer risk was 17%
+per year of taking HT containing testosterone. One
+of the observations during the Women’s Health Initiative Study (WHI) was the fact that menopausal hormone
+therapy had a delayed effect on the incidence of breast
+cancer – during the first 2 years of observation followup, the incidence was reduced even by 41% and it could
+be associated with increasing of density of breast tissue and decreasing the sensitivity of mammography.
+That is why, small tumors could be undiagnosed in the
+early stages and they were detected after two years in
+an advanced grade [47]. Based on WHI trial results it
+was shown that the use of an EPT combination is associated with an increase in breast density of 4.9% after
+two years. Unopposed estrogen therapy (ET) increased
+by 2.9% the density of breast tissue. Moreover, use of
+EPT led to an increasing number of abnormal results of
+mammography and the need for more invasive diagnostic method – breast biopsy.
+Estrogen-progestin therapy is associated with an increase in percent mammographic density (PMD) – the
+proportion of the total breast area occupied by dense
+tissue. There is a relationship between changes in PMD
+and the use of exogenous hormones. The use of EPT
+is directly associated with extensive percent mammographic density and led to an increase in PMD by 3-5%
+and the estrogen alone therapy increased PMD by 1.2%. On the other hand, use of an anti-estrogenic drugs
+(raloxifene, tamoxifen or aromatase inhibitors) results
+in decreasing PMD, even by 13.7% over 4.5 years.
+The risk of breast cancer was reduced by 52% in patients
+who observed a decrease in PMD of over 10%. It should
+be noticed that use of tibolone did not change percent
+mammographic density. Histopathological analysis has
+shown that extensive PMD is associated with a greater
+number of cells and total nuclear area (including epithelial and non-epithelial cells) and an increased amount
+of collagen and glandular structures.
+
+Systemic menopausal hormone therapy should be
+avoided in women who have gene mutations (BRCA1,
+BRCA2) or first-degree relatives with breast cancer or
+atypical findings in breast biopsy. Use of EPT for less
+than three years probably does not increase the breast
+cancer risk significantly but it can impede the detection
+the early stages of breast cancer.
+

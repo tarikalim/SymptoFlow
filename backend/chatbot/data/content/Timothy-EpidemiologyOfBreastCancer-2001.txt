@@ -1,0 +1,60 @@
+https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(00)00254-0/fulltext
+---
+
+**Epidemiology of Breast Cancer**
+
+**Breast Cancer Overview**  
+Breast cancer is the most common cause of cancer death among women worldwide, with rates varying about five-fold around the world. In regions with traditionally low rates, breast cancer incidence is increasing. Many of the established risk factors are associated with oestrogens, including early menarche, late menopause, obesity in postmenopausal women, and high concentrations of endogenous oestradiol, which are linked to an increased risk of the disease. Other factors like childbearing and breastfeeding reduce risk, with greater protection seen in those with an early first birth and multiple children. Oral contraceptives and hormonal therapy slightly increase risk, but the effect diminishes after discontinuation. Alcohol and physical activity also affect risk, with alcohol increasing it, and physical activity providing protection.
+
+**Age and Incidence**  
+The incidence of breast cancer increases rapidly with age, particularly during the reproductive years, and continues to rise slowly after age 50, which marks the average age at menopause. Cumulative incidence by age 55 is about 2.7%, 5.0% by age 65, and 7.7% by age 75 in Europe and North America.
+
+**International Variation and Time Trends**  
+Breast cancer incidence and mortality rates vary dramatically across different countries. Higher rates are observed in developed nations, while lower rates are found in developing countries, including Japan. Migration from low-risk to high-risk countries leads to an increase in breast cancer rates, eventually becoming similar to the local population's rates. Incidence has steadily risen in the UK and Japan, particularly from the 1960s to the 1990s. Changes in breast cancer rates over time can be attributed to various factors, including screening programs and improved treatments.
+
+**Risk Factors for Breast Cancer**  
+- **Menarche and the Menstrual Cycle**: Early menarche is linked to higher breast cancer risk, while delayed menarche decreases it. The effect is more pronounced in premenopausal women.
+  
+- **Childbearing**: Childbearing has a dual effect. It increases risk shortly after a birth, but over time, it reduces breast cancer risk. Women with multiple children have a significantly lower risk, and those who have their first child early benefit more from protection.
+
+- **Breastfeeding**: The association between breastfeeding and reduced breast cancer risk is still debated, but evidence suggests that longer breastfeeding periods, particularly in less developed countries, provide protection.
+
+- **Menopause**: Women who experience menopause at a later age are at a higher risk. The risk increases by about 3% for each year of delay.
+
+- **Endogenous Hormones**: Higher levels of oestradiol in postmenopausal women are associated with a doubled risk of breast cancer.
+
+- **Oral Contraceptives**: The use of combined oral contraceptives increases breast cancer risk by around 25%. However, the excess risk disappears 10 years after discontinuation.
+
+- **Hormonal Therapy for Menopause**: Hormone replacement therapy increases breast cancer risk, with longer durations of use contributing to higher risk.
+
+- **Other Exogenous Hormones**: Diethylstilboestrol (DES) use during pregnancy was linked to a 30% increase in breast cancer risk. Studies on infertility treatments suggest a transient increase in risk.
+
+- **Benign Breast Disease**: Benign breast conditions, especially proliferative lesions with atypia, can significantly increase breast cancer risk.
+
+- **Diet**: High-fat diets have been hypothesized to increase risk, but recent studies have not confirmed this link. Conversely, high vegetable consumption may reduce risk.
+
+- **Alcohol**: Alcohol consumption is positively associated with breast cancer risk. The risk increases by about 10% for each 10 grams of alcohol consumed daily.
+
+- **Exercise**: Regular physical activity is associated with a reduced risk, with stronger evidence in premenopausal women.
+
+- **Ionizing Radiation**: Exposure to radiation, particularly before age 40, is a known risk factor for breast cancer. Even low doses, such as those from diagnostic radiography, are linked to increased risk.
+
+- **Electromagnetic Fields**: Although some studies suggest a potential link, the evidence for electromagnetic fields increasing breast cancer risk is not conclusive.
+
+- **Environmental Oestrogens**: Certain chemicals that mimic oestrogens, like DDT and PCBs, have been studied, but current evidence does not show a strong connection to increased breast cancer risk.
+
+**Genetic Factors**  
+Most breast cancer cases are influenced by environmental and lifestyle factors rather than inherited genetic factors. However, some families with multiple cases of breast cancer exhibit an inherited genetic predisposition. High-risk mutations, such as those in the BRCA1, BRCA2, P53, PTEN, and ATM genes, account for a smaller portion of breast cancer cases.
+
+**Prevention**  
+- **Lifestyle Changes**: Modifying lifestyle factors such as reducing alcohol consumption, avoiding obesity, maintaining regular physical activity, and breastfeeding can significantly reduce breast cancer risk.
+  
+- **Hormonal Therapies**: Careful use of oral contraceptives and hormone replacement therapy for menopause can minimize breast cancer risk, especially when used at lower doses and for shorter periods.
+
+- **Tamoxifen and Other Selective Oestrogen-Receptor Modulators**: Tamoxifen has shown substantial benefits in reducing recurrence and improving survival rates in women with breast cancer. Its use as a preventative measure is still under review, but early studies have shown promise.
+
+**Conclusion**  
+Hormonal factors play a significant role in breast cancer causation. Factors that increase exposure to oestrogens, such as early menarche, late menopause, and higher oestradiol concentrations, increase breast cancer risk. Prevention strategies, including lifestyle modifications and careful use of hormonal therapies, can help reduce the risk. Further research into modifiable lifestyle factors, particularly diet, may offer additional prevention methods.
+
+---
+

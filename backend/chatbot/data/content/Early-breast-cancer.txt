@@ -1,0 +1,1298 @@
+
+
+Adoption of urbanised lifestyles together with changes in reproductive behaviour might partly underlie the continued
+rise in worldwide incidence of breast cancer. Widespread mammographic screening and eﬀective systemic therapies
+have led to a stage shift at presentation and mortality reductions in the past two decades. Loco-regional control of the
+disease seems to aﬀect long-term survival, and attention to surgical margins together with improved radiotherapy
+techniques could further contribute to mortality gains. Developments in oncoplastic surgery and partial-breast
+reconstruction have improved cosmetic outcomes after breast-conservation surgery. Optimum approaches for
+delivering chest-wall radiotherapy in the context of immediate breast reconstruction present special challenges.
+Accurate methods for intraoperative assessment of sentinel lymph nodes remain a clinical priority. Clinical trials are
+investigating combinatorial therapies that use novel agents targeting growth factor receptors, signal transduction
+pathways, and tumour angiogenesis. Gene-expression proﬁling oﬀers the potential to provide accurate prognostic
+and predictive information, with selection of best possible therapy for individuals and avoidance of overtreatment and
+undertreatment of patients with conventional chemotherapy. Short-term presurgical studies in the neoadjuvant
+setting allow monitoring of proliferative indices, and changes in gene-expression patterns can be predictive of
+response to therapies and long-term outcome.
+
+Introduction
+Breast cancer remains the most common malignancy in
+women worldwide and is the leading cause of cancer-related
+mortality.1 More than 1·2 million cases are diagnosed
+every year, aﬀecting 10–12% of the female population and
+accounting for 500 000 deaths per year worldwide. Despite
+a higher prevalence of breast cancer in industrialised than
+in non-industrialised countries, incidence rates are
+steadily increasing in less aﬄuent societies.2 Breast cancer
+is mainly a postmenopausal disease, with more than
+three-quarters of tumours hormone responsive. This
+hormone dependency interacts with environmental and
+genetic factors to determine incidence and progression of
+the disease. Lifestyle and environmental eﬀects are
+potentially modiﬁable risk factors and oﬀer the prospect
+of interventions that might ultimately reduce the global
+burden of the disease.3 The documented decrease in
+breast-cancer rates in the USA in 2003, after a gradual rise
+during the preceding 30 years, exempliﬁes the eﬀect of
+risk modiﬁcation. This reduction has been linked to
+decreased use of exogenous hormones after adverse
+reports of an association with increased breast-cancer risk4
+and a possible reduction in the uptake of screening
+mammography in view of its debatable modest beneﬁt.
+Mortality rates for breast cancer have fallen in many
+industrialised nations since around 1990, having
+previously been stable or increasing for several consecutive
+decades.5–7 These falls in mortality have been attributed
+mainly to the introduction of mammographic screening
+programmes and the widespread use of adjuvant systemic
+therapies with tamoxifen.8 A US population-based study
+showed that these mortality trends are accentuated in
+women with oestrogen-receptor-positive tumours
+compared with those with hormone-insensitive disease.9
+Moreover, this decrease in mortality was almost exclusively
+conﬁned to women younger than 70 years (ﬁgure 1). This
+Seminar will focus on the epidemiology, diagnosis, and
+management of early breast cancer when there is no overt
+
+evidence of distant metastases and for which treatment
+intent is curative. Some patients can be cured with locoregional treatment alone whereas many will have
+undetectable micrometastatic disease and require
+adjuvant systemic therapy.
+
+Epidemiology
+Age and female sex are major risk factors for breast
+cancer, with incidence rates rising rapidly between the
+ages of 35 and 39 years and subsequently levelling to a
+plateau after 80 years.10 Nonetheless, the rate of increase
+slows around the age of 50 years, corresponding to the
+average age of menopause, which creates a point of
+inﬂection in the age-speciﬁc incidence curve known as
+Clemmesen’s hook (ﬁgure 2).11 This transition point is an
+indicator of the conﬂuence of two separate rate curves for
+oestrogen-receptor-positive and negative tumours that
+have fairly favourable and poor prognoses, respectively.10
+The incidence of oestrogen-receptor-negative tumours
+increases rapidly until age 50 years and then ﬂattens or
+decreases. By contrast, the incidence of oestrogenreceptor-positive tumours is similar up to the age of
+50 years, but then continues to climb at a slower pace.
+
+
+Search strategy and selection criteria
+We searched the Cochrane Library and Medline between
+1998, and 2008, with the term ”breast cancer”. In section of
+publications, we used discretion from our perception of the
+importance of the articles on the basis of citation within the
+medical published work and at major international
+conferences (San Antonio Breast Cancer Symposia;
+American Society of Clinical Oncology meetings). We restricted
+searches to the past 5 years, but some older referenced papers
+were collated from our personal collections. Some review
+articles have been cited to provide a more comprehensive list
+of references than is permissible in this Seminar.
+
+
+
+
+Thus oestrogen-receptor-negative tumours tend to occur
+earlier in life and oestrogen-receptor-positive tumours
+are more common in older women. The peak ages of
+onset for these two tumour phenotypes are 50 and
+70 years of age, respectively, and they seem to have
+diﬀerent underlying causes and pathobiology.
+Reproductive and anthropomorphic factors have
+opposing eﬀects, with nulliparity, obesity, and oral
+contraceptive use decreasing the risk of early-onset breast
+cancers while increasing the risk in older women.12–14
+There are pronounced racial diﬀerences in the incidence
+and mortality of breast cancer.15 Although age-standardised
+incidence rates are higher in white women than in those
+of African-American descent, these rates cross at about
+age 50 years. At younger ages, breast-cancer incidence
+rates are higher in African-American women, whereas
+rates are greater in their white counterparts at 50 years of
+age and older. Age-adjusted breast-cancer mortality rates
+were congruent between African-Americans and white
+Americans until the early 1980s, but thereafter a continued
+divergence was evident with higher mortality rates for
+African-American than for white people.16 These
+diﬀerential mortality rates coincided with the introduction
+of mammographic screening in conjunction with
+adjuvant systemic therapy as an integral component of
+
+
+
+breast-cancer management.16 Black women have a higher
+proportion of oestrogen-receptor-negative tumours than
+do white women and are therefore less likely to receive
+endocrine treatment. Furthermore, socioeconomic
+variation leads to inequalities in terms of health-insurance
+cover and educational attainment, which are likely to
+restrict access to new treatments and screening
+programmes for ethnic groups. A combination of intrinsic
+diﬀerences in response and health-care provision might
+account for the widening racial disparity in breast-cancer
+mortality rates within the USA.16,17
+Familial forms of breast cancer incorporate both high
+and low genetic risk. When several ﬁrst-degree relatives
+are aﬀected, clustering is probably hereditary and
+attributable to high-risk susceptibility genes such as
+BRCA1 and BRCA2.18 These are tumour suppressor
+genes that display an autosomal dominant pattern of
+inheritance with variable penetrance. Mutations within
+these two genes account for around three-quarters of
+hereditary breast cancer cases (5–10% of all breast cancer)
+and confer a lifetime risk of between 80–85% by age
+70 years.19 Additionally, BRCA1 mutations are associated
+with ovarian cancer risk of 20–40%. Within cells, the
+eﬀects of BRCA1 and BRCA2 are recessive, and both
+copies of an allele must be lost or mutated for cancer
+
+Rate per 100 000 woman-years
+
+progression. Individuals with a germline mutation in
+these genes have a dominantly inherited susceptibility,
+and the second so-called hit occurs in the somatic copy.
+Tumours from genetically predisposed patients show
+loss of heterozygosity in the wild-type BRCA1 allele,20 but
+mutations of BRCA1 and BRCA2 are uncommon in
+sporadic breast cancers. Other genes involved in genetic
+predisposition include p53 (Li-Fraumeni syndrome),
+AT (ataxia telangiectasia), and PTEN (breast and thyroid
+cancer). Low penetrance genes such as CHEK mutations
+might collectively be responsible for up to 25% of familial
+cases; although they confer a reduced risk, they are more
+prevalent within the population.21
+Breast-cancer risk is modulated by factors aﬀecting the
+hormonal milieu; most mammary tumours are
+stimulated by oestrogens, and oestrogen-receptor-negative
+tumours can evolve from oestrogen-receptor-positive
+lesions rather than arising de novo. A woman’s
+cumulative lifetime exposure to oestrogen determines
+the level of this environmental risk. Thus early menarche
+(<12 years vs 16 years) and late menopause (>55 years vs
+<45 years) are associated with relative risk increases of
+about 1·2.3 Levels of oestrogen and rates of proliferation
+in breast epithelium are low after menopause, which
+when induced iatrogenically at younger than 40 years of
+age reduces the risk of breast cancer by almost two-thirds.3
+A ﬁrst full-term pregnancy at younger than 20 years of
+age is protective for breast cancer, and high circulating
+concentrations of progesterone can cause terminal
+diﬀerentiation in pluripotential stem cells of immature
+breast tissue. Nulliparity is a well known risk factor for
+breast cancer since Ramizzini described horrendis
+mammarium canceris in Catholic nuns.22 However,
+women who defer childbearing beyond 35 years of age
+have an increased relative risk compared with nulliparous
+women, which might have relevance to contemporary
+reproductive practices in which late pregnancies are
+associated with prolonged use of the oral contraceptive
+pill and a greater chance of pregnancy-related breast
+cancer.
+Hormone-replacement therapy increases the relative
+risk of breast cancer by roughly 35% after 10 years of use,
+although cancers developing in women who have ever
+used this therapy tend to be of more favourable prognosis.24
+Hormone-replacement therapy should be avoided in
+breast-cancer survivors, and more than doubles the risk of
+recurrence.25 Moderately vigorous physical activity of up to
+7 h per week can reduce the risk of breast cancer by
+almost 20%, and this eﬀect is independent of menstrual
+function. Daily strenuous exercises reduce risk by up to
+50% in women aged 14–22 years.26 Alcohol consumption
+increases breast-cancer risk irrespective of the type of
+beverage consumed.27 High mammographic breast density
+is a powerful independent predictor of breast-cancer risk
+and is associated with an increased ratio of glandular to
+fatty tissue.28 Only a quarter of sporadic cases of breast
+cancer have any identiﬁable risk factor.
+
+Diagnosis
+About three-quarters of symptomatic breast cancers
+will present with a discrete breast lump. However, most
+patients referred to a breast clinic with a lump will have
+benign disease, and initial clinical examination will aim
+to establish whether a dominant mass or localised
+glandular nodularity is present. The physical
+characteristics of benign and malignant breast lumps
+overlap substantially. Thus complete clinical evaluation
+involves triple assessment, integrating information
+from clinical examination, radiological imaging, and
+percutaneous needle biopsy. A diagnostic mammogram
+can conﬁrm a clinical suspicion of malignancy and
+typically shows a spiculate opacity or microcalciﬁcation. It can sometimes show the extent of malignancy
+(especially when associated with microcalciﬁcation) and
+identify occult (non-palpable) lesions in the ipsilateral
+or contralateral breast. Mammography does not
+show evidence of malignancy in 10% of patients with
+breast cancer.
+
+Breast ultrasound with 12–15 MHz transducers is
+complementary to mammography and increases
+diagnostic accuracy. It provides a measurement of tumour
+size, correlating well with pathological estimates.30 Modern
+ultrasound devices incorporate a Doppler facility and are
+increasingly being used to image the axillary nodes and
+deselect patients for sentinel-lymph-node biopsy. Tissue
+diagnosis is essential and can be obtained with either
+ﬁne-needle aspiration cytology or core biopsy. Before
+image-guided biopsy techniques, most tissue acquisition
+involved open excision or incision biopsy. Percutaneous
+needle-biopsy techniques can now provide a deﬁnitive
+diagnosis for most benign and malignant diseases.31
+Although ﬁne-needle aspiration cytology simply, quickly,
+and cost-eﬀectively establishes tissue diagnosis, it has
+lower sensitivity and speciﬁcity than does core biopsy.31
+Despite false-negative results with both, core biopsy with
+wide-bore needle is preferred to ﬁne-needle aspiration
+cytology and yields solid cores of tissue that maintain
+tissue architecture and allow distinction between invasive
+and non-invasive carcinoma.32 Biopsy samples of mass
+lesions can be taken with ultrasound or stereotactic
+guidance, whereas microcalciﬁcation usually mandates
+stereotactic methods.33 The standard core-biopsy needle is
+either 14 or 16 gauge, but larger volumes of tissue can be
+obtained from vacuum-assisted core biopsy devices with a
+range of needle sizes, but most often an 11 gauge needle.
+Vacuum-assisted core-biopsy devices reduce the chance of
+underdiagnosis and increase the chance of obtaining a
+deﬁnitive preoperative diagnosis, allowing appropriate
+planning of breast-cancer surgery.34
+When clinical examination, radiology, and core biopsy
+or ﬁne-needle aspiration cytology show benign features
+only, the probability of malignancy is very low. A
+diagnostic (surgical) excision biopsy is warranted in the
+absence of concordance, although repeat core-needle
+biopsy can be attempted. MRI is used selectively in the
+diagnostic workup of breast-cancer patients to clarify the
+extent of a lesion and establish whether satellite foci are
+present in patients otherwise amenable to breastconservation surgery.35 However, evidence suggests that
+patients assessed with MRI are more likely to
+undergo (unnecessary) mastectomy instead of breastconservation surgery.36,37 Rates of ipsilateral breast tumour
+recurrence (IBTR) are fairly low—at 8 years rates are
+similar in patients receiving breast-conservation surgery
+with (3%) and without (4%) preoperative MRI
+imaging38—and additional lesions detected by MRI might
+not be clinically relevant or might be adequately treated
+with adjuvant therapies.39
+A substantial proportion of breast cancers in the USA
+and western Europe are detected with screening
+mammography. Randomised controlled trials have
+conﬁrmed that screening mammography with or without
+clinical breast examination in postmenopausal women
+reduces breast-cancer mortality by about 20%.40 The use
+of screening mammography in premenopausal women
+
+
+remains controversial, and is probably not cost eﬀective.41
+Some suggest that clinical breast examination should
+accompany mammographic screening, since some
+cancers are radiologically occult but clinically palpable.42
+Breast self-examination has not yet proven beneﬁcial in
+clinical trials.43 Breast MRI screening has been
+recommended for high-risk women with BRCA1/2
+mutation carriage.44 The sensitivity of breast MRI and
+cancer-detection rates within this group are better than
+with mammography; however, data from prospective
+randomised controlled trials assessing the eﬀect on
+breast-cancer mortality are scarce.
+
+Biological hypotheses
+Two biological notions of tumour pathogenesis have
+guided strategies for loco-regional and systemic treatment
+of breast cancer.45 According to the Halstedian paradigm,
+breast cancer is a localised disease at inception with
+progressive and sequential spread from local tissues to
+lymph nodes and in turn haematogenous dissemination.
+IBTR is considered a cause of distant metastases, with the
+chance of cure related to the extent of primary loco-regional
+treatment. The Fisherian paradigm presupposes that
+breast cancer is predominantly a systemic disease at the
+outset, with cancer cells entering the bloodstream at an
+early stage of tumour development. Circulating tumour
+cells might be destroyed by the immune system, but some
+will establish viable micrometastatic foci at distant sites.
+Micrometastases at the time of diagnosis will determine a
+patient’s clinical fate. IBTR is regarded as an indicator of
+distant-relapse risk and indicates a host-tumour relation
+that favours development of distant disease or activation
+of processes leading to a kick start of micrometastases.
+This notion of biological predeterminism has dominated
+approaches to breast-cancer management over the past
+three decades and emphasised the importance of systemic
+therapies targeting distant micrometastatic disease.
+Long-term follow-up of the largest breast conservation
+trial (NSABP B-06) at 20 years suggests that variations in
+extent of loco-regional treatments do not aﬀect overall
+survival,46 supporting the idea that local recurrence is an
+indicator of risk for development of distant disease that
+reﬂects intrinsic biology of the tumour.47 Several studies
+have shown that IBTR is the strongest independent
+predictor of distant relapse, conferring an increased risk
+of up to three-fold to four-fold.48 Although IBTR contributes
+roughly a third to the overall recurrence risk (Blamey R,
+University of Nottingham, personal communication),
+whether IBTR is causally related to distant relapse or
+merely associated with survival is unknown.
+In a meta-analysis by the Early Breast Cancer Trialists’
+Collaborative Group (EBCTCG), local radiation treatment
+to either the breast after breast-conservation surgery or
+the chest wall after mastectomy showed an overall
+survival beneﬁt at 15 years.49 For treatment comparisons
+in which the diﬀerence in local recurrence rates at 5 years
+was less than 10%, survival was unaﬀected. 
+diﬀerences in local relapse were substantial (>10%),
+moderate reductions in breast-cancer-speciﬁc and overall
+mortality were recorded. Absolute reductions were
+19% for local recurrence at 5 years and 5% for breastcancer mortality at 15 years, representing one life saved
+for every four loco-regional recurrences prevented by
+radiotherapy at 5 years. This analysis showed conclusively
+that diﬀerences in loco-regional treatments that substantially improve rates of local control will aﬀect
+long-term survival of patients with breast cancer. Local
+control does matter and rates of local recurrence should
+be kept to a minimum in the ﬁrst 5 years. Up to a quarter
+of local recurrences will be a determinant and not simply
+an indicator of risk for distant relapse and death.
+Molecular proﬁling can help to predict the biological
+behaviour and pattern of spread for individual tumours
+and avoid undertreatment and overtreatment with both
+loco-regional and systemic therapies.50 Malignant stem
+cells are either quiescent or cycle fairly slowly, and are
+resistant to conventional chemotherapy. Their ability to
+self-renew provides the opportunity for regeneration and
+clinical recurrence of cancer. Identiﬁcation of biochemical
+pathways that are unique to cancer stem cells will allow
+selective targeting of this important subpopulation of
+tumour cells. Cellular response to therapies should be
+anticipated and escape mechanisms co-targeted.
+
+Surgery
+The introduction of conservative surgery for breast cancer
+coincided with reduced tumour size at presentation and
+a shift in the underlying biological hypothesis. Breastconservation surgery is now an established procedure
+and the preferred standard of care for management of
+women with early-stage breast cancer. Instigation of
+widespread mammographic screening has contributed
+to a stage shift for newly diagnosed disease, with an
+average tumour size at presentation of less than 2 cm. At
+least two-thirds of patients are eligible for breastconservation surgery, but rates of mastectomy vary both
+geographically and institutionally.51 Selection of patients
+for this surgery is crucial, with an inverse relation
+between competing oncological demands for surgical
+radicality and cosmesis. A balance exists between the risk
+of IBTR and cosmetic results, with oncoplastic surgery
+advancing the limits of surgical resection.
+Two factors emerge as principal determinants of true
+local recurrence within the conserved breast: margin
+status and the presence or absence of an extensive in-situ
+component. Lymphatic invasion and young age (<35 years)
+are primary predictors for increased risk of IBTR.
+Consistent associations have been recorded for larger
+tumour size (>2 cm) and higher histological grade but not
+for tumour subtype or nodal status.52 Results of the
+EBCTCG overview have reinforced the link between local
+control and mortality, leading to an emphasis on adequacy
+of surgical excision and other treatment-related variables
+such as radiotherapy.49 Attainment of gross macroscopic
+
+
+clearance of the tumour at operation is no longer
+acceptable; all radial margins should be clear of tumour
+microscopically. A positive resection margin has not been
+uniformly deﬁned, which has compounded issues relating
+to microscopically negative margins and degrees of
+surgical clearance—eg, how wide must a negative margin
+be to result in acceptable rates of local recurrence
+(1–2% per year)? Many surgeons regard a margin
+clearance of 2–3 mm to be appropriate, although up to
+45% of American radiation oncologists consider a margin
+as negative provided that no tumour cells are at the inked
+edge.53 Others strive for a radial margin clearance of
+5 mm, which can lead to re-excision rates of up to 50% but
+is associated with very low rates of IBTR. Detection of
+further tumour is unusual when re-excision is done to
+achieve a wider margin rather than a negative margin.
+Singletary54 has provided a useful analysis, showing
+median rates of IBTR of 3%, 6%, and 2% when margins
+of clearance were 1 mm, 2 mm, or just clear, respectively.
+Thus although rates of recurrence are determined by
+negative margin status, no direct relation exists between
+margin width and rates of local recurrence. When the
+ﬁrst re-excision fails to achieve surgical clearance,
+mastectomy is often indicated and becomes necessary if
+margins remain positive after a reasonable number of
+surgical attempts (up to three).
+Practices are consistent with the notion that IBTR
+develops from re-growth of residual cancer cells in
+peritumoral tissue. Moreover, the invasive element confers
+the increased risk of distant failure; when local recurrence
+is exclusively ductal carcinoma in situ, features of the
+original primary tumour will determine systemic risk.
+Most patients considered suitable for breast-conservation
+surgery will have a unifocal tumour measuring 3 cm or
+less and lying more than 2 cm from the nipple areolar
+complex. These patients usually have a favourable ratio of
+tumour to breast size and are amenable to conventional
+forms of wide local excision in which the tumour is excised
+with a roughly 2 cm margin of surrounding breast tissue
+without the need for any formal breast remodelling.
+Although a re-excision might be needed in up to a quarter
+of cases to achieve microscopically clear radial margins,
+an optimum cosmetic result should be attained after
+irradiation of the remaining breast tissue. Notwithstanding
+attempts at breast-conservation surgery, mastectomy is
+clearly indicated for some patients on the basis of tumour
+size or location, multifocality, an inﬂammatory component,
+or patient choice. Achievement of a good cosmetic
+outcome becomes progressively more diﬃcult as the
+proportion of breast tissue removed increases. Although
+the absolute volume of tissue excised is surgeon
+dependent, a greater percentage is associated with larger
+tumours. When more than 10–20% of breast volume is
+removed, results might be unsatisfactory cosmetically.56
+Partial-breast reconstruction with oncoplastic procedures
+often allow wide resection of tissue, increasing the chance
+of tumour-free margins. Despite these techniques
+
+
+providing an opportunity for enhancing quality of life by
+improving cosmetic outcome and psychological wellbeing,57 there are no long-term follow-up data to
+substantiate the claim for reduced rates of local relapse.
+Moreover, transposition of glandular tissue could
+jeopardise accurate targeting of any radiotherapy boost,
+unless it is given intraoperatively. Therapeutic mammoplasty can potentially improve cosmetic outcome when
+tumour size or location would otherwise lead to suboptimum cosmesis after conventional breast-conservation
+surgery (ﬁgure 3).58 Strict oncological selection criteria
+should still be applied;59 when the estimated risk for IBTR
+is high, despite clear margins and a good cosmetic result,
+mastectomy with immediate breast reconstruction should
+be oﬀered. The development of oncoplastic surgery and
+partial-breast reconstruction has improved the application
+of breast-conservation surgery to management of breast
+cancer, but careful patient selection is crucial. Often a
+contralateral procedure is required for symmetrisation,
+particularly when volume displacement rather than
+replacement techniques are used.
+Most patients who are healthy and younger than 70 years
+with a non-inﬂammatory or locally advanced tumour
+should be oﬀered immediate breast reconstruction
+together with a skin-sparing mastectomy in which the
+nipple areolar complex is removed but much of the breast
+skin envelope remains. Skin-sparing mastectomy
+represents the latest phase in development of less
+mutilating forms of mastectomy and has revolutionised
+results of immediate breast reconstruction by preserving
+the inframammary fold and avoiding the need for
+resculpturing of any imported skin or tissue expansion of
+residual chest-wall skin. No evidence suggests increased
+rates of local recurrence with skin-sparing mastectomy,
+and the precise skin incision should be tailored to the
+
+
+individual patient with removal of any involved skin
+overlying a tumour.61 Breast volume can be reconstituted
+with a variety of techniques including subpectoral tissue
+expander, extended autologous latissimus-dorsi ﬂap,
+implant-assisted latissimus-dorsi ﬂap, or a free/pedicled
+transverse rectus abdominus ﬂap. Judicious patient
+selection and joint decision-making will help keep any
+disparity between patient expectation and clinical reality
+to a minimum and maximise satisfaction.
+Many women now receive postmastectomy radiotherapy.49,62,63 Anticipation of chest-wall irradiation will
+aﬀect the choice of reconstructive technique; an
+implant-only reconstruction is generally avoided when
+postmastectomy radiotherapy is a possibility.64 The
+potential problems of capsular contracture in this group
+of patients with implant-based reconstruction have led to
+a modiﬁed surgical approach with a delayed immediate
+reconstruction. A skin-sparing mastectomy can be undertaken initially with placement of a temporary tissue
+expander that acts as scaﬀolding for the skin ﬂaps.
+Chest-wall irradiation can then be given and deﬁnitive
+reconstruction undertaken later. The viability of the
+native mastectomy ﬂaps after radiation causes concern,
+and it might be preferable to proceed with immediate
+reconstruction with a latissimus-dorsi ﬂap and implant
+for all patients and undertake implant exchange if and
+when required. An extended autologous latissimus-dorsi
+ﬂap is not necessarily more tolerant of radiotherapy, and
+substantial donor-site morbidity occurs. However, delayed
+immediate reconstruction is a method that can potentially
+preserve the aesthetic beneﬁts of immediate breast
+reconstruction with preservation of the three-dimensional
+skin envelope and more accurate targeting of tangential
+radiotherapy beams.
+Methods for accurately staging the axilla continue to
+evolve, but remain dominated by sentinel-lymph-node
+biopsy, which is now widely practised and accepted as a
+standard of care. Dual labelling techniques with blue dye
+and isotope are associated with a shorter learning curve
+and optimum performance indicators such as rates of
+identiﬁcation (>90%) and false negativity (5–10%).65 Blue
+dye-assisted node sampling removes three to four blue
+and palpably suspicious nodes and can be a pragmatic and
+cost-eﬀective method when radioisotope facilities are
+unavailable.66 However, this method is associated with a
+higher false negative rate and lacks the reassurance
+provided by the absence of any residual radioactivity
+within the axilla. Results from the largest sentinel lymph
+node biopsy trial show an overall false negative rate of
+9·8%, with higher rates when only one sentinel node is
+removed rather than two to three nodes.67 Completion
+axillary-lymph-node dissection is recommended for all
+patients with either micrometastatic or macrometastatic
+deposits in the sentinel lymph node.65 The chance of
+non-sentinel lymph-node involvement is related to the
+volume of disease in the sentinel node, but nomograms
+devised for estimation of this involvement are diﬃcult to
+
+reliably apply in practice and are less accurate when the
+predicted incidence of non-sentinel lymph-node positivity
+is low. For some patients, the risk to beneﬁt ratio for
+detection of positive cases of non-sentinel lymph nodes
+might not justify any delayed procedure. Low rates of
+axillary relapse are unlikely to translate into any meaningful
+reduction in long-term survival in an older group of
+patients with smaller non-high-grade tumours.69 Methods
+for intraoperative assessment of sentinel lymph nodes
+obviate the need for a delayed axillary-lymph-node
+dissection, but detection of micrometastases with either
+touch imprint cytology or frozen section is problematic.
+New techniques based on reverse-transcriptase PCR can
+potentially overcome diﬃculties of limited node sampling
+and operating parameters set at a threshold for detection
+of metastases greater than 0·2 mm in size but not isolated
+tumour cells (≤0·2 mm).70 Real-time PCR might allow
+quantitation and diﬀerentiation between macrometastases
+and micrometastases.
+Rates of clinical regional recurrence in patients with
+negative sentinel-lymph-node biopsy who have not
+proceeded to axillary-lymph-node dissection range
+from 0 to 1·4%, with fairly short follow-up of 3 years or
+less.71 Any residual disease within the axillary nodes will
+be low volume, and longer follow-up might be needed for
+any clinical manifestation of regional recurrence. Kujit
+and Roumen72 report an actuarial rate of 5% at a median
+follow-up of 6·5 years, predicting that up to 10% of
+patients might eventually develop isolated axillary
+recurrence after a negative sentinel-lymph-node biopsy.
+
+Radiotherapy
+Long-term follow-up of breast-conservation trials conﬁrm
+signiﬁcantly increased rates of local relapse when
+radiotherapy is omitted.46,73 However, rates of IBTR are
+acceptable when breast-conservation surgery is combined
+with whole-breast irradiation, usually delivered via
+conventional tangential breast ﬁelds at a total dose of
+46–50 Gy in 25 fractions over 5 weeks with an optional
+booster dose (10–20 Gy). Within the NSABP B-06 trial,
+39·2% of patients undergoing wide local excision only
+had developed local recurrence at 20 years’ follow-up
+compared with 14·3% for those receiving radiotherapy
+after lumpectomy (p<0·001).46 Moreover, cosmetic results
+are satisfactory when neither the volume of breast tissue
+excised or the radiation fraction size are excessive.56 A
+group of patients for whom rates of IBTR are not further
+reduced by radiotherapy compared with observation or
+tamoxifen therapy alone has not been deﬁned.74–76
+Omission of radiotherapy should be cautioned at present
+since it can lead to rates of IBTR approaching 30% for
+small tumours of favourable grade, and local control does
+aﬀect overall survival.49 Older women beneﬁt in terms of
+breast-cancer-speciﬁc survival from radiotherapy after
+breast-conservation surgery, and tamoxifen alone cannot
+substitute for radiotherapy. Comorbidities can otherwise
+reduce life expectancy for some older women for whom
+
+
+any additional local control (3–6% risk absolute reduction)
+from radiotherapy might not be clinically signiﬁcant.77,78
+A group of techniques has been developed—accelerated
+partial-breast irradiation—that decrease the volume of
+breast tissue irradiated and the duration of treatment.
+More than three-quarters of true breast recurrences occur
+at the site of lumpectomy, and whole-breast irradiation
+might be unnecessary. These techniques are focused on
+the tumour bed and a zone of surrounding tissue of
+variable depth. The advent of CT-based treatment planning
+kept exposure of normal tissues to a minimum and helped
+radiotherapists cope with the challenges resulting from
+the peculiar shape of the breast and contiguity of important
+surrounding structures (eg, heart and lungs). Computer
+technology assisted with placement of multiplanar
+interstitial catheter implants for brachytherapy after
+lumpectomy. Treatment was aimed at the tumour bed and
+a margin of tissue to a depth of 1–2 cm. This technique
+allowed radiotherapy (34 Gy) to be completed within 1 week
+rather than 5 or 6 weeks. Single institution series with
+more than 5 years of follow-up show rates of local control
+to be similar to whole-breast irradiation for matched and
+appropriately selected subsets of patients.79–81 Despite a US
+multicentre trial conﬁrming reproducibility of these
+favourable results across institutions, the perceived
+complexity of brachytherapy detracted from its popularity
+and it remains available in only a few centres worldwide.82
+Two further techniques of accelerated partial-breast
+irradiation have been pioneered: intraoperative
+radiotherapy and MammoSite. Intraoperative radiotherapy
+delivers a high dose of radiation as one fraction at the
+time of surgery, allowing precise application of radiation
+dose to the target area to eliminate tumour foci around
+the surgical bed. It potentially intensiﬁes the tumour kill
+eﬀect of surgery and radiotherapy, although some are
+concerned about the radiobiological equivalence of one
+dose of intraoperative radiotherapy (21 Gy) compared with
+conventional whole-breast irradiation. This concern
+applies particularly to the low-energy X-ray source (50 kV)
+used in the TARGIT trial83 compared with electron beam
+therapy (electron intraoperative therapy)84 for which depth
+of penetration is restricted. However, mathematical and
+laboratory models suggest that TARGIT might be better
+than conventional therapy,85,86 and initial clinical results
+are encouraging.83 Intraoperative radiotherapy facilitates
+an integrated approach to the multidisciplinary treatment
+of cancer, but requires specialised equipment and for
+electron intraoperative therapy a dedicated suite. An
+alternative technique of brachytherapy is given via a
+double lumen balloon catheter (MammoSite) placed
+within the surgical cavity.87 This device delivers a total
+dose of 34 Gy in ten fractions (via a high-dose rate remote
+afterloader) and is now a common method of accelerated
+partial-breast irradiation, using equipment already
+present in many centres. Preliminary results with 5 years’
+follow-up show low rates of local recurrence (0–6%) and
+good to excellent cosmetic results in 80% of patients.88,89
+
+Three-dimesional conformal radiotherapy is a form of
+accelerated partial-breast irradiation that uses an
+external beam to treat smaller volumes than whole-breast
+irradiation does. Despite being non-invasive, achieving
+high levels of conformality is diﬃcult.90,91 The related
+technique of intensity-modulated radiotherapy delivers
+conformal dose distributions and improves homogeneity.92 The combined NSABP B-39/RTOG 0413 trial
+incorporates three techniques for accelerated partialbreast irradiation (three-dimensional conformal, interstitial brachytherapy, and MammoSite) and aims to
+assess these techniques in comparison with whole-breast
+irradiation with primary endpoints of local recurrence,
+disease-free survival, and overall survival.93 The START
+trial has assessed accelerated hypofractionated
+whole-breast irradiation and showed that patients given
+a lower overall radiotherapy dose in fewer, larger
+fractions have similar local control and fewer adverse
+side-eﬀects than does a dose of 50 Gy in a standard
+5-week schedule. This ﬁnding supports hypofractionation
+as a safe and eﬀective approach, but long-term follow-up
+is required to assess local control and late toxic eﬀects.94
+Radiotherapy after mastectomy encompasses irradiation
+of the chest wall and skin together with regional lymph
+nodes. The indications for this treatment continue to
+evolve, but all trials have shown that it reduces the
+proportional risk of local failure by two-thirds to
+three-quarters of patients, including those with tumours
+larger than 5 cm and four or more positive axillary lymph
+nodes. However, data for the beneﬁt of postmastectomy
+radiotherapy in terms of overall survival are conﬂicting; an
+overview by the EBCTCG conﬁrms that postmastectomy
+radiotherapy in node-positive women results in an absolute
+survival gain at 15 years.49 Although postmastectomy
+radiotherapy reduced rates of local relapse in node-negative
+patients, mortality was not reduced. In the Danish and
+British Columbia trials of postmastectomy radiotherapy in
+premenopausal node-positive women receiving chemotherapy,61,62 the proportional survival beneﬁts were similar
+for patients with one to three and four or more positive
+nodes. However, some aspects of trial design were
+controversial and any survival advantage within the
+intermediate-risk groups (one–three nodes positive) could
+be masked by toxic eﬀects from the radiotherapy. New
+radiation techniques using tangential ﬁelds minimise
+cardiotoxicity, as do methods such as intensity-modulated
+radiotherapy.95 The SUPREMO trial is assessing whether
+modern chemotherapy regimens and postmastectomy
+radiotherapy can lead to overall-survival improvements in
+this intermediate-risk group.
+
+Adjuvant systemic therapies
+Incorporation of adjuvant systemic therapies into the
+multidisciplinary management of breast cancer has led
+to improvements in rates of disease-free and overall
+survival.97,98 The indication for adjuvant systemic therapy
+after deﬁnitive surgery is based on established prognostic
+
+
+factors, including age, comorbidities, axillary-lymph-node
+involvement, tumour size, and tumour grade.99 In
+addition to these well established clinicopathological
+factors, molecular tests can assess the estimated risk of
+recurrence in patients with early-stage breast cancer and
+identify distinct biological classes of tumour. Three
+prognostic tests have been approved for clinical
+application in the USA:100 Oncotype DX, MammaPrint,
+and H/I, which are based on a 21-gene proﬁle, a 70-gene
+proﬁle, and expression of the HOXB13/IL17BR genes,
+respectively. The Oncotype DX and HOXB13-IL17BR
+assays measure gene expression with reverse-transcriptase
+PCR and the MammaPrint assay uses complementary
+DNA microarray technology. One of the advantages of
+reverse-transcriptase PCR is that gene expression can be
+measured in formalin-ﬁxed paraﬃn-embedded tumour
+tissue, whereas the microarrays need fresh frozen tissue.
+Although prognostic tests provide information about risk
+of recurrence and death, predictive markers are needed
+to select the optimum therapy for individual patients.
+The best characterised molecular predictive markers are
+the oestrogen receptor, the progesterone receptor, and
+the human epidermal growth factor receptor 2 (HER2).101
+The responsiveness of breast tumours to hormonal
+manipulation provides a unique therapeutic opportunity
+in the form of targeted treatment. The antioestrogen
+tamoxifen confers a proportional reduction in mortality of
+26% and up to 47% reduction in local recurrence at
+10 years’ follow up, with beneﬁt conﬁned to oestrogenreceptor-positive tumours.98 Tamoxifen is eﬀective in both
+premenopausal and postmenopausal women, although
+premenopausal women are eligible for ovarian suppression
+with either luteinising hormone-releasing hormone
+analogues or laparoscopic oophorectomy when disease is
+hormone responsive.102 An advantage of luteinising
+hormone-releasing hormone agonists is their potentially
+reversible eﬀects on cessation of treatment. Whether
+ovarian suppression can provide an alternative to chemotherapy in patients with oestrogen-receptor-positive
+disease, and whether luteinising hormone-releasing
+hormone agonists confer any additional beneﬁt when combined with standard treatments, is being investigated.
+The aromatase inhibitors represent an important
+advance in endocrine therapy of breast cancer. The oral
+agents anastrozole, letrozole, and exemestane are of
+comparable antitumour eﬃcacy and are potentially
+interchangeable, although long-term data for side-eﬀect
+proﬁles must be obtained before deﬁnitive pronouncements on clinical use. The American Society of Clinical
+Oncology Technology Assessment recommends that
+adjuvant hormonal therapy for postmenopausal women
+should include an aromatase inhibitor prescribed either
+as initial therapy or sequenced after tamoxifen for
+2–3 years’ (early switch) or 5 years’ duration.103 The largest
+study of adjuvant aromatase inhibitors showed a
+continuing divergence of the curves for disease-free
+survival at 68 months’ follow-up, with evidence of a
+
+
+carry-over eﬀect and a reduction in time to distant
+recurrence favouring anastrozole.104 The absolute beneﬁt
+for time to recurrence has increased from 2·8% at 5 years
+to 4·8% at 100 months. This head-to-head comparison of
+tamoxifen versus anastrozole shows no diﬀerence in
+overall survival, although there is a non-signiﬁcant trend
+for improved breast-cancer-speciﬁc survival in the latest
+analysis.105 The fairly good prognostic parameters might
+ultimately obscure translation into a signiﬁcant beneﬁt for
+this endpoint.
+The IES trial is the only adjuvant study to show an
+overall-survival advantage for use of an aromatase
+inhibitor within the conventional 5-year treatment span.107
+These results, together with a meta-analysis of the
+Austrian (ABCSG 8/ARNO 95) and Italian (ITA) studies,
+support early sequencing with a switch to an aromatase
+inhibitor after 2–3 years of tamoxifen108 as an eﬃcacious
+approach, with improvement in overall survival for
+oestrogen-receptor-positive patients. The proportional
+risk reductions for disease-free survival are greater within
+the early switch than in head-to-head comparisons of
+tamoxifen and an aromatase inhibitor. Although interim
+results of the BIG 1-98 study109 showed a disease-free
+survival beneﬁt for 5 years of letrozole compared with
+5 years of tamoxifen, deﬁnitive results of this study have
+not shown a clear advantage from an early switch policy
+in terms of recurrence rates compared with 5 years of an
+aromatase inhibitor.110 At a median follow-up of
+72 months, there was no signiﬁcant diﬀerence in diseasefree survival for 5 years of letrozole compared with either
+of the switch groups. However, pair-wise comparisons
+suggested a minor beneﬁt for letrozole (5 years) compared
+with tamoxifen for 2 years followed by letrozole for
+3 years. The inverse sequence of tamoxifen after 2 years
+of letrozole was equivalent to monotherapy, and patient
+cross-over from tamoxifen to letrozole precluded any
+updated comparison of the monotherapy groups.
+On the basis of these data, some authorities recommend
+that patients at greatest risk of relapse might beneﬁt most
+from an upfront aromatase inhibitor, whereas those with
+lower hazard rates for relapse might be best treated with
+an early-switch regimen involving tamoxifen for 2–3 years
+followed by an aromatase inhibitor for a total duration of
+5 years. Although results of the BIG 1-98 study show
+greatest beneﬁt from aromatase inhibitors for node-positive
+patients, the converse is true for the ATAC study.105
+Moreover, high-grade tumours derive no additional beneﬁt
+from upfront aromatase inhibitors, and no conclusive
+evidence supports HER2 status as being predictive of
+response to aromatase inhibitors. Beneﬁts in terms of
+disease-free and overall survival must be balanced against
+long-term adverse eﬀects on bone health, cognitive
+function, and cost. Some patients at very low risk of relapse
+might derive minimal additional beneﬁt from incorporation
+of an aromatase inhibitor into their treatment schedule
+and should receive tamoxifen only. Breast-cancer patients
+remain at chronic risk of relapse, and aromatase inhibitors
+
+
+oﬀer the opportunity for extended adjuvant therapy beyond
+5 years with use of an agent with a diﬀerent mechanism of
+action. In the MA-17 trial of extended adjuvant treatment,111
+letrozole therapy signiﬁcantly improved disease-free survival compared with placebo after completion of 5-years’
+standard tamoxifen treatment in node-positive patients.
+Adjuvant chemotherapy improves rates of disease-free
+and overall survival for patients with early-stage breast
+cancer irrespective of nodal status.112 US guidelines
+recommend adjuvant chemotherapy for healthy patients
+with axillary-node involvement and for node-negative
+disease when tumours are larger than 1 cm or in the
+presence of other adverse prognosticators (eg, age
+<35 years, negative oestrogen-receptor or progesteronereceptor status, high-grade tumour).113 All patients within
+a subgroup are assumed to derive similar beneﬁt from
+chemotherapy, but many are overtreated and do not have
+micrometastatic disease at presentation. Identiﬁcation of
+patients with distant microscopic spread is particularly
+relevant in patients with node-negative, oestrogen-receptor
+
+or progesterone-receptor-positive breast cancer. Adjuvant
+endocrine therapy is highly eﬀective in such cases and
+the contribution of chemotherapy not well deﬁned. The
+prognostic and predictive roles of the Oncotype DX assay
+were assessed in archival tissue from treated nodenegative, oestrogen-receptor-positive tumours. Tamoxifen
+was most eﬀective when the recurrence score was
+low (≤18),114 whereas patients whose primary tumours had
+a high (≥31) recurrence score derived more beneﬁt from
+adjuvant chemotherapy.
+The 21-gene assay was also predictive of beneﬁt from
+adjuvant chemotherapy in patients with node-positive
+breast cancer. A US trial randomly assigned premenopausal women with node-positive, oestrogen-receptorpositive breast cancer to tamoxifen or cyclophosphamide,
+doxorubicin, and ﬂuorouracil (CAF) before or concurrently
+with tamoxifen. The sequential use of CAF followed by
+tamoxifen maximised rates of disease-free survival.
+However, when the Oncotype DX assay was applied to
+archival primary tissue, only patients with a high
+recurrence score beneﬁted from CAF chemotherapy.116 If
+prospective clinical trials conﬁrm these data, we might be
+able to spare patients with low-risk breast cancer from
+undergoing chemotherapy, irrespective of the size of their
+primary tumours and degree of nodal involvement.
+Prognostic and predictive values of these molecular assays
+are based on retrospective subset analyses;117 TAILORx is
+a prospective trial that randomises patients with
+oestrogen-receptor-positive node-negative breast cancer
+with an intermediate recurrence score (11–25) to chemotherapy and hormonal therapy, or hormonal therapy
+alone.
+The anthracyclines and taxanes are considered the most
+eﬀective chemotherapies in the adjuvant setting. The
+taxanes (paclitaxel and docetaxel) have non-cross
+resistance with conventional agents, and their mechanism
+of action is to stabilise and prevent disaggregation of
+microtubules with disruption of the mitotic spindle. A
+randomised trial showed that four cycles of
+doxorubicin/cyclophosphamide (AC) followed by four
+cycles of paclitaxel improves survival compared with
+AC alone in patients with node-positive breast cancer.119
+Furthermore, giving AC and paclitaxel every 2 weeks
+(so-called dose-dense approach) improves disease-free
+survival compared with administration every 3 weeks.120
+Two trials investigating the eﬃcacy of docetaxel in
+node-positive patients using more intensive anthracycline
+regimens noted signiﬁcant improvements in overall
+survival for taxane-containing regimens.115,121 A large trial
+randomised patients with node-positive breast cancer to
+four cycles of AC followed by either paclitaxel every
+3 weeks, weekly paclitaxel, docetaxel every 3 weeks, or
+weekly docetaxel. Results showed that four cycles of AC
+followed by one dose of paclitaxel every week for 12 weeks
+improved overall survival.122 Whether six or eight cycles
+are best, or four are suﬃcient, is unclear. Eﬀorts are
+ongoing to identify gene-expression proﬁles that would
+
+
+help select patients for speciﬁc chemotherapies. A
+popular combination is 5-ﬂuorouracil, epirubicin, cyclophosphamide (FEC)-docetaxel for patients with involvement of four or more nodes. Provisional results from the
+TACT I trial suggest that adding four cycles of docetaxel
+to one of two standard regimens containing antracycline
+for unselected patients has little beneﬁt.124 Retrospective
+studies indicate that aberrant HER2 expression could
+correlate with beneﬁt from paclitaxel in the adjuvant
+setting125 and that modulation of topoisomerase II gene
+expression due to deletion or ampliﬁcation might predict
+response to anthracycline-based chemotherapy.126 Coampliﬁcation of HER2 and the topoisomerase II amplicon
+is associated with increased response rates to
+anthracyclines.
+Trastuzumab (Herceptin) is a monoclonal antibody
+directed against the extracellular domain of HER2—a
+tyrosine kinase involved in cell growth and proliferation.
+Ampliﬁcation of the HER2 gene or otherwise
+overexpression of the cell-surface protein has been
+associated with a poor prognosis.127 The HER2 status of
+the primary tumour or metastatic deposit should be
+assessed in all patients with breast cancer with either
+immunohistochemistry, ﬂuorescence in-situ hybridisation, or chromogenic in-situ hybridisation.128 If the tumour
+is HER2 positive, the patient is a good candidate for
+trastuzumab and for participation in clinical trials of
+novel HER2-directed treatments.
+In patients with HER2-positive early-stage breast cancer,
+trastuzumab improves rates of disease-free and overall
+survival independent of age, axillary node metastases, and
+oestrogen-receptor or progesterone-receptor status.129–131
+Two US trials reported a signiﬁcant reduction in risk of
+recurrence of about 50% and showed an early survival
+beneﬁt favouring trastuzumab at 2 years (p=0·015).129 The
+European trial (HERA) showed similar reductions in risk
+of recurrence but no overall-survival advantage.130 Within
+the US trials, trastuzumab was given concurrently with
+an anthracycline-based chemotherapy (AC followed by
+paclitaxel/trastuzumab) and thereafter continued as
+single agent therapy for 52 weeks; however, Herceptin
+was prescribed only after completion of all chemotherapy
+(any regimen of ≥four cycles) in the European trial. A
+further international study (BCIRG 006) showed
+signiﬁcant improvement in disease-free and overall
+survival for the non-anthracycline regimen TCH (docetaxel,
+carboplatin, and trastuzumab) compared with AC-T
+(doxorubicin/cyclophosphamide followed by docetaxel)
+and ﬁve-fold lower cardiotoxicity than with AC followed
+by docetaxel/trastuzumab (AC-TH).131 The risk of cardiac
+toxicity in the adjuvant setting ranges from 0·5% to 4%.132
+Patients should undergo a baseline echocardiogram or
+cardiac scan to assess left ventricular ejection fraction
+before initiation of trastuzumab-based therapy. Serial
+assessments of left ventricular ejection fraction are
+recommended every 3 months while receiving trastuzumab with close follow-up in the ﬁrst 2 years after
+
+
+completion of treatment. In the event of cardiac toxicity,
+trastuzumab should be discontinued and left ventricular
+ejection fraction re-assessed in 4 weeks, although this
+decision should be made on an individual basis and
+consider recurrence risk and pre-existing cardiac
+morbidity.
+Lapatinib (Tykerb) is a reversible small-molecule
+tyrosine-kinase inhibitor directed against epidermal
+growth factor receptor and HER2.133 The combination of
+lapatinib and capecitabine improved rates of disease-free
+survival compared with capecitabine alone in heavily
+pretreated patients with metastatic breast cancer.134
+Inhibition of the HER2 kinase seems an important target
+for this type of molecule, because agents that target the
+epidermal growth factor receptor kinase selectively
+(eg, geﬁtinib and erlotinib) have shown insuﬃcient
+eﬃcacy in unselected patients with metastatic breast
+cancer.
+Pertuzumab is a monoclonal antibody directed against
+HER2 that prevents formation of heterodimers between
+HER2 and other members of the HER family.135 The
+binding sites of trastuzumab and pertuzumab localise to
+diﬀerent domains of the HER2 protein. Preclinical studies
+showed a synergistic interaction between pertuzumab and
+trastuzumab, which is being explored.135 Overexpression
+of insulin-like growth factor 1 receptor (IGF-IR) is
+associated with a poor prognosis and resistance to several
+drugs, including endocrine therapy and trastuzumab.136
+Approaches to inhibit IGF-IR include the use of
+monoclonal antibodies, small-molecule tyrosine-kinase
+inhibitors, and IGF binding proteins. Intracellular
+transduction pathways activated by growth factor receptors
+such as HER2 and IGF-IR are potential therapeutic
+targets, and the mitogen-activated protein kinase (MAPK)
+and the PI3K/Akt/mTOR pathways have been well
+characterised in breast-cancer cells.137 Clinical trials are
+testing several inhibitors directed against diﬀerent aspects
+of these signalling pathways. Postreceptor signalling
+pathways are not linear but form complex networks with
+much crosstalk. Multiple compensatory mechanisms exist
+with some functional redundancy, and blocking one
+protein (eg, mTOR) often leads to activation of more
+proximal steps (eg, Akt) and potentially increased
+proliferation.137 An approach for overcoming the
+compensatory loops is to use a combination of inhibitors
+and to target central signalling nodes that are crucial for
+sustained growth-inhibitory eﬀects. Novel approaches
+target not only the cancer cells but also the tumour
+microenvironment and new vessel formation. Preclinical
+and clinical studies have shown that blocking angiogenesis
+improves the eﬃcacy of cytotoxic chemotherapy.
+Bevacizumab is a recombinant, humanised monoclonal
+antibody to vascular endothelial growth factor. A
+phase II trial of trastuzumab and bevacizumab showed
+that this combination was highly eﬀective in patients with
+HER2 overexpressing metastatic breast cancer who had
+failed previous therapies.138 Randomised clinical trials are
+
+
+in progress to establish the safety and eﬃcacy of
+bevacizumab in combination with chemotherapy,
+endocrine therapy, and trastuzumab in all subtypes of
+breast cancer.
+
+Primary systemic therapies
+Primary systemic therapy, also known as neoadjuvant or
+preoperative therapy, was initially used for management
+of locally advanced breast cancers that could be rendered
+technically operable. Neoadjuvant approaches have
+increasingly been championed for treatment of operable
+tumours, with the expectation of improved outcomes and
+possible breast-conservation surgery.139,140 Downstaging
+might reduce the requirement for mastectomy by up to
+half, and breast-conservation surgery is more likely for
+unifocal tumours located away from the nipple areolar
+complex.141,142 Since the primary tumour remains in situ,
+primary systemic therapy allows serial core biopsies to be
+undertaken with monitoring of treatment eﬀects. Primary
+systemic therapy constitutes a powerful in-vivo model
+providing potential information about pathological and
+molecular predictors of response and tumour biology,
+which in conjunction with imaging parameters, enables
+non-responders to be identiﬁed early and therapy
+changed accordingly.
+Early trials of primary systemic therapy compared the
+same schedule of chemotherapy before or after standard
+surgical treatment. The NSABP B-18 trial randomised
+patients to four cycles of anthracycline-based chemotherapy
+before or after surgery. Overall survival was equivalent for
+both approaches, but patients receiving primary systemic
+therapy were more likely to undergo breast-conservation
+surgery.141,142 However, rates of IBTR were higher when
+surgery followed rather than preceded chemotherapy, but
+this diﬀerence did not reach statistical signiﬁcance (10·7%
+vs 7·6%, p=0·12).142 Patients with a complete pathological
+response to primary systemic therapy have improved
+disease-free and overall survival, suggesting its use as a
+surrogate marker for trials comparing diﬀerent schedules
+of primary systemic therapy.141,143–145 The next generation of
+trials of primary systemic therapy aimed to establish
+whether diﬀerent preoperative regimens could improve
+outcomes. In a small randomised trial, addition of
+docetaxel to a preoperative schedule compared with
+further anthracycline drugs doubled the complete
+pathological response with lengthening of disease-free
+and overall survival at 3 years.146 By contrast, NSABP B-27
+conﬁrmed a doubling of the complete pathological
+response with addition of four cycles of docetaxel to four
+cycles of AC, but no improvement in overall survival.147
+Nonetheless, NSABP B-27 did show improved outcomes
+for patients who achieved a complete pathological
+response irrespective of schedule received.147 Unlike
+adjuvant therapy trials, fewer numbers of patients and
+shorter follow-up are needed for assessment of primary
+systemic therapy. The activity of trastuzumab in the
+adjuvant setting has conﬁrmed the beneﬁts of this agent
+
+
+when combined with chemotherapy in the neoadjuvant
+setting; complete pathological response rate more than
+doubled for combined therapy versus chemotherapy
+alone.148 However, the potential for omission of surgical
+resection in patients with a complete pathological response
+remains limited in the absence of good clinico-radiopathological correlation and prospective identiﬁcation of
+this subset with imaging and percutaneous biopsy.
+Oestrogen-receptor-negative tumours have higher rates
+of complete pathological response to primary chemotherapy than do hormone-sensitive tumours that exhibit
+lower rates.147–150 Material from core biopsies or ﬁne-needle
+aspirates can be processed for construction of DNA
+microarrays, allowing comparison of expression proﬁles
+between responders and non-responders.151,152 A metaanalysis of neoadjuvant versus adjuvant systemic therapy
+for early-stage breast cancer shows that disease-free and
+overall survival are comparable for the two schedules.153
+Even if surgery causes a systemic perturbation that can
+be oﬀset by induction chemotherapy, the assumption
+that a modest shift in the timing of chemotherapy relative
+to surgery would have any signiﬁcant clinical eﬀect is
+perhaps naive.154 Moreover, increased rates of IBTR for
+neoadjuvant regimens could suggest inadequate surgery
+and cast doubt on the model of downstaging to allow
+breast-conservation surgery.
+By analogy with neoadjuvant chemotherapy, hormonal
+treatment can be used preoperatively to downstage
+tumours. Hormonal therapies are less toxic and potential
+side-eﬀects of chemotherapy can be avoided in elderly
+receptor-positive-patients and those with a poor performance status.155 Moreover, oestrogen-receptor-positive
+patients are less likely to achieve a complete pathological
+response with primary chemotherapy than oestrogenreceptor-negative patients are.147,149,150 Most studies relate to
+postmenopausal women for whom the aromatase
+inhibitors have consistently outperformed tamoxifen in
+the neoadjuvant setting, when endpoints include response
+rates and breast-conservation rates.156,157 The amount of
+oestrogen-receptor expression is the main determinant of
+response, and the optimum duration of therapy might be
+longer than for chemotherapy.158 In a study of patients with
+hormonally-sensitive locally-advanced and inoperable
+breast cancer, letrozole given as a preoperative schedule for
+4 months yielded signiﬁcantly better response rates than
+did tamoxifen for a similar period and allowed a
+signiﬁcantly higher rate of breast-conservation surgery.156
+The IMPACT study randomised patients with operable
+hormone-responsive breast cancer to 3 months of
+anastrozole alone, tamoxifen alone, or a combination of
+the two. No signiﬁcant diﬀerence in objective clinical
+response rates were recorded, but anastrozole was more
+eﬀective than tamoxifen was in reducing Ki-67 expression
+and downstaging tumours to allow breast-conservation
+surgery according to surgeon assessment.157
+Tumours do not necessarily shrink in a concentric
+manner in response to chemotherapy. Even if no viable
+
+
+cancer cells remain at the site of the original tumour
+periphery, this zone might contain unstable epithelium
+that is prone to malignant change.159 Furthermore,
+tumour regression is diﬃcult to assess radiologically
+even with MRI.160 Functional imaging techniques have a
+potential role in assessment of disease extent before and
+after chemotherapy and can be especially useful in early
+assessment of tumour response as changes in
+metabolism, cell proliferation, and vascularity precede
+tumour regression.161
+Primary systemic therapy can cause diﬀerential
+downstaging between sentinel and non-sentinel lymph
+nodes.162 Biopsy of sentinel lymph nodes undertaken
+before chemotherapy will keep the risk of a false-negative
+result to a minimum and ensure that decisions for
+postmastectomy radiotherapy are based on accurate
+nodal staging.163 However, there is no quantiﬁcation of
+regional metastatic load, and some advocate biopsy of
+sentinel lymph nodes after primary systemic therapy to
+take advantage of nodal downstaging and avoidance of
+axillary dissection in up to 40% of patients.162
+
+Chemoprevention
+Tamoxifen is a pioneering non-steroidal antioestrogen
+whose primary action is to competitively antagonise
+oestrogen at the cellular-receptor level.164 It has a proven
+eﬃcacy in treatment of breast cancer over the past
+30 years,165 with substantial increases in survival in
+patients receiving long-term adjuvant therapy.166
+Furthermore, patients receiving adjuvant tamoxifen have
+a 47% reduction of contralateral tumours.167 This accrual
+of a vast clinical database, underpinned by data from
+preclinical models and in-vitro studies,168 catalysed the
+exploration of tamoxifen as a chemopreventive in
+high-risk women.169 Several placebo-controlled chemoprevention trials of tamoxifen in high-risk premenopausal
+and postmenopausal women have shown up to a
+50% reduction in the cumulative incidence of both
+invasive and non-invasive breast cancer, with primary
+eﬀects conﬁned to oestrogen-receptor-positive disease.170,171
+Moreover, recent data suggest that not only is tamoxifen
+eﬀective during therapy, but also that chemoprevention
+is enhanced for many years after treatment ends.171–173
+This important observation shows the continuing
+antitumour action of tamoxifen, which occurs at a time
+when there are very few side-eﬀects from the drug. The
+side-eﬀect proﬁle of tamoxifen and other potential agents
+are crucial considerations in the chemopreventive setting
+when the risk to beneﬁt ratio is shifted and healthy
+women receive a pharmacological intervention for which
+the beneﬁts are less tangible.
+A modest increase in endometrial cancer in postmenopausal women has been well documented,171
+although neither this increase nor a raised risk of
+thromboembolism has been noted in premenopausal
+women.171 Tamoxifen can result in hot ﬂushes when used
+as adjuvant therapy in patients with breast cancer and is
+
+
+a potential cause of non-compliance. This side-eﬀect is
+especially pertinent in women who are considering use
+of tamoxifen for chemoprevention, and a selective
+serotonin reuptake inhibitor often needs to be
+co-prescribed. However, the latter can interfere with
+conversion of tamoxifen to its active metabolite endoxifen
+and should not be used;174 the occurrence of hot ﬂushes
+can indicate eﬀective metabolism.175 Additionally,
+mutations in CYP2D6 can impede conversion of
+tamoxifen to endoxifen and might be relevant to patients
+considering use of tamoxifen for chemoprevention.
+Concerns over increased incidence of endometrial
+cancer in women taking tamoxifen have led to
+re-assessment of other non-steroidal antioestrogens with
+attenuated uterotrophic activity in the rodent uterus.176
+The recognition that non-steroidal antioestrogens such as
+tamoxifen and raloxifene were selective oestrogen-receptor
+modulators with duality of action created a new dimension
+in therapeutics that is being exploited in chemoprevention
+strategies. If a selective oestrogen-receptor modulator is
+oestrogenic in bone but antioestrogenic in breast tissue,
+then perhaps it could be used to prevent osteoporosis
+with concomitant prophylaxis of breast cancer in postmenopausal women.177 Raloxifene has been successfully
+tested for reduction of fractures in women at high risk for
+osteoporosis178 and signiﬁcantly reduces the incidence
+of oestrogen-receptor-positive breast cancer (77% risk
+reduction) in patients receiving long-term raloxifene for
+prevention of this disease.179 These encouraging ﬁndings
+combined with the desire to minimise side-eﬀects
+sporned the STAR trial:180 a head-to-head comparison of
+tamoxifen and raloxifene as chemopreventive agents in
+high-risk postmenopausal women. Initial results have
+shown that raloxifene is equivalent to tamoxifen in
+reducing the incidence of oestrogen-receptor-positive
+breast cancer by 50%, but is less eﬀective in prevention of
+non-invasive disease.180 Raloxifene might therefore
+interfere with the progression of in-situ to invasive
+disease, but have no eﬀect on premalignant to in-situ
+transition. Raloxifene had a more favourable side-eﬀect
+proﬁle than did tamoxifen, with marginally signiﬁcant
+reductions of thromboembolic events, cataracts, lens
+replacement, and endometrial cancer.
+The panel summarises US recommendations for use
+of selective oestrogen-receptor modulators on the basis
+of clinical-trial evidence and approvals from the Food
+and Drug Administration for risk reduction.171,181 Recommendations for treatment duration are a single pulse of
+5 years. However, the long-term use of raloxifene to
+prevent osteoporosis could mandate 10 or more years of
+therapy, but the apparent carry-over eﬀect maintains the
+antitumour eﬃcacy of raloxifene and tamoxifen beyond
+the actual treatment period.180
+Future research should be directed at elucidating the
+mechanism of action of selective oestrogen-receptor
+modulators in diﬀerent target tissues around the body. The
+conﬁguration of the ligand/oestrogen receptor complex
+
+Panel: US recommendations for use of selective
+oestrogen-receptor modulators
+Tamoxifen
+Recommended for high-risk premenopausal women for
+whom there is no signiﬁcantly increased risk of endometrial
+cancer or blood clots
+Raloxifene
+Recommended for high-risk postmenopausal women for
+whom there is no signiﬁcantly increased risk of endometrial
+cancer
+Raloxifene
+Recommended for treatment and prevention of osteoporosis.
+It reduces the risk of breast cancer with no increased risk of
+endometrial cancer
+
+determines the recruitment of co-activators and corepressors that bind to the external surface of the complex
+and activate oestrogen-response elements.182 Individual
+selective oestrogen-receptor modulators have a clinical
+signature, with a range of structure-activity proﬁles that
+are site speciﬁc and confer diﬀerential and non-correlative
+mixed agonist or antagonist activity between species and
+tissues. Finally, clinical trials are assessing aromatase
+inhibitors in high-risk postmenopausal women as
+chemopreventive agents. IBIS II is a multicentre trial183
+that randomises healthy women at increased risk of breast
+cancer to either anastrozole or placebo. These inhibitors
+are associated with a greater reduction of contralateral
+breast cancer in adjuvant trials than is tamoxifen. They
+could potentially be combined with an luteinising
+hormone-releasing hormone agonist as a chemopreventive strategy in premenopausal women, but concerns exist
+about side-eﬀects of profound oestrogen deprivation, and
+the optimum duration of therapy is unknown.
+
+Conclusions
+Despite an inexorable rise in the incidence of breast
+cancer, improvements in treatments together with
+screening have led to modest falls in mortality. Local
+control of disease does aﬀect overall survival, and greater
+attention to surgical margins and improved radiotherapy
+techniques have reduced local recurrence after
+breast-conservation surgery. Oncoplastic surgical techniques are being used selectively to enhance cosmetic
+outcomes while satisfying oncological mandates. Longterm outcome is determined by the presence and
+behaviour of distant micrometastases, which have to be
+eﬀectively managed to achieve disease control if not
+cure. Molecular proﬁling oﬀers the potential to provide
+predictive information about individual tumour
+response, which will guide clinical application of targeted
+biological therapies and rationalise their integration with
+conventional systemic treatments.
+Conﬂicts of interest
+We declare that we have no conﬂicts of interest.
+
+

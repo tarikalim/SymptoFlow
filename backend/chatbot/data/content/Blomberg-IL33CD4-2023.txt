@@ -1,0 +1,51 @@
+IL-5-producing CD4⁺ T cells and eosinophils cooperate to enhance response to immune checkpoint blockade in breast cancer
+
+Citation:
+Cancer Cell 41, 106–123, January 9, 2023
+DOI: 10.1016/j.ccell.2022.11.014
+
+Authors:
+Olga S. Blomberg, Lorenzo Spagnuolo, Hannah Garner, Leonie Voorwerk, …, Karin E. de Visser, Marleen Kok
+Equal contributions by several authors.
+Correspondence: k.d.visser@nki.nl (K.E.d.V.) and m.kok@nki.nl (M.K.)
+In Brief
+
+    Challenge: Only a subset of breast cancer patients benefits from immune checkpoint blockade (ICB).
+    Discovery: Blomberg et al. reveal that in responders, both circulating and intratumoral eosinophils are increased.
+    Mechanism: ICB stimulates IL‑5 production by CD4⁺ T cells, which promotes eosinophil expansion; IL‑33 further drives eosinophil recruitment into tumors.
+    Impact: Eosinophils enhance CD8⁺ T cell activation, thereby contributing to improved responses to ICB.
+    Proof-of-Principle: Targeting or engaging the eosinophil axis (via IL‑5 and IL‑33) may offer a novel strategy to boost ICB efficacy in breast cancer.
+
+Abstract Summary
+
+Background:
+While immune checkpoint inhibitors (ICIs) have revolutionized cancer therapy, their efficacy in breast cancer remains limited to a fraction of patients. This study investigates the role of eosinophils—a type of myeloid immune cell—in modulating the response to ICB in breast cancer.
+
+Methods:
+Using a translational approach, the authors combined unbiased immune profiling of blood and tumor samples from metastatic breast cancer patients (from clinical trials such as the TONIC trial) with mechanistic experiments in spontaneous mouse models (KEP models) of breast cancer. Techniques included high-dimensional flow cytometry, RNA sequencing, NanoString gene expression analysis, and various in vivo depletion and cytokine-blockade experiments.
+
+Results:
+
+    Clinical Findings: In patients treated with anti-PD-1 therapy, responders showed a significant increase in circulating eosinophils, which correlated with longer progression‑free and overall survival.
+    Mechanistic Insights: In mouse models, ICB treatment increased IL‑5 production by CD4⁺ T cells. IL‑5 stimulated eosinophil production in the bone marrow, leading to systemic expansion. Additionally, IL‑33 was shown to be crucial for eosinophil recruitment into the tumor microenvironment.
+    Functional Role: Depletion of eosinophils in mice abrogated CD8⁺ T cell activation and the survival benefit of combined ICB (with or without cisplatin). Moreover, blocking IL‑5 or depleting CD4⁺ T cells impaired eosinophil expansion and reduced ICB efficacy.
+    Enhancement Strategy: Administration of recombinant IL‑33 further increased intratumoral eosinophils and enhanced CD8⁺ T cell activation, improving tumor control and survival in mouse models.
+
+Conclusions:
+The study identifies a critical cooperative axis between IL‑5-producing CD4⁺ T cells and eosinophils that enhances the antitumor efficacy of ICB in breast cancer. These findings suggest that therapeutic strategies aimed at engaging the eosinophil pathway—by harnessing IL‑5 and IL‑33—could potentially improve responses to ICB in patients with breast cancer.
+Highlights
+
+    Eosinophil Expansion: Responders to ICB in metastatic breast cancer exhibit increased circulating and intratumoral eosinophils.
+    CD4⁺ T cell Role: ICB triggers CD4⁺ T cells to produce IL‑5, driving eosinophil production from the bone marrow.
+    IL‑33 Contribution: IL‑33 is critical for recruiting eosinophils into the tumor microenvironment.
+    CD8⁺ T cell Activation: Eosinophils enhance the activation and effector functions of CD8⁺ T cells, which is essential for the antitumor response.
+    Therapeutic Implications: Preclinical evidence supports that engaging the eosinophil axis (e.g., with recombinant IL‑33) can further enhance ICB efficacy.
+
+Graphical Abstract
+
+A graphical summary illustrates that upon ICB treatment, CD4⁺ T cells produce IL‑5, leading to systemic eosinophil expansion. IL‑33 then promotes eosinophil recruitment into tumors, where eosinophils enhance CD8⁺ T cell activation, collectively resulting in improved antitumor responses.
+Implications
+
+This work expands our understanding of the interplay between innate and adaptive immunity in ICB response, suggesting that modulating the eosinophil pathway may represent a promising avenue to enhance immunotherapy efficacy in breast cancer. Further clinical exploration is warranted to determine how these insights can be translated into improved therapeutic strategies.
+
+For detailed methods, data, and supplementary information, please refer to the full article in Cancer Cell.

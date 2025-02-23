@@ -1,0 +1,48 @@
+FDA Approved Drugs and Novel Formulations for Breast Cancer Therapy: A Comprehensive Review
+Authors: Chaurasia et al.
+Full Article Link: https://www.frontiersin.org/articles/10.3389/fphar.2023.1184472/full
+Supplementary Material Link: https://www.frontiersin.org/articles/10.3389/fphar.2023.1184472/full#supplementary-material
+
+A comprehensive review of breast cancer therapies and formulations is presented. The article details the development, mechanisms of action, clinical applications, and limitations of various anticancer drugs. It discusses cytotoxic agents, hormonal therapies, targeted therapies, nanomedicine approaches, and novel formulations under clinical trial.
+
+For example, Cyclophosphamide, first approved in 1959, is used in neoadjuvant, adjuvant, and metastatic settings (FDA, 2012c; FDA, 2013). Similarly, Doxorubicin Hydrochloride is described as a key agent for metastatic breast cancer, with various liposomal formulations (FDA, 2012a; Pearce et al., 2012).
+
+The review also presents detailed tables. Table 1 provides a comprehensive account of commercial formulations of drugs approved for first-line, neoadjuvant, and adjuvant therapy in breast cancer—from 1953 to 2023. It lists drug names, year of approval, dosage forms, notable formulations, manufacturers, recommended doses, conditions of breast cancer, drug delivery type, and references. Table 2 lists various novel formulations in clinical trials along with the drug, type of novel formulation (e.g., nanoparticles, liposomes, nanogels), the condition of breast cancer, NCT number, clinical trial phase, and supporting references.
+
+The text explains that drugs used to treat breast cancer are considered systemic therapies because they can reach cancer cells throughout the body. Some agents are administered orally, while others are given via intravenous injection or infusion. The review emphasizes that the choice of therapy depends on the type and stage of breast cancer, with combination therapies often used to enhance treatment outcomes and minimize side effects.
+
+The discussion section underlines that despite decades of progress, no single drug or combination is entirely free of adverse effects. The evolution of drug discovery—from the early use of cytotoxic agents to the more recent introduction of targeted therapies and nanomedicine-based delivery systems—has significantly improved survival and quality of life for breast cancer patients (Zardavas and Piccart-Gebhart, 2016; Waks and Winer, 2019; Junnuthula et al., 2022).
+
+The review concludes that this exhaustive article serves as a one-stop reference for breast oncology scientists and clinicians. It aims to streamline data retrieval and facilitate further research in formulation development by providing comprehensive details on approved drugs, their clinical formulations, novel drug delivery systems, and emerging formulations in clinical trials.
+
+Author Contributions
+MC—original concept, writing of the first and second drafts; RS—literature survey, figures, tables, and referencing; SS—literature survey and first draft preparation; SF—final draft preparation, revision, and overall supervision. All authors contributed to the article and approved the submitted version.
+
+Acknowledgments
+The authors thank the Uttar Pradesh Council of Science and Technology Lucknow (UPCST) for financial support related to a research project on formulation development for the treatment of breast cancer.
+
+Conflict of Interest
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher’s Note
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, the publisher, the editors, or the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher.
+
+Supplementary Material
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fphar.2023.1184472/full#supplementary-material
+
+Selected Citations within the Text:
+
+• Cyclophosphamide is referenced with details from FDA (2012c) and FDA (2013).
+• Doxorubicin Hydrochloride formulations are discussed with citations from FDA (2012a) and Pearce et al. (2012).
+• The evolution and clinical trial data for novel formulations are supported by multiple sources including FDA (2017a, 2017b, 2019, 2020a), Goss and Tye (1997), and others throughout the text.
+• The comprehensive tables summarizing commercial formulations (Table 1) and clinical trial novel formulations (Table 2) include data from studies such as those by USP, Accessdata, and various clinical trial registries.
+
+References (Excerpt):
+
+Some key references include:
+
+    Abdulkareem, I. H., and Zurmi, I. B. (2012). Review of hormonal treatment of breast cancer. J. Clin. Pract. 15(1), 9–14. doi:10.4103/1119-3077.94088
+    FDA (2012a). Cyclophosphamide for injection, USP Cyclophosphamide Tablets, USP. Available at: https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/012142s109lbl.pdf
+    Zardavas, D., and Piccart-Gebhart, M. (2016). New generation of breast cancer clinical trials implementing molecular profiling. Cancer Biol. Med. 13(2), 226–235. doi:10.20892/j.issn.2095-3941.2015.0099
+
+For the full reference list and additional details, please refer to the original online version.

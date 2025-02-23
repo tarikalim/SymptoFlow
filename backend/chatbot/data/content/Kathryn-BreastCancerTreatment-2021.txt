@@ -1,0 +1,866 @@
+
+https://www.aafp.org/pubs/afp/issues/2021/0800/p171.html
+Breast Cancer Treatment
+Kathryn P. Trayes, MD, Thomas Jefferson University Hospital, Philadelphia, Pennsylvania
+Sarah E.H. Cokenakes, MD, Tacoma Family Medicine, Tacoma, Washington
+
+Breast cancer is the leading cause of death from cancer in women worldwide, and the second most
+common cause of death from cancer in women in the United States. Risk assessment tools can identify
+the risk of breast cancer, and patients at high risk may be candidates for risk-reducing medications. The
+choice of medication varies with menopausal status. Breast cancer treatment depends on the stage.
+Stage 0 is ductal carcinoma in situ, which is noninvasive but progresses to invasive cancer in up to 40%
+of patients. Ductal carcinoma in situ is treated with lumpectomy and radiation or with mastectomy. If
+ductal carcinoma in situ is estrogen receptor–positive, patients may also receive endocrine therapy.
+Early invasive stages (I, IIa, IIb) and locally advanced stages (IIIa, IIIb, IIIc) are nonmetastatic and have
+three treatment phases. The preoperative phase uses systemic endocrine or immunotherapies when
+tumors express estrogen, progesterone, or ERBB2 receptors. Preoperative chemotherapy may also be
+used and is the only option when tumors have none of those three receptors. There are two options for
+the surgical phase with similar survival rates;​a lumpectomy with radiation if the tumor can be excised
+completely with good cosmetic results, or a mastectomy. Sentinel lymph node biopsy is also performed
+when there is suspected nodal disease. The postoperative phase includes radiation, endocrine therapy,
+immunotherapy, and chemotherapy. Postmenopausal women should also be offered postoperative
+bisphosphonates. Stage IV (metastatic) breast cancer is treatable but not curable. Treatment goals
+include improving the length and quality of life. (Am Fam Physician. 2021;​104(2):​171-178. Copyright ©
+2021 American Academy of Family Physicians.)
+
+Breast cancer is the second most common can- Breast Cancer Risk Factors and Riskcer diagnosed in women, exceeded only by nonmelanoma skin cancer. It is the leading cause of death
+from cancer in women worldwide. In the United
+States, breast cancer is the second most common
+cause of death from cancer in women, exceeded
+only by lung cancer, with approximately 316,000
+patients diagnosed with breast cancer annually.1,2
+The treatment of breast cancer requires a multidisciplinary team of specialists in medical, surgical, and radiation oncology. Because most breast
+cancers are identified by mammography or by
+physical examination, primary care physicians
+are often the first contact for patients with a new
+breast cancer diagnosis.3 Primary care physicians
+should be familiar with the diagnostic workup
+for breast cancer and the basics of treatment.3
+This clinical content conforms to AAFP criteria for
+CME. See CME Quiz on page 128.
+CME
+
+Author disclosure:​ No relevant financial affiliations.
+
+Reduction Strategies
+Risk factors associated with breast cancer include
+older age, female sex, early menarche, late menopause, nulliparity, lack of breastfeeding, positive
+BEST PRACTICES IN ONCOLOGY
+Recommendations from the Choosing
+Wisely Campaign
+Recommendation
+
+Sponsoring organization
+
+Do not routinely recommend
+follow-up mammography more
+often than annually for women
+who have had radiotherapy following breast-conserving surgery.
+
+American Society for
+Radiation Oncology
+
+Source:​For more information on the Choosing Wisely Campaign,
+see https://​w ww.choosing​wisely.org. For supporting citations and
+to search Choosing Wisely recommendations relevant to primary
+care, see https://​w ww.aafp.org/afp/recommendations/search.htm.
+
+Downloaded
+the American
+Family Physician
+website at www.aafp.org/afp.
+Copyright © 2021 American Academy of Family
+Physicians.
+For the
+private, noncom◆ Volume
+August 2021from
+104, Number
+2
+www.aafp.org/afp
+American
+Family
+Physician
+171
+mercial use of one individual user of the website. All other rights reserved. Contact copyrights@aafp.org for copyright questions and/or permission requests.
+
+BREAST CANCER TREATMENT
+
+family history, dense breast tissue, horSORT:​KEY RECOMMENDATIONS FOR PRACTICE
+mone therapy, and a history of radiation therapy to the chest.
+Evidence
+Genetic variants associated with an
+Clinical
+recommendation
+rating
+Comments
+increased risk of breast cancer include
+mutations in breast cancer genes susAfter a histologic diagnosis of breast cancer,
+C
+Consensus and
+all pathology samples should be identified for
+expert opinion
+ceptibility 1 and 2 (BRCA1/2) genes.4
+estrogen, progesterone, or ERBB2 receptor staValidated risk assessment tools such
+tus to direct treatment. 24,25
+as the Ontario Family History AssessSentinel lymph node biopsy is preferred over
+C
+Clinical guideline
+ment Tool or the Seven Questions Famaxillary lymph node dissection for patients withbased on systematic
+ily History Screening can help identify
+out clinical evidence of nodal disease. 30
+review of randomwomen at risk of BRCA1/2 gene mutaized controlled trials
+tions or other genetic risks and guide
+Patients with advanced breast cancer and metasC
+Consensus and
+screening and genetic counseling.5
+tases to the bones should be offered treatment
+expert opinion
+The National Cancer Institute’s
+with denosumab (Prolia) or bisphosphonates
+Breast Cancer Risk Assessment Tool
+such as zoledronic acid (Reclast) or pamidronate
+(Aredia). 24
+(https://​bcrisktool.cancer.gov/)
+can
+provide an estimate of breast canFor locally recurrent breast cancer initially
+C
+Consensus and
+cer risk over the next five years, but
+treated with breast conserving therapy (i.e.,
+expert opinion
+the tool is not intended to assess risk
+lumpectomy plus radiation), further radiation
+is not recommended;​total mastectomy is the
+in patients with BRCA1/2 gene mutastandard of care. 24
+tions.6 Patients with a greater than 3%
+risk of breast cancer over the next five
+A = consistent, good-quality patient-oriented evidence;​ B = inconsistent or limited-quality
+patient-oriented evidence;​ C = consensus, disease-oriented evidence, usual practice, expert
+years are considered to be at increased
+opinion, or case series. For information about the SORT evidence rating system, go to https://​
+risk.
+www.aafp.org/afpsort.
+Risk-reducing medications, including the selective estrogen receptor modulators tamoxifen and raloxifene (Evista), or the
+Ductal carcinoma in situ (DCIS) is stage 0, noninvasive
+aromatase inhibitors anastrozole (Arimidex), letrozole breast cancer. Early invasive cancer describes stages I, IIa,
+(Femara), and exemestane (Aromasin), may be used to and IIb, and locally advanced describes stages IIIa, IIIb, and
+treat postmenopausal women 35 years or older who are at IIIc. All of these stages of breast cancer are nonmetastatic.
+increased risk of breast cancer and at low risk of adverse Stage IV is metastatic breast cancer.23 Treatments for the varmedication effects7 (Table 18-18). In premenopausal women, ious stages of breast cancer are summarized in Table 2.23,24
+only tamoxifen should be used for the prevention of priStage 0, DCIS, Noninvasive Breast Cancer
+mary breast cancer.6
+Bilateral risk-reducing mastectomy may be offered for DCIS is a form of pure, noninvasive carcinoma and is most
+patients at particularly high risk (e.g., BRCA1/2 gene carri- commonly identified by mammography showing microcalers or carriers of other high-risk, high-penetrance genes).19 cifications confined to the breast ducts.26 If left untreated, up
+There are some data to suggest that bilateral risk-reducing to 40% of DCIS cases will progress to invasive breast cancer.27
+mastectomy results in lower rates of invasive breast cancer
+DCIS is treated with lumpectomy (with a goal of 2-mm
+and lower mortality rates in high-risk populations.20-22
+surgical margins) and radiation or with mastectomy.28 Sentinel lymph node (SLN) biopsy is done at the time of masBreast Cancer Staging and Classification
+tectomy to detect the (unlikely) possibility of lymph node
+Breast cancer staging is determined by tumor size, nodal involvement. After mastectomy, an SLN biopsy may not be
+involvement, the presence of metastases, and specific bio- technically possible.
+markers such as estrogen receptors, progesterone recepRadiation therapy is offered to patients having a lumpectors, and the ERBB2 receptor (formerly HER2).23 After a tomy;​the combination of lumpectomy with radiation is
+histologic diagnosis of breast cancer, all pathology samples considered a breast-conserving therapy. Radiation may be
+should be tested for estrogen receptors, progesterone recep- deferred for patients with small, low-grade lesions assessed
+tors, and ERBB2 status.24,25 Breast cancers that express none to have a low risk of recurrence. Radiation is not indicated
+of these markers are referred to as triple-negative.
+for patients who are treated with mastectomy.24
+172 American Family Physician
+
+www.aafp.org/afp
+
+Volume 104, Number 2
+
+◆
+
+August 2021
+
+BREAST CANCER TREATMENT
+
+TABLE 1
+Common Systemic Breast Cancer Drugs and Adverse Effects
+Category
+
+Agent
+
+Mechanism of action
+
+Bone-modifying agents
+
+Bisphosphonates:​
+
+Inhibits osteoclast activity induced by tumors,
+decreasing bone resorption
+
+Clodronate
+
+Common toxicities
+and adverse effects
+Fatigue
+Heartburn
+
+Pamidronate (Aredia)
+
+Nausea, vomiting
+
+Zoledronic acid (Reclast)
+
+Osteonecrosis of jaw
+
+Denosumab (Prolia)
+
+Monoclonal antibody with affinity for nuclear factor
+kappa ligand prevents osteoclast formation, leading
+to decreased bone resorption
+
+Fatigue
+Hypophosphatemia
+Nausea, vomiting, diarrhea
+Peripheral edema
+
+Chemotherapy
+
+Alkylating agents:​
+Carboplatin (Paraplatin)
+
+Covalently binds to DNA, interfering with its normal
+functions
+
+Cyclophosphamide
+Anthracyclines:​
+Doxorubicin (Adriamycin)
+
+Bone marrow suppression
+Electrolyte abnormalities
+Nausea, vomiting
+
+Inhibits DNA replication and creates free radicals that
+further damage cancer cells
+
+Acute and delayed
+cardiotoxicity
+Alopecia
+
+Epirubicin (Ellence)
+
+Myelosuppression
+Nausea, vomiting
+Taxanes:​
+Docetaxel (Taxotere)
+
+Inhibits microtubule disassembly during mitosis,
+preventing cell division
+
+Paclitaxel (Taxol)
+
+Alopecia
+Flushing
+Myelosuppression
+Nausea, vomiting, diarrhea
+Peripheral neuropathy
+
+Endocrine
+therapy
+
+Aromatase inhibitors:​
+Anastrozole (Arimidex)
+Exemestane (Aromasin)
+
+Inhibits the enzyme aromatase, which prevents the
+conversion of androstenedione to estrone, and of
+testosterone to estradiol
+
+Hot flashes
+
+Competitively binds to estrogen receptors on tumor
+cells
+
+Hot flashes
+
+Letrozole (Femara)
+Selective estrogen receptor modulators:​
+Raloxifene (Evista)
+Tamoxifen
+Immunotherapy
+
+ERBB2-targeted monoclonal antibodies:​
+Pertuzumab (Perjeta)
+
+Myalgias
+Osteoporosis-related
+bone fractures
+
+Increased risk of
+thromboembolism
+Increased risk of uterine
+cancer
+
+Monoclonal antibody that targets the extracellular
+domain of ERBB2, thereby preventing activation of
+downstream signaling pathways
+
+Trastuzumab (Herceptin)
+
+Alopecia
+Fatigue
+Left heart dysfunction
+Myelosuppression
+Nausea, vomiting, diarrhea
+
+Neratinib (Nerlynx)
+
+Irreversible tyrosine kinase inhibitor of ERBB2 that
+reduces downstream signaling pathways
+
+Abdominal pain
+Diarrhea
+Fatigue
+Skin rash
+
+Information from references 8-18.
+
+August 2021
+
+◆
+
+Volume 104, Number 2
+
+www.aafp.org/afp
+
+American Family Physician 173
+
+BREAST CANCER TREATMENT
+
+Patients with estrogen receptor–positive DCIS and residual breast tissue should receive five years of endocrine
+therapy. This treatment includes tamoxifen if the patient is
+premenopausal and tamoxifen or an aromatase inhibitor if
+postmenopausal.24
+Lobular carcinoma in situ was previously considered
+a malignancy. However, despite its name, it is not a carcinoma and is a proliferative disease that confers an increased
+risk of future breast cancer. It is no longer included in breast
+cancer staging guidelines.23
+
+disease. Chemotherapeutic drugs are the only systemic
+therapy available for patients with triple-negative breast
+cancer.24
+Preoperative therapy with trastuzumab (Herceptin)
+and/or pertuzumab (Perjeta), which are monoclonal antibodies directed against ERBB2, is used in addition to chemotherapy when the cancer is ERBB2 positive.
+Patients with low-risk estrogen receptor–positive disease,
+or older adults, may be eligible for preoperative systemic
+therapy alone, without proceeding to surgery.
+A complete response (i.e., the tumor is no longer detectable) to preoperative systemic therapies is associated with
+favorable outcomes for disease-free survival and overall
+survival.24 The degree of tumor response to preoperative systemic therapies helps determine the need for and response
+to any postoperative systemic therapies.
+
+Stages I-III, Early Invasive and Locally
+Advanced, Nonmetastatic Breast Cancer
+Nonmetastatic breast cancer is treated with preoperative
+and postoperative systemic therapies that include chemotherapy, endocrine therapies, immunotherapy with monoclonal antibodies directed at tumor receptors, and surgery
+SURGICAL INTERVENTIONS
+and radiation.
+Molecular testing helps guide whether chemotherapy Lumpectomy with radiation should be offered if negative
+needs to be added to a treatment regimen. For patients margins can be achieved with acceptable cosmesis. When
+with hormone receptor–positive,
+node-negative breast cancer, including males, a 21-gene expression assay
+TABLE 2
+(Oncotype DX) is the preferred assay
+for disease prognostication and deciBreast Cancer Treatments
+sions about the addition of chemoBreast cantherapy.24 When chemotherapy and
+cer stage
+Classification
+Surgery
+Radiation
+endocrine therapy are administered
+0
+In situ
+Lumpectomy or mastectomy
+Yes, if lumpectomy
+postoperatively, chemotherapy always
+with sentinel lymph node biopsy
+precedes endocrine therapy.24
+PREOPERATIVE SYSTEMIC THERAPY
+
+The purpose of preoperative systemic therapy is to decrease the size
+of resectable breast tumors (allowing
+for better cosmetic and treatment outcomes), to render unresectable tumors
+operable, and to allow for SLN biopsy
+instead of axillary lymph node dissection (ALND) if axillary nodes are no
+longer detectable. Generally, preoperative therapy is not recommended for
+early invasive breast cancers (I, IIa,
+IIb) because tumors are often small
+enough to undergo resection with
+lumpectomy.
+Preoperative
+chemotherapy
+is
+used for patients with large primary
+tumors in relation to breast size who
+want breast-conserving surgery. It is
+also used for patients with inoperable
+174 American Family Physician
+
+I and II
+
+Early invasive
+
+Commonly lumpectomy plus
+sentinel lymph node biopsy;
+mastectomy may be needed
+for larger tumors or because of
+patient choice
+
+Yes, if lumpectomy
+or high-risk, nodepositive disease with
+mastectomy
+
+III
+
+Locally
+advanced
+
+Commonly mastectomy plus
+axillary lymph node dissection
+
+Yes, if lumpectomy
+or high-risk, nodepositive disease with
+mastectomy
+
+IV
+
+Metastatic
+
+Mastectomy or lumpectomy
+may be appropriate when tumor
+burden impacts quality of life
+
+Radiation may be
+appropriate when
+tumor burden
+impacts quality of life
+
+Information from references 23 and 24.
+
+www.aafp.org/afp
+
+Volume 104, Number 2
+
+◆
+
+August 2021
+
+BREAST CANCER TREATMENT
+
+the excised tissue is sent to pathology, the specimen’s outer
+surface is marked with ink. A specimen devoid of cancer
+cells adjacent to the inked surface is considered a negative
+margin.28
+Some tumors may be too large to allow for good cosmesis with lumpectomy and will require a mastectomy. Some
+women may choose mastectomy over lumpectomy for many
+other reasons, including family history, gene mutations,
+peace of mind, or lack of access to health care centers offering radiation therapy.29
+In addition to removing the tumor, surgical interventions can also address the potential spread of breast cancer
+through the lymphatic system. SLN biopsy is done by injecting tracer into the breast and removing the first several axillary nodes into which the tracer drains. An SLN biopsy is
+preferred over ALND for patients without clinical evidence
+of nodal disease or with a low nodal burden based on imaging studies.30
+The removal of more lymph nodes and adipose tissue
+of the axilla by ALND is reserved for patients who have
+
+positive nodes on SLN biopsy and will have a mastectomy,
+patients with inflammatory breast cancer (a rare but aggressive cancer that causes redness and swelling of the breast),
+and patients with positive nodes after preoperative chemotherapy. SLN biopsy does not confer an increased risk of
+death compared with ALND.31
+POSTOPERATIVE THERAPY
+
+Radiation. Radiation therapy is used after surgical excision
+of breast cancer to eliminate any remaining subclinical disease. It is generally recommended for patients who have had
+a lumpectomy and for patients with high-risk, node-positive
+disease who have been treated with mastectomy.4 For
+patients who have a lumpectomy, radiation decreases the
+20-year, ipsilateral breast cancer recurrence rate.32
+Partial breast irradiation, which involves treating only
+the site of lumpectomy and surrounding tissue, requires
+fewer radiation sessions and decreases acute skin toxicity
+without increasing the risk of local recurrence.33,34 There is
+evidence to suggest that whole breast radiation therapy may
+result in better long-term cosmetic
+results than partial breast irradiation.34
+Shared clinical decision-making for
+radiation should consider patient life
+expectancy, tumor response to preoperative systemic therapies, and nodal
+involvement.35
+Endocrine therapy
+Immunotherapy
+Chemotherapy
+Endocrine. Approximately twoEstrogen receptor and ductal carNot commonly
+Not commonly offered
+thirds of breast cancers are hormone
+cinoma in situ should receive five
+offered
+receptor–positive (express estrogen
+years of endocrine therapy:​
+receptors, progesterone receptors, or
+Tamoxifen if premenopausal
+both) and are amenable to treatment
+Tamoxifen or aromatase inhibitor if
+with endocrine therapies such as
+postmenopausal
+tamoxifen and aromatase inhibitors.36
+Hormone receptor–positive breast
+ERBB2-positive breast
+May be appropriThe mechanism of action and adverse
+cancer should be treated with up to
+cancer should receive
+ate for hormone
+effects for these therapies are summa10 years of endocrine therapy
+one year of trastureceptor–positive,
+rized in Table 1.8-18
+zumab
+(Herceptin)
+ERBB2-positive,
+and
+If premenopausal:​
+triple-negative breast
+Women
+who
+are
+premenoCertain high-risk
+Five years tamoxifen
+cancer of any stage;​
+cancers may benefit
+pausal at the time of their hormone
+Additional three to five years
+molecular testing
+from the addition of
+receptor–positive breast cancer diagtamoxifen if still premenopausal
+helps guide addition of
+pertuzumab (Perjeta)
+nosis should receive five years of
+chemotherapy
+to
+the
+Additional five years tamoxifen
+or neratinib (Nerlynx)
+treatment regimen
+therapy with gonadotropin-releasing
+or aromatase inhibitor if now
+postmenopausal
+hormone (GnRH) for ovarian suppresIf postmenopausal:​up to 10 years of
+sion plus tamoxifen or an aromatase
+tamoxifen or aromatase inhibitor
+inhibitor.24 Ovarian suppression prevents the ovaries from releasing estroEndocrine therapy, chemotherapy, and immunotherapy may be offered to target their
+appropriate breast cancer subtypes with the goal of managing symptoms, extending life,
+gen, which can lead to accelerated
+and preserving quality of life
+growth for hormone receptor–positive
+breast cancer. Patients who may benefit
+more from the GnRH plus aromatase
+inhibitor regimens are those with
+August 2021
+
+◆
+
+Volume 104, Number 2
+
+www.aafp.org/afp
+
+American Family Physician 175
+
+BREAST CANCER TREATMENT
+
+hormone receptor–positive, ERBB2-negative breast cancer
+with a high risk of recurrence.37 After five years of tamoxifen therapy, patients who are premenopausal and originally received tamoxifen receive an additional five years of
+tamoxifen, and patients who originally received tamoxifen
+and are now postmenopausal may receive tamoxifen or an
+aromatase inhibitor for an additional five years. Premenopausal patients who were originally treated with aromatase
+inhibitors may receive an additional three to five years of
+aromatase inhibitor therapy.24
+Women who are postmenopausal at the time of their
+breast cancer diagnosis may receive up to 10 years total of
+endocrine therapy. This may consist of tamoxifen alone, an
+aromatase inhibitor alone, or a sequence of the two medications. GnRH is not necessary after menopause.
+Targeted. Approximately 15% to 20% of breast cancers
+involve overexpression of ERBB2.38 These cancers have a
+poor prognosis;​however, outcomes are improved with chemotherapy in conjunction with trastuzumab administered
+every three weeks for one year.38 There is no increase in
+long-term, disease-free survival with more than one year of
+therapy.38
+Patients with high-risk ERBB2-positive breast cancer
+determined by larger tumor size and positive nodal status
+may benefit from additional agents such as pertuzumab,
+and neratinib (Nerlynx), an oral tyrosine kinase inhibitor
+that acts on ERBB2-expressing cells. Treatment with therapies in addition to a trastuzumab-containing regimen has
+demonstrated a small increase in three-year disease-free
+survival and five-year disease-free survival for pertuzumab
+and neratinib, respectively.39,40
+Chemotherapy. Chemotherapy is used to decrease tumor
+size before surgery,24 and is administered after surgery to
+treat breast cancers that express hormone receptors and
+ERBB2. Chemotherapy is a core treatment for triple-negative
+breast cancer because endocrine therapy and immunotherapy have no benefit.4,24 Taxane-based, nonanthracycline
+regimens are used for lower-risk disease, and anthracyclines
+are included in regimens that target triple-negative cancers
+with lymph node involvement.41 There are data supporting
+the use of capecitabine (Xeloda) for triple-negative cancers
+with lymph node involvement if residual disease is present
+at the time of surgery.42
+Other Treatments. Postmenopausal women who receive
+postoperative aromatase inhibitor therapy for nonmetastatic breast cancer should be offered bisphosphonate therapy, which appears to decrease the chance of developing
+bone metastases and fractures and improves survival.24,43,44
+Before starting bisphosphonate therapy, patients should
+undergo a dental examination and should be taking vitamin D and calcium supplements.24
+176 American Family Physician
+
+Stage IV, Metastatic Breast Cancer
+The median survival rate for patients with metastatic
+breast cancer has improved over the past several decades
+with advances in breast cancer therapies. Although metastatic breast cancer is rarely cured, survival is now 24 to 40
+months.45
+The goals of treatment focus on minimizing symptoms,
+extending life, and preserving quality of life.4 Endocrine
+therapy, chemotherapy, and immunotherapy may all be
+offered to target their respective appropriate breast cancer
+subtypes. Surgery or radiation following systemic therapy
+may be appropriate for patients in which tumor burden
+affects quality of life.46
+The 60% to 80% of patients with advanced breast cancer who develop metastases to the bones should be offered
+treatment with denosumab (Prolia) or bisphosphonates
+such as zoledronic acid (Reclast) or pamidronate (Aredia).24 These therapies have been shown to decrease the
+effects of metastases on the bone, such as fractures and
+hypercalcemia.47
+Metastases to the liver, lung, and brain are common in
+stage IV breast cancer.48,49 Symptomatic treatments should
+be recommended as needed to provide palliation.
+Recurrent Breast Cancer
+The treatment of recurrent breast cancer requires a multidisciplinary approach that considers all potential options
+for optimal outcomes.24 For locally recurrent breast cancer initially treated with breast-conserving therapy (i.e.,
+lumpectomy plus radiation), additional radiation is not
+recommended;​total mastectomy is the standard of care.24
+However, a 2017 study demonstrated promising data that
+local resection followed by partial breast reirradiation could
+be an appropriate alternative treatment approach.50
+Local recurrence following a mastectomy usually involves
+the chest wall and requires wide local excision. If the patient
+did not previously receive radiation, surgical resection followed by radiation therapy is recommended.51
+For regional recurrence involving the axillary lymph
+nodes, surgical resection and radiation therapy are recommended. Radiation therapy without surgery is the standard of care for supraclavicular or internal mammary node
+recurrence.
+The treatment of recurrent disease with distant metastases (i.e., stage IV) is guided by estrogen, progesterone, and ERBB2 receptor status. Treatment algorithms
+include additional endocrine therapy, chemotherapy,
+and ERBB2-targeted therapies. Regular assessments with
+shared decision-making should be implemented to assess
+ongoing treatment in the setting of palliative and supportive care.
+
+www.aafp.org/afp
+
+Volume 104, Number 2
+
+◆
+
+August 2021
+
+BREAST CANCER TREATMENT
+
+This article updates a previous article on this subject by
+Maughan, et al.52
+Data Sources:​ A PubMed search was completed in Clinical Queries using the terms breast cancer and treatment. The search
+included meta-analyses, systematic reviews, clinical trials,
+and reviews. Also searched were the Cochrane database, U.S.
+Preventive Services Task Force, DynaMed, American Society
+of Clinical Oncology Guidelines, Essential Evidence Plus, and
+UpToDate. Additionally, the search feature on the AAFP website
+was used with the term breast cancer. Search dates:​January
+2020, February 2020, and January 2021.
+The authors thank Melissa Lazar, MD, and Rebecca Jaslow, MD,
+for reviewing the manuscript.
+
+The Authors
+KATHRYN P. TRAYES, MD, is an assistant professor in the
+Department of Family and Community Medicine at Thomas
+Jefferson University Hospital, and associate dean in the
+Office of Student Affairs and Career Counseling at Sidney
+Kimmel Medical College at Thomas Jefferson University,
+Philadelphia, Pa.
+SARAH E.H. COKENAKES, MD, is a fellow at Tacoma (Wash.)
+Family Medicine. At the time the article was written, Dr.
+Cokenakes was a resident in the Department of Family
+and Community Medicine at Thomas Jefferson University
+Hospital.
+Address correspondence to Kathryn P. Trayes, MD, Thomas
+Jefferson University, 1020 Locust St., Ste. 157, Philadelphia, PA
+19107 (email:​kathryn.trayes@​jefferson.edu). Reprints are not
+available from the authors.
+
+References
+1. Siegel RL, Miller KD, Jemal A. Cancer statistics, 2019. CA Cancer J Clin.
+2019;​69(1):​7-34.
+2. American Cancer Society. Cancer facts & figures. 2019. Accessed
+October 2, 2020. https://​w ww.cancer.org/content/dam/cancer-org/
+research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/​
+2019/​cancer-facts-and-figures-2019.pdf
+3. Ruddy KJ, Ganz PA. Treatment of nonmetastatic breast cancer. JAMA.
+2019;​321(17):​1716-1717.
+4. O’Sullivan CC, Loprinzi CL, Haddad TC. Updates in the evaluation and
+management of breast cancer. Mayo Clin Proc. 2018;​93(6):​794-807.
+5. Owens DK, Davidson KW, Krist AH, et al. Risk assessment, genetic
+counseling, and genetic testing for BRCA-related cancer:​US Preventive
+Services Task Force recommendations statement [published correction
+appears in JAMA. 2019;​322(18):​1830]. JAMA. 2019;​322(7):​652-665.
+6. Visvanathan K, Fabian CJ, Bantug E, et al. Use of endocrine therapy for
+breast cancer risk reduction:​ASCO clinical practice guideline update.
+J Clin Oncol. 2019;​37(33):​3152-3165.
+7. Owens DK, Davidson KW, Krist AH, et al. Medication use to reduce risk
+of breast cancer:​US Preventive Services Task Force recommendation
+statement. JAMA. 2019;​322(9):​857-867.
+8. Armenian SH, Lacchetti C, Barac A, et al. Prevention and monitoring of
+cardiac dysfunction in survivors of adult cancers:​American Society of
+Clinical Oncology clinical practice guideline. J Clin Oncol. 2017;​35(8):​
+893-911.
+9. Burstein HJ, Lacchetti C, Anderson H, et al. Adjuvant endocrine therapy for women with hormone receptor-positive breast cancer:​ASCO
+
+August 2021
+
+◆
+
+Volume 104, Number 2
+
+clinical practice guideline focused update. J Clin Oncol. 2019;​37(5):​
+423-438.
+10. Dhesy-Thind S, Fletcher GG, Blanchette PS, et al. Use of adjuvant bisphosphonates and other bone-modifying agents in breast cancer:​
+a Cancer Care Ontario and American Society of Clinical Oncology clinical practice guideline. J Clin Oncol. 2017;​35(18):​2062-2081.
+11. Giordano SH, Temin S, Chandarlapaty S, et al. Systemic therapy for
+patients with advanced human epidermal growth factor receptor
+2-positive breast cancer:​ASCO clinical practice guideline update. J Clin
+Oncol. 2018;​36(26):​2736-2740.
+12. Herceptin (trastuzumab). Prescribing information. Accessed July 27,
+2020. https://​w ww.herceptin.com/hcp.html?c=her-16ed7d​257​86&​gc​l​
+id=​E AIaI​Q ob​ChMI1​MrujJnT6gIVF8DICh25Dg​Q OEAA​YASA ​AEgJ​​So​PD_​
+BwE​&gclsrc=aw.ds
+13. Nerlynx (neratinib). Prescribing information. Accessed July 17, 2020.
+https://​nerlynx.com/hcp/?gclid=EAIaIQobChMI27u2iZrT6gIVF8DICh25
+DgQOEAAYASAAEgLuIPD_BwE&gclsrc=aw.ds
+14. Visvanathan K, Hurley P, Bantug E, et al. Use of pharmacologic interventions for breast cancer risk reduction:​American Society of Clinical
+Oncology clinical practice guideline [published correction appears in
+J Clin Oncol. 2013;​31(34):​4383]. J Clin Oncol. 2013;​31(23):​2942-2962.
+15. Xgeva (denosumab) injection. Bone metastases risk and complications.
+Accessed July 17, 2020. https://​w ww.xgeva.com/hcp/solid-tumors/
+burden-of-disease/?gclid=EAIaIQobChMI07Ox8Z3T6gIVGI7I ​ C h1​
+Asghw​E AAYASAAEgIufPD_BwE&gclsrc=aw.ds
+16. Prolia (denosumab) injection. Possible side effects. Accessed July 17,
+2020. https://​w ww.prolia.com/possible-side-effects
+17. Chan JK, Brady MF, Penson RT, et al. Weekly vs. every-3-week paclitaxel
+and carboplatin for ovarian cancer. N Engl J Med. 2016;​374(8):​738-748.
+18. Tolaney SM, Barry WT, Dang CT, et al. Adjuvant paclitaxel and trastuzumab for node-negative, HER2-positive breast cancer [published correction appears in N Engl J Med. 2015;​373(20):​1989]. N Engl J Med.
+2015;​372(2):​1 34-141.
+19. Tung NM, Boughey JC, Pierce LJ, et al. Management of hereditary
+breast cancer:​American Society of Clinical Oncology, American Society for Radiation Oncology, and Society of Surgical Oncology guideline. J Clin Oncol. 2020;​38(18):​2080-2106.
+20. Heemskerk-Gerritsen BAM, Jager A, Koppert LB, et al. Survival after
+bilateral risk-reducing mastectomy in healthy BRCA1 and BRCA2 mutation carriers. Breast Cancer Res Treat. 2019;​177(3):​723-733.
+21. Carbine NE, Lostumbo L, Wallace J, et al. Risk-reducing mastectomy for
+the prevention of primary breast cancer. Cochrane Database Syst Rev.
+2018;​(4):​CD002748.
+22. De Felice F, Marchetti C, Musella A, et al. Bilateral risk-reduction mastectomy in BRCA1 and BRCA2 mutation carriers:​a meta-analysis. Ann Surg
+Oncol. 2015;​22(9):​2876-2680.
+23. Hortobagyi GN, Connolly JL, D’Orsi CJ, et al. Breast. In:​Amin MB,
+Edge SB, Greene FL, et al., eds. AJCC Cancer Staging Manual. 8th ed.
+Springer;​ 2018:​589-636.
+24. NCCN Clinical Practice Guidelines in Oncology, Breast Cancer, Version
+1.2021. National Comprehensive Cancer Network. 2021;​2021(January):​15.
+25. Allison KH, Hammond MEH, Dowsett M, et al. Estrogen and progesterone receptor testing in breast cancer:​ASCO/CAP guideline update.
+J Clin Oncol. 2020;​38(12):​1 346-1366.
+26. Virnig BA, Shamliyan T, Tuttle TM, et al. Diagnosis and management
+of ductal carcinoma in situ (DCIS). Evid Rep Technol Assess (Full Rep).
+2009;​(185):​1-549.
+27. Cowell CF, Weigelt B, Sakr RA, et al. Progression from ductal carcinoma in situ to invasive breast cancer:​revisited. Mol Oncol. 2013;​7(5):​
+859-869.
+28. Morrow M, Van Zee KJ, Solin LJ, et al. Society of Surgical Oncology-American Society for Radiation Oncology-American Society of Clinical Oncology consensus guideline on margins for breast-conserving
+surgery with whole-breast irradiation in ductal carcinoma in situ. J Clin
+Oncol. 2016;​3 4(33):​4040-4046.
+
+www.aafp.org/afp
+
+American Family Physician 177
+
+BREAST CANCER TREATMENT
+
+29. Bellavance EC, Kesmodel SB. Decision-making in the surgical treatment
+of breast cancer:​factors influencing women’s choices for mastectomy
+and breast conserving surgery. Front Oncol. 2016;​6:​74.
+30. Lyman GH, Somerfield MR, Bosserman LD, et al. Sentinel lymph node
+biopsy for patients with early-stage breast cancer:​American Society of
+Clinical Oncology clinical practice guideline update. J Clin Oncol. 2017;​
+35(5):​561-564.
+31. Bromham N, Schmidt-Hansen M, Astin M, et al. Axillary treatment for
+operable primary breast cancer. Cochrane Database Syst Rev. 2017;​(1):​
+CD004561.
+32. Fisher B, Anderson S, Bryant J, et al. Twenty-year follow-up of a randomized trial comparing total mastectomy, lumpectomy, and lumpectomy plus irradiation for the treatment of invasive breast cancer. N Engl
+J Med. 2002;​3 47(16):​1 233-1241.
+33. Hickey BE, Lehman M, Francis DP, et al. Partial breast irradiation for early
+breast cancer. Cochrane Database Syst Rev. 2016;​( 7):​CD007077.
+34. Whelan TJ, Julian JA, Berrang TS, et al.;​RAPID Trial Investigators. External beam accelerated partial breast irradiation versus whole breast
+irradiation after breast conserving surgery in women with ductal carcinoma in situ and node-negative breast cancer (RAPID):​a randomised
+controlled trial. Lancet. 2019;​394(10215):​2165-2172.
+35. Recht A, Comen EA, Fine RE, et al. Postmastectomy radiotherapy:​an
+American Society of Clinical Oncology, American Society for Radiation
+Oncology, and Society of Surgical Oncology focused guideline update.
+J Clin Oncol. 2016;​3 4(36):​4 431-4442.
+36. Peart O. Breast intervention and breast cancer treatment options.
+Radiol Technol. 2015;​86(5):​535M-558M.
+37. Francis PA, Pagani O, Fleming GF, et al.;​SOFT and TEXT Investigators
+and the International Breast Cancer Study Group. Tailoring adjuvant
+endocrine therapy for premenopausal breast cancer. N Engl J Med.
+2018;​379(2):​1 22-137.
+38. Cameron D, Piccart-Gebhart MJ, Gelber RD, et al.;​Herceptin Adjuvant
+(HERA) Trial Study Team. 11 years’ follow-up of trastuzumab after adjuvant chemotherapy in HER2-positive early breast cancer:​final analysis
+of the HERceptin adjuvant (HERA) trial [published correction appears in
+Lancet. 2019;​393(10176):​1 100]. Lancet. 2017;​389(10075):​1 195-1205.
+39. Martin M, Holmes FA, Ejlertsen B, et al.;​ExteNET Study Group. Neratinib after trastuzumab-based adjuvant therapy in HER2-positive breast
+cancer (ExteNET):​5-year analysis of a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol. 2017;​18(12):​1688-1700.
+
+178 American Family Physician
+
+40. von Minckwitz G, Procter M, de Azambuja E, et al.;​APHINITY Steering
+Committee and Investigators. Adjuvant pertuzumab and trastuzumab
+in early HER2-positive breast cancer [published corrections appear in
+N Engl J Med. 2017;​377(7):​702, and N Engl J Med. 2018;​379(16):​1585].
+N Engl J Med. 2017;​377(2):​1 22-131.
+41. Waks AG, Winer EP. Breast cancer treatment:​a review. JAMA. 2019;​
+321(3):​288-300.
+42. Masuda N, Lee SJ, Ohtani S, et al. Adjuvent capecitabine for breast
+cancer after preoperative chemotherapy. N Engl J Med. 2017;​376(22):​
+2147-2159.
+43. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Adjuvant
+bisphosphonate treatment in early breast cancer:​meta-analyses of
+individual patient data from randomised trials [published corrections
+appear in Lancet. 2016;​387(10013):​30, and Lancet. 2017;​389(10088):​
+2472]. Lancet. 2015;​386(10001):​1 353-1361.
+44. Bouvard B, Chatelais J, Soulié P, et al. Osteoporosis treatment and 10
+years’ oestrogen receptor+ breast cancer outcome in postmenopausal
+women treated with aromatase inhibitors. Eur J Cancer. 2018;​101:​87-94.
+45. Caswell-Jin JL, Plevritis SK, Tian L, et al. Change in survival in metastatic
+breast cancer with treatment advances:​meta-analysis and systematic
+review. JNCI Cancer Spectr. 2018;​2(4):​pky062.
+46. Leung AM, Vu HN, Nguyen K-A, et al. Effects of surgical excision on survival of patients with stage IV breast cancer. J Surg Res. 2010;​161(1):​83-88.
+47. Baron R, Ferrari S, Russell RGG. Denosumab and bisphosphonates:​different mechanisms of action and effects. Bone. 2011;​48(4):​677-692.
+48. Yeo B, Turner NC, Jones A. An update on the medical management of
+breast cancer. BMJ. 2014;​3 48:​g3608.
+49. Peart O. Metastatic breast cancer. Radiol Technol. 2017;​88(5):​519M-539M.
+50. Arthur DW, Winter KA, Kuerer HM, et al. NRG Oncology-Radiology
+Therapy Oncology Group Study 1014:​1-year toxicity report from
+a phase 2 study of repeat breast-preserving surgery and 3-dimensional
+conformal partial-breast reirradiation for in-breast recurrence. Int
+J Radiat Oncol Biol Phys. 2017;​98(5):​1028-1035.
+51. Easson AM, McCready DR. Management of local recurrence of breast
+cancer. Expert Rev Anticancer Ther. 2004;​4(2):​219-226.
+52. Maughan KL, Lutterbie MA, Ham PS. Treatment of breast cancer. Am
+Fam Physician. 2010;​81(11):​1339-1346. Accessed November 9, 2020.
+https://​w ww.aafp.org/afp/2010/0601/p1339.html
+
+www.aafp.org/afp
+
+Volume 104, Number 2
+
+◆
+
+August 2021
+
+

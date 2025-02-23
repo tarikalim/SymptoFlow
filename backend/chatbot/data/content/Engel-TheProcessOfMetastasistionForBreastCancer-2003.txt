@@ -1,0 +1,87 @@
+https://www.sciencedirect.com/science/article/pii/S0959804903004222
+
+**The process of metastasisation for breast cancer**
+
+J. Engel¹, R. Eckel¹, J. Kerra¹, M. Schmidt², G. Fürstenberger³, R. Richter³, H. Sauer², H.-J. Senn², D. Hölz²  
+¹Tumorregister am Tumorzentrum München, Institut für Medizinische Informationsverarbeitung, Biometrie und Epidemiologie (IBE), Klinikum der Ludwig-Maximilians-Universität, Großhadern, D‑München, Germany  
+²Medizinische Klinik III, Klinikum der Ludwig-Maximilians-Universität, Großhadern, D‑München, Germany  
+³Zentrum für Tumordiagnostik und Prävention (ZeTuP), Ch‑St. Gallen, Switzerland
+
+*Received 6 November 2002; revised 3 February 2003; accepted 8 February 2003*
+
+**Abstract**  
+To investigate the process of metastasis, primary clinical data and disease events such as metastases, local recurrence and survival (median follow‑up 9.4 years) from the Munich Cancer Registry from 1978 to 1996 were analysed. Since metastases, even from small tumours, may be initiated before the diagnosis of the primary tumour, the growth of the primary tumour and metastasisation may be two autonomous processes. In our data, survival following metastases was almost unrelated to primary tumour size. However, the number of M1 cases and the time to metastasisation depended on the tumour diameter at diagnosis. The time from initiation of metastases to its diagnosis was estimated as 5.8 years. The growth of metastases was almost homogeneous. However, the growth time following metastasisation—depending on the metastases‑free time, receptor status and histological grade—only varied by approximately a factor of 2. Local recurrence, above all, was an indicator of metastases. Furthermore, local recurrence may also have the potential to metastasise. Excess mortality due to local recurrence was estimated up to 9.3 years after diagnosis. Our hypothesised metastases model illustrates the importance of early detection, the concept of breast‑conserving therapy and additional metastases from local recurrence. It highlights the benefits of optimal local therapy of the primary tumour and the limitations of systemic therapy. It also questions the use of axilla dissection and lymph node irradiation. Its generalisation to solid tumours may help to clarify many of the current controversial debates.
+
+**Keywords:** Breast cancer; Metastasis; Local recurrence; Epidemiology; Tumour registry
+
+---
+
+**1. Introduction**  
+With improvements in long‑term survival rates through loco‑regional radiotherapy following mastectomy [1,2], metastases have become an area of concern [3] and the following questions have been raised. Are loco‑regional recurrence and metastasisation independent events or can loco‑regional recurrence cause secondary metastases [4–10]? When does metastasis start [11,12]? As a result of such questions, both Halsted’s [13] and Fisher’s [14] paradigms are being debated. For example, does metastasis spread continually from the primary tumour or is it already an established systemic disease at diagnosis [15–17]? To address these questions, we have analysed the metastasisation process qualitatively and quantitatively using data from the Munich Cancer Registry. The implications for clinical research and population‑based healthcare delivery will be discussed. The aim of this paper was to demonstrate the importance of tumour size in the disease course. While the frequency of metastases increases as the tumour grows, metastatic growth itself, viewed from several angles, appears to be homogeneous and not dependent on the pT stage. Finally, while local recurrence may be an indicator of primary metastasisation, it may also play a role in secondary metastasisation.
+
+**2. Patients and Methods**
+
+*2.1 Data Collection*  
+Breast cancer data from the Munich Cancer Registry (MCR) were collected from 1978 to 1996. In the beginning, only 20% of patients in the Munich region were accounted for; today, the data are nearly population‑based. All pathology reports for solid tumours from the pathology laboratories in the Munich area were sent to the MCR. Main prognostic factors—such as pTNM stage, tumour grade, histology, lymph node harvest and resection margins—were systematically recorded. In parallel, clinicians completed standardised forms regarding patients’ domicile, tumour diagnosis, primary therapy, follow‑up and palliative care. Progression and life‑status were monitored throughout follow‑up. At present, follow‑up (life status) is available in approximately 95% of the catchment area.
+
+*2.2 Patient Sample*  
+New breast cancer patients (invasive tumours only), without a synchronous or metachronous second non‑breast malignancy, were included. Sarcoma cases were excluded. For the correlation between tumour diameter and lymph node status, primary data from 1988 to 2001 were evaluated. All other analyses (survival analyses, time analyses of disease progression) pertained to patients from 1978 to 1996. A cut‑off date of 1996 was chosen to ensure at least 5 years of follow‑up (to 2001) and to avoid bias toward cases with early progression.
+
+*2.3 Outcome Measure*  
+Three outcomes were assessed:
+- Metastasisation (MET): distant metastasis, usually determined by imaging.
+- Local recurrence (LR): which can be both a second invasive event or ductal carcinoma in situ (DCIS), independent of the primary operation.
+- Lymph node recurrence (LNR).
+
+*2.4 Statistical Analyses*  
+Data were managed in an Oracle database and analysed using SAS (version 6.1). Overall survival following diagnosis and progression was assessed by the Kaplan–Meier method and compared by the log rank chi‑square statistic. Expected survival was calculated based on life‑tables of the German ‘normal population’. Relative survival was computed as the ratio of observed survival to expected survival [19]. Frequencies were compared using chi‑square tests and means by U‑tests. Due to the large sample size, most results were statistically significant; emphasis was placed on the pattern of results and their logical implications. All analyses were stratified by pT category to describe tumour growth better than using UICC stage or lymph node status alone. M1 cases (with a MET‑free time of zero) were included in all time analyses to avoid systematic bias.
+
+**3. Results**  
+A total of 12,423 patients from 1978 to 1996 were included, with a median follow‑up of 9.4 years. Table 1 (not shown here) details the distribution of prognostic factors by pT category. During follow‑up, 3,078 metastases (596 M1 cases, 4.8%), 1,320 local recurrences (10.6%), and 442 lymph node recurrences (3.6%) were recorded. A total of 4,550 patients (36.6%) died during follow‑up.  
+- Figure 1 shows overall survival by pT category (i.e. by tumour size).  
+- Figure 2 demonstrates a linear correlation between tumour diameter and the number of positive lymph nodes.  
+- Figure 3 shows that overall survival following MET (metastasis) is homogeneous across pT categories.  
+- Figure 4 displays the mean MET‑free time and progression time following MET for each pT category, indicating that with increasing tumour size the time to metastasisation decreases (a lead time effect).  
+- Figure 5 presents cumulative curves of MET‑free survival and overall survival, suggesting that the hypothetical initiation of MET occurs approximately 5.8 years before diagnosis in pT1 tumours.  
+
+Additional details, including Tables and Figures, describe relationships between tumour characteristics, lymph node status, MET frequency, and survival outcomes.
+
+**4. Discussion**
+
+*4.1 pT Category, Positive Lymph Nodes and Survival*  
+Tumour size is a fundamental descriptor of tumour biology. A 1% increase in mortality is observed for every millimetre increase in tumour diameter. As tumour size increases, so does the probability of positive lymph nodes, which is the strongest prognostic factor.
+
+*4.2 The Role of pT Category on Survival Time Before and After MET*  
+MET frequency and survival time following MET depended on pT stage. Although MET occurs earlier in larger tumours, the survival time following MET is almost independent of pT category, indicating that metastatic growth is homogeneous once initiated.
+
+*4.3 Tumour Growth and the Frequency of MET*  
+The number of M1 cases increases from 1.1% in pT1 to 21.1% in pT4 tumours. This suggests that as tumours grow, the likelihood of initiating MET increases. Data indicate that nearly half of the MET in pT2 tumours may have been initiated when the tumour was still pT1 size.
+
+*4.4 Estimating the Initiation of the MET Process*  
+By shifting the MET‑free time distribution curve by the estimated 5.8-year lead time (median time to MET in pT1 tumours), the authors propose that the earliest MET could have occurred up to 7.3 years before diagnosis. This supports the notion that the MET process begins long before the primary tumour is detected.
+
+*4.5 Prognostic Factors and Proliferation Speed*  
+While prognostic factors such as histological grade and receptor status affect overall survival, the growth rate of metastases appears relatively uniform (variations by a factor of approximately 2). This homogeneity further supports an early initiation model of metastasis.
+
+*4.6 Local Recurrence and Secondary Metastasisation*  
+Local recurrence (LR) is an important indicator of a poor prognosis and may contribute to secondary metastasis. In patients with both MET and LR, a significant proportion of MET appears to be secondary to LR. This emphasizes the importance of optimal local control.
+
+*4.7 Implications for Practice and Research*  
+The proposed MET model has several clinical implications:  
+- It underscores the critical need for early detection of the primary tumour.  
+- It supports breast‑conserving therapy (when optimal local control is achieved) as equivalent to mastectomy in terms of survival.  
+- It questions the necessity of extensive axillary dissection and lymph node irradiation, given the limitations of systemic therapy in altering the course of the MET process.  
+- It suggests that the timing of primary surgery is crucial, as delays can increase the risk of additional metastasis.
+
+**5. Concluding Remarks**  
+The MET model presented in this study suggests that breast cancer may already be systemic at the time of diagnosis in most patients. Only in a subgroup where local recurrence occurs does the possibility of secondary metastasis arise. The model highlights the limited impact of systemic therapy on an already initiated metastatic process and supports the importance of optimal local treatment. It also questions the routine use of axillary dissection and irradiation and underlines the potential benefit of earlier detection via systematic screening.
+
+**Acknowledgements**  
+The authors thank all participating hospitals and departments, as well as colleagues at the Munich Cancer Registry (MCR), which is part of the Munich Comprehensive Cancer Center (MCCC). Funding was provided by Deutsche Krebshilfe, Wilhelm Sander-Stiftung, the Bavarian Ministry of Health, and the Federal Ministry of Health.
+
+**References**  
+[The document lists references 1–82 here, which detail the studies cited in the text.]
+
+---
+
+

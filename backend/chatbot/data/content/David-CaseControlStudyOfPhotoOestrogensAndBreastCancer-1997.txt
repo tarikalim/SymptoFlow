@@ -1,0 +1,105 @@
+Below is an in-depth summary and analysis of the review article “Epidemiology of Breast Cancer” from The Lancet Oncology (March 2001), which synthesizes global patterns, risk factors, and prospects for prevention. This summary aims to capture the review’s comprehensive discussion on the multifactorial causes of breast cancer and the implications for public health and prevention strategies.
+
+---
+
+### 1. Overview and Global Burden
+
+- **Breast Cancer as a Leading Cause:**  
+  The review establishes that breast cancer is the most common cause of cancer death among women worldwide. Although incidence and mortality rates vary by as much as five-fold across regions, both rates are rising—especially in areas that historically exhibited low rates.  
+- **Trends Over Time:**  
+  In developed countries, long-term data show that breast cancer rates increased steadily throughout the 20th century. In regions such as Japan, where rates were traditionally low, there has been a steep rise in recent decades. Migration studies further reveal that women moving from low-risk to high-risk regions gradually adopt the higher incidence patterns of their new countries.
+
+---
+
+### 2. Age and Incidence Patterns
+
+- **Age-Related Increase:**  
+  Incidence increases rapidly during the reproductive years and then more slowly after around age 50 (the average age at menopause). The cumulative incidence is approximately 2.7% by age 55, 5.0% by age 65, and 7.7% by age 75 in Europe and North America.
+- **Screening Effects:**  
+  Changes in incidence curves, such as an upturn in older women observed in the UK during the early 1990s, have been partly attributed to the introduction of mammographic screening.
+
+---
+
+### 3. International Variation and Migration Effects
+
+- **Global Differences:**  
+  There is marked international variation in both incidence and mortality. Higher rates are seen in developed countries, while lower rates persist in less developed regions.  
+- **Migration Studies:**  
+  Migrant studies demonstrate that when women from low-risk areas (e.g., eastern Asia) move to high-risk countries (such as the USA), their breast cancer risk increases over time—often reaching the levels seen in the native population within one or two generations.
+
+---
+
+### 4. Major Risk Factors
+
+#### A. Reproductive and Hormonal Factors
+
+- **Menarche and Menstrual Cycle:**  
+  Early menarche increases risk, with each one-year delay in onset reducing risk by about 5%. Other menstrual characteristics (such as cycle length) have been less consistently associated.
+- **Childbearing and Parity:**  
+  Childbearing has a dual effect. There is a transient increase in risk immediately following a full-term pregnancy, but long-term protection is conferred—particularly when the first birth occurs at a young age and the number of full-term pregnancies is high.
+- **Breastfeeding:**  
+  Although historically controversial, recent data suggest that prolonged breastfeeding may offer a modest protective effect.
+- **Menopause and Endogenous Hormones:**  
+  Later menopause prolongs exposure to oestrogens, thereby increasing risk. Studies consistently show that higher concentrations of endogenous oestradiol in postmenopausal women are linked with an elevated risk.
+- **Exogenous Hormones:**  
+  - **Oral Contraceptives:**  
+    Use of combined oral contraceptives is associated with a roughly 25% increase in risk during current use; however, this excess risk wanes after cessation.  
+  - **Hormonal Therapy for Menopause:**  
+    Hormone replacement therapy, especially when combining oestrogen and progestagen, increases risk—particularly with prolonged use. The risk appears to decline after stopping treatment.
+
+#### B. Lifestyle and Environmental Factors
+
+- **Diet and Alcohol:**  
+  While early hypotheses linked high-fat diets to increased risk, pooled analyses have not confirmed a strong association in developed countries. In contrast, alcohol consumption has been consistently associated with a moderate increase in risk—approximately a 10% increase per 10 grams of alcohol per day.
+- **Anthropometry:**  
+  Taller adult height is weakly associated with higher risk. In postmenopausal women, obesity increases risk significantly (with about a 50% higher risk in obese compared to lean women). Interestingly, in premenopausal women, some studies have suggested that obesity may have a protective effect.
+- **Physical Activity:**  
+  Moderate to vigorous physical activity appears to be protective, with risk reductions estimated around 30% for women engaging in regular vigorous activity.
+- **Ionising Radiation:**  
+  Exposure to ionising radiation, especially before age 40, increases risk. Both single and fractionated exposures that deliver the same total dose seem to have similar effects.
+- **Other Exposures:**  
+  There is limited evidence regarding the effects of electromagnetic fields and environmental oestrogens (such as DDT and PCBs), though some studies have raised concerns about these potential risk factors.
+
+#### C. Genetic Factors
+
+- **Family History:**  
+  A family history of breast cancer (particularly among first-degree relatives) roughly doubles the risk.
+- **High-Risk Mutations:**  
+  Mutations in genes such as BRCA1, BRCA2, P53, PTEN, and ATM significantly elevate risk, though they account for only about 5% of all breast cancer cases.
+- **Low-Risk Polymorphisms:**  
+  The combined effect of numerous low-risk genetic polymorphisms may contribute substantially to overall breast cancer susceptibility, although their individual impact is modest.
+
+---
+
+### 5. Prospects for Prevention
+
+- **Modifiable Lifestyle Factors:**  
+  The review emphasizes that while many traditional reproductive risk factors are not modifiable, other factors—such as obesity, alcohol intake, physical activity, and breastfeeding—offer potential targets for reducing risk.
+- **Hormonal and Chemopreventive Strategies:**  
+  Judicious use of hormonal therapies can minimize risk increases. Additionally, agents like tamoxifen (and other selective oestrogen-receptor modulators) have been shown to reduce recurrence and may play a role in primary prevention, although their long-term benefits and risks require further clarification.
+- **Future Research Directions:**  
+  Identifying new modifiable dietary or environmental factors could further enhance prevention strategies. There is also ongoing work to better understand the combined effects of low-risk polymorphisms and gene–environment interactions.
+
+---
+
+### 6. Conclusions
+
+The review concludes that hormonal factors are central to the epidemiology of breast cancer. Key points include:
+- **Hormonal Exposure:**  
+  Extended exposure to oestrogens (from early menarche, late menopause, and other factors) is a primary driver of risk.
+- **Reproductive Behavior:**  
+  Early childbearing and higher parity are protective, whereas exogenous hormone use may slightly elevate risk, particularly in older women.
+- **Lifestyle Modifications:**  
+  Efforts to reduce obesity, limit alcohol consumption, and promote physical activity could have a meaningful impact on reducing breast cancer incidence.
+- **Genetic Contributions:**  
+  While high-risk mutations play a critical role in certain families, most breast cancer cases are influenced by a complex interplay of environmental, lifestyle, and multiple low-risk genetic factors.
+
+Overall, the review underscores that a multifaceted prevention strategy—including both lifestyle modifications and carefully managed hormonal therapies—holds promise for reducing the global burden of breast cancer.
+
+---
+
+### Acknowledgments and References
+
+The authors acknowledge support from various research bodies and highlight that their conclusions are drawn from a comprehensive review of high-quality epidemiological studies. The article cites landmark studies and meta-analyses that have shaped our current understanding of breast cancer risk factors.
+
+*(Reference: citeturn3file0)*

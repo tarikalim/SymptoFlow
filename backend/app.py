@@ -36,7 +36,7 @@ def create_app():
     api.add_namespace(chat_ns, path="/chat")
     api.add_namespace(user_ns, path="/user")
     api.add_namespace(auth_ns, path="/auth")
-    api.add_namespace(record_ns, path="/record")
+    api.add_namespace(record_ns, path="/records")
 
     jwt = JWTManager(app)
     jwt.init_app(app)

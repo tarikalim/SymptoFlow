@@ -9,11 +9,12 @@ from backend.model.model import Record
 
 class RecordService:
     @staticmethod
-    def create_record(user_id, content):
+    def create_record(user_id, content, creator_role):
         new_record = Record(
             user_id=user_id,
             content=content,
-            created_at=datetime.utcnow()
+            created_at=datetime.utcnow(),
+            added_by_role=creator_role
         )
 
         try:

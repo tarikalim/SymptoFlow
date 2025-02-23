@@ -68,8 +68,7 @@ class ChatHistory(Resource):
 class UserChatIDs(Resource):
     @jwt_required()
     def get(self):
-        """Get all chat IDs for the logged-in user"""
-        current_user = int(get_jwt_identity())  # String yerine integer olarak al
-        chat_ids = ChatService.get_chats_by_user_id(current_user)
-        return {"user_id": current_user, "chat_ids": chat_ids}, 200
+        current_user = int(get_jwt_identity())
+        chats = ChatService.get_chats_by_user_id(current_user)
+        return {"user_id": current_user, "chats": chats}, 200
 

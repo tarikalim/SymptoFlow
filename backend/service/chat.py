@@ -1,11 +1,13 @@
 from typing import List
+
+from backend.chatbot.agent.title_agent import TitleGenerator
 from backend.service.agent_pool import agent_pool
 from langchain_core.messages import AIMessage, HumanMessage
 from sqlalchemy.exc import SQLAlchemyError
 
 from backend.exception.exception import ApplicationException, ChatNotFoundException
 from backend.model import db
-from backend.model.model import Chat as ChatModel, Chat
+from backend.model.model import Chat as ChatModel, Chat, User
 from backend.service.answer import AnswerService
 from backend.service.question import QuestionService
 from backend.service.record import RecordService  # RecordService import edildi
@@ -24,23 +26,32 @@ class ChatService:
     @staticmethod
     def interact_with_agent(chat_id: int, question: str):
         questions = QuestionService.get_questions_by_chat_id(chat_id)
+        is_first_message = len(questions) == 0
+
         chat_history = []
 
-        # **1. Daha önceki soruları ve yanıtları chat history'ye ekle**
         for q in questions:
             chat_history.append(HumanMessage(content=q.text))
             answer = AnswerService.get_answer_by_question_id(q.id)
             if answer:
                 chat_history.append(AIMessage(content=answer.text))
 
-        # **2. Kullanıcının record'larını chat history'ye ekle**
         chat = ChatService.get_chat_by_id(chat_id)
+
+        patient = User.query.filter_by(id=chat.user_id).first()
+
         user_records = RecordService.get_records_by_user_id(chat.user_id)
-
         for record in user_records:
-            chat_history.append(AIMessage(content=f"[Patient Record] {record.created_at}: {record.content}"))
+            chat_history.append(
+                AIMessage(
+                    content=f"[Patient Record] {record.created_at} - Added by {record.added_by_role}: {record.content}"
+                )
+            )
 
-        # **3. Agent'i pool'dan al ve chat history'yi ayarla**
+        if patient:
+            directive = f"Please address the patient by their first name: {patient.first_name}."
+            chat_history.insert(0, AIMessage(content=directive))
+
         agent = agent_pool.get_agent()
         agent.chat_history = chat_history
 
@@ -50,12 +61,17 @@ class ChatService:
             new_question = QuestionService.add_question(chat_id, question)
             AnswerService.add_answer(new_question.id, answer_content)
 
+            if is_first_message:
+                title_agent = TitleGenerator()
+                generated_title = title_agent.generate_title(question)
+                chat.title = generated_title
+
             db.session.commit()
         except SQLAlchemyError:
             db.session.rollback()
             raise ApplicationException()
         finally:
-            agent_pool.release_agent(agent)  # Agent pool'a geri bırak
+            agent_pool.release_agent(agent)
 
         return {"question": question, "answer": answer_content}
 
@@ -87,6 +103,6 @@ class ChatService:
         }
 
     @staticmethod
-    def get_chats_by_user_id(user_id: int) -> List[int]:
-        chat_ids = db.session.query(Chat.id).filter_by(user_id=user_id).all()
-        return [chat_id[0] for chat_id in chat_ids]
+    def get_chats_by_user_id(user_id: int) -> List[dict]:
+        chats = db.session.query(Chat.id, Chat.title).filter_by(user_id=user_id).all()
+        return [{"chat_id": chat[0], "title": chat[1]} for chat in chats]

@@ -26,6 +26,7 @@ class Record(db.Model):
     user_id = db.Column(db.Integer, db.ForeignKey('users.id', ondelete='CASCADE'), nullable=False)
     content = db.Column(db.Text, nullable=False)
     created_at = db.Column(db.DateTime, default=datetime.utcnow)
+    added_by_role = db.Column(db.String(50), nullable=True)
 
 
 class Chat(db.Model):
@@ -35,7 +36,6 @@ class Chat(db.Model):
     title = db.Column(db.String(255), nullable=True)
     created_at = db.Column(db.DateTime, nullable=False, default=db.func.now())
     questions = db.relationship('Question', backref='chat', lazy=True)
-
 
 
 class Question(db.Model):

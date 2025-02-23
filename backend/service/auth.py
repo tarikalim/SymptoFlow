@@ -28,8 +28,8 @@ class AuthService:
     def login_user(user_id, password):
         user = User.query.filter_by(id=user_id).first()
         if user and check_password_hash(user.password, password):
-            access_token = create_access_token(identity=str(user.id))
-
+            additional_claims = {"role": user.role.name}
+            access_token = create_access_token(identity=str(user.id), additional_claims=additional_claims)
             return access_token
 
         raise InvalidCredentialsException()

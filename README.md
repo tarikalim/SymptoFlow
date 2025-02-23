@@ -70,6 +70,7 @@ cd SymptoFlow
 Please download docker to setup MySQL server if you don't.
 
 Linux:
+https://docs.docker.com/engine/install/ubuntu/
 
 ```sh
 sudo docker run -d --name sympoto_db \
@@ -81,6 +82,7 @@ sudo docker run -d --name sympoto_db \
   mysql:latest
 ```
 Windows:
+https://docs.docker.com/desktop/setup/install/windows-install/
 
 ```sh
 docker run -d --name sympoto_db `

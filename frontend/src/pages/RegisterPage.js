@@ -1,4 +1,3 @@
-// src/pages/RegisterPage.js
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { registerUser } from '../api/api';
@@ -21,11 +20,9 @@ const RegisterPage = () => {
         try {
             const data = await registerUser(firstName, lastName, roleId, password);
             console.log('Registration successful:', data);
-            // Navigate back to the login page after successful registration
             navigate('/login');
         } catch (error) {
             console.error('Registration error:', error);
-            // Optionally show an error message to the user
         }
     };
 

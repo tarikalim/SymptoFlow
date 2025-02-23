@@ -1,4 +1,3 @@
-// src/pages/MainPage.js
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import {
@@ -55,7 +54,6 @@ const MainPage = () => {
     const loadChats = () => {
         getChats()
             .then(data => {
-                // Yeni yapı: data.chats dizisindeki her bir obje chat_id ve title içeriyor
                 setChats(data.chats);
             })
             .catch(err => {

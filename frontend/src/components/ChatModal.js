@@ -44,6 +44,17 @@ const ChatModal = ({ open, onClose, chatId }) => {
             });
     };
 
+    const formatAnswer = (text) => {
+        const parts = text.split(/(\*\*.*?\*\*)/);
+        return parts.map((part, index) =>
+            part.startsWith("**") && part.endsWith("**") ? (
+                <strong key={index}>{part.slice(2, -2)}</strong>
+            ) : (
+                part
+            )
+        );
+    };
+
     return (
         <Dialog open={open} onClose={onClose} fullWidth maxWidth="sm">
             <DialogTitle>Chat - ID: {chatId}</DialogTitle>
@@ -53,7 +64,10 @@ const ChatModal = ({ open, onClose, chatId }) => {
                         {chatHistory.history && chatHistory.history.length > 0 ? (
                             chatHistory.history.map((msg, index) => (
                                 <ListItem key={index}>
-                                    <ListItemText primary={`Q: ${msg.question}`} secondary={`A: ${msg.answer}`} />
+                                    <ListItemText
+                                        primary={`Q: ${msg.question}`}
+                                        secondary={formatAnswer(`A: ${msg.answer}`)}
+                                    />
                                 </ListItem>
                             ))
                         ) : (

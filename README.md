@@ -73,7 +73,7 @@ Linux:
 
 ```sh
 sudo docker run -d --name sympoto_db   -e MYSQL_ROOT_PASSWORD=sympto_root_password   -e MYSQL_DATABASE=sympto   -e MYSQL_USER=sympto   -e MYSQL_PASSWORD=sympto_password   -p 3306:3306 ```
-
+```
 Windows:
 
 ```sh

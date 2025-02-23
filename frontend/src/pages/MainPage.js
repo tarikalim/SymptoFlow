@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Navigate } from 'react-router-dom';
 import {
     Container,
     Box,
@@ -21,6 +21,7 @@ import ChatModal from '../components/ChatModal';
 const MainPage = () => {
     const navigate = useNavigate();
     const [user, setUser] = useState(null);
+    const [isLoading, setIsLoading] = useState(true); // Loading state
     const [recordDialogOpen, setRecordDialogOpen] = useState(false);
     const [recordContent, setRecordContent] = useState('');
     const [records, setRecords] = useState([]);
@@ -44,10 +45,14 @@ const MainPage = () => {
                     if (data.role_id === 2) {
                         loadChats();
                     }
+                    setIsLoading(false);
                 })
                 .catch(err => {
                     console.error('Error fetching user:', err);
+                    setIsLoading(false);
                 });
+        } else {
+            setIsLoading(false);
         }
     }, [loggedInUserId]);
 
@@ -119,8 +124,14 @@ const MainPage = () => {
         navigate('/login');
     };
 
-    if (!user) {
+    // Show loading while the user data is being fetched
+    if (isLoading) {
         return <Typography>Loading...</Typography>;
+    }
+
+    // If there's no user after loading is complete, redirect to login.
+    if (!user) {
+        return <Navigate to="/login" replace />;
     }
 
     return (
